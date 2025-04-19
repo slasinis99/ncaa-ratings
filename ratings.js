@@ -138,7 +138,7 @@ function loadSelections() {
 }
 
 // Run when the script loads
-loadSelections();
+loadRatingsJson('json/2025_elo_constant_all.json')
 
 function onMethodChange() {
   const method = document.getElementById("method").value;

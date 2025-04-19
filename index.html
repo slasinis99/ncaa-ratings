@@ -156,72 +156,36 @@
     .card-container {
       display: none;
     }
+
+    select:disabled,
+    input:disabled,
+    button:disabled {
+      background-color: #f0f0f0;
+      color: #888;
+      cursor: not-allowed;
+      opacity: 0.8;
+    }
   </style>
 </head>
 <body>
   <h1>Team Ratings</h1>
   <div id="controls">
     <!-- Dropdowns or buttons to pick year/method/weight/conference could go here -->
-    <div id="controls">
-      <div class="control-pair">
-        <label for="year">Year:</label>
-        <select id="year">
-          <option value="2025">2025</option>
-          <option value="2024">2024</option>
-          <option value="2023">2023</option>
-          <option value="2022">2022</option>
-          <option value="2021">2021</option>
-          <option value="2020">2020</option>
-          <option value="2019">2019</option>
-          <option value="2018">2018</option>
-          <option value="2017">2017</option>
-          <option value="2016">2016</option>
-          <option value="2015">2015</option>
-          <option value="2014">2014</option>
-          <option value="2013">2013</option>
-          <option value="2012">2012</option>
-          <option value="2011">2011</option>
-          <option value="2010">2010</option>
-          <option value="2009">2009</option>
-          <option value="2008">2008</option>
-          <option value="2007">2007</option>
-          <option value="2006">2006</option>
-          <option value="2005">2005</option>
-          <option value="2004">2004</option>
-          <option value="2003">2003</option>
-          <option value="2002">2002</option>
-          <option value="2001">2001</option>
-          <option value="2000">2000</option>
-        </select>
-      </div>
+    <select id="year" disabled title="Selection locked for public view">
+      <option value="2025">2025</option>
+    </select>
     
-      <div class="control-pair">
-        <label for="method">Method:</label>
-        <select id="method" onchange="onMethodChange()">
-          <option value="colley">Colley</option>
-          <option value="massey">Massey</option>
-          <option value="elo">Elo</option>
-        </select>
-      </div>
+    <select id="method" disabled title="Selection locked for public view">
+      <option value="elo">Elo</option>
+    </select>
     
-      <div class="control-pair">
-        <label for="weight">Weight:</label>
-        <select id="weight">
-          <option value="constant">constant</option>
-          <option value="linear">Linear</option>
-          <option value="biweekly">Biweekly</option>
-          <option value="logarithmic">Logarithmic</option>
-          <option value="sigmoid">Sigmoid</option>
-          <option value="gaussian">Gaussian</option>
-        </select>
-      </div>
+    <select id="weight" disabled title="Selection locked for public view">
+      <option value="default">Default</option>
+    </select>
     
-      <div class="control-pair">
-        <label for="conference">Conference:</label>
-        <input type="text" id="conference" placeholder="e.g., Big Ten" title="">
-      </div>
+    <input type="text" id="conference" disabled placeholder="e.g., Big Ten" title="Selection locked for public view">
     
-      <button onclick="onRetrieve()">Retrieve</button>
+      <button onclick="onRetrieve()" disabled>Retrieve</button>
       <button onclick="downloadCSV()">Download CSV</button>
     </div>
   </div>
