@@ -36,7 +36,7 @@ function populateRatingsTable(data) {
     `;
     tbody.appendChild(row);
 
-    // Mobile card
+    // Mobile card creation
     const card = document.createElement("div");
     card.className = "card";
     card.innerHTML = `
