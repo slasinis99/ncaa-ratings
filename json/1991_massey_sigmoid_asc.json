@@ -1,0 +1,65 @@
+[
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ASC",
+    "Team": "Louisiana Tech",
+    "Rating": 11.673216614414734,
+    "Rank": 1
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ASC",
+    "Team": "Arkansas State",
+    "Rating": 5.103223069156138,
+    "Rank": 2
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ASC",
+    "Team": "New Orleans",
+    "Rating": 3.848720053002635,
+    "Rank": 3
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ASC",
+    "Team": "Louisiana",
+    "Rating": 0.9956522566521276,
+    "Rank": 4
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ASC",
+    "Team": "Lamar",
+    "Rating": -4.796611323792323,
+    "Rank": 5
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ASC",
+    "Team": "Texas-Rio Grande Valley",
+    "Rating": -8.068954575348615,
+    "Rank": 6
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ASC",
+    "Team": "Central Florida",
+    "Rating": -8.755246094084693,
+    "Rank": 7
+  }
+]

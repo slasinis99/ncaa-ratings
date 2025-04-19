@@ -1,0 +1,2684 @@
+[
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Duke",
+    "Rating": 1741.5112781133128,
+    "Rank": 1
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Kansas",
+    "Rating": 1727.153658793065,
+    "Rank": 2
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Nevada-Las Vegas",
+    "Rating": 1708.4523458665535,
+    "Rank": 3
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Cincinnati",
+    "Rating": 1702.3991427090566,
+    "Rank": 4
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Kentucky",
+    "Rating": 1702.282197086132,
+    "Rank": 5
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Massachusetts",
+    "Rating": 1700.1645829415486,
+    "Rank": 6
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Ohio State",
+    "Rating": 1690.7359115729844,
+    "Rank": 7
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "UCLA",
+    "Rating": 1683.7788872817498,
+    "Rank": 8
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Southern California",
+    "Rating": 1676.6709511073402,
+    "Rank": 9
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Evansville",
+    "Rating": 1666.0345944108767,
+    "Rank": 10
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Indiana",
+    "Rating": 1665.2263034991838,
+    "Rank": 11
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Oklahoma",
+    "Rating": 1663.7883405203015,
+    "Rank": 12
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Houston",
+    "Rating": 1660.471311141389,
+    "Rank": 13
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Oklahoma State",
+    "Rating": 1658.85403222758,
+    "Rank": 14
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Arizona",
+    "Rating": 1656.4161084146326,
+    "Rank": 15
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Pepperdine",
+    "Rating": 1654.1571884499217,
+    "Rank": 16
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Arkansas",
+    "Rating": 1652.0739190896718,
+    "Rank": 17
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Michigan",
+    "Rating": 1648.6846248894462,
+    "Rank": 18
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Brigham Young",
+    "Rating": 1646.5913884199658,
+    "Rank": 19
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Seton Hall",
+    "Rating": 1643.1861518290132,
+    "Rank": 20
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Michigan State",
+    "Rating": 1638.1113937596429,
+    "Rank": 21
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Montana",
+    "Rating": 1637.37817998639,
+    "Rank": 22
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Alabama",
+    "Rating": 1633.3603733992989,
+    "Rank": 23
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "DePaul",
+    "Rating": 1633.3244576765371,
+    "Rank": 24
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Miami (OH)",
+    "Rating": 1630.57128447,
+    "Rank": 25
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Memphis",
+    "Rating": 1629.042578323021,
+    "Rank": 26
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Louisiana State",
+    "Rating": 1628.1263540077664,
+    "Rank": 27
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Delaware",
+    "Rating": 1626.6876833642923,
+    "Rank": 28
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "East Tennessee State",
+    "Rating": 1626.273705392107,
+    "Rank": 29
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "North Carolina",
+    "Rating": 1625.0342999579625,
+    "Rank": 30
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Georgia Tech",
+    "Rating": 1624.5730892280496,
+    "Rank": 31
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "UTEP",
+    "Rating": 1623.9915912129445,
+    "Rank": 32
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Nebraska",
+    "Rating": 1622.2762451278045,
+    "Rank": 33
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "St. John's (NY)",
+    "Rating": 1621.2320972666855,
+    "Rank": 34
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Florida State",
+    "Rating": 1620.148298322304,
+    "Rank": 35
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Syracuse",
+    "Rating": 1618.1658936852552,
+    "Rank": 36
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Charlotte",
+    "Rating": 1614.6662513345675,
+    "Rank": 37
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Georgetown",
+    "Rating": 1614.459235896343,
+    "Rank": 38
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "La Salle",
+    "Rating": 1613.4854583078593,
+    "Rank": 39
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Louisiana",
+    "Rating": 1612.7393450721845,
+    "Rank": 40
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Missouri State",
+    "Rating": 1610.5337239386326,
+    "Rank": 41
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Texas",
+    "Rating": 1609.2415217064583,
+    "Rank": 42
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "New Mexico State",
+    "Rating": 1608.0462877688658,
+    "Rank": 43
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Missouri",
+    "Rating": 1604.9899686789418,
+    "Rank": 44
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Iowa",
+    "Rating": 1604.4181872866948,
+    "Rank": 45
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Penn State",
+    "Rating": 1604.2037359049457,
+    "Rank": 46
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Green Bay",
+    "Rating": 1603.584754080101,
+    "Rank": 47
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Louisiana Tech",
+    "Rating": 1597.5571955969872,
+    "Rank": 48
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Washington State",
+    "Rating": 1595.0591781395135,
+    "Rank": 49
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Notre Dame",
+    "Rating": 1593.8961569760393,
+    "Rank": 50
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Butler",
+    "Rating": 1593.080182887838,
+    "Rank": 51
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "South Florida",
+    "Rating": 1592.3625682542297,
+    "Rank": 52
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Temple",
+    "Rating": 1592.182018752106,
+    "Rank": 53
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Stanford",
+    "Rating": 1591.9152374398475,
+    "Rank": 54
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Virginia",
+    "Rating": 1588.525272801039,
+    "Rank": 55
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Richmond",
+    "Rating": 1587.277534355968,
+    "Rank": 56
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "West Virginia",
+    "Rating": 1584.667729904903,
+    "Rank": 57
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Purdue",
+    "Rating": 1583.1803292908303,
+    "Rank": 58
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Villanova",
+    "Rating": 1582.7984722430624,
+    "Rank": 59
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Chattanooga",
+    "Rating": 1581.7129778013625,
+    "Rank": 60
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "New Mexico",
+    "Rating": 1579.5905569619206,
+    "Rank": 61
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Iowa State",
+    "Rating": 1579.0198012390272,
+    "Rank": 62
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Rhode Island",
+    "Rating": 1578.261067373096,
+    "Rank": 63
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Louisville",
+    "Rating": 1577.3656762738274,
+    "Rank": 64
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Princeton",
+    "Rating": 1576.2949115649158,
+    "Rank": 65
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Connecticut",
+    "Rating": 1572.071419753335,
+    "Rank": 66
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Murray State",
+    "Rating": 1571.0634076230526,
+    "Rank": 67
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Wake Forest",
+    "Rating": 1571.0395712269442,
+    "Rank": 68
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Kansas State",
+    "Rating": 1570.388826460652,
+    "Rank": 69
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Nevada",
+    "Rating": 1569.58406756267,
+    "Rank": 70
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Western Kentucky",
+    "Rating": 1568.444588150989,
+    "Rank": 71
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Arizona State",
+    "Rating": 1567.9563329386813,
+    "Rank": 72
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "UC Santa Barbara",
+    "Rating": 1566.7242144357324,
+    "Rank": 73
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Maryland",
+    "Rating": 1564.4906415283106,
+    "Rank": 74
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Ball State",
+    "Rating": 1564.0381608552996,
+    "Rank": 75
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Florida",
+    "Rating": 1563.893902539536,
+    "Rank": 76
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Tulane",
+    "Rating": 1563.4745185653298,
+    "Rank": 77
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Old Dominion",
+    "Rating": 1562.8047407547874,
+    "Rank": 78
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Georgia Southern",
+    "Rating": 1562.4785020174277,
+    "Rank": 79
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Illinois",
+    "Rating": 1562.161162094686,
+    "Rank": 80
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Manhattan",
+    "Rating": 1560.6806739324031,
+    "Rank": 81
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Marquette",
+    "Rating": 1560.6136810439868,
+    "Rank": 82
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Vanderbilt",
+    "Rating": 1560.4058508828298,
+    "Rank": 83
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Louisiana-Monroe",
+    "Rating": 1559.755144184135,
+    "Rank": 84
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Georgia",
+    "Rating": 1558.240461752587,
+    "Rank": 85
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "UAB",
+    "Rating": 1557.4499678248355,
+    "Rank": 86
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Eastern Illinois",
+    "Rating": 1557.0473331099363,
+    "Rank": 87
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Robert Morris",
+    "Rating": 1557.0009140747732,
+    "Rank": 88
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "TCU",
+    "Rating": 1556.0107795817603,
+    "Rank": 89
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "UTSA",
+    "Rating": 1555.6481661558023,
+    "Rank": 90
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Siena",
+    "Rating": 1554.027713832786,
+    "Rank": 91
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Western Michigan",
+    "Rating": 1553.3195313387205,
+    "Rank": 92
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "James Madison",
+    "Rating": 1552.5337506867718,
+    "Rank": 93
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Tennessee",
+    "Rating": 1551.821369956174,
+    "Rank": 94
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Long Beach State",
+    "Rating": 1551.692499935879,
+    "Rank": 95
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Southern Illinois",
+    "Rating": 1551.068190765876,
+    "Rank": 96
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Utah",
+    "Rating": 1550.2367236524187,
+    "Rank": 97
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Colorado",
+    "Rating": 1550.014577573324,
+    "Rank": 98
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Fordham",
+    "Rating": 1549.5213640674308,
+    "Rank": 99
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Rutgers",
+    "Rating": 1547.056668896524,
+    "Rank": 100
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Illinois State",
+    "Rating": 1545.3512544839086,
+    "Rank": 101
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Arkansas State",
+    "Rating": 1545.331408652985,
+    "Rank": 102
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Southern Utah",
+    "Rating": 1543.309384070777,
+    "Rank": 103
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Rice",
+    "Rating": 1542.2681609488736,
+    "Rank": 104
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Gonzaga",
+    "Rating": 1542.1432814784846,
+    "Rank": 105
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Tulsa",
+    "Rating": 1536.6650688076152,
+    "Rank": 106
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Loyola (MD)",
+    "Rating": 1536.061502787131,
+    "Rank": 107
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Pacific",
+    "Rating": 1535.283860134817,
+    "Rank": 108
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Idaho",
+    "Rating": 1535.2720365677874,
+    "Rank": 109
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Wyoming",
+    "Rating": 1534.5396564876285,
+    "Rank": 110
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Kansas City",
+    "Rating": 1533.483316138252,
+    "Rank": 111
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Xavier",
+    "Rating": 1532.8511135834972,
+    "Rank": 112
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Ohio",
+    "Rating": 1532.083994202632,
+    "Rank": 113
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Southern Mississippi",
+    "Rating": 1531.9982806905384,
+    "Rank": 114
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Minnesota",
+    "Rating": 1529.92227015512,
+    "Rank": 115
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Pennsylvania",
+    "Rating": 1526.6951228318433,
+    "Rank": 116
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Bucknell",
+    "Rating": 1526.5786659399716,
+    "Rank": 117
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Texas Tech",
+    "Rating": 1526.1513511315395,
+    "Rank": 118
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "NC State",
+    "Rating": 1525.3469737632813,
+    "Rank": 119
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Campbell",
+    "Rating": 1524.949739827014,
+    "Rank": 120
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Drexel",
+    "Rating": 1524.3983542949024,
+    "Rank": 121
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Santa Clara",
+    "Rating": 1524.155998035758,
+    "Rank": 122
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Oregon State",
+    "Rating": 1523.91496938949,
+    "Rank": 123
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Utah State",
+    "Rating": 1523.714359694815,
+    "Rank": 124
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Hofstra",
+    "Rating": 1523.3786217746365,
+    "Rank": 125
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Boston College",
+    "Rating": 1523.0472404694028,
+    "Rank": 126
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Pittsburgh",
+    "Rating": 1522.103959760904,
+    "Rank": 127
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "George Washington",
+    "Rating": 1521.468665775114,
+    "Rank": 128
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Bowling Green State",
+    "Rating": 1521.288316731128,
+    "Rank": 129
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Hawaii",
+    "Rating": 1520.605583812314,
+    "Rank": 130
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Mississippi Valley State",
+    "Rating": 1520.5839698558466,
+    "Rank": 131
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Weber State",
+    "Rating": 1518.9096913677702,
+    "Rank": 132
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Towson",
+    "Rating": 1518.659453782221,
+    "Rank": 133
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Howard",
+    "Rating": 1517.6501281479673,
+    "Rank": 134
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Illinois-Chicago",
+    "Rating": 1517.567640185791,
+    "Rank": 135
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "New Orleans",
+    "Rating": 1516.626103243845,
+    "Rank": 136
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Cleveland State",
+    "Rating": 1516.2317204905391,
+    "Rank": 137
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Monmouth",
+    "Rating": 1514.6606497917596,
+    "Rank": 138
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Little Rock",
+    "Rating": 1513.734644435512,
+    "Rank": 139
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Mississippi State",
+    "Rating": 1513.3852701352362,
+    "Rank": 140
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Providence",
+    "Rating": 1512.933950624033,
+    "Rank": 141
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Loyola Marymount",
+    "Rating": 1510.5097262914542,
+    "Rank": 142
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Appalachian State",
+    "Rating": 1509.9833170654588,
+    "Rank": 143
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Clemson",
+    "Rating": 1509.1890044961044,
+    "Rank": 144
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Virginia Commonwealth",
+    "Rating": 1508.7862476983837,
+    "Rank": 145
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Saint Joseph's",
+    "Rating": 1508.535813878018,
+    "Rank": 146
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Holy Cross",
+    "Rating": 1508.2343053019192,
+    "Rank": 147
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Eastern Kentucky",
+    "Rating": 1507.1602266367163,
+    "Rank": 148
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Duquesne",
+    "Rating": 1506.550041106865,
+    "Rank": 149
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Furman",
+    "Rating": 1504.8406064636918,
+    "Rank": 150
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Indiana State",
+    "Rating": 1504.480316017747,
+    "Rank": 151
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Dayton",
+    "Rating": 1501.8141635532274,
+    "Rank": 152
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "California",
+    "Rating": 1501.589574791019,
+    "Rank": 153
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "San Francisco",
+    "Rating": 1499.7669918807776,
+    "Rank": 154
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Yale",
+    "Rating": 1499.1999926564015,
+    "Rank": 155
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Auburn",
+    "Rating": 1498.70706470532,
+    "Rank": 156
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "UT Arlington",
+    "Rating": 1498.2953296599646,
+    "Rank": 157
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Boise State",
+    "Rating": 1497.6514947582848,
+    "Rank": 158
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "South Alabama",
+    "Rating": 1497.408171239014,
+    "Rank": 159
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Milwaukee",
+    "Rating": 1496.931852774719,
+    "Rank": 160
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Liberty",
+    "Rating": 1496.512860002878,
+    "Rank": 161
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Tennessee Tech",
+    "Rating": 1494.3883313005056,
+    "Rank": 162
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Jacksonville",
+    "Rating": 1492.439818460402,
+    "Rank": 163
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Cal State Fullerton",
+    "Rating": 1492.4135444456765,
+    "Rank": 164
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Loyola (IL)",
+    "Rating": 1491.5852639742204,
+    "Rank": 165
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Radford",
+    "Rating": 1490.3419819534092,
+    "Rank": 166
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Maine",
+    "Rating": 1488.662203149313,
+    "Rank": 167
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Colorado State",
+    "Rating": 1487.8255590784445,
+    "Rank": 168
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Iona",
+    "Rating": 1486.906621946461,
+    "Rank": 169
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "College of Charleston",
+    "Rating": 1484.6699716639332,
+    "Rank": 170
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "North Texas",
+    "Rating": 1484.1514960414895,
+    "Rank": 171
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "North Carolina A&T",
+    "Rating": 1482.063498783784,
+    "Rank": 172
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Niagara",
+    "Rating": 1481.6934560610202,
+    "Rank": 173
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Middle Tennessee",
+    "Rating": 1481.180736526868,
+    "Rank": 174
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Southern",
+    "Rating": 1481.1309376929803,
+    "Rank": 175
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "San Diego",
+    "Rating": 1480.920166280243,
+    "Rank": 176
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "St. Francis (NY)",
+    "Rating": 1479.8327972780885,
+    "Rank": 177
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Washington",
+    "Rating": 1479.6742845506894,
+    "Rank": 178
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Wisconsin",
+    "Rating": 1479.3692393758784,
+    "Rank": 179
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Vermont",
+    "Rating": 1478.416919763095,
+    "Rank": 180
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Akron",
+    "Rating": 1477.675982926983,
+    "Rank": 181
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "American",
+    "Rating": 1475.06554938164,
+    "Rank": 182
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Houston Christian",
+    "Rating": 1474.611535829071,
+    "Rank": 183
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Baylor",
+    "Rating": 1472.700813191895,
+    "Rank": 184
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Fairleigh Dickinson",
+    "Rating": 1471.8119500247544,
+    "Rank": 185
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Georgia State",
+    "Rating": 1470.4912062424223,
+    "Rank": 186
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "South Carolina State",
+    "Rating": 1467.4532402056957,
+    "Rank": 187
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Wright State",
+    "Rating": 1467.2630924346693,
+    "Rank": 188
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Florida A&M",
+    "Rating": 1465.958911727151,
+    "Rank": 189
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Virginia Tech",
+    "Rating": 1465.8256456410331,
+    "Rank": 190
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Wagner",
+    "Rating": 1465.814945849603,
+    "Rank": 191
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Lamar",
+    "Rating": 1464.7577000550536,
+    "Rank": 192
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Northern Illinois",
+    "Rating": 1464.3815444537354,
+    "Rank": 193
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Mississippi",
+    "Rating": 1464.3570755203896,
+    "Rank": 194
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "UNC Wilmington",
+    "Rating": 1464.151332322593,
+    "Rank": 195
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Columbia",
+    "Rating": 1463.274021585058,
+    "Rank": 196
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Texas Southern",
+    "Rating": 1460.729744110864,
+    "Rank": 197
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Northwestern",
+    "Rating": 1460.3415288040917,
+    "Rank": 198
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Nicholls State",
+    "Rating": 1459.46175436163,
+    "Rank": 199
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "St. Bonaventure",
+    "Rating": 1456.1528204641684,
+    "Rank": 200
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Cal State Northridge",
+    "Rating": 1454.1976601673068,
+    "Rank": 201
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Morehead State",
+    "Rating": 1453.9092717856447,
+    "Rank": 202
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Kent State",
+    "Rating": 1450.098244843589,
+    "Rank": 203
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Fresno State",
+    "Rating": 1446.011220406136,
+    "Rank": 204
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Rider",
+    "Rating": 1445.9183887552692,
+    "Rank": 205
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Idaho State",
+    "Rating": 1445.772614590339,
+    "Rank": 206
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "South Carolina",
+    "Rating": 1445.2612177517835,
+    "Rank": 207
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Southeast Missouri State",
+    "Rating": 1444.504813365765,
+    "Rank": 208
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Detroit Mercy",
+    "Rating": 1444.2739799809003,
+    "Rank": 209
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Lehigh",
+    "Rating": 1440.951406376221,
+    "Rank": 210
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Wichita State",
+    "Rating": 1438.340802697253,
+    "Rank": 211
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "UC Irvine",
+    "Rating": 1437.9566004614808,
+    "Rank": 212
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Saint Francis (PA)",
+    "Rating": 1437.5386620071477,
+    "Rank": 213
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Saint Mary's (CA)",
+    "Rating": 1437.416445773983,
+    "Rank": 214
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Alcorn State",
+    "Rating": 1436.875811406485,
+    "Rank": 215
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Montana State",
+    "Rating": 1436.871762804439,
+    "Rank": 216
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Charleston Southern",
+    "Rating": 1436.8196539371963,
+    "Rank": 217
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Southern Methodist",
+    "Rating": 1436.408284845185,
+    "Rank": 218
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Stephen F. Austin",
+    "Rating": 1436.2848398473784,
+    "Rank": 219
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Long Island University",
+    "Rating": 1436.0007410404064,
+    "Rank": 220
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Davidson",
+    "Rating": 1435.7260727486253,
+    "Rank": 221
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Jackson State",
+    "Rating": 1435.669741797321,
+    "Rank": 222
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Miami (FL)",
+    "Rating": 1432.904431840193,
+    "Rank": 223
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Central Michigan",
+    "Rating": 1432.4275713056684,
+    "Rank": 224
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Fairfield",
+    "Rating": 1430.043142843742,
+    "Rank": 225
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Brown",
+    "Rating": 1429.0342689492932,
+    "Rank": 226
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Northeastern",
+    "Rating": 1425.654193831807,
+    "Rank": 227
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Texas A&M",
+    "Rating": 1425.312959513108,
+    "Rank": 228
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Marshall",
+    "Rating": 1425.246987689988,
+    "Rank": 229
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Western Illinois",
+    "Rating": 1425.2059829462323,
+    "Rank": 230
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Austin Peay",
+    "Rating": 1423.8975646071983,
+    "Rank": 231
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Marist",
+    "Rating": 1423.066014805048,
+    "Rank": 232
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Mercer",
+    "Rating": 1422.4526595324012,
+    "Rank": 233
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Eastern Michigan",
+    "Rating": 1421.5565382127406,
+    "Rank": 234
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Northern Iowa",
+    "Rating": 1420.9891924977264,
+    "Rank": 235
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "East Carolina",
+    "Rating": 1419.684695198841,
+    "Rank": 236
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Western Carolina",
+    "Rating": 1419.4512834278862,
+    "Rank": 237
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Lafayette",
+    "Rating": 1419.0964871465078,
+    "Rank": 238
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Northwestern State",
+    "Rating": 1416.7632829605018,
+    "Rank": 239
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Oregon",
+    "Rating": 1415.207475222753,
+    "Rank": 240
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Saint Louis",
+    "Rating": 1414.7630733569758,
+    "Rank": 241
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Maryland-Baltimore County",
+    "Rating": 1414.235964309934,
+    "Rank": 242
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Creighton",
+    "Rating": 1413.2662827851138,
+    "Rank": 243
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Colgate",
+    "Rating": 1410.5261734516112,
+    "Rank": 244
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Cornell",
+    "Rating": 1409.8418029755717,
+    "Rank": 245
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Portland",
+    "Rating": 1408.1053807216376,
+    "Rank": 246
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Alabama State",
+    "Rating": 1407.5435036887218,
+    "Rank": 247
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Air Force",
+    "Rating": 1406.5080275619366,
+    "Rank": 248
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Coppin State",
+    "Rating": 1405.8453305039952,
+    "Rank": 249
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Samford",
+    "Rating": 1405.7829683517298,
+    "Rank": 250
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "UNC Asheville",
+    "Rating": 1405.061542391484,
+    "Rank": 251
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "VMI",
+    "Rating": 1403.2648605492232,
+    "Rank": 252
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Oral Roberts",
+    "Rating": 1402.888917021396,
+    "Rank": 253
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Saint Peter's",
+    "Rating": 1401.4913067602884,
+    "Rank": 254
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Central Florida",
+    "Rating": 1399.2741040490394,
+    "Rank": 255
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Coastal Carolina",
+    "Rating": 1395.5791228079208,
+    "Rank": 256
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Harvard",
+    "Rating": 1393.566567341055,
+    "Rank": 257
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Boston University",
+    "Rating": 1389.8693091086,
+    "Rank": 258
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Dartmouth",
+    "Rating": 1385.194347075752,
+    "Rank": 259
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Stetson",
+    "Rating": 1384.677285435822,
+    "Rank": 260
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "The Citadel",
+    "Rating": 1384.2002647049724,
+    "Rank": 261
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Toledo",
+    "Rating": 1381.2413531710558,
+    "Rank": 262
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Delaware State",
+    "Rating": 1379.2505029117274,
+    "Rank": 263
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Centenary (LA)",
+    "Rating": 1374.4633478689807,
+    "Rank": 264
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Texas State",
+    "Rating": 1373.5435825822044,
+    "Rank": 265
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Eastern Washington",
+    "Rating": 1372.1087903150312,
+    "Rank": 266
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "George Mason",
+    "Rating": 1372.0479036359616,
+    "Rank": 267
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Morgan State",
+    "Rating": 1370.110088574298,
+    "Rank": 268
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Bradley",
+    "Rating": 1365.4088553954962,
+    "Rank": 269
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Drake",
+    "Rating": 1362.9319812571923,
+    "Rank": 270
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "William & Mary",
+    "Rating": 1360.907667355153,
+    "Rank": 271
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Florida International",
+    "Rating": 1360.0824946819714,
+    "Rank": 272
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Valparaiso",
+    "Rating": 1358.0566448751272,
+    "Rank": 273
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "New Hampshire",
+    "Rating": 1355.872623497332,
+    "Rank": 274
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Hartford",
+    "Rating": 1355.3405852561784,
+    "Rank": 275
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "San Diego State",
+    "Rating": 1353.5078782482258,
+    "Rank": 276
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "San Jose State",
+    "Rating": 1353.5013754934198,
+    "Rank": 277
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Northern Arizona",
+    "Rating": 1350.127967047997,
+    "Rank": 278
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Canisius",
+    "Rating": 1349.1345682489407,
+    "Rank": 279
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Mount St. Mary's",
+    "Rating": 1343.3193424843423,
+    "Rank": 280
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Southeastern Louisiana",
+    "Rating": 1342.6550644588522,
+    "Rank": 281
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Sacramento State",
+    "Rating": 1340.755966613352,
+    "Rank": 282
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "McNeese State",
+    "Rating": 1339.4195972700677,
+    "Rank": 283
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Chicago State",
+    "Rating": 1338.3219798980076,
+    "Rank": 284
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "UNC Greensboro",
+    "Rating": 1336.5412059046084,
+    "Rank": 285
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Grambling",
+    "Rating": 1336.2538347246357,
+    "Rank": 286
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Central Connecticut State",
+    "Rating": 1333.1162234557416,
+    "Rank": 287
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Bethune-Cookman",
+    "Rating": 1327.3593120373691,
+    "Rank": 288
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Tennessee State",
+    "Rating": 1327.2442991225428,
+    "Rank": 289
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Youngstown State",
+    "Rating": 1327.0773201833188,
+    "Rank": 290
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Army",
+    "Rating": 1320.8985297340405,
+    "Rank": 291
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Navy",
+    "Rating": 1319.322043289666,
+    "Rank": 292
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Texas-Rio Grande Valley",
+    "Rating": 1312.014957847478,
+    "Rank": 293
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Winthrop",
+    "Rating": 1306.8514278047037,
+    "Rank": 294
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Sam Houston",
+    "Rating": 1298.945671817418,
+    "Rank": 295
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Buffalo",
+    "Rating": 1270.828046449982,
+    "Rank": 296
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Maryland-Eastern Shore",
+    "Rating": 1254.8292521878204,
+    "Rank": 297
+  },
+  {
+    "Year": 1992,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Prairie View",
+    "Rating": 1246.1133493735597,
+    "Rank": 298
+  }
+]

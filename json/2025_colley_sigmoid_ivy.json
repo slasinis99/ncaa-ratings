@@ -1,0 +1,74 @@
+[
+  {
+    "Year": 2025,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Ivy",
+    "Team": "Yale",
+    "Rating": 0.8407085054843804,
+    "Rank": 1
+  },
+  {
+    "Year": 2025,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Ivy",
+    "Team": "Cornell",
+    "Rating": 0.6152475854604971,
+    "Rank": 2
+  },
+  {
+    "Year": 2025,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Ivy",
+    "Team": "Princeton",
+    "Rating": 0.5287556225451249,
+    "Rank": 3
+  },
+  {
+    "Year": 2025,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Ivy",
+    "Team": "Dartmouth",
+    "Rating": 0.5248289998478206,
+    "Rank": 4
+  },
+  {
+    "Year": 2025,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Ivy",
+    "Team": "Harvard",
+    "Rating": 0.5188819211347094,
+    "Rank": 5
+  },
+  {
+    "Year": 2025,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Ivy",
+    "Team": "Brown",
+    "Rating": 0.4508848335767209,
+    "Rank": 6
+  },
+  {
+    "Year": 2025,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Ivy",
+    "Team": "Pennsylvania",
+    "Rating": 0.339798081398568,
+    "Rank": 7
+  },
+  {
+    "Year": 2025,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Ivy",
+    "Team": "Columbia",
+    "Rating": 0.1808944505521796,
+    "Rank": 8
+  }
+]

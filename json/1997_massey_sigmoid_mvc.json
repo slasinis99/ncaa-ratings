@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 1997,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Bradley",
+    "Rating": 7.096393711133566,
+    "Rank": 1
+  },
+  {
+    "Year": 1997,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Missouri State",
+    "Rating": 4.9499720017056745,
+    "Rank": 2
+  },
+  {
+    "Year": 1997,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Northern Iowa",
+    "Rating": 1.6586771419169222,
+    "Rank": 3
+  },
+  {
+    "Year": 1997,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Creighton",
+    "Rating": 1.5724430727892398,
+    "Rank": 4
+  },
+  {
+    "Year": 1997,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Evansville",
+    "Rating": 0.5245475876479263,
+    "Rank": 5
+  },
+  {
+    "Year": 1997,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Wichita State",
+    "Rating": -0.4441867574285258,
+    "Rank": 6
+  },
+  {
+    "Year": 1997,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Southern Illinois",
+    "Rating": -2.914179683790097,
+    "Rank": 7
+  },
+  {
+    "Year": 1997,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Indiana State",
+    "Rating": -4.510178753647457,
+    "Rank": 8
+  },
+  {
+    "Year": 1997,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Drake",
+    "Rating": -7.933488320327266,
+    "Rank": 9
+  }
+]

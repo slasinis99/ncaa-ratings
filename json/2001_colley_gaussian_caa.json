@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "CAA",
+    "Team": "Richmond",
+    "Rating": 0.7355428974231404,
+    "Rank": 1
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "CAA",
+    "Team": "UNC Wilmington",
+    "Rating": 0.6971631789873243,
+    "Rank": 2
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "CAA",
+    "Team": "George Mason",
+    "Rating": 0.6698079710946289,
+    "Rank": 3
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "CAA",
+    "Team": "James Madison",
+    "Rating": 0.4685219850045149,
+    "Rank": 4
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "CAA",
+    "Team": "Virginia Commonwealth",
+    "Rating": 0.4561565660933039,
+    "Rank": 5
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "CAA",
+    "Team": "Old Dominion",
+    "Rating": 0.4268391234325589,
+    "Rank": 6
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "CAA",
+    "Team": "William & Mary",
+    "Rating": 0.4142043039703317,
+    "Rank": 7
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "CAA",
+    "Team": "East Carolina",
+    "Rating": 0.3590143623213497,
+    "Rank": 8
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "CAA",
+    "Team": "American",
+    "Rating": 0.2727496116728484,
+    "Rank": 9
+  }
+]

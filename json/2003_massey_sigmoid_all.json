@@ -1,0 +1,2927 @@
+[
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kentucky",
+    "Rating": 28.51843181627171,
+    "Rank": 1
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kansas",
+    "Rating": 25.968982852181764,
+    "Rank": 2
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arizona",
+    "Rating": 23.95985083821121,
+    "Rank": 3
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Illinois",
+    "Rating": 22.199219897525232,
+    "Rank": 4
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pittsburgh",
+    "Rating": 21.903910092539046,
+    "Rank": 5
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oklahoma",
+    "Rating": 21.651875946591723,
+    "Rank": 6
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida",
+    "Rating": 20.95700971769605,
+    "Rank": 7
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana State",
+    "Rating": 20.6436621702456,
+    "Rank": 8
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mississippi State",
+    "Rating": 20.46621327079708,
+    "Rank": 9
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas",
+    "Rating": 19.94244348738927,
+    "Rank": 10
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisville",
+    "Rating": 19.50117982304058,
+    "Rank": 11
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wisconsin",
+    "Rating": 18.281810045404924,
+    "Rank": 12
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia",
+    "Rating": 18.257414996171008,
+    "Rank": 13
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arizona State",
+    "Rating": 18.104173386696345,
+    "Rank": 14
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Marquette",
+    "Rating": 18.09812521105825,
+    "Rank": 15
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Memphis",
+    "Rating": 18.09560319846957,
+    "Rank": 16
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Xavier",
+    "Rating": 17.44926213505498,
+    "Rank": 17
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Michigan State",
+    "Rating": 17.035994100839503,
+    "Rank": 18
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stanford",
+    "Rating": 16.81130691174929,
+    "Rank": 19
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maryland",
+    "Rating": 16.54426453977547,
+    "Rank": 20
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Connecticut",
+    "Rating": 16.506020518818833,
+    "Rank": 21
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Syracuse",
+    "Rating": 16.255867596447768,
+    "Rank": 22
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Missouri",
+    "Rating": 15.923969872670666,
+    "Rank": 23
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Colorado",
+    "Rating": 15.74932383998876,
+    "Rank": 24
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Duke",
+    "Rating": 15.72760954091185,
+    "Rank": 25
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oregon",
+    "Rating": 15.612307324829995,
+    "Rank": 26
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Joseph's",
+    "Rating": 15.359035095493685,
+    "Rank": 27
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oklahoma State",
+    "Rating": 15.2198394996809,
+    "Rank": 28
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas Tech",
+    "Rating": 15.005163337997166,
+    "Rank": 29
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alabama",
+    "Rating": 14.830010809295771,
+    "Rank": 30
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Dayton",
+    "Rating": 14.59662922077879,
+    "Rank": 31
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "California",
+    "Rating": 14.19678598913357,
+    "Rank": 32
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wake Forest",
+    "Rating": 13.97378017802322,
+    "Rank": 33
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Purdue",
+    "Rating": 13.520192414642615,
+    "Rank": 34
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Gonzaga",
+    "Rating": 13.105474124221756,
+    "Rank": 35
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Brigham Young",
+    "Rating": 13.040232819261526,
+    "Rank": 36
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Providence",
+    "Rating": 12.696988826757435,
+    "Rank": 37
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee",
+    "Rating": 12.671095017420567,
+    "Rank": 38
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cincinnati",
+    "Rating": 12.67048136810723,
+    "Rank": 39
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Notre Dame",
+    "Rating": 12.489290667413831,
+    "Rank": 40
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Creighton",
+    "Rating": 12.478705617561465,
+    "Rank": 41
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Auburn",
+    "Rating": 12.290649626831405,
+    "Rank": 42
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Indiana",
+    "Rating": 12.22737454833994,
+    "Rank": 43
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Boston College",
+    "Rating": 12.045929252011913,
+    "Rank": 44
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Iowa State",
+    "Rating": 12.000209547592547,
+    "Rank": 45
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Michigan",
+    "Rating": 11.790271460151605,
+    "Rank": 46
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tulsa",
+    "Rating": 11.602416373876924,
+    "Rank": 47
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Temple",
+    "Rating": 11.52763306878706,
+    "Rank": 48
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kansas State",
+    "Rating": 11.186217975140718,
+    "Rank": 49
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UAB",
+    "Rating": 11.134518347369603,
+    "Rank": 50
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nevada-Las Vegas",
+    "Rating": 11.043847928287724,
+    "Rank": 51
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Central Michigan",
+    "Rating": 11.034461663906091,
+    "Rank": 52
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Diego",
+    "Rating": 10.991736358921347,
+    "Rank": 53
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Louis",
+    "Rating": 10.874333310902628,
+    "Rank": 54
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern California",
+    "Rating": 10.825942171595312,
+    "Rank": 55
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mississippi",
+    "Rating": 10.687851844725651,
+    "Rank": 56
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Kentucky",
+    "Rating": 10.555323168199088,
+    "Rank": 57
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Milwaukee",
+    "Rating": 10.426405936260874,
+    "Rank": 58
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Ohio State",
+    "Rating": 10.29540502306186,
+    "Rank": 59
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Seton Hall",
+    "Rating": 10.28779810141641,
+    "Rank": 60
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Minnesota",
+    "Rating": 9.964809159739984,
+    "Rank": 61
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Utah",
+    "Rating": 9.826957465657635,
+    "Rank": 62
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgetown",
+    "Rating": 9.741700192280382,
+    "Rank": 63
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UNC Wilmington",
+    "Rating": 9.61474944337035,
+    "Rank": 64
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "NC State",
+    "Rating": 9.44970735395237,
+    "Rank": 65
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Villanova",
+    "Rating": 9.34255435038672,
+    "Rank": 66
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia Tech",
+    "Rating": 9.171173858191857,
+    "Rank": 67
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Illinois",
+    "Rating": 8.805175762936965,
+    "Rank": 68
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Carolina",
+    "Rating": 8.772081036132546,
+    "Rank": 69
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "St. John's (NY)",
+    "Rating": 8.735668987325809,
+    "Rank": 70
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UCLA",
+    "Rating": 8.707059467595679,
+    "Rank": 71
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tulane",
+    "Rating": 8.658981570264949,
+    "Rank": 72
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Iowa",
+    "Rating": 8.546618262932615,
+    "Rank": 73
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "DePaul",
+    "Rating": 8.249007626890602,
+    "Rank": 74
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana",
+    "Rating": 8.137675184061145,
+    "Rank": 75
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Weber State",
+    "Rating": 8.033394789752677,
+    "Rank": 76
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Detroit Mercy",
+    "Rating": 7.986502946972592,
+    "Rank": 77
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pennsylvania",
+    "Rating": 7.838408313361956,
+    "Rank": 78
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Manhattan",
+    "Rating": 7.63859083505368,
+    "Rank": 79
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Baylor",
+    "Rating": 7.46327536824232,
+    "Rank": 80
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nevada",
+    "Rating": 7.461292621695046,
+    "Rank": 81
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas A&M",
+    "Rating": 7.000613958493746,
+    "Rank": 82
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Illinois-Chicago",
+    "Rating": 6.825478584435086,
+    "Rank": 83
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oregon State",
+    "Rating": 6.724417093015177,
+    "Rank": 84
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Carolina",
+    "Rating": 6.628732513087534,
+    "Rank": 85
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Missouri State",
+    "Rating": 6.445115811152194,
+    "Rank": 86
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Washington",
+    "Rating": 6.444106850432371,
+    "Rank": 87
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Troy",
+    "Rating": 6.339285978979548,
+    "Rank": 88
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Francisco",
+    "Rating": 6.297224785609778,
+    "Rank": 89
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Butler",
+    "Rating": 6.209024698329934,
+    "Rank": 90
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Florida",
+    "Rating": 6.139720029609228,
+    "Rank": 91
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "St. Bonaventure",
+    "Rating": 5.982473421223093,
+    "Rank": 92
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Richmond",
+    "Rating": 5.923719609968913,
+    "Rank": 93
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida State",
+    "Rating": 5.9139959992185,
+    "Rank": 94
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "George Washington",
+    "Rating": 5.804197097567107,
+    "Rank": 95
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Valparaiso",
+    "Rating": 5.714352750393713,
+    "Rank": 96
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arkansas",
+    "Rating": 5.706982875087928,
+    "Rank": 97
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Miami (FL)",
+    "Rating": 5.697852281394855,
+    "Rank": 98
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Colorado State",
+    "Rating": 5.624446331318656,
+    "Rank": 99
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Mexico State",
+    "Rating": 5.4263399751305705,
+    "Rank": 100
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Diego State",
+    "Rating": 5.4085367985006485,
+    "Rank": 101
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Vanderbilt",
+    "Rating": 5.386741745841487,
+    "Rank": 102
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Holy Cross",
+    "Rating": 5.236022569119166,
+    "Rank": 103
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fresno State",
+    "Rating": 5.112482910698672,
+    "Rank": 104
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Methodist",
+    "Rating": 5.109267158989405,
+    "Rank": 105
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Middle Tennessee",
+    "Rating": 5.059238788201211,
+    "Rank": 106
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Charlotte",
+    "Rating": 4.812749947581029,
+    "Rank": 107
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kent State",
+    "Rating": 4.732786289054503,
+    "Rank": 108
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northwestern",
+    "Rating": 4.618268874786391,
+    "Rank": 109
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rhode Island",
+    "Rating": 4.585624164390248,
+    "Rank": 110
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rutgers",
+    "Rating": 4.523248710427468,
+    "Rank": 111
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Michigan",
+    "Rating": 4.412962160471441,
+    "Rank": 112
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Utah State",
+    "Rating": 4.254784892529348,
+    "Rank": 113
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UC Santa Barbara",
+    "Rating": 4.200539086775595,
+    "Rank": 114
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wyoming",
+    "Rating": 4.174593053410307,
+    "Rank": 115
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Virginia Tech",
+    "Rating": 4.120515442830532,
+    "Rank": 116
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Washington",
+    "Rating": 4.0670615060345146,
+    "Rank": 117
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northern Illinois",
+    "Rating": 4.065594588765176,
+    "Rank": 118
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nebraska",
+    "Rating": 3.9532699460223686,
+    "Rank": 119
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Virginia",
+    "Rating": 3.744222265473204,
+    "Rank": 120
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Virginia Commonwealth",
+    "Rating": 3.69819349654254,
+    "Rank": 121
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rice",
+    "Rating": 3.697352134952393,
+    "Rank": 122
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UC Irvine",
+    "Rating": 3.5941629221493265,
+    "Rank": 123
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Siena",
+    "Rating": 3.394529817533803,
+    "Rank": 124
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wichita State",
+    "Rating": 3.0429906714126105,
+    "Rank": 125
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "TCU",
+    "Rating": 3.030458897958212,
+    "Rank": 126
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pepperdine",
+    "Rating": 2.9472912833439926,
+    "Rank": 127
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Boston University",
+    "Rating": 2.921765430911684,
+    "Rank": 128
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Drexel",
+    "Rating": 2.799479127351212,
+    "Rank": 129
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Mississippi",
+    "Rating": 2.7250617032835223,
+    "Rank": 130
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "West Virginia",
+    "Rating": 2.535918279514377,
+    "Rank": 131
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hawaii",
+    "Rating": 2.4660317226442805,
+    "Rank": 132
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Mary's (CA)",
+    "Rating": 2.32876883431853,
+    "Rank": 133
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Toledo",
+    "Rating": 2.317487999713149,
+    "Rank": 134
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Brown",
+    "Rating": 2.295804264144655,
+    "Rank": 135
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Loyola (IL)",
+    "Rating": 2.206248813656721,
+    "Rank": 136
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arkansas State",
+    "Rating": 2.2004391598135093,
+    "Rank": 137
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Denver",
+    "Rating": 2.1983816822369766,
+    "Rank": 138
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bradley",
+    "Rating": 2.131672444980504,
+    "Rank": 139
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Boise State",
+    "Rating": 1.965673008496439,
+    "Rank": 140
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Clemson",
+    "Rating": 1.930076914504852,
+    "Rank": 141
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee Tech",
+    "Rating": 1.7886247806442146,
+    "Rank": 142
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Air Force",
+    "Rating": 1.590931172766476,
+    "Rank": 143
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Iona",
+    "Rating": 1.5710134857342393,
+    "Rank": 144
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "American",
+    "Rating": 1.5652617404417972,
+    "Rank": 145
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Mexico",
+    "Rating": 1.501139506340393,
+    "Rank": 146
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Vermont",
+    "Rating": 1.3873727733447936,
+    "Rank": 147
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "East Carolina",
+    "Rating": 1.3790440824931451,
+    "Rank": 148
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oral Roberts",
+    "Rating": 1.3763830641053856,
+    "Rank": 149
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cal Poly",
+    "Rating": 1.2136122057831835,
+    "Rank": 150
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Washington State",
+    "Rating": 1.2067440455911909,
+    "Rank": 151
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Miami (OH)",
+    "Rating": 1.1977001600551471,
+    "Rank": 152
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Akron",
+    "Rating": 1.0981750592231636,
+    "Rank": 153
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Murray State",
+    "Rating": 1.0899551030723194,
+    "Rank": 154
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Ohio",
+    "Rating": 0.9624812645702532,
+    "Rank": 155
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Niagara",
+    "Rating": 0.8923212796056266,
+    "Rank": 156
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Houston",
+    "Rating": 0.7253614996109654,
+    "Rank": 157
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "George Mason",
+    "Rating": 0.7009004051132486,
+    "Rank": 158
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fairfield",
+    "Rating": 0.6093629506420744,
+    "Rank": 159
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Central Florida",
+    "Rating": 0.608349855467735,
+    "Rank": 160
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Austin Peay",
+    "Rating": 0.6011977486258768,
+    "Rank": 161
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Sam Houston",
+    "Rating": 0.5162702771763189,
+    "Rank": 162
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stephen F. Austin",
+    "Rating": 0.5135397355443022,
+    "Rank": 163
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "La Salle",
+    "Rating": 0.4647753081876569,
+    "Rank": 164
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Little Rock",
+    "Rating": 0.054907040438799,
+    "Rank": 165
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "IU Indy",
+    "Rating": 5.219349533403952e-14,
+    "Rank": 166
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oakland",
+    "Rating": -0.3911293432752041,
+    "Rank": 167
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northern Iowa",
+    "Rating": -0.4435469060358619,
+    "Rank": 168
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Princeton",
+    "Rating": -0.51300892210336,
+    "Rank": 169
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maine",
+    "Rating": -0.5894429754981698,
+    "Rank": 170
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Evansville",
+    "Rating": -0.5906536536642273,
+    "Rank": 171
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Old Dominion",
+    "Rating": -0.5925770629438425,
+    "Rank": 172
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Morehead State",
+    "Rating": -0.6628472389010538,
+    "Rank": 173
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Ball State",
+    "Rating": -0.7207412455955522,
+    "Rank": 174
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Penn State",
+    "Rating": -0.8298492098721368,
+    "Rank": 175
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Massachusetts",
+    "Rating": -0.8845987966357169,
+    "Rank": 176
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Yale",
+    "Rating": -1.027504980528314,
+    "Rank": 177
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Marshall",
+    "Rating": -1.2215429146820245,
+    "Rank": 178
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana Tech",
+    "Rating": -1.2987273604485958,
+    "Rank": 179
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Duquesne",
+    "Rating": -1.336409358929732,
+    "Rank": 180
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Alabama",
+    "Rating": -1.4936025102652628,
+    "Rank": 181
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Idaho State",
+    "Rating": -1.556999578769906,
+    "Rank": 182
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Illinois State",
+    "Rating": -1.83098288757399,
+    "Rank": 183
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "College of Charleston",
+    "Rating": -1.887007301479766,
+    "Rank": 184
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Delaware",
+    "Rating": -1.9176784692561848,
+    "Rank": 185
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mercer",
+    "Rating": -1.9224937170345324,
+    "Rank": 186
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pacific",
+    "Rating": -1.953627338489059,
+    "Rank": 187
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hartford",
+    "Rating": -1.9966803337988184,
+    "Rank": 188
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cal State Northridge",
+    "Rating": -2.052838060792591,
+    "Rank": 189
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Chattanooga",
+    "Rating": -2.1537761895177674,
+    "Rank": 190
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Orleans",
+    "Rating": -2.223745645356969,
+    "Rank": 191
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bowling Green State",
+    "Rating": -2.3187169193471524,
+    "Rank": 192
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Michigan",
+    "Rating": -2.3229668168245308,
+    "Rank": 193
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Portland",
+    "Rating": -2.338892705029417,
+    "Rank": 194
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Loyola Marymount",
+    "Rating": -2.3461646443057784,
+    "Rank": 195
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida International",
+    "Rating": -2.6831925276393984,
+    "Rank": 196
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northern Arizona",
+    "Rating": -2.691527868907002,
+    "Rank": 197
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Idaho",
+    "Rating": -2.921451239040561,
+    "Rank": 198
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "East Tennessee State",
+    "Rating": -3.1027190451634343,
+    "Rank": 199
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Belmont",
+    "Rating": -3.3277583640713786,
+    "Rank": 200
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Drake",
+    "Rating": -3.369033762415891,
+    "Rank": 201
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northeastern",
+    "Rating": -3.4499423777737546,
+    "Rank": 202
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Montana",
+    "Rating": -3.4518725162943085,
+    "Rank": 203
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Binghamton",
+    "Rating": -3.497514067862512,
+    "Rank": 204
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UT Arlington",
+    "Rating": -3.6739365034199754,
+    "Rank": 205
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Davidson",
+    "Rating": -3.813074803341484,
+    "Rank": 206
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Marist",
+    "Rating": -4.003017964930123,
+    "Rank": 207
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Santa Clara",
+    "Rating": -4.082957032177514,
+    "Rank": 208
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cal State Fullerton",
+    "Rating": -4.15378477669818,
+    "Rank": 209
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Illinois",
+    "Rating": -4.1540555408968665,
+    "Rank": 210
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas State",
+    "Rating": -4.342399846367061,
+    "Rank": 211
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rider",
+    "Rating": -4.371496090088947,
+    "Rank": 212
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "James Madison",
+    "Rating": -4.474202117065779,
+    "Rank": 213
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Canisius",
+    "Rating": -4.558411503682281,
+    "Rank": 214
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Green Bay",
+    "Rating": -4.659366061985349,
+    "Rank": 215
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Montana State",
+    "Rating": -4.941373278856928,
+    "Rank": 216
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wagner",
+    "Rating": -5.1863544366357575,
+    "Rank": 217
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Sacramento State",
+    "Rating": -5.323327644872554,
+    "Rank": 218
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Samford",
+    "Rating": -5.3891409773182986,
+    "Rank": 219
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia State",
+    "Rating": -5.715382897916868,
+    "Rank": 220
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "McNeese State",
+    "Rating": -5.730692632093362,
+    "Rank": 221
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Peter's",
+    "Rating": -5.75998995932353,
+    "Rank": 222
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Colgate",
+    "Rating": -5.892774417268242,
+    "Rank": 223
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kansas City",
+    "Rating": -6.164474881201896,
+    "Rank": 224
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mississippi Valley State",
+    "Rating": -6.400380055809317,
+    "Rank": 225
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Jose State",
+    "Rating": -6.423053078363388,
+    "Rank": 226
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bucknell",
+    "Rating": -6.548654851560112,
+    "Rank": 227
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana-Monroe",
+    "Rating": -6.789907225786873,
+    "Rank": 228
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Lehigh",
+    "Rating": -6.808199156723712,
+    "Rank": 229
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fordham",
+    "Rating": -6.885066187124753,
+    "Rank": 230
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wright State",
+    "Rating": -6.946542629223625,
+    "Rank": 231
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Lafayette",
+    "Rating": -7.111613423771044,
+    "Rank": 232
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Appalachian State",
+    "Rating": -7.133858307041864,
+    "Rank": 233
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Utah",
+    "Rating": -7.149745351949536,
+    "Rank": 234
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hofstra",
+    "Rating": -7.181043870646294,
+    "Rank": 235
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Jacksonville State",
+    "Rating": -7.202256953850439,
+    "Rank": 236
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stony Brook",
+    "Rating": -7.436864112760846,
+    "Rank": 237
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Portland State",
+    "Rating": -7.51775449348497,
+    "Rank": 238
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Dartmouth",
+    "Rating": -7.725354568786161,
+    "Rank": 239
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Indiana State",
+    "Rating": -7.799438860574578,
+    "Rank": 240
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cleveland State",
+    "Rating": -7.95132599811129,
+    "Rank": 241
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Winthrop",
+    "Rating": -7.997810989099114,
+    "Rank": 242
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas A&M-Corpus Christi",
+    "Rating": -8.05095438959706,
+    "Rank": 243
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Texas",
+    "Rating": -8.053838139970992,
+    "Rank": 244
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Prairie View",
+    "Rating": -8.08169809631042,
+    "Rank": 245
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas Southern",
+    "Rating": -8.16436248836288,
+    "Rank": 246
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wofford",
+    "Rating": -8.175910339291153,
+    "Rank": 247
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southeastern Louisiana",
+    "Rating": -8.305661446464123,
+    "Rank": 248
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Lamar",
+    "Rating": -8.306737026233614,
+    "Rank": 249
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Harvard",
+    "Rating": -8.403021350568979,
+    "Rank": 250
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Central Connecticut State",
+    "Rating": -8.404087031768263,
+    "Rank": 251
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UC Riverside",
+    "Rating": -8.430975694085022,
+    "Rank": 252
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "St. Francis (NY)",
+    "Rating": -8.448221035252335,
+    "Rank": 253
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Furman",
+    "Rating": -8.486044038243119,
+    "Rank": 254
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Centenary (LA)",
+    "Rating": -8.735730738819546,
+    "Rank": 255
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Carolina State",
+    "Rating": -8.739220378668275,
+    "Rank": 256
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UTEP",
+    "Rating": -8.758926374742618,
+    "Rank": 257
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia Southern",
+    "Rating": -8.840992970433565,
+    "Rank": 258
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Jackson State",
+    "Rating": -8.998635006073807,
+    "Rank": 259
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Quinnipiac",
+    "Rating": -9.186014846157772,
+    "Rank": 260
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Jacksonville",
+    "Rating": -9.224472962382787,
+    "Rank": 261
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Buffalo",
+    "Rating": -9.328426384545114,
+    "Rank": 262
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "William & Mary",
+    "Rating": -9.345764988755176,
+    "Rank": 263
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida A&M",
+    "Rating": -9.35430688723327,
+    "Rank": 264
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Purdue Fort Wayne",
+    "Rating": -9.374174196247017,
+    "Rank": 265
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Delaware State",
+    "Rating": -9.417751075907292,
+    "Rank": 266
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee-Martin",
+    "Rating": -9.422319955785248,
+    "Rank": 267
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alabama State",
+    "Rating": -9.51591159503306,
+    "Rank": 268
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Kentucky",
+    "Rating": -9.750737840417798,
+    "Rank": 269
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hampton",
+    "Rating": -9.816559986527295,
+    "Rank": 270
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southeast Missouri State",
+    "Rating": -9.864279797903054,
+    "Rank": 271
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Youngstown State",
+    "Rating": -9.99096108271695,
+    "Rank": 272
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Howard",
+    "Rating": -10.150129064174113,
+    "Rank": 273
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alcorn State",
+    "Rating": -10.309243173911442,
+    "Rank": 274
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Illinois",
+    "Rating": -10.818431300474256,
+    "Rank": 275
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cornell",
+    "Rating": -10.893020526373611,
+    "Rank": 276
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Monmouth",
+    "Rating": -11.285504332883992,
+    "Rank": 277
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UTSA",
+    "Rating": -11.405504963875948,
+    "Rank": 278
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Francis (PA)",
+    "Rating": -11.500894683148628,
+    "Rank": 279
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Coppin State",
+    "Rating": -11.636868469508844,
+    "Rank": 280
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Long Beach State",
+    "Rating": -12.242094542667886,
+    "Rank": 281
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UNC Greensboro",
+    "Rating": -12.266849349335116,
+    "Rank": 282
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Elon",
+    "Rating": -12.303100544599443,
+    "Rank": 283
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Hampshire",
+    "Rating": -12.309665858477128,
+    "Rank": 284
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Gardner-Webb",
+    "Rating": -12.51264950531561,
+    "Rank": 285
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Grambling",
+    "Rating": -12.592828741346182,
+    "Rank": 286
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Chicago State",
+    "Rating": -12.696842944309603,
+    "Rank": 287
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fairleigh Dickinson",
+    "Rating": -12.805839256534206,
+    "Rank": 288
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Carolina",
+    "Rating": -13.107756305353076,
+    "Rank": 289
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Navy",
+    "Rating": -13.125638979698577,
+    "Rank": 290
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida Atlantic",
+    "Rating": -13.166755604177336,
+    "Rank": 291
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Albany (NY)",
+    "Rating": -13.245231834973538,
+    "Rank": 292
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Robert Morris",
+    "Rating": -13.442196425220502,
+    "Rank": 293
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alabama A&M",
+    "Rating": -13.578847900543591,
+    "Rank": 294
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Charleston Southern",
+    "Rating": -13.78464706028097,
+    "Rank": 295
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Norfolk State",
+    "Rating": -13.78869858986824,
+    "Rank": 296
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "The Citadel",
+    "Rating": -14.4030249211244,
+    "Rank": 297
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Columbia",
+    "Rating": -14.42864973819036,
+    "Rank": 298
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stetson",
+    "Rating": -14.431891603101327,
+    "Rank": 299
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas-Rio Grande Valley",
+    "Rating": -14.618764508191935,
+    "Rank": 300
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northwestern State",
+    "Rating": -14.723081001104244,
+    "Rank": 301
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern",
+    "Rating": -14.894210880084067,
+    "Rank": 302
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UNC Asheville",
+    "Rating": -15.102872350605796,
+    "Rank": 303
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Sacred Heart",
+    "Rating": -15.330459976362093,
+    "Rank": 304
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mount St. Mary's",
+    "Rating": -15.540137596367751,
+    "Rank": 305
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maryland-Baltimore County",
+    "Rating": -15.779471975950194,
+    "Rank": 306
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Coastal Carolina",
+    "Rating": -16.057530144419776,
+    "Rank": 307
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "VMI",
+    "Rating": -16.267866141161107,
+    "Rank": 308
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Long Island University",
+    "Rating": -16.385684336099736,
+    "Rank": 309
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Loyola (MD)",
+    "Rating": -17.24669037447078,
+    "Rank": 310
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Army",
+    "Rating": -17.582776417305656,
+    "Rank": 311
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Liberty",
+    "Rating": -17.802268948470314,
+    "Rank": 312
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Radford",
+    "Rating": -18.004952439831442,
+    "Rank": 313
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maryland-Eastern Shore",
+    "Rating": -18.755017889782803,
+    "Rank": 314
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bethune-Cookman",
+    "Rating": -18.914494180067923,
+    "Rank": 315
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arkansas-Pine Bluff",
+    "Rating": -19.68771791670337,
+    "Rank": 316
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Morgan State",
+    "Rating": -20.26687238608641,
+    "Rank": 317
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Towson",
+    "Rating": -20.340658624241,
+    "Rank": 318
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nicholls State",
+    "Rating": -20.624251350007825,
+    "Rank": 319
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "High Point",
+    "Rating": -21.04561613881464,
+    "Rank": 320
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Campbell",
+    "Rating": -22.164658747654293,
+    "Rank": 321
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee State",
+    "Rating": -23.754460630527934,
+    "Rank": 322
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Savannah State",
+    "Rating": -24.34573285734744,
+    "Rank": 323
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Carolina A&T",
+    "Rating": -27.091081712298468,
+    "Rank": 324
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Morris Brown",
+    "Rating": -27.613370894879512,
+    "Rank": 325
+  }
+]

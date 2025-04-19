@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2025,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Utah Valley",
+    "Rating": 0.8024618265434545,
+    "Rank": 1
+  },
+  {
+    "Year": 2025,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Grand Canyon",
+    "Rating": 0.7892818799023953,
+    "Rank": 2
+  },
+  {
+    "Year": 2025,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "California Baptist",
+    "Rating": 0.5539290673608114,
+    "Rank": 3
+  },
+  {
+    "Year": 2025,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Seattle",
+    "Rating": 0.5203177823396842,
+    "Rank": 4
+  },
+  {
+    "Year": 2025,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Abilene Christian",
+    "Rating": 0.4966233915068191,
+    "Rank": 5
+  },
+  {
+    "Year": 2025,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Tarleton State",
+    "Rating": 0.4213568324181529,
+    "Rank": 6
+  },
+  {
+    "Year": 2025,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "UT Arlington",
+    "Rating": 0.4080964519148202,
+    "Rank": 7
+  },
+  {
+    "Year": 2025,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Southern Utah",
+    "Rating": 0.2794207447642677,
+    "Rank": 8
+  },
+  {
+    "Year": 2025,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Utah Tech",
+    "Rating": 0.2285120232495965,
+    "Rank": 9
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "Year": 2002,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Independent",
+    "Team": "Centenary (LA)",
+    "Rating": 0.6481513000790311,
+    "Rank": 1
+  },
+  {
+    "Year": 2002,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Independent",
+    "Team": "Morris Brown",
+    "Rating": 0.5,
+    "Rank": 2
+  },
+  {
+    "Year": 2002,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Independent",
+    "Team": "Texas-Rio Grande Valley",
+    "Rating": 0.3518486999209688,
+    "Rank": 3
+  }
+]

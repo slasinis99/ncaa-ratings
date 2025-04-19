@@ -1,0 +1,74 @@
+[
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Gonzaga",
+    "Rating": 0.8356577285909461,
+    "Rank": 1
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Pepperdine",
+    "Rating": 0.7232475296339506,
+    "Rank": 2
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Santa Clara",
+    "Rating": 0.691656564661846,
+    "Rank": 3
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "San Diego",
+    "Rating": 0.5150497871421621,
+    "Rank": 4
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "San Francisco",
+    "Rating": 0.382274080637743,
+    "Rank": 5
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Loyola Marymount",
+    "Rating": 0.3790093502599172,
+    "Rank": 6
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Portland",
+    "Rating": 0.3273563643282153,
+    "Rank": 7
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Saint Mary's (CA)",
+    "Rating": 0.1457485947452234,
+    "Rank": 8
+  }
+]

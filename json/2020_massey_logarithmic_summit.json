@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "logarithmic",
+    "Conference": "Summit",
+    "Team": "North Dakota State",
+    "Rating": 8.608268695138145,
+    "Rank": 1
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "logarithmic",
+    "Conference": "Summit",
+    "Team": "South Dakota State",
+    "Rating": 7.322622045072669,
+    "Rank": 2
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "logarithmic",
+    "Conference": "Summit",
+    "Team": "Oral Roberts",
+    "Rating": 5.86758959175114,
+    "Rank": 3
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "logarithmic",
+    "Conference": "Summit",
+    "Team": "South Dakota",
+    "Rating": 3.428737888390406,
+    "Rank": 4
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "logarithmic",
+    "Conference": "Summit",
+    "Team": "North Dakota",
+    "Rating": -2.3701470300557617,
+    "Rank": 5
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "logarithmic",
+    "Conference": "Summit",
+    "Team": "Omaha",
+    "Rating": -3.02932533657594,
+    "Rank": 6
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "logarithmic",
+    "Conference": "Summit",
+    "Team": "Purdue Fort Wayne",
+    "Rating": -3.76904272291764,
+    "Rank": 7
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "logarithmic",
+    "Conference": "Summit",
+    "Team": "Denver",
+    "Rating": -4.727656978106309,
+    "Rank": 8
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "logarithmic",
+    "Conference": "Summit",
+    "Team": "Western Illinois",
+    "Rating": -11.331046152696707,
+    "Rank": 9
+  }
+]

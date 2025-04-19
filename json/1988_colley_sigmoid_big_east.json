@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 1988,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "Syracuse",
+    "Rating": 0.7082470334617336,
+    "Rank": 1
+  },
+  {
+    "Year": 1988,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "Pittsburgh",
+    "Rating": 0.661073801836618,
+    "Rank": 2
+  },
+  {
+    "Year": 1988,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "Villanova",
+    "Rating": 0.5481227401090175,
+    "Rank": 3
+  },
+  {
+    "Year": 1988,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "Seton Hall",
+    "Rating": 0.5445033020780761,
+    "Rank": 4
+  },
+  {
+    "Year": 1988,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "Georgetown",
+    "Rating": 0.5299361560179575,
+    "Rank": 5
+  },
+  {
+    "Year": 1988,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "St. John's (NY)",
+    "Rating": 0.4595443074891882,
+    "Rank": 6
+  },
+  {
+    "Year": 1988,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "Boston College",
+    "Rating": 0.4081837441238984,
+    "Rank": 7
+  },
+  {
+    "Year": 1988,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "Connecticut",
+    "Rating": 0.3281162206037504,
+    "Rank": 8
+  },
+  {
+    "Year": 1988,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "Providence",
+    "Rating": 0.3122726942797566,
+    "Rank": 9
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2006,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MWC",
+    "Team": "San Diego State",
+    "Rating": 6.65683696044516,
+    "Rank": 1
+  },
+  {
+    "Year": 2006,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MWC",
+    "Team": "Air Force",
+    "Rating": 4.252893286268413,
+    "Rank": 2
+  },
+  {
+    "Year": 2006,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MWC",
+    "Team": "Nevada-Las Vegas",
+    "Rating": 1.9542681535499828,
+    "Rank": 3
+  },
+  {
+    "Year": 2006,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MWC",
+    "Team": "Brigham Young",
+    "Rating": 1.605628268636614,
+    "Rank": 4
+  },
+  {
+    "Year": 2006,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MWC",
+    "Team": "New Mexico",
+    "Rating": -0.1523130101109692,
+    "Rank": 5
+  },
+  {
+    "Year": 2006,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MWC",
+    "Team": "Utah",
+    "Rating": -0.6745871654568889,
+    "Rank": 6
+  },
+  {
+    "Year": 2006,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MWC",
+    "Team": "Wyoming",
+    "Rating": -1.7512769423506986,
+    "Rank": 7
+  },
+  {
+    "Year": 2006,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MWC",
+    "Team": "Colorado State",
+    "Rating": -2.888379336960968,
+    "Rank": 8
+  },
+  {
+    "Year": 2006,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MWC",
+    "Team": "TCU",
+    "Rating": -9.003070214020648,
+    "Rank": 9
+  }
+]

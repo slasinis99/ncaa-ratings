@@ -1,0 +1,92 @@
+[
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "James Madison",
+    "Rating": 6.192366985488375,
+    "Rank": 1
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "Drexel",
+    "Rating": 5.433131753787388,
+    "Rank": 2
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "Northeastern",
+    "Rating": 3.123130921771826,
+    "Rank": 3
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "College of Charleston",
+    "Rating": 2.920429220695799,
+    "Rank": 4
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "Elon",
+    "Rating": 2.392286261033515,
+    "Rank": 5
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "Delaware",
+    "Rating": 1.0315515506526327,
+    "Rank": 6
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "Hofstra",
+    "Rating": -0.0135903611995176,
+    "Rank": 7
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "Towson",
+    "Rating": -6.603713395313988,
+    "Rank": 8
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "William & Mary",
+    "Rating": -6.976548636669641,
+    "Rank": 9
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "UNC Wilmington",
+    "Rating": -7.499044300246386,
+    "Rank": 10
+  }
+]

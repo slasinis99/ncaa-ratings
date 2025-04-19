@@ -1,0 +1,128 @@
+[
+  {
+    "Year": 2016,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Kentucky",
+    "Rating": 0.7490633438492048,
+    "Rank": 1
+  },
+  {
+    "Year": 2016,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Texas A&M",
+    "Rating": 0.6798071958402137,
+    "Rank": 2
+  },
+  {
+    "Year": 2016,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Vanderbilt",
+    "Rating": 0.5805332427943113,
+    "Rank": 3
+  },
+  {
+    "Year": 2016,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Louisiana State",
+    "Rating": 0.576638646883681,
+    "Rank": 4
+  },
+  {
+    "Year": 2016,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Georgia",
+    "Rating": 0.5683164058116232,
+    "Rank": 5
+  },
+  {
+    "Year": 2016,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "South Carolina",
+    "Rating": 0.535636181505318,
+    "Rank": 6
+  },
+  {
+    "Year": 2016,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Florida",
+    "Rating": 0.5100731681154037,
+    "Rank": 7
+  },
+  {
+    "Year": 2016,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Mississippi",
+    "Rating": 0.5063589913400799,
+    "Rank": 8
+  },
+  {
+    "Year": 2016,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Alabama",
+    "Rating": 0.4818138382526554,
+    "Rank": 9
+  },
+  {
+    "Year": 2016,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Arkansas",
+    "Rating": 0.4622147443090228,
+    "Rank": 10
+  },
+  {
+    "Year": 2016,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Mississippi State",
+    "Rating": 0.4212019961184293,
+    "Rank": 11
+  },
+  {
+    "Year": 2016,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Tennessee",
+    "Rating": 0.4013014322507959,
+    "Rank": 12
+  },
+  {
+    "Year": 2016,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Auburn",
+    "Rating": 0.288325544979901,
+    "Rank": 13
+  },
+  {
+    "Year": 2016,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Missouri",
+    "Rating": 0.2387152679493646,
+    "Rank": 14
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "Year": 2021,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Oregon",
+    "Rating": 0.7137187451714134,
+    "Rank": 1
+  },
+  {
+    "Year": 2021,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Colorado",
+    "Rating": 0.6874078532871113,
+    "Rank": 2
+  },
+  {
+    "Year": 2021,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Southern California",
+    "Rating": 0.6826890454637703,
+    "Rank": 3
+  },
+  {
+    "Year": 2021,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Oregon State",
+    "Rating": 0.6185381367165387,
+    "Rank": 4
+  },
+  {
+    "Year": 2021,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "UCLA",
+    "Rating": 0.566676810664633,
+    "Rank": 5
+  },
+  {
+    "Year": 2021,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Arizona",
+    "Rating": 0.5500089091061199,
+    "Rank": 6
+  },
+  {
+    "Year": 2021,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Utah",
+    "Rating": 0.4560011108615233,
+    "Rank": 7
+  },
+  {
+    "Year": 2021,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Arizona State",
+    "Rating": 0.440958173676962,
+    "Rank": 8
+  },
+  {
+    "Year": 2021,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Stanford",
+    "Rating": 0.4289876005054325,
+    "Rank": 9
+  },
+  {
+    "Year": 2021,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Washington State",
+    "Rating": 0.3586534653995596,
+    "Rank": 10
+  },
+  {
+    "Year": 2021,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "California",
+    "Rating": 0.2515291276123585,
+    "Rank": 11
+  },
+  {
+    "Year": 2021,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Washington",
+    "Rating": 0.2448310215345868,
+    "Rank": 12
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "Year": 2014,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Florida",
+    "Rating": 0.9355916547309908,
+    "Rank": 1
+  },
+  {
+    "Year": 2014,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Kentucky",
+    "Rating": 0.6651882860277561,
+    "Rank": 2
+  },
+  {
+    "Year": 2014,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Georgia",
+    "Rating": 0.6149071394768815,
+    "Rank": 3
+  },
+  {
+    "Year": 2014,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Tennessee",
+    "Rating": 0.6078441585174108,
+    "Rank": 4
+  },
+  {
+    "Year": 2014,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Arkansas",
+    "Rating": 0.5386510746107828,
+    "Rank": 5
+  },
+  {
+    "Year": 2014,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Missouri",
+    "Rating": 0.5221310326584615,
+    "Rank": 6
+  },
+  {
+    "Year": 2014,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Louisiana State",
+    "Rating": 0.5044709261905486,
+    "Rank": 7
+  },
+  {
+    "Year": 2014,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Mississippi",
+    "Rating": 0.4619627637658119,
+    "Rank": 8
+  },
+  {
+    "Year": 2014,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Texas A&M",
+    "Rating": 0.4039737421911653,
+    "Rank": 9
+  },
+  {
+    "Year": 2014,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Alabama",
+    "Rating": 0.4024140270698187,
+    "Rank": 10
+  },
+  {
+    "Year": 2014,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "South Carolina",
+    "Rating": 0.3969111146831166,
+    "Rank": 11
+  },
+  {
+    "Year": 2014,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Vanderbilt",
+    "Rating": 0.3662893918391021,
+    "Rank": 12
+  },
+  {
+    "Year": 2014,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Auburn",
+    "Rating": 0.354075639908459,
+    "Rank": 13
+  },
+  {
+    "Year": 2014,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Mississippi State",
+    "Rating": 0.2255890483297001,
+    "Rank": 14
+  }
+]

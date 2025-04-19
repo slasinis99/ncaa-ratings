@@ -1,0 +1,3170 @@
+[
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Villanova",
+    "Rating": 0.9854151319226656,
+    "Rank": 1
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arizona",
+    "Rating": 0.9756719660229576,
+    "Rank": 2
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kentucky",
+    "Rating": 0.9703582699474038,
+    "Rank": 3
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kansas",
+    "Rating": 0.9572141943484982,
+    "Rank": 4
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Gonzaga",
+    "Rating": 0.954262641947278,
+    "Rank": 5
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Methodist",
+    "Rating": 0.9437744344461534,
+    "Rank": 6
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oregon",
+    "Rating": 0.9288973599551886,
+    "Rank": 7
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UCLA",
+    "Rating": 0.9196866259874006,
+    "Rank": 8
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Carolina",
+    "Rating": 0.9158653117390406,
+    "Rank": 9
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Duke",
+    "Rating": 0.914007808058295,
+    "Rank": 10
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wichita State",
+    "Rating": 0.8872767889499157,
+    "Rank": 11
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cincinnati",
+    "Rating": 0.8800243263795952,
+    "Rank": 12
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Mary's (CA)",
+    "Rating": 0.8647406243438684,
+    "Rank": 13
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisville",
+    "Rating": 0.860455596882234,
+    "Rank": 14
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Purdue",
+    "Rating": 0.859310897249681,
+    "Rank": 15
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida",
+    "Rating": 0.8536248895843881,
+    "Rank": 16
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nevada",
+    "Rating": 0.8367363522850474,
+    "Rank": 17
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Iowa State",
+    "Rating": 0.8365116162307134,
+    "Rank": 18
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida State",
+    "Rating": 0.8340191587210543,
+    "Rank": 19
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "West Virginia",
+    "Rating": 0.8324255606740054,
+    "Rank": 20
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Notre Dame",
+    "Rating": 0.8308427766609142,
+    "Rank": 21
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Illinois State",
+    "Rating": 0.8220737594056383,
+    "Rank": 22
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Michigan",
+    "Rating": 0.8220113673918276,
+    "Rank": 23
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Virginia Commonwealth",
+    "Rating": 0.8213480480943776,
+    "Rank": 24
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Vermont",
+    "Rating": 0.8202726707657504,
+    "Rank": 25
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Baylor",
+    "Rating": 0.8155908771253043,
+    "Rank": 26
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Middle Tennessee",
+    "Rating": 0.8149201733230966,
+    "Rank": 27
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rhode Island",
+    "Rating": 0.8117215677223768,
+    "Rank": 28
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arkansas",
+    "Rating": 0.8103311503129941,
+    "Rank": 29
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UNC Wilmington",
+    "Rating": 0.8093213666368791,
+    "Rank": 30
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Dayton",
+    "Rating": 0.808240413975025,
+    "Rank": 31
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Butler",
+    "Rating": 0.8052657196346334,
+    "Rank": 32
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Princeton",
+    "Rating": 0.8043787339504301,
+    "Rank": 33
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Minnesota",
+    "Rating": 0.8041435664732759,
+    "Rank": 34
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Virginia",
+    "Rating": 0.7935118447342008,
+    "Rank": 35
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wisconsin",
+    "Rating": 0.7905425321680299,
+    "Rank": 36
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Monmouth",
+    "Rating": 0.7738080504778322,
+    "Rank": 37
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maryland",
+    "Rating": 0.7715822751771857,
+    "Rank": 38
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Miami (FL)",
+    "Rating": 0.7709607169592857,
+    "Rank": 39
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Creighton",
+    "Rating": 0.7606188621820201,
+    "Rank": 40
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Seton Hall",
+    "Rating": 0.7584045956085185,
+    "Rank": 41
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Vanderbilt",
+    "Rating": 0.7563851980287932,
+    "Rank": 42
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Virginia Tech",
+    "Rating": 0.7551321198909079,
+    "Rank": 43
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "East Tennessee State",
+    "Rating": 0.7541848454623056,
+    "Rank": 44
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Winthrop",
+    "Rating": 0.7360356176710271,
+    "Rank": 45
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oklahoma State",
+    "Rating": 0.7329742095853656,
+    "Rank": 46
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northwestern",
+    "Rating": 0.7320150268227337,
+    "Rank": 47
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern California",
+    "Rating": 0.7314481868701274,
+    "Rank": 48
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Mexico State",
+    "Rating": 0.7312515182915995,
+    "Rank": 49
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bucknell",
+    "Rating": 0.7208529269611279,
+    "Rank": 50
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Providence",
+    "Rating": 0.7191496228596965,
+    "Rank": 51
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UT Arlington",
+    "Rating": 0.7176897221625105,
+    "Rank": 52
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "College of Charleston",
+    "Rating": 0.7161747335842675,
+    "Rank": 53
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Akron",
+    "Rating": 0.7131536193606242,
+    "Rank": 54
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Colorado State",
+    "Rating": 0.7123447317911994,
+    "Rank": 55
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Carolina",
+    "Rating": 0.7101363430323219,
+    "Rank": 56
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wake Forest",
+    "Rating": 0.7077356551866051,
+    "Rank": 57
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida Gulf Coast",
+    "Rating": 0.7063416977614935,
+    "Rank": 58
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Belmont",
+    "Rating": 0.7050082806086039,
+    "Rank": 59
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Michigan State",
+    "Rating": 0.6999033778203063,
+    "Rank": 60
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Marquette",
+    "Rating": 0.6991779673115582,
+    "Rank": 61
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Richmond",
+    "Rating": 0.6991660588126596,
+    "Rank": 62
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Houston",
+    "Rating": 0.6975974474617056,
+    "Rank": 63
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UNC Greensboro",
+    "Rating": 0.6960144778095801,
+    "Rank": 64
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Brigham Young",
+    "Rating": 0.6951889327932684,
+    "Rank": 65
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia",
+    "Rating": 0.6939411227008153,
+    "Rank": 66
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "California",
+    "Rating": 0.6922837257536799,
+    "Rank": 67
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Xavier",
+    "Rating": 0.6909493595830968,
+    "Rank": 68
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Iowa",
+    "Rating": 0.6784754928442376,
+    "Rank": 69
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Syracuse",
+    "Rating": 0.6724472279982333,
+    "Rank": 70
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kansas State",
+    "Rating": 0.6701753461654941,
+    "Rank": 71
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Central Florida",
+    "Rating": 0.6678843722807358,
+    "Rank": 72
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cal State Bakersfield",
+    "Rating": 0.665477974364673,
+    "Rank": 73
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mississippi",
+    "Rating": 0.664157350800205,
+    "Rank": 74
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northern Kentucky",
+    "Rating": 0.6634136241888522,
+    "Rank": 75
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fresno State",
+    "Rating": 0.6597421175359917,
+    "Rank": 76
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alabama",
+    "Rating": 0.6596242976510832,
+    "Rank": 77
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Valparaiso",
+    "Rating": 0.6594027417992019,
+    "Rank": 78
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Utah",
+    "Rating": 0.6570608160191401,
+    "Rank": 79
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oakland",
+    "Rating": 0.6519427469991439,
+    "Rank": 80
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Grand Canyon",
+    "Rating": 0.6518322550630415,
+    "Rank": 81
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Illinois",
+    "Rating": 0.6493495085435518,
+    "Rank": 82
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Boise State",
+    "Rating": 0.6492534990241587,
+    "Rank": 83
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UNC Asheville",
+    "Rating": 0.64844972744981,
+    "Rank": 84
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "George Washington",
+    "Rating": 0.639395915016583,
+    "Rank": 85
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Furman",
+    "Rating": 0.637980503246758,
+    "Rank": 86
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Clemson",
+    "Rating": 0.6353238649172436,
+    "Rank": 87
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Colorado",
+    "Rating": 0.6317907518661573,
+    "Rank": 88
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "St. Bonaventure",
+    "Rating": 0.6300523883374418,
+    "Rank": 89
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kent State",
+    "Rating": 0.62815925940496,
+    "Rank": 90
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Indiana",
+    "Rating": 0.6258911138943819,
+    "Rank": 91
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Dakota",
+    "Rating": 0.624938041427443,
+    "Rank": 92
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Iona",
+    "Rating": 0.6186914691061136,
+    "Rank": 93
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana Tech",
+    "Rating": 0.6162229098854727,
+    "Rank": 94
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Towson",
+    "Rating": 0.6145749634878374,
+    "Rank": 95
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Dakota State",
+    "Rating": 0.6126980252066632,
+    "Rank": 96
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee",
+    "Rating": 0.6122900745058868,
+    "Rank": 97
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Davidson",
+    "Rating": 0.6117928417272749,
+    "Rank": 98
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "George Mason",
+    "Rating": 0.6114321819004113,
+    "Rank": 99
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "TCU",
+    "Rating": 0.6111204288823912,
+    "Rank": 100
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas A&M",
+    "Rating": 0.6074226670168991,
+    "Rank": 101
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Francisco",
+    "Rating": 0.6062458393761637,
+    "Rank": 102
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Dakota",
+    "Rating": 0.6030117616293039,
+    "Rank": 103
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Ball State",
+    "Rating": 0.6004374324721731,
+    "Rank": 104
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Diego State",
+    "Rating": 0.5991279461776916,
+    "Rank": 105
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Troy",
+    "Rating": 0.5980615247786494,
+    "Rank": 106
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Harvard",
+    "Rating": 0.5934892073682181,
+    "Rank": 107
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Lehigh",
+    "Rating": 0.5929085964582296,
+    "Rank": 108
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia Tech",
+    "Rating": 0.5926869823820157,
+    "Rank": 109
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Peter's",
+    "Rating": 0.5907853957571145,
+    "Rank": 110
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Santa Clara",
+    "Rating": 0.5885248005206358,
+    "Rank": 111
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia State",
+    "Rating": 0.5884375717326047,
+    "Rank": 112
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas Southern",
+    "Rating": 0.5878606836757205,
+    "Rank": 113
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Ohio State",
+    "Rating": 0.5876602042575534,
+    "Rank": 114
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Connecticut",
+    "Rating": 0.5861664189725685,
+    "Rank": 115
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Mexico",
+    "Rating": 0.5858026854948996,
+    "Rank": 116
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Dakota State",
+    "Rating": 0.5818458298490478,
+    "Rank": 117
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana",
+    "Rating": 0.5818335611732328,
+    "Rank": 118
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Ohio",
+    "Rating": 0.5801209892860615,
+    "Rank": 119
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Albany (NY)",
+    "Rating": 0.579494392676878,
+    "Rank": 120
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pittsburgh",
+    "Rating": 0.5782116546650314,
+    "Rank": 121
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UC Davis",
+    "Rating": 0.5767200795424953,
+    "Rank": 122
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Yale",
+    "Rating": 0.5763412528183841,
+    "Rank": 123
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UC Irvine",
+    "Rating": 0.5739402278920901,
+    "Rank": 124
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Memphis",
+    "Rating": 0.56923008692535,
+    "Rank": 125
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Omaha",
+    "Rating": 0.5680556378650929,
+    "Rank": 126
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Lipscomb",
+    "Rating": 0.5678638695409327,
+    "Rank": 127
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Auburn",
+    "Rating": 0.5666469502926845,
+    "Rank": 128
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "St. John's (NY)",
+    "Rating": 0.5652786473758119,
+    "Rank": 129
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arizona State",
+    "Rating": 0.5646697157916195,
+    "Rank": 130
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wright State",
+    "Rating": 0.5640621787224087,
+    "Rank": 131
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas Tech",
+    "Rating": 0.5620312863115872,
+    "Rank": 132
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "William & Mary",
+    "Rating": 0.5613692646754586,
+    "Rank": 133
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Orleans",
+    "Rating": 0.5613622483142078,
+    "Rank": 134
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Siena",
+    "Rating": 0.561332930554825,
+    "Rank": 135
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Michigan",
+    "Rating": 0.5585638700030233,
+    "Rank": 136
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas State",
+    "Rating": 0.5580372321125858,
+    "Rank": 137
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Old Dominion",
+    "Rating": 0.5575710251218592,
+    "Rank": 138
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stony Brook",
+    "Rating": 0.5534272329907781,
+    "Rank": 139
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Carolina Central",
+    "Rating": 0.5525169410402493,
+    "Rank": 140
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mount St. Mary's",
+    "Rating": 0.5505102089129472,
+    "Rank": 141
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Liberty",
+    "Rating": 0.5494148508135056,
+    "Rank": 142
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Washington",
+    "Rating": 0.5489115386682152,
+    "Rank": 143
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas A&M-Corpus Christi",
+    "Rating": 0.5479045851885246,
+    "Rank": 144
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Buffalo",
+    "Rating": 0.5457764645789218,
+    "Rank": 145
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Hampshire",
+    "Rating": 0.5454497260761302,
+    "Rank": 146
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Penn State",
+    "Rating": 0.5430561288501864,
+    "Rank": 147
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rice",
+    "Rating": 0.5422526506794575,
+    "Rank": 148
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Loyola Marymount",
+    "Rating": 0.5397689119343418,
+    "Rank": 149
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Illinois",
+    "Rating": 0.5386269842070415,
+    "Rank": 150
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Marshall",
+    "Rating": 0.5384931634611333,
+    "Rank": 151
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgetown",
+    "Rating": 0.5370987865039759,
+    "Rank": 152
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Gardner-Webb",
+    "Rating": 0.53167509868721,
+    "Rank": 153
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Elon",
+    "Rating": 0.5252415646307357,
+    "Rank": 154
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tulsa",
+    "Rating": 0.5243401033553678,
+    "Rank": 155
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Green Bay",
+    "Rating": 0.5236830258465646,
+    "Rank": 156
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stanford",
+    "Rating": 0.5220652631596594,
+    "Rank": 157
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arkansas State",
+    "Rating": 0.5205649594862807,
+    "Rank": 158
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mississippi State",
+    "Rating": 0.5203316034244515,
+    "Rank": 159
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wyoming",
+    "Rating": 0.5187508912119256,
+    "Rank": 160
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Weber State",
+    "Rating": 0.5167664742579916,
+    "Rank": 161
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Jacksonville State",
+    "Rating": 0.5160637315696412,
+    "Rank": 162
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Boston University",
+    "Rating": 0.5160381260313706,
+    "Rank": 163
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wofford",
+    "Rating": 0.5147413335799168,
+    "Rank": 164
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "La Salle",
+    "Rating": 0.5132729100212466,
+    "Rank": 165
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Temple",
+    "Rating": 0.5132436842584027,
+    "Rank": 166
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northern Iowa",
+    "Rating": 0.5130496336310414,
+    "Rank": 167
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Houston Christian",
+    "Rating": 0.5116516683601532,
+    "Rank": 168
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Chattanooga",
+    "Rating": 0.5103060070773824,
+    "Rank": 169
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Idaho",
+    "Rating": 0.5102972780933244,
+    "Rank": 170
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Purdue Fort Wayne",
+    "Rating": 0.5091943255019872,
+    "Rank": 171
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia Southern",
+    "Rating": 0.5081177302905598,
+    "Rank": 172
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "NC State",
+    "Rating": 0.5080990675826988,
+    "Rank": 173
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Toledo",
+    "Rating": 0.5062402280335146,
+    "Rank": 174
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UTEP",
+    "Rating": 0.5055724280441434,
+    "Rank": 175
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Washington State",
+    "Rating": 0.5001930258460254,
+    "Rank": 176
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "IU Indy",
+    "Rating": 0.5,
+    "Rank": 177
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "SIU Edwardsville",
+    "Rating": 0.5,
+    "Rank": 178
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee-Martin",
+    "Rating": 0.4998305359893269,
+    "Rank": 179
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stephen F. Austin",
+    "Rating": 0.4982673467103798,
+    "Rank": 180
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Utah State",
+    "Rating": 0.4959041145947186,
+    "Rank": 181
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Coastal Carolina",
+    "Rating": 0.4928705286958428,
+    "Rank": 182
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nebraska",
+    "Rating": 0.4917730245805917,
+    "Rank": 183
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oklahoma",
+    "Rating": 0.4870593304554437,
+    "Rank": 184
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Canisius",
+    "Rating": 0.4854529317311268,
+    "Rank": 185
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Loyola (IL)",
+    "Rating": 0.4849908846461432,
+    "Rank": 186
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Samford",
+    "Rating": 0.4841574109407707,
+    "Rank": 187
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fairfield",
+    "Rating": 0.4840685518186111,
+    "Rank": 188
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maryland-Baltimore County",
+    "Rating": 0.4821369765098117,
+    "Rank": 189
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rutgers",
+    "Rating": 0.4806093157366232,
+    "Rank": 190
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mercer",
+    "Rating": 0.4785867270722714,
+    "Rank": 191
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cal State Fullerton",
+    "Rating": 0.4777074666736646,
+    "Rank": 192
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Evansville",
+    "Rating": 0.4761767328934244,
+    "Rank": 193
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Denver",
+    "Rating": 0.4760401679495821,
+    "Rank": 194
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas",
+    "Rating": 0.4758652356047523,
+    "Rank": 195
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Long Island University",
+    "Rating": 0.4746086522276192,
+    "Rank": 196
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northeastern",
+    "Rating": 0.4740000393570298,
+    "Rank": 197
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kansas City",
+    "Rating": 0.4714511341076458,
+    "Rank": 198
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "East Carolina",
+    "Rating": 0.470552758942088,
+    "Rank": 199
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Sam Houston",
+    "Rating": 0.4684439683061165,
+    "Rank": 200
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Missouri State",
+    "Rating": 0.4678257174670475,
+    "Rank": 201
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Navy",
+    "Rating": 0.4638722177545671,
+    "Rank": 202
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rider",
+    "Rating": 0.4630701265148169,
+    "Rank": 203
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Montana",
+    "Rating": 0.4607756175435578,
+    "Rank": 204
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Jose State",
+    "Rating": 0.4606478999400938,
+    "Rank": 205
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pennsylvania",
+    "Rating": 0.4554641671478158,
+    "Rank": 206
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hofstra",
+    "Rating": 0.4535918727906309,
+    "Rank": 207
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Long Beach State",
+    "Rating": 0.4501985107577315,
+    "Rank": 208
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alcorn State",
+    "Rating": 0.4472808690832583,
+    "Rank": 209
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Norfolk State",
+    "Rating": 0.4423021941568626,
+    "Rank": 210
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Morehead State",
+    "Rating": 0.4382837340767171,
+    "Rank": 211
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Florida",
+    "Rating": 0.4379680151804527,
+    "Rank": 212
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Michigan",
+    "Rating": 0.4373123651889499,
+    "Rank": 213
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UAB",
+    "Rating": 0.4335886556212386,
+    "Rank": 214
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bradley",
+    "Rating": 0.431291853566856,
+    "Rank": 215
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Lamar",
+    "Rating": 0.4310119683926952,
+    "Rank": 216
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Louis",
+    "Rating": 0.4306058553983216,
+    "Rank": 217
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Massachusetts",
+    "Rating": 0.4292609785267501,
+    "Rank": 218
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fordham",
+    "Rating": 0.4288446871802406,
+    "Rank": 219
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee State",
+    "Rating": 0.4284924040036353,
+    "Rank": 220
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wagner",
+    "Rating": 0.4277721066745464,
+    "Rank": 221
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Diego",
+    "Rating": 0.4249348802436134,
+    "Rank": 222
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Holy Cross",
+    "Rating": 0.4231361016703849,
+    "Rank": 223
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Kentucky",
+    "Rating": 0.4221386094839756,
+    "Rank": 224
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Francis (PA)",
+    "Rating": 0.4214236211155841,
+    "Rank": 225
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Utah Valley",
+    "Rating": 0.4206277553250588,
+    "Rank": 226
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Montana State",
+    "Rating": 0.4188093033666565,
+    "Rank": 227
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Campbell",
+    "Rating": 0.4142145087638698,
+    "Rank": 228
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Loyola (MD)",
+    "Rating": 0.4106525114459893,
+    "Rank": 229
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bowling Green State",
+    "Rating": 0.4092071675120598,
+    "Rank": 230
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "High Point",
+    "Rating": 0.3936985452728687,
+    "Rank": 231
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hawaii",
+    "Rating": 0.3930025512261182,
+    "Rank": 232
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Carolina Upstate",
+    "Rating": 0.3923146037017217,
+    "Rank": 233
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Radford",
+    "Rating": 0.3923053547649987,
+    "Rank": 234
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Robert Morris",
+    "Rating": 0.3913401849996599,
+    "Rank": 235
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Delaware",
+    "Rating": 0.388064219538129,
+    "Rank": 236
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kennesaw State",
+    "Rating": 0.3874436088814197,
+    "Rank": 237
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Boston College",
+    "Rating": 0.3838622255816633,
+    "Rank": 238
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Central Michigan",
+    "Rating": 0.3837491395231168,
+    "Rank": 239
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Murray State",
+    "Rating": 0.3824009746002943,
+    "Rank": 240
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pacific",
+    "Rating": 0.3800419033167457,
+    "Rank": 241
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hampton",
+    "Rating": 0.3774955393421959,
+    "Rank": 242
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Washington",
+    "Rating": 0.375434453147535,
+    "Rank": 243
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Illinois-Chicago",
+    "Rating": 0.3747947873660471,
+    "Rank": 244
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana State",
+    "Rating": 0.3736810113715408,
+    "Rank": 245
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Alabama",
+    "Rating": 0.3722033070540622,
+    "Rank": 246
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Savannah State",
+    "Rating": 0.3710416512399057,
+    "Rank": 247
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southeast Missouri State",
+    "Rating": 0.3698773236502318,
+    "Rank": 248
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UTSA",
+    "Rating": 0.3679619912893437,
+    "Rank": 249
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Joseph's",
+    "Rating": 0.3675691607051438,
+    "Rank": 250
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Sacramento State",
+    "Rating": 0.3661080269762771,
+    "Rank": 251
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southeastern Louisiana",
+    "Rating": 0.366054948687241,
+    "Rank": 252
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northern Illinois",
+    "Rating": 0.366025674010358,
+    "Rank": 253
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Indiana State",
+    "Rating": 0.3658590080626821,
+    "Rank": 254
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "DePaul",
+    "Rating": 0.3630478265464089,
+    "Rank": 255
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "James Madison",
+    "Rating": 0.3586894192979556,
+    "Rank": 256
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Little Rock",
+    "Rating": 0.3586048890507758,
+    "Rank": 257
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nevada-Las Vegas",
+    "Rating": 0.3582558411935573,
+    "Rank": 258
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Charlotte",
+    "Rating": 0.3574783757027607,
+    "Rank": 259
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Air Force",
+    "Rating": 0.3569985799216424,
+    "Rank": 260
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Missouri",
+    "Rating": 0.3557980137219422,
+    "Rank": 261
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Army",
+    "Rating": 0.3551478584506928,
+    "Rank": 262
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Columbia",
+    "Rating": 0.3515222005140535,
+    "Rank": 263
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pepperdine",
+    "Rating": 0.3445425958771217,
+    "Rank": 264
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Youngstown State",
+    "Rating": 0.3413167860723138,
+    "Rank": 265
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Illinois",
+    "Rating": 0.3396480274989224,
+    "Rank": 266
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Charleston Southern",
+    "Rating": 0.3396117941455052,
+    "Rank": 267
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maryland-Eastern Shore",
+    "Rating": 0.3392132595187936,
+    "Rank": 268
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Seattle",
+    "Rating": 0.3347119917881625,
+    "Rank": 269
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Grambling",
+    "Rating": 0.3335820605256866,
+    "Rank": 270
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Jacksonville",
+    "Rating": 0.3289752712801289,
+    "Rank": 271
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Portland State",
+    "Rating": 0.3275563486287052,
+    "Rank": 272
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Milwaukee",
+    "Rating": 0.3271202843194222,
+    "Rank": 273
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee Tech",
+    "Rating": 0.3260541788365276,
+    "Rank": 274
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Morgan State",
+    "Rating": 0.3250471448273467,
+    "Rank": 275
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northwestern State",
+    "Rating": 0.3239238181002529,
+    "Rank": 276
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Brown",
+    "Rating": 0.3217511656922209,
+    "Rank": 277
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Abilene Christian",
+    "Rating": 0.3191958318873786,
+    "Rank": 278
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bryant",
+    "Rating": 0.3185784550470377,
+    "Rank": 279
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Austin Peay",
+    "Rating": 0.3154322579224344,
+    "Rank": 280
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Niagara",
+    "Rating": 0.3137866910964801,
+    "Rank": 281
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Colgate",
+    "Rating": 0.3135793940298141,
+    "Rank": 282
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Portland",
+    "Rating": 0.3102481682393877,
+    "Rank": 283
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cal Poly",
+    "Rating": 0.309240614862278,
+    "Rank": 284
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Kentucky",
+    "Rating": 0.3080295291633931,
+    "Rank": 285
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cal State Northridge",
+    "Rating": 0.3079685503643746,
+    "Rank": 286
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nicholls State",
+    "Rating": 0.3071350687461575,
+    "Rank": 287
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Prairie View",
+    "Rating": 0.3068701892444179,
+    "Rank": 288
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Incarnate Word",
+    "Rating": 0.3058568764619824,
+    "Rank": 289
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern",
+    "Rating": 0.3048724767705911,
+    "Rank": 290
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Dartmouth",
+    "Rating": 0.3048197789298585,
+    "Rank": 291
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Sacred Heart",
+    "Rating": 0.3047934030510894,
+    "Rank": 292
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "The Citadel",
+    "Rating": 0.3041222565714382,
+    "Rank": 293
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Manhattan",
+    "Rating": 0.3024111144607191,
+    "Rank": 294
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Duquesne",
+    "Rating": 0.3023012665065517,
+    "Rank": 295
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northern Colorado",
+    "Rating": 0.301610796789269,
+    "Rank": 296
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Jackson State",
+    "Rating": 0.3010565300489109,
+    "Rank": 297
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida Atlantic",
+    "Rating": 0.2980953903612868,
+    "Rank": 298
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Detroit Mercy",
+    "Rating": 0.2895744007433624,
+    "Rank": 299
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Massachusetts-Lowell",
+    "Rating": 0.289532646612015,
+    "Rank": 300
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cleveland State",
+    "Rating": 0.2884746870450295,
+    "Rank": 301
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cornell",
+    "Rating": 0.2876420334637867,
+    "Rank": 302
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Appalachian State",
+    "Rating": 0.2860167950600906,
+    "Rank": 303
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Quinnipiac",
+    "Rating": 0.2841417884667173,
+    "Rank": 304
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Miami (OH)",
+    "Rating": 0.2813002895628484,
+    "Rank": 305
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oregon State",
+    "Rating": 0.2812370235021988,
+    "Rank": 306
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oral Roberts",
+    "Rating": 0.279761101181765,
+    "Rank": 307
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Carolina",
+    "Rating": 0.2797174154909915,
+    "Rank": 308
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tulane",
+    "Rating": 0.2789486637656291,
+    "Rank": 309
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "NJIT",
+    "Rating": 0.2782902365649131,
+    "Rank": 310
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Drake",
+    "Rating": 0.2720497821353273,
+    "Rank": 311
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fairleigh Dickinson",
+    "Rating": 0.2709412194618024,
+    "Rank": 312
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "American",
+    "Rating": 0.2686167664381115,
+    "Rank": 313
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Carolina State",
+    "Rating": 0.2670841064997967,
+    "Rank": 314
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana-Monroe",
+    "Rating": 0.2579392545791806,
+    "Rank": 315
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hartford",
+    "Rating": 0.2555152219815035,
+    "Rank": 316
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Marist",
+    "Rating": 0.2539669483466213,
+    "Rank": 317
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Illinois",
+    "Rating": 0.2520081962870233,
+    "Rank": 318
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Central Arkansas",
+    "Rating": 0.2444898837002199,
+    "Rank": 319
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Lafayette",
+    "Rating": 0.2438836646557671,
+    "Rank": 320
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Drexel",
+    "Rating": 0.2421776194115349,
+    "Rank": 321
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UC Santa Barbara",
+    "Rating": 0.2412595548896955,
+    "Rank": 322
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Florida",
+    "Rating": 0.2404158704027003,
+    "Rank": 323
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northern Arizona",
+    "Rating": 0.2398531805213561,
+    "Rank": 324
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stetson",
+    "Rating": 0.2355855784698841,
+    "Rank": 325
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Mississippi",
+    "Rating": 0.2340579232898331,
+    "Rank": 326
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Binghamton",
+    "Rating": 0.2263083207943525,
+    "Rank": 327
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UC Riverside",
+    "Rating": 0.221920581171801,
+    "Rank": 328
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas-Rio Grande Valley",
+    "Rating": 0.213583872074781,
+    "Rank": 329
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "VMI",
+    "Rating": 0.2077222207306212,
+    "Rank": 330
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maine",
+    "Rating": 0.2020264674672592,
+    "Rank": 331
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mississippi Valley State",
+    "Rating": 0.1961245204427897,
+    "Rank": 332
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Howard",
+    "Rating": 0.1944426062358461,
+    "Rank": 333
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bethune-Cookman",
+    "Rating": 0.1920726791773147,
+    "Rank": 334
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida International",
+    "Rating": 0.1890819273529655,
+    "Rank": 335
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "McNeese State",
+    "Rating": 0.1849253202685115,
+    "Rank": 336
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Coppin State",
+    "Rating": 0.1834910120224431,
+    "Rank": 337
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Delaware State",
+    "Rating": 0.1806356338850256,
+    "Rank": 338
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Texas",
+    "Rating": 0.16536392604266,
+    "Rank": 339
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Chicago State",
+    "Rating": 0.1507610220835277,
+    "Rank": 340
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alabama State",
+    "Rating": 0.149531578238745,
+    "Rank": 341
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Idaho State",
+    "Rating": 0.1333361245964035,
+    "Rank": 342
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Utah",
+    "Rating": 0.1327312034281136,
+    "Rank": 343
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Central Connecticut State",
+    "Rating": 0.1314960077584099,
+    "Rank": 344
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Longwood",
+    "Rating": 0.1242090175476367,
+    "Rank": 345
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arkansas-Pine Bluff",
+    "Rating": 0.1227053095205829,
+    "Rank": 346
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Illinois-Edwardsville",
+    "Rating": 0.102206544200165,
+    "Rank": 347
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Presbyterian",
+    "Rating": 0.0954347876436788,
+    "Rank": 348
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida A&M",
+    "Rating": 0.0732363519264557,
+    "Rank": 349
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "St. Francis (NY)",
+    "Rating": 0.0292193639268967,
+    "Rank": 350
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alabama A&M",
+    "Rating": -0.0054519832835384,
+    "Rank": 351
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Carolina A&T",
+    "Rating": -0.0270609130371644,
+    "Rank": 352
+  }
+]

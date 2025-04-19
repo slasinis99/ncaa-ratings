@@ -1,0 +1,29 @@
+[
+  {
+    "Year": 1997,
+    "Method": "massey",
+    "Weight": "gaussian",
+    "Conference": "Independent",
+    "Team": "Oral Roberts",
+    "Rating": 11.481850932667584,
+    "Rank": 1
+  },
+  {
+    "Year": 1997,
+    "Method": "massey",
+    "Weight": "gaussian",
+    "Conference": "Independent",
+    "Team": "Wofford",
+    "Rating": 0.0,
+    "Rank": 2
+  },
+  {
+    "Year": 1997,
+    "Method": "massey",
+    "Weight": "gaussian",
+    "Conference": "Independent",
+    "Team": "Southern Utah",
+    "Rating": -11.481850932667584,
+    "Rank": 3
+  }
+]

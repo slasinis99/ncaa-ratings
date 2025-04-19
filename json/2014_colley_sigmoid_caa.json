@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2014,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "Delaware",
+    "Rating": 0.8011665970004069,
+    "Rank": 1
+  },
+  {
+    "Year": 2014,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "Towson",
+    "Rating": 0.7241905107401337,
+    "Rank": 2
+  },
+  {
+    "Year": 2014,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "William & Mary",
+    "Rating": 0.621959637753329,
+    "Rank": 3
+  },
+  {
+    "Year": 2014,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "Drexel",
+    "Rating": 0.4726905970614997,
+    "Rank": 4
+  },
+  {
+    "Year": 2014,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "Northeastern",
+    "Rating": 0.4724062623250401,
+    "Rank": 5
+  },
+  {
+    "Year": 2014,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "James Madison",
+    "Rating": 0.3980241287661558,
+    "Rank": 6
+  },
+  {
+    "Year": 2014,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "College of Charleston",
+    "Rating": 0.3799661968471698,
+    "Rank": 7
+  },
+  {
+    "Year": 2014,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "Hofstra",
+    "Rating": 0.3672516116333331,
+    "Rank": 8
+  },
+  {
+    "Year": 2014,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "UNC Wilmington",
+    "Rating": 0.2623444578729328,
+    "Rank": 9
+  }
+]

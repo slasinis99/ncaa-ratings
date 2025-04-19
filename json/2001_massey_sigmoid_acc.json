@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2001,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ACC",
+    "Team": "Duke",
+    "Rating": 15.74959932032781,
+    "Rank": 1
+  },
+  {
+    "Year": 2001,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ACC",
+    "Team": "Maryland",
+    "Rating": 9.959448455534549,
+    "Rank": 2
+  },
+  {
+    "Year": 2001,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ACC",
+    "Team": "North Carolina",
+    "Rating": 3.3032716299636697,
+    "Rank": 3
+  },
+  {
+    "Year": 2001,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ACC",
+    "Team": "Wake Forest",
+    "Rating": 2.623044732989696,
+    "Rank": 4
+  },
+  {
+    "Year": 2001,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ACC",
+    "Team": "Virginia",
+    "Rating": 0.1576120746315507,
+    "Rank": 5
+  },
+  {
+    "Year": 2001,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ACC",
+    "Team": "Georgia Tech",
+    "Rating": -3.38670969442698,
+    "Rank": 6
+  },
+  {
+    "Year": 2001,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ACC",
+    "Team": "NC State",
+    "Rating": -3.412420691313522,
+    "Rank": 7
+  },
+  {
+    "Year": 2001,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ACC",
+    "Team": "Florida State",
+    "Rating": -10.16598367345262,
+    "Rank": 8
+  },
+  {
+    "Year": 2001,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ACC",
+    "Team": "Clemson",
+    "Rating": -14.827862154254207,
+    "Rank": 9
+  }
+]

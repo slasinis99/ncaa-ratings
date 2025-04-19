@@ -1,0 +1,110 @@
+[
+  {
+    "Year": 2023,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "UCLA",
+    "Rating": 0.8272082858678068,
+    "Rank": 1
+  },
+  {
+    "Year": 2023,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Arizona",
+    "Rating": 0.7359020972414059,
+    "Rank": 2
+  },
+  {
+    "Year": 2023,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Southern California",
+    "Rating": 0.6309354213840026,
+    "Rank": 3
+  },
+  {
+    "Year": 2023,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Oregon",
+    "Rating": 0.5862514403387047,
+    "Rank": 4
+  },
+  {
+    "Year": 2023,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Washington State",
+    "Rating": 0.5647585611608713,
+    "Rank": 5
+  },
+  {
+    "Year": 2023,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Arizona State",
+    "Rating": 0.5576401458523823,
+    "Rank": 6
+  },
+  {
+    "Year": 2023,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Colorado",
+    "Rating": 0.4476559530360252,
+    "Rank": 7
+  },
+  {
+    "Year": 2023,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Utah",
+    "Rating": 0.4223117502119569,
+    "Rank": 8
+  },
+  {
+    "Year": 2023,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Stanford",
+    "Rating": 0.4140013311366183,
+    "Rank": 9
+  },
+  {
+    "Year": 2023,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Washington",
+    "Rating": 0.3995240764142608,
+    "Rank": 10
+  },
+  {
+    "Year": 2023,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Oregon State",
+    "Rating": 0.2714734562006353,
+    "Rank": 11
+  },
+  {
+    "Year": 2023,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "California",
+    "Rating": 0.1423374811553252,
+    "Rank": 12
+  }
+]

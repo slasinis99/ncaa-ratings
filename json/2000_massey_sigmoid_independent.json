@@ -1,0 +1,47 @@
+[
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Independent",
+    "Team": "Albany (NY)",
+    "Rating": 4.933334605891929,
+    "Rank": 1
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Independent",
+    "Team": "Texas-Rio Grande Valley",
+    "Rating": 4.30428879880891,
+    "Rank": 2
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Independent",
+    "Team": "Centenary (LA)",
+    "Rating": -0.9561113621548608,
+    "Rank": 3
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Independent",
+    "Team": "Belmont",
+    "Rating": -3.34817743665405,
+    "Rank": 4
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Independent",
+    "Team": "Stony Brook",
+    "Rating": -4.933334605891925,
+    "Rank": 5
+  }
+]

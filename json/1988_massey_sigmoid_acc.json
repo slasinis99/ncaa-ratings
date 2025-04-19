@@ -1,0 +1,74 @@
+[
+  {
+    "Year": 1988,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ACC",
+    "Team": "Duke",
+    "Rating": 8.455478642406849,
+    "Rank": 1
+  },
+  {
+    "Year": 1988,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ACC",
+    "Team": "North Carolina",
+    "Rating": 8.123652850235242,
+    "Rank": 2
+  },
+  {
+    "Year": 1988,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ACC",
+    "Team": "NC State",
+    "Rating": 3.855104498501077,
+    "Rank": 3
+  },
+  {
+    "Year": 1988,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ACC",
+    "Team": "Georgia Tech",
+    "Rating": -0.0431126997731339,
+    "Rank": 4
+  },
+  {
+    "Year": 1988,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ACC",
+    "Team": "Maryland",
+    "Rating": -0.424966876844859,
+    "Rank": 5
+  },
+  {
+    "Year": 1988,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ACC",
+    "Team": "Virginia",
+    "Rating": -4.146509189211053,
+    "Rank": 6
+  },
+  {
+    "Year": 1988,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ACC",
+    "Team": "Wake Forest",
+    "Rating": -7.428470406694142,
+    "Rank": 7
+  },
+  {
+    "Year": 1988,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ACC",
+    "Team": "Clemson",
+    "Rating": -8.391176818619961,
+    "Rank": 8
+  }
+]

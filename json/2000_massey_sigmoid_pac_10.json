@@ -1,0 +1,92 @@
+[
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Pac-10",
+    "Team": "Stanford",
+    "Rating": 17.669575734842017,
+    "Rank": 1
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Pac-10",
+    "Team": "Arizona",
+    "Rating": 7.428940159937427,
+    "Rank": 2
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Pac-10",
+    "Team": "Oregon",
+    "Rating": 3.203173423800449,
+    "Rank": 3
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Pac-10",
+    "Team": "Arizona State",
+    "Rating": 2.380055841062998,
+    "Rank": 4
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Pac-10",
+    "Team": "UCLA",
+    "Rating": 1.9137042405029123,
+    "Rank": 5
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Pac-10",
+    "Team": "Southern California",
+    "Rating": -0.7782182355211832,
+    "Rank": 6
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Pac-10",
+    "Team": "California",
+    "Rating": -3.9726812085858505,
+    "Rank": 7
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Pac-10",
+    "Team": "Oregon State",
+    "Rating": -5.344946502102255,
+    "Rank": 8
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Pac-10",
+    "Team": "Washington",
+    "Rating": -10.201271649124784,
+    "Rank": 9
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Pac-10",
+    "Team": "Washington State",
+    "Rating": -12.29833180481172,
+    "Rank": 10
+  }
+]

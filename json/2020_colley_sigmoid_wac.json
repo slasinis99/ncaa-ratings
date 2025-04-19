@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2020,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "New Mexico State",
+    "Rating": 0.8834129368544833,
+    "Rank": 1
+  },
+  {
+    "Year": 2020,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "California Baptist",
+    "Rating": 0.5790295602751966,
+    "Rank": 2
+  },
+  {
+    "Year": 2020,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Texas-Rio Grande Valley",
+    "Rating": 0.5658412559419133,
+    "Rank": 3
+  },
+  {
+    "Year": 2020,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Kansas City",
+    "Rating": 0.5327328045104343,
+    "Rank": 4
+  },
+  {
+    "Year": 2020,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Seattle",
+    "Rating": 0.5164713213028354,
+    "Rank": 5
+  },
+  {
+    "Year": 2020,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Grand Canyon",
+    "Rating": 0.5029336223746613,
+    "Rank": 6
+  },
+  {
+    "Year": 2020,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Utah Valley",
+    "Rating": 0.3928959046867729,
+    "Rank": 7
+  },
+  {
+    "Year": 2020,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Cal State Bakersfield",
+    "Rating": 0.3872277007106864,
+    "Rank": 8
+  },
+  {
+    "Year": 2020,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Chicago State",
+    "Rating": 0.1394548933430228,
+    "Rank": 9
+  }
+]

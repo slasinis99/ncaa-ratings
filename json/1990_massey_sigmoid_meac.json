@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "Coppin State",
+    "Rating": 10.656005244303362,
+    "Rank": 1
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "Florida A&M",
+    "Rating": 5.293309019210853,
+    "Rank": 2
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "North Carolina A&T",
+    "Rating": 1.6107726949179515,
+    "Rank": 3
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "Delaware State",
+    "Rating": 0.6807566130279293,
+    "Rank": 4
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "South Carolina State",
+    "Rating": 0.1454519961775986,
+    "Rank": 5
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "Bethune-Cookman",
+    "Rating": -0.5006426281651492,
+    "Rank": 6
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "Morgan State",
+    "Rating": -5.648798475719806,
+    "Rank": 7
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "Howard",
+    "Rating": -5.961611404558262,
+    "Rank": 8
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "Maryland-Eastern Shore",
+    "Rating": -6.275243059194497,
+    "Rank": 9
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "Year": 1987,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCAC",
+    "Team": "San Diego",
+    "Rating": 9.361292393626048,
+    "Rank": 1
+  },
+  {
+    "Year": 1987,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCAC",
+    "Team": "Gonzaga",
+    "Rating": 3.481265216634064,
+    "Rank": 2
+  },
+  {
+    "Year": 1987,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCAC",
+    "Team": "Santa Clara",
+    "Rating": 2.65483620671728,
+    "Rank": 3
+  },
+  {
+    "Year": 1987,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCAC",
+    "Team": "Pepperdine",
+    "Rating": -0.1423192820393339,
+    "Rank": 4
+  },
+  {
+    "Year": 1987,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCAC",
+    "Team": "Saint Mary's (CA)",
+    "Rating": -1.166348714160608,
+    "Rank": 5
+  },
+  {
+    "Year": 1987,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCAC",
+    "Team": "Loyola Marymount",
+    "Rating": -3.515325767324739,
+    "Rank": 6
+  },
+  {
+    "Year": 1987,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCAC",
+    "Team": "San Francisco",
+    "Rating": -5.031200613707451,
+    "Rank": 7
+  },
+  {
+    "Year": 1987,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCAC",
+    "Team": "Portland",
+    "Rating": -5.642199439745271,
+    "Rank": 8
+  }
+]

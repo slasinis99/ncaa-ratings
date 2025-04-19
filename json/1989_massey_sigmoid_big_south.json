@@ -1,0 +1,56 @@
+[
+  {
+    "Year": 1989,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "UNC Asheville",
+    "Rating": 3.9153617606850912,
+    "Rank": 1
+  },
+  {
+    "Year": 1989,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Coastal Carolina",
+    "Rating": 3.607579898089325,
+    "Rank": 2
+  },
+  {
+    "Year": 1989,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Campbell",
+    "Rating": 3.004617515136601,
+    "Rank": 3
+  },
+  {
+    "Year": 1989,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Charleston Southern",
+    "Rating": -1.1058602834955569,
+    "Rank": 4
+  },
+  {
+    "Year": 1989,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Winthrop",
+    "Rating": -2.013254451324462,
+    "Rank": 5
+  },
+  {
+    "Year": 1989,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Radford",
+    "Rating": -7.408444439090987,
+    "Rank": 6
+  }
+]

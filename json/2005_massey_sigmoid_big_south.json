@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2005,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Winthrop",
+    "Rating": 10.706289767152573,
+    "Rank": 1
+  },
+  {
+    "Year": 2005,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Birmingham-Southern",
+    "Rating": 1.689334248281972,
+    "Rank": 2
+  },
+  {
+    "Year": 2005,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Liberty",
+    "Rating": 1.3835853119570602,
+    "Rank": 3
+  },
+  {
+    "Year": 2005,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "High Point",
+    "Rating": 0.533704740709713,
+    "Rank": 4
+  },
+  {
+    "Year": 2005,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "UNC Asheville",
+    "Rating": -1.044221046927716,
+    "Rank": 5
+  },
+  {
+    "Year": 2005,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Coastal Carolina",
+    "Rating": -1.8359238072688329,
+    "Rank": 6
+  },
+  {
+    "Year": 2005,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Charleston Southern",
+    "Rating": -2.6334290806131877,
+    "Rank": 7
+  },
+  {
+    "Year": 2005,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Radford",
+    "Rating": -3.1632339451494293,
+    "Rank": 8
+  },
+  {
+    "Year": 2005,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "VMI",
+    "Rating": -5.636106188142151,
+    "Rank": 9
+  }
+]

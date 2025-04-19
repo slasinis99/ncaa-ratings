@@ -1,0 +1,56 @@
+[
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ECC",
+    "Team": "Towson",
+    "Rating": 15.781978907399528,
+    "Rank": 1
+  },
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ECC",
+    "Team": "Hofstra",
+    "Rating": 8.468166440498647,
+    "Rank": 2
+  },
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ECC",
+    "Team": "Rider",
+    "Rating": 7.134248776935044,
+    "Rank": 3
+  },
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ECC",
+    "Team": "Maryland-Baltimore County",
+    "Rating": 0.7202208114698092,
+    "Rank": 4
+  },
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ECC",
+    "Team": "Central Connecticut State",
+    "Rating": -10.5278721686927,
+    "Rank": 5
+  },
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ECC",
+    "Team": "Buffalo",
+    "Rating": -21.576742767610355,
+    "Rank": 6
+  }
+]

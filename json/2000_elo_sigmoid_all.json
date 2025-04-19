@@ -1,0 +1,2873 @@
+[
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Duke",
+    "Rating": 1667.8236744308256,
+    "Rank": 1
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Temple",
+    "Rating": 1665.3894706517322,
+    "Rank": 2
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Michigan State",
+    "Rating": 1658.6470449753451,
+    "Rank": 3
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Iowa State",
+    "Rating": 1656.1613593397187,
+    "Rank": 4
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "St. John's (NY)",
+    "Rating": 1652.018388537055,
+    "Rank": 5
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cincinnati",
+    "Rating": 1643.314582988063,
+    "Rank": 6
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Utah State",
+    "Rating": 1634.8183921829743,
+    "Rank": 7
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hofstra",
+    "Rating": 1633.523138272372,
+    "Rank": 8
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Butler",
+    "Rating": 1627.6049149988503,
+    "Rank": 9
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stanford",
+    "Rating": 1624.823164089607,
+    "Rank": 10
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pennsylvania",
+    "Rating": 1623.251940181714,
+    "Rank": 11
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oklahoma",
+    "Rating": 1621.051358135644,
+    "Rank": 12
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tulsa",
+    "Rating": 1621.028747118099,
+    "Rank": 13
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fresno State",
+    "Rating": 1620.3778184002108,
+    "Rank": 14
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana State",
+    "Rating": 1614.9221129357522,
+    "Rank": 15
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas",
+    "Rating": 1612.7480786377712,
+    "Rank": 16
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Connecticut",
+    "Rating": 1611.8370458529685,
+    "Rank": 17
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arizona",
+    "Rating": 1610.5341926046146,
+    "Rank": 18
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Miami (FL)",
+    "Rating": 1610.1948835132923,
+    "Rank": 19
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Lafayette",
+    "Rating": 1609.2256402310722,
+    "Rank": 20
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Creighton",
+    "Rating": 1608.8249717070976,
+    "Rank": 21
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maryland",
+    "Rating": 1604.522070266054,
+    "Rank": 22
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Gonzaga",
+    "Rating": 1603.0415683672466,
+    "Rank": 23
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nevada-Las Vegas",
+    "Rating": 1600.9338580217789,
+    "Rank": 24
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Iona",
+    "Rating": 1599.194145929023,
+    "Rank": 25
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oklahoma State",
+    "Rating": 1598.049087500698,
+    "Rank": 26
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Ohio State",
+    "Rating": 1597.9669799115543,
+    "Rank": 27
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Illinois",
+    "Rating": 1597.6867275083853,
+    "Rank": 28
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana",
+    "Rating": 1597.4419440855768,
+    "Rank": 29
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kentucky",
+    "Rating": 1597.4160483849073,
+    "Rank": 30
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northern Arizona",
+    "Rating": 1595.6637809900826,
+    "Rank": 31
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida",
+    "Rating": 1594.9175025046322,
+    "Rank": 32
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Ball State",
+    "Rating": 1593.3414479563048,
+    "Rank": 33
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Appalachian State",
+    "Rating": 1593.0944378063837,
+    "Rank": 34
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Delaware",
+    "Rating": 1593.009615773088,
+    "Rank": 35
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Central Connecticut State",
+    "Rating": 1592.9042205119308,
+    "Rank": 36
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arkansas",
+    "Rating": 1592.663466849517,
+    "Rank": 37
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oregon",
+    "Rating": 1591.0468999982204,
+    "Rank": 38
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southeast Missouri State",
+    "Rating": 1588.1986164608898,
+    "Rank": 39
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Missouri State",
+    "Rating": 1586.529912130355,
+    "Rank": 40
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Long Beach State",
+    "Rating": 1586.2426752516742,
+    "Rank": 41
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Samford",
+    "Rating": 1586.1172755622613,
+    "Rank": 42
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Navy",
+    "Rating": 1585.8324018360256,
+    "Rank": 43
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UCLA",
+    "Rating": 1582.783510820581,
+    "Rank": 44
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "College of Charleston",
+    "Rating": 1582.0902752288257,
+    "Rank": 45
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Louis",
+    "Rating": 1580.7240140553874,
+    "Rank": 46
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee",
+    "Rating": 1579.35310762953,
+    "Rank": 47
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Syracuse",
+    "Rating": 1578.7663116556555,
+    "Rank": 48
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Siena",
+    "Rating": 1577.762281445865,
+    "Rank": 49
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "DePaul",
+    "Rating": 1577.750717787481,
+    "Rank": 50
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Alabama",
+    "Rating": 1577.4666174666231,
+    "Rank": 51
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pepperdine",
+    "Rating": 1577.039862659079,
+    "Rank": 52
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisville",
+    "Rating": 1575.9093336537903,
+    "Rank": 53
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "St. Bonaventure",
+    "Rating": 1575.3788743318112,
+    "Rank": 54
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Mexico State",
+    "Rating": 1574.147537664624,
+    "Rank": 55
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bowling Green State",
+    "Rating": 1573.000074727907,
+    "Rank": 56
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kansas",
+    "Rating": 1572.148804750197,
+    "Rank": 57
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Purdue",
+    "Rating": 1571.6002232545643,
+    "Rank": 58
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maine",
+    "Rating": 1571.3443974968582,
+    "Rank": 59
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Indiana State",
+    "Rating": 1570.7323069950846,
+    "Rank": 60
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Murray State",
+    "Rating": 1569.9714730777932,
+    "Rank": 61
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Winthrop",
+    "Rating": 1569.1283425891722,
+    "Rank": 62
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wisconsin",
+    "Rating": 1568.0209744487447,
+    "Rank": 63
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Carolina State",
+    "Rating": 1566.8669782111888,
+    "Rank": 64
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Diego",
+    "Rating": 1564.0111255244017,
+    "Rank": 65
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana Tech",
+    "Rating": 1563.8482266707365,
+    "Rank": 66
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Sam Houston",
+    "Rating": 1563.1943862231042,
+    "Rank": 67
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Princeton",
+    "Rating": 1562.6188987193923,
+    "Rank": 68
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "George Mason",
+    "Rating": 1561.5375072276431,
+    "Rank": 69
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Auburn",
+    "Rating": 1559.0742406437898,
+    "Rank": 70
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Utah",
+    "Rating": 1559.0249047162856,
+    "Rank": 71
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Indiana",
+    "Rating": 1558.9103077820007,
+    "Rank": 72
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cal State Northridge",
+    "Rating": 1557.8776062346635,
+    "Rank": 73
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UNC Wilmington",
+    "Rating": 1556.486846681409,
+    "Rank": 74
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Toledo",
+    "Rating": 1556.4094967542303,
+    "Rank": 75
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kent State",
+    "Rating": 1556.0173918042508,
+    "Rank": 76
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Illinois",
+    "Rating": 1554.995012025989,
+    "Rank": 77
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Ohio",
+    "Rating": 1554.585107017998,
+    "Rank": 78
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Villanova",
+    "Rating": 1553.395212967243,
+    "Rank": 79
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Montana",
+    "Rating": 1550.6317312101585,
+    "Rank": 80
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wyoming",
+    "Rating": 1550.451625247349,
+    "Rank": 81
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alcorn State",
+    "Rating": 1550.066664407937,
+    "Rank": 82
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Valparaiso",
+    "Rating": 1549.058149698301,
+    "Rank": 83
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia State",
+    "Rating": 1549.0354595186327,
+    "Rank": 84
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Robert Morris",
+    "Rating": 1549.0059142436858,
+    "Rank": 85
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "James Madison",
+    "Rating": 1546.6761005296687,
+    "Rank": 86
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Santa Clara",
+    "Rating": 1546.1848507478162,
+    "Rank": 87
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Seton Hall",
+    "Rating": 1545.7770111479404,
+    "Rank": 88
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Detroit Mercy",
+    "Rating": 1544.1686338799464,
+    "Rank": 89
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Brigham Young",
+    "Rating": 1542.7709486217218,
+    "Rank": 90
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Colorado State",
+    "Rating": 1542.7211929439184,
+    "Rank": 91
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Mexico",
+    "Rating": 1542.652633861427,
+    "Rank": 92
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Charlotte",
+    "Rating": 1542.5235133882902,
+    "Rank": 93
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Richmond",
+    "Rating": 1542.4485147045154,
+    "Rank": 94
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Missouri",
+    "Rating": 1542.2814892172576,
+    "Rank": 95
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Xavier",
+    "Rating": 1542.1800861117856,
+    "Rank": 96
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arizona State",
+    "Rating": 1541.6701104681308,
+    "Rank": 97
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "TCU",
+    "Rating": 1541.358307068932,
+    "Rank": 98
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wake Forest",
+    "Rating": 1539.221484984422,
+    "Rank": 99
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Dayton",
+    "Rating": 1539.213118148804,
+    "Rank": 100
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Methodist",
+    "Rating": 1538.3475288896243,
+    "Rank": 101
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Carolina",
+    "Rating": 1537.863479561603,
+    "Rank": 102
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Jackson State",
+    "Rating": 1537.3193118084723,
+    "Rank": 103
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fairleigh Dickinson",
+    "Rating": 1535.9292120388163,
+    "Rank": 104
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alabama A&M",
+    "Rating": 1534.8059799611203,
+    "Rank": 105
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Notre Dame",
+    "Rating": 1533.7821419032248,
+    "Rank": 106
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Memphis",
+    "Rating": 1532.6442862156175,
+    "Rank": 107
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Radford",
+    "Rating": 1531.3153806324988,
+    "Rank": 108
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Weber State",
+    "Rating": 1531.1708932374495,
+    "Rank": 109
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northwestern State",
+    "Rating": 1530.875298692086,
+    "Rank": 110
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Coppin State",
+    "Rating": 1530.6237738295777,
+    "Rank": 111
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Virginia",
+    "Rating": 1530.3014257720251,
+    "Rank": 112
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgetown",
+    "Rating": 1529.37161896874,
+    "Rank": 113
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Massachusetts",
+    "Rating": 1528.7570349095538,
+    "Rank": 114
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Marshall",
+    "Rating": 1528.6934723766408,
+    "Rank": 115
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hampton",
+    "Rating": 1528.5248676977462,
+    "Rank": 116
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Colorado",
+    "Rating": 1528.330398227086,
+    "Rank": 117
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Miami (OH)",
+    "Rating": 1527.914859426247,
+    "Rank": 118
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Carolina",
+    "Rating": 1527.0607677853757,
+    "Rank": 119
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Middle Tennessee",
+    "Rating": 1526.7462892203148,
+    "Rank": 120
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Austin Peay",
+    "Rating": 1524.340484999065,
+    "Rank": 121
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "George Washington",
+    "Rating": 1524.2078020331032,
+    "Rank": 122
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Washington",
+    "Rating": 1522.2589120226955,
+    "Rank": 123
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "St. Francis (NY)",
+    "Rating": 1522.0947592677194,
+    "Rank": 124
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Marist",
+    "Rating": 1521.4000587736948,
+    "Rank": 125
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Virginia Tech",
+    "Rating": 1520.843491058967,
+    "Rank": 126
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Vermont",
+    "Rating": 1520.1172357889286,
+    "Rank": 127
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Illinois",
+    "Rating": 1519.4467184994091,
+    "Rank": 128
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Vanderbilt",
+    "Rating": 1518.6701771888129,
+    "Rank": 129
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Central Florida",
+    "Rating": 1517.8700464703,
+    "Rank": 130
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern",
+    "Rating": 1517.2288855559516,
+    "Rank": 131
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bradley",
+    "Rating": 1516.576202491896,
+    "Rank": 132
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tulane",
+    "Rating": 1515.883367966003,
+    "Rank": 133
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana-Monroe",
+    "Rating": 1514.2360077305266,
+    "Rank": 134
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UC Santa Barbara",
+    "Rating": 1513.3595309767406,
+    "Rank": 135
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Iowa",
+    "Rating": 1512.388436554632,
+    "Rank": 136
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Florida",
+    "Rating": 1512.0236165350975,
+    "Rank": 137
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Francisco",
+    "Rating": 1511.6820187069077,
+    "Rank": 138
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern California",
+    "Rating": 1511.4136792798556,
+    "Rank": 139
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fairfield",
+    "Rating": 1509.918174064026,
+    "Rank": 140
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Niagara",
+    "Rating": 1509.8546684131463,
+    "Rank": 141
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Quinnipiac",
+    "Rating": 1508.375930943394,
+    "Rank": 142
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "NC State",
+    "Rating": 1505.6139018714098,
+    "Rank": 143
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bucknell",
+    "Rating": 1503.9686912772004,
+    "Rank": 144
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Penn State",
+    "Rating": 1503.6172805076271,
+    "Rank": 145
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oakland",
+    "Rating": 1502.7781273552987,
+    "Rank": 146
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee Tech",
+    "Rating": 1502.4153982808011,
+    "Rank": 147
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mississippi",
+    "Rating": 1501.7510175388015,
+    "Rank": 148
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Utah",
+    "Rating": 1501.1796945528386,
+    "Rank": 149
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "IU Indy",
+    "Rating": 1500.0,
+    "Rank": 150
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Davidson",
+    "Rating": 1499.76915636452,
+    "Rank": 151
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida International",
+    "Rating": 1498.3442234628485,
+    "Rank": 152
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Mississippi",
+    "Rating": 1498.3282109074055,
+    "Rank": 153
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia Southern",
+    "Rating": 1498.0745385502096,
+    "Rank": 154
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hawaii",
+    "Rating": 1497.4230338314346,
+    "Rank": 155
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Drexel",
+    "Rating": 1496.4570275186395,
+    "Rank": 156
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UTSA",
+    "Rating": 1496.286484102768,
+    "Rank": 157
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Houston Christian",
+    "Rating": 1496.1582811894134,
+    "Rank": 158
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "California",
+    "Rating": 1495.783181379652,
+    "Rank": 159
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Evansville",
+    "Rating": 1495.7445592668323,
+    "Rank": 160
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Milwaukee",
+    "Rating": 1495.0682709048417,
+    "Rank": 161
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Lamar",
+    "Rating": 1494.808593708495,
+    "Rank": 162
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Kentucky",
+    "Rating": 1494.640797471361,
+    "Rank": 163
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Furman",
+    "Rating": 1493.687755402775,
+    "Rank": 164
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bethune-Cookman",
+    "Rating": 1493.2235426751586,
+    "Rank": 165
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "East Tennessee State",
+    "Rating": 1489.295570372929,
+    "Rank": 166
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Marquette",
+    "Rating": 1489.0731757820213,
+    "Rank": 167
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pittsburgh",
+    "Rating": 1488.966612023885,
+    "Rank": 168
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Akron",
+    "Rating": 1488.7613310215602,
+    "Rank": 169
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cleveland State",
+    "Rating": 1488.328391992335,
+    "Rank": 170
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nicholls State",
+    "Rating": 1488.1396767245956,
+    "Rank": 171
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UNC Asheville",
+    "Rating": 1487.689513044157,
+    "Rank": 172
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Harvard",
+    "Rating": 1485.665604777958,
+    "Rank": 173
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UNC Greensboro",
+    "Rating": 1485.6315738677908,
+    "Rank": 174
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Jose State",
+    "Rating": 1485.5298139422114,
+    "Rank": 175
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida State",
+    "Rating": 1485.3470801806518,
+    "Rank": 176
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fordham",
+    "Rating": 1485.147264255233,
+    "Rank": 177
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Troy",
+    "Rating": 1485.0478231298025,
+    "Rank": 178
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oral Roberts",
+    "Rating": 1484.6991793033992,
+    "Rank": 179
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Michigan",
+    "Rating": 1484.583528967857,
+    "Rank": 180
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UT Arlington",
+    "Rating": 1484.4756816676263,
+    "Rank": 181
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Joseph's",
+    "Rating": 1484.4728973871115,
+    "Rank": 182
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Michigan",
+    "Rating": 1484.4636194135503,
+    "Rank": 183
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mississippi State",
+    "Rating": 1484.3099691964258,
+    "Rank": 184
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rider",
+    "Rating": 1483.53462093307,
+    "Rank": 185
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Carolina A&T",
+    "Rating": 1483.132594991691,
+    "Rank": 186
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alabama",
+    "Rating": 1482.7407087319416,
+    "Rank": 187
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Jacksonville State",
+    "Rating": 1480.2020488100395,
+    "Rank": 188
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Virginia Commonwealth",
+    "Rating": 1480.093029635038,
+    "Rank": 189
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas Southern",
+    "Rating": 1479.378791669645,
+    "Rank": 190
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wright State",
+    "Rating": 1479.363987764688,
+    "Rank": 191
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wofford",
+    "Rating": 1478.9653353563488,
+    "Rank": 192
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rutgers",
+    "Rating": 1477.232655731606,
+    "Rank": 193
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Green Bay",
+    "Rating": 1477.0873232558492,
+    "Rank": 194
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Boise State",
+    "Rating": 1476.9027145219131,
+    "Rank": 195
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wichita State",
+    "Rating": 1476.169453164927,
+    "Rank": 196
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UC Irvine",
+    "Rating": 1475.181019295982,
+    "Rank": 197
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Columbia",
+    "Rating": 1475.098276285839,
+    "Rank": 198
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kansas City",
+    "Rating": 1475.0785688906003,
+    "Rank": 199
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nevada",
+    "Rating": 1473.315651732562,
+    "Rank": 200
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oregon State",
+    "Rating": 1472.647336012417,
+    "Rank": 201
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Canisius",
+    "Rating": 1472.4004390336584,
+    "Rank": 202
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Elon",
+    "Rating": 1472.3529475570797,
+    "Rank": 203
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia Tech",
+    "Rating": 1472.3446825815497,
+    "Rank": 204
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "West Virginia",
+    "Rating": 1472.0697710321435,
+    "Rank": 205
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alabama State",
+    "Rating": 1471.8687955920825,
+    "Rank": 206
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UAB",
+    "Rating": 1471.7252890032275,
+    "Rank": 207
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas State",
+    "Rating": 1470.9766299498683,
+    "Rank": 208
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Baylor",
+    "Rating": 1470.9708777958162,
+    "Rank": 209
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Monmouth",
+    "Rating": 1470.7073888495431,
+    "Rank": 210
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arkansas State",
+    "Rating": 1469.7726224722876,
+    "Rank": 211
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas-Rio Grande Valley",
+    "Rating": 1469.0468254220898,
+    "Rank": 212
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Campbell",
+    "Rating": 1467.6446373703293,
+    "Rank": 213
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Portland State",
+    "Rating": 1466.9444990471825,
+    "Rank": 214
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mercer",
+    "Rating": 1464.6286124248857,
+    "Rank": 215
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Providence",
+    "Rating": 1464.4552041991417,
+    "Rank": 216
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UTEP",
+    "Rating": 1464.1142251547717,
+    "Rank": 217
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Clemson",
+    "Rating": 1463.8314263836846,
+    "Rank": 218
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Illinois-Chicago",
+    "Rating": 1463.1781360980883,
+    "Rank": 219
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Carolina",
+    "Rating": 1461.7979029032256,
+    "Rank": 220
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Loyola (IL)",
+    "Rating": 1461.7255952056023,
+    "Rank": 221
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mount St. Mary's",
+    "Rating": 1459.590482643045,
+    "Rank": 222
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maryland-Eastern Shore",
+    "Rating": 1458.7608894671075,
+    "Rank": 223
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "William & Mary",
+    "Rating": 1457.8451475772997,
+    "Rank": 224
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Youngstown State",
+    "Rating": 1457.3889595552753,
+    "Rank": 225
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northern Iowa",
+    "Rating": 1457.3266613117084,
+    "Rank": 226
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Washington",
+    "Rating": 1457.1678746585276,
+    "Rank": 227
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Idaho",
+    "Rating": 1456.000113382026,
+    "Rank": 228
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wagner",
+    "Rating": 1455.7928446739668,
+    "Rank": 229
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Chattanooga",
+    "Rating": 1455.053485049759,
+    "Rank": 230
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Illinois State",
+    "Rating": 1454.943954705666,
+    "Rank": 231
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Colgate",
+    "Rating": 1454.429153520867,
+    "Rank": 232
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Albany (NY)",
+    "Rating": 1452.6991444124528,
+    "Rank": 233
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Old Dominion",
+    "Rating": 1452.618315316906,
+    "Rank": 234
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Orleans",
+    "Rating": 1452.423347005415,
+    "Rank": 235
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "La Salle",
+    "Rating": 1451.757025551453,
+    "Rank": 236
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas Tech",
+    "Rating": 1451.744547677716,
+    "Rank": 237
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida A&M",
+    "Rating": 1450.8340529734485,
+    "Rank": 238
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Boston College",
+    "Rating": 1450.5263696245906,
+    "Rank": 239
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Dartmouth",
+    "Rating": 1449.8732489156112,
+    "Rank": 240
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "American",
+    "Rating": 1448.774361944721,
+    "Rank": 241
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Minnesota",
+    "Rating": 1448.5754362653113,
+    "Rank": 242
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Manhattan",
+    "Rating": 1447.3826361016145,
+    "Rank": 243
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nebraska",
+    "Rating": 1447.195376051215,
+    "Rank": 244
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maryland-Baltimore County",
+    "Rating": 1446.913687547895,
+    "Rank": 245
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Norfolk State",
+    "Rating": 1446.2024774059505,
+    "Rank": 246
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northern Illinois",
+    "Rating": 1445.9635092322867,
+    "Rank": 247
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Francis (PA)",
+    "Rating": 1444.3813035504545,
+    "Rank": 248
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cal Poly",
+    "Rating": 1444.0538045611395,
+    "Rank": 249
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Michigan",
+    "Rating": 1443.912661170796,
+    "Rank": 250
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Boston University",
+    "Rating": 1440.179098692954,
+    "Rank": 251
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stetson",
+    "Rating": 1440.0534974042666,
+    "Rank": 252
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pacific",
+    "Rating": 1440.0371074813768,
+    "Rank": 253
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hartford",
+    "Rating": 1438.801698050108,
+    "Rank": 254
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Coastal Carolina",
+    "Rating": 1437.798195291619,
+    "Rank": 255
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia",
+    "Rating": 1436.9961233808672,
+    "Rank": 256
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Long Island University",
+    "Rating": 1435.9033651315965,
+    "Rank": 257
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas A&M",
+    "Rating": 1431.7908541991449,
+    "Rank": 258
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Portland",
+    "Rating": 1431.0589660639907,
+    "Rank": 259
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "McNeese State",
+    "Rating": 1430.988312361386,
+    "Rank": 260
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Centenary (LA)",
+    "Rating": 1429.990677347247,
+    "Rank": 261
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cornell",
+    "Rating": 1429.155506572563,
+    "Rank": 262
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee State",
+    "Rating": 1429.0427714288492,
+    "Rank": 263
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kansas State",
+    "Rating": 1427.2943691390444,
+    "Rank": 264
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Houston",
+    "Rating": 1427.138751752812,
+    "Rank": 265
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "High Point",
+    "Rating": 1426.816696929524,
+    "Rank": 266
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Idaho State",
+    "Rating": 1424.8294581859516,
+    "Rank": 267
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Drake",
+    "Rating": 1424.2519960309955,
+    "Rank": 268
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "East Carolina",
+    "Rating": 1424.0184635425212,
+    "Rank": 269
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stony Brook",
+    "Rating": 1423.8627361828508,
+    "Rank": 270
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee-Martin",
+    "Rating": 1423.6998209596031,
+    "Rank": 271
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Towson",
+    "Rating": 1423.68371006655,
+    "Rank": 272
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southeastern Louisiana",
+    "Rating": 1421.656145988565,
+    "Rank": 273
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Charleston Southern",
+    "Rating": 1421.0103357237565,
+    "Rank": 274
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Holy Cross",
+    "Rating": 1420.805368765189,
+    "Rank": 275
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northeastern",
+    "Rating": 1419.883489229214,
+    "Rank": 276
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "The Citadel",
+    "Rating": 1418.9715343590512,
+    "Rank": 277
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mississippi Valley State",
+    "Rating": 1418.3080250931614,
+    "Rank": 278
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Air Force",
+    "Rating": 1417.6441720067735,
+    "Rank": 279
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Montana State",
+    "Rating": 1417.2523638022992,
+    "Rank": 280
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Morehead State",
+    "Rating": 1414.9784262430971,
+    "Rank": 281
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Liberty",
+    "Rating": 1413.3242834448188,
+    "Rank": 282
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Mary's (CA)",
+    "Rating": 1411.8366945378043,
+    "Rank": 283
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Lehigh",
+    "Rating": 1410.9893432836025,
+    "Rank": 284
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Denver",
+    "Rating": 1409.9825341608678,
+    "Rank": 285
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Illinois",
+    "Rating": 1409.2075197299946,
+    "Rank": 286
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Belmont",
+    "Rating": 1408.295696960516,
+    "Rank": 287
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Central Michigan",
+    "Rating": 1407.876843779335,
+    "Rank": 288
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Jacksonville",
+    "Rating": 1406.2753018069673,
+    "Rank": 289
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Texas",
+    "Rating": 1405.5113669795646,
+    "Rank": 290
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Duquesne",
+    "Rating": 1404.618094668204,
+    "Rank": 291
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rice",
+    "Rating": 1403.3146165285684,
+    "Rank": 292
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Delaware State",
+    "Rating": 1399.7581583904189,
+    "Rank": 293
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Chicago State",
+    "Rating": 1399.6013979347415,
+    "Rank": 294
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Yale",
+    "Rating": 1398.6773377291877,
+    "Rank": 295
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arkansas-Pine Bluff",
+    "Rating": 1398.0076616410736,
+    "Rank": 296
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Washington State",
+    "Rating": 1397.6064463885648,
+    "Rank": 297
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Army",
+    "Rating": 1396.824145989833,
+    "Rank": 298
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Prairie View",
+    "Rating": 1396.7445540193885,
+    "Rank": 299
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rhode Island",
+    "Rating": 1395.5188130962197,
+    "Rank": 300
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northwestern",
+    "Rating": 1394.9490226912787,
+    "Rank": 301
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Sacramento State",
+    "Rating": 1393.889097273058,
+    "Rank": 302
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Brown",
+    "Rating": 1393.6882707099412,
+    "Rank": 303
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cal State Fullerton",
+    "Rating": 1392.657738737638,
+    "Rank": 304
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Buffalo",
+    "Rating": 1389.9133678046112,
+    "Rank": 305
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Loyola (MD)",
+    "Rating": 1388.288054895001,
+    "Rank": 306
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Morgan State",
+    "Rating": 1388.2842928815376,
+    "Rank": 307
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Little Rock",
+    "Rating": 1382.570040772651,
+    "Rank": 308
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stephen F. Austin",
+    "Rating": 1379.1861121315435,
+    "Rank": 309
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "VMI",
+    "Rating": 1378.0305013429827,
+    "Rank": 310
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Diego State",
+    "Rating": 1377.0990870111557,
+    "Rank": 311
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Peter's",
+    "Rating": 1375.9454522040908,
+    "Rank": 312
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Sacred Heart",
+    "Rating": 1374.23335485591,
+    "Rank": 313
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Loyola Marymount",
+    "Rating": 1361.8014529275697,
+    "Rank": 314
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Kentucky",
+    "Rating": 1360.2070911423295,
+    "Rank": 315
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida Atlantic",
+    "Rating": 1359.4224382913665,
+    "Rank": 316
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Hampshire",
+    "Rating": 1347.7490739980406,
+    "Rank": 317
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Grambling",
+    "Rating": 1334.822370059676,
+    "Rank": 318
+  },
+  {
+    "Year": 2000,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Howard",
+    "Rating": 1319.2550989463384,
+    "Rank": 319
+  }
+]

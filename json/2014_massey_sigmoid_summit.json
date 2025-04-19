@@ -1,0 +1,74 @@
+[
+  {
+    "Year": 2014,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Summit",
+    "Team": "North Dakota State",
+    "Rating": 11.26466887383731,
+    "Rank": 1
+  },
+  {
+    "Year": 2014,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Summit",
+    "Team": "South Dakota State",
+    "Rating": 4.887320347431004,
+    "Rank": 2
+  },
+  {
+    "Year": 2014,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Summit",
+    "Team": "Denver",
+    "Rating": 1.4067766805647088,
+    "Rank": 3
+  },
+  {
+    "Year": 2014,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Summit",
+    "Team": "Purdue Fort Wayne",
+    "Rating": 0.1929129278756901,
+    "Rank": 4
+  },
+  {
+    "Year": 2014,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Summit",
+    "Team": "IU Indy",
+    "Rating": -5.3123139893341255e-15,
+    "Rank": 5
+  },
+  {
+    "Year": 2014,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Summit",
+    "Team": "Omaha",
+    "Rating": -4.984780944983596,
+    "Rank": 6
+  },
+  {
+    "Year": 2014,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Summit",
+    "Team": "South Dakota",
+    "Rating": -5.559448277067016,
+    "Rank": 7
+  },
+  {
+    "Year": 2014,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Summit",
+    "Team": "Western Illinois",
+    "Rating": -7.207449607658113,
+    "Rank": 8
+  }
+]

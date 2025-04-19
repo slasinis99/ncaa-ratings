@@ -1,0 +1,110 @@
+[
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Wagner",
+    "Rating": 6.377142541641246,
+    "Rank": 1
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Central Connecticut State",
+    "Rating": 3.837505162081364,
+    "Rank": 2
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "St. Francis (NY)",
+    "Rating": 3.6294574899526566,
+    "Rank": 3
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Quinnipiac",
+    "Rating": 2.2218980793330925,
+    "Rank": 4
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Monmouth",
+    "Rating": 0.8243259270542576,
+    "Rank": 5
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Saint Francis (PA)",
+    "Rating": 0.1306800384852591,
+    "Rank": 6
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Fairleigh Dickinson",
+    "Rating": -0.7566237845210684,
+    "Rank": 7
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Robert Morris",
+    "Rating": -1.3910159062284462,
+    "Rank": 8
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Sacred Heart",
+    "Rating": -3.019125059218345,
+    "Rank": 9
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Maryland-Baltimore County",
+    "Rating": -3.273374761603873,
+    "Rank": 10
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Mount St. Mary's",
+    "Rating": -4.214890471246079,
+    "Rank": 11
+  },
+  {
+    "Year": 2003,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Long Island University",
+    "Rating": -4.365979255730065,
+    "Rank": 12
+  }
+]

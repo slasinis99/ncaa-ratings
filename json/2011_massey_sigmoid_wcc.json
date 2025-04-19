@@ -1,0 +1,74 @@
+[
+  {
+    "Year": 2011,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Gonzaga",
+    "Rating": 11.125442499579776,
+    "Rank": 1
+  },
+  {
+    "Year": 2011,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Saint Mary's (CA)",
+    "Rating": 6.351289151762858,
+    "Rank": 2
+  },
+  {
+    "Year": 2011,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "San Francisco",
+    "Rating": 1.5421258000799452,
+    "Rank": 3
+  },
+  {
+    "Year": 2011,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Portland",
+    "Rating": 0.3746529118303499,
+    "Rank": 4
+  },
+  {
+    "Year": 2011,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Santa Clara",
+    "Rating": 0.0055944206843605,
+    "Rank": 5
+  },
+  {
+    "Year": 2011,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Pepperdine",
+    "Rating": -4.951253435847609,
+    "Rank": 6
+  },
+  {
+    "Year": 2011,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Loyola Marymount",
+    "Rating": -5.154671396880103,
+    "Rank": 7
+  },
+  {
+    "Year": 2011,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "San Diego",
+    "Rating": -9.2931799512096,
+    "Rank": 8
+  }
+]

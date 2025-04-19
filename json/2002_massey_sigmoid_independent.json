@@ -1,0 +1,29 @@
+[
+  {
+    "Year": 2002,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Independent",
+    "Team": "Centenary (LA)",
+    "Rating": 5.930556839262064,
+    "Rank": 1
+  },
+  {
+    "Year": 2002,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Independent",
+    "Team": "Morris Brown",
+    "Rating": -2.5441668614926257e-16,
+    "Rank": 2
+  },
+  {
+    "Year": 2002,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Independent",
+    "Team": "Texas-Rio Grande Valley",
+    "Rating": -5.930556839262063,
+    "Rank": 3
+  }
+]

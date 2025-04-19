@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2006,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Albany (NY)",
+    "Rating": 8.258517183649907,
+    "Rank": 1
+  },
+  {
+    "Year": 2006,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Binghamton",
+    "Rating": 5.441895263357778,
+    "Rank": 2
+  },
+  {
+    "Year": 2006,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Vermont",
+    "Rating": 1.8910077011211133,
+    "Rank": 3
+  },
+  {
+    "Year": 2006,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Boston University",
+    "Rating": 0.8570536089964664,
+    "Rank": 4
+  },
+  {
+    "Year": 2006,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Hartford",
+    "Rating": 0.7058800717443203,
+    "Rank": 5
+  },
+  {
+    "Year": 2006,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "New Hampshire",
+    "Rating": -0.6763877699064776,
+    "Rank": 6
+  },
+  {
+    "Year": 2006,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Maryland-Baltimore County",
+    "Rating": -1.610933906079474,
+    "Rank": 7
+  },
+  {
+    "Year": 2006,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Maine",
+    "Rating": -5.703989829956507,
+    "Rank": 8
+  },
+  {
+    "Year": 2006,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Stony Brook",
+    "Rating": -9.16304232292713,
+    "Rank": 9
+  }
+]

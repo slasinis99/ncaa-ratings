@@ -1,0 +1,38 @@
+[
+  {
+    "Year": 1995,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AWC",
+    "Team": "Southern Utah",
+    "Rating": 15.216598145886536,
+    "Rank": 1
+  },
+  {
+    "Year": 1995,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AWC",
+    "Team": "Cal State Northridge",
+    "Rating": 5.832597377567845,
+    "Rank": 2
+  },
+  {
+    "Year": 1995,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AWC",
+    "Team": "Sacramento State",
+    "Rating": -5.819644423560806,
+    "Rank": 3
+  },
+  {
+    "Year": 1995,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AWC",
+    "Team": "Cal Poly",
+    "Rating": -15.229551099893564,
+    "Rank": 4
+  }
+]

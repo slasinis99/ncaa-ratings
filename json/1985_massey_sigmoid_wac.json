@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 1985,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "San Diego State",
+    "Rating": 6.188536057088051,
+    "Rank": 1
+  },
+  {
+    "Year": 1985,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "UTEP",
+    "Rating": 5.706301375891854,
+    "Rank": 2
+  },
+  {
+    "Year": 1985,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Colorado State",
+    "Rating": 0.7000166730474653,
+    "Rank": 3
+  },
+  {
+    "Year": 1985,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "New Mexico",
+    "Rating": -0.0485447782719892,
+    "Rank": 4
+  },
+  {
+    "Year": 1985,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Utah",
+    "Rating": -0.9504422176911702,
+    "Rank": 5
+  },
+  {
+    "Year": 1985,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Brigham Young",
+    "Rating": -1.223080883174688,
+    "Rank": 6
+  },
+  {
+    "Year": 1985,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Hawaii",
+    "Rating": -2.6532112974442232,
+    "Rank": 7
+  },
+  {
+    "Year": 1985,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Wyoming",
+    "Rating": -3.2793800980647854,
+    "Rank": 8
+  },
+  {
+    "Year": 1985,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Air Force",
+    "Rating": -4.44019483138053,
+    "Rank": 9
+  }
+]

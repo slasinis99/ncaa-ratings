@@ -1,0 +1,56 @@
+[
+  {
+    "Year": 2012,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "GWC",
+    "Team": "Utah Valley",
+    "Rating": 5.040178103572442,
+    "Rank": 1
+  },
+  {
+    "Year": 2012,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "GWC",
+    "Team": "North Dakota",
+    "Rating": 3.590046987734405,
+    "Rank": 2
+  },
+  {
+    "Year": 2012,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "GWC",
+    "Team": "NJIT",
+    "Rating": 0.0209935050548038,
+    "Rank": 3
+  },
+  {
+    "Year": 2012,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "GWC",
+    "Team": "Texas-Rio Grande Valley",
+    "Rating": -1.8222351734706903,
+    "Rank": 4
+  },
+  {
+    "Year": 2012,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "GWC",
+    "Team": "Houston Christian",
+    "Rating": -3.077277516106653,
+    "Rank": 5
+  },
+  {
+    "Year": 2012,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "GWC",
+    "Team": "Chicago State",
+    "Rating": -3.751705906784304,
+    "Rank": 6
+  }
+]

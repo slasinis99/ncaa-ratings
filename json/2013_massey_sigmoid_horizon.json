@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2013,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Detroit Mercy",
+    "Rating": 8.86261758455214,
+    "Rank": 1
+  },
+  {
+    "Year": 2013,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Valparaiso",
+    "Rating": 8.73721418633184,
+    "Rank": 2
+  },
+  {
+    "Year": 2013,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Green Bay",
+    "Rating": 4.209331046472896,
+    "Rank": 3
+  },
+  {
+    "Year": 2013,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Wright State",
+    "Rating": 3.4846255345621624,
+    "Rank": 4
+  },
+  {
+    "Year": 2013,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Loyola (IL)",
+    "Rating": -0.2467013936863166,
+    "Rank": 5
+  },
+  {
+    "Year": 2013,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Illinois-Chicago",
+    "Rating": -3.383551694568965,
+    "Rank": 6
+  },
+  {
+    "Year": 2013,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Youngstown State",
+    "Rating": -3.934605721727509,
+    "Rank": 7
+  },
+  {
+    "Year": 2013,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Milwaukee",
+    "Rating": -8.837651945062387,
+    "Rank": 8
+  },
+  {
+    "Year": 2013,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Cleveland State",
+    "Rating": -8.89127759687388,
+    "Rank": 9
+  }
+]

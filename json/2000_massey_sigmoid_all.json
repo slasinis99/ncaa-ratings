@@ -1,0 +1,2864 @@
+[
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Michigan State",
+    "Rating": 28.646238145095055,
+    "Rank": 1
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stanford",
+    "Rating": 28.433059082629327,
+    "Rank": 2
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Duke",
+    "Rating": 25.545441434110867,
+    "Rank": 3
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cincinnati",
+    "Rating": 25.3399069647424,
+    "Rank": 4
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida",
+    "Rating": 24.88260658707307,
+    "Rank": 5
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oklahoma State",
+    "Rating": 23.17721685609541,
+    "Rank": 6
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana State",
+    "Rating": 22.593517068833755,
+    "Rank": 7
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Temple",
+    "Rating": 22.484142234527976,
+    "Rank": 8
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas",
+    "Rating": 22.299635244288915,
+    "Rank": 9
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oklahoma",
+    "Rating": 21.610957214058526,
+    "Rank": 10
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Illinois",
+    "Rating": 21.304483642848417,
+    "Rank": 11
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Iowa State",
+    "Rating": 20.50920440643845,
+    "Rank": 12
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tulsa",
+    "Rating": 20.05585609716142,
+    "Rank": 13
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Ohio State",
+    "Rating": 20.02113844940459,
+    "Rank": 14
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee",
+    "Rating": 19.593604523996788,
+    "Rank": 15
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Indiana",
+    "Rating": 19.561754514466628,
+    "Rank": 16
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kentucky",
+    "Rating": 19.33150732300661,
+    "Rank": 17
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maryland",
+    "Rating": 18.5908237034722,
+    "Rank": 18
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Purdue",
+    "Rating": 18.557352594866664,
+    "Rank": 19
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisville",
+    "Rating": 17.895760773830126,
+    "Rank": 20
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wisconsin",
+    "Rating": 17.840318075904584,
+    "Rank": 21
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arizona",
+    "Rating": 17.821812153946414,
+    "Rank": 22
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arkansas",
+    "Rating": 16.491356272905705,
+    "Rank": 23
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Syracuse",
+    "Rating": 16.380967897455797,
+    "Rank": 24
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "DePaul",
+    "Rating": 16.312193921299755,
+    "Rank": 25
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kansas",
+    "Rating": 16.08786047520458,
+    "Rank": 26
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Connecticut",
+    "Rating": 16.06921340283762,
+    "Rank": 27
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "St. John's (NY)",
+    "Rating": 15.33090770100272,
+    "Rank": 28
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Auburn",
+    "Rating": 15.03747425869298,
+    "Rank": 29
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Missouri",
+    "Rating": 15.010077723042084,
+    "Rank": 30
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Butler",
+    "Rating": 14.616597168521926,
+    "Rank": 31
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oregon",
+    "Rating": 14.46887556579354,
+    "Rank": 32
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Gonzaga",
+    "Rating": 14.203220175995911,
+    "Rank": 33
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Vanderbilt",
+    "Rating": 13.725581723996488,
+    "Rank": 34
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Carolina",
+    "Rating": 13.69606102101734,
+    "Rank": 35
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Miami (FL)",
+    "Rating": 13.665519914871313,
+    "Rank": 36
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UCLA",
+    "Rating": 13.449362703325756,
+    "Rank": 37
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Carolina",
+    "Rating": 13.381182252861151,
+    "Rank": 38
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arizona State",
+    "Rating": 13.050675652530886,
+    "Rank": 39
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Charlotte",
+    "Rating": 12.904735158347538,
+    "Rank": 40
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Penn State",
+    "Rating": 12.317277504265666,
+    "Rank": 41
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Creighton",
+    "Rating": 12.10090570044392,
+    "Rank": 42
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "NC State",
+    "Rating": 11.985330903045831,
+    "Rank": 43
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Louis",
+    "Rating": 11.912400646277124,
+    "Rank": 44
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pepperdine",
+    "Rating": 11.68917595198917,
+    "Rank": 45
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wake Forest",
+    "Rating": 11.634598431534055,
+    "Rank": 46
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern California",
+    "Rating": 11.046785413827084,
+    "Rank": 47
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Seton Hall",
+    "Rating": 11.018780799232411,
+    "Rank": 48
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Virginia",
+    "Rating": 10.765277637530817,
+    "Rank": 49
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fresno State",
+    "Rating": 10.30944262622654,
+    "Rank": 50
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Missouri State",
+    "Rating": 10.131249570366144,
+    "Rank": 51
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Illinois",
+    "Rating": 10.0692325764569,
+    "Rank": 52
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Memphis",
+    "Rating": 10.02265835156091,
+    "Rank": 53
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Iowa",
+    "Rating": 10.01768743085883,
+    "Rank": 54
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mississippi State",
+    "Rating": 9.977680081755445,
+    "Rank": 55
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Notre Dame",
+    "Rating": 9.917111940528596,
+    "Rank": 56
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kent State",
+    "Rating": 9.788120638563496,
+    "Rank": 57
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Massachusetts",
+    "Rating": 9.69966927491758,
+    "Rank": 58
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Utah State",
+    "Rating": 9.358100907698525,
+    "Rank": 59
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Florida",
+    "Rating": 9.279171028258464,
+    "Rank": 60
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Indiana State",
+    "Rating": 8.83116331726003,
+    "Rank": 61
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nevada-Las Vegas",
+    "Rating": 8.73043616687906,
+    "Rank": 62
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "St. Bonaventure",
+    "Rating": 8.71610161181716,
+    "Rank": 63
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bradley",
+    "Rating": 8.70633063077752,
+    "Rank": 64
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Methodist",
+    "Rating": 8.651402160192035,
+    "Rank": 65
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Ohio",
+    "Rating": 8.643866289864965,
+    "Rank": 66
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Colorado",
+    "Rating": 8.5999794727403,
+    "Rank": 67
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Villanova",
+    "Rating": 8.59206076177322,
+    "Rank": 68
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Xavier",
+    "Rating": 8.552506452281389,
+    "Rank": 69
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Utah",
+    "Rating": 8.43115489389547,
+    "Rank": 70
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Dayton",
+    "Rating": 8.384188813484382,
+    "Rank": 71
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alabama",
+    "Rating": 8.231704125305363,
+    "Rank": 72
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Diego",
+    "Rating": 8.161580929263401,
+    "Rank": 73
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Marquette",
+    "Rating": 8.13171565871243,
+    "Rank": 74
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Ball State",
+    "Rating": 7.950404566346252,
+    "Rank": 75
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Long Beach State",
+    "Rating": 7.861172870397088,
+    "Rank": 76
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northern Arizona",
+    "Rating": 7.592142449542836,
+    "Rank": 77
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hofstra",
+    "Rating": 7.58674151064019,
+    "Rank": 78
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "California",
+    "Rating": 7.580630772083577,
+    "Rank": 79
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mississippi",
+    "Rating": 7.552461234821736,
+    "Rank": 80
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Toledo",
+    "Rating": 7.494140052538231,
+    "Rank": 81
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia",
+    "Rating": 6.873742312461175,
+    "Rank": 82
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia Tech",
+    "Rating": 6.781643639744705,
+    "Rank": 83
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rutgers",
+    "Rating": 6.650468553862964,
+    "Rank": 84
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "TCU",
+    "Rating": 6.503245238098274,
+    "Rank": 85
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgetown",
+    "Rating": 6.419743971590858,
+    "Rank": 86
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana",
+    "Rating": 6.415854245436856,
+    "Rank": 87
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Mexico",
+    "Rating": 6.298093994817789,
+    "Rank": 88
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wyoming",
+    "Rating": 6.2905428642286285,
+    "Rank": 89
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Santa Clara",
+    "Rating": 6.176276872001285,
+    "Rank": 90
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Colorado State",
+    "Rating": 6.0822595203772485,
+    "Rank": 91
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oregon State",
+    "Rating": 5.847245119957254,
+    "Rank": 92
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Mexico State",
+    "Rating": 5.769661016339157,
+    "Rank": 93
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bowling Green State",
+    "Rating": 5.72880979787973,
+    "Rank": 94
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cal State Northridge",
+    "Rating": 5.684168682102282,
+    "Rank": 95
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Detroit Mercy",
+    "Rating": 5.492419203588127,
+    "Rank": 96
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Minnesota",
+    "Rating": 5.188490725860607,
+    "Rank": 97
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Murray State",
+    "Rating": 5.139052042072919,
+    "Rank": 98
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Mississippi",
+    "Rating": 5.001797313946421,
+    "Rank": 99
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Brigham Young",
+    "Rating": 4.982346219754968,
+    "Rank": 100
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southeast Missouri State",
+    "Rating": 4.979926327932223,
+    "Rank": 101
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Navy",
+    "Rating": 4.887405513897168,
+    "Rank": 102
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Michigan",
+    "Rating": 4.820722774953481,
+    "Rank": 103
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Marshall",
+    "Rating": 4.707485748491601,
+    "Rank": 104
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Miami (OH)",
+    "Rating": 4.695867975060139,
+    "Rank": 105
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Appalachian State",
+    "Rating": 4.656405504272322,
+    "Rank": 106
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hawaii",
+    "Rating": 4.443401595169602,
+    "Rank": 107
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UAB",
+    "Rating": 4.293430963425239,
+    "Rank": 108
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Washington",
+    "Rating": 4.242240713348024,
+    "Rank": 109
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tulane",
+    "Rating": 4.113475515095784,
+    "Rank": 110
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida State",
+    "Rating": 4.028540115575158,
+    "Rank": 111
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Alabama",
+    "Rating": 4.012110252886515,
+    "Rank": 112
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pennsylvania",
+    "Rating": 4.004272364572827,
+    "Rank": 113
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Clemson",
+    "Rating": 3.977948118632621,
+    "Rank": 114
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Houston",
+    "Rating": 3.926017448526955,
+    "Rank": 115
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pittsburgh",
+    "Rating": 3.8946617930614487,
+    "Rank": 116
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Joseph's",
+    "Rating": 3.854777150485641,
+    "Rank": 117
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Boston College",
+    "Rating": 3.773483760589737,
+    "Rank": 118
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Francisco",
+    "Rating": 3.7435942286775727,
+    "Rank": 119
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UTEP",
+    "Rating": 3.6912274206706863,
+    "Rank": 120
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Virginia Tech",
+    "Rating": 3.63876583675617,
+    "Rank": 121
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "West Virginia",
+    "Rating": 3.6265622040275134,
+    "Rank": 122
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Montana",
+    "Rating": 3.616085563013754,
+    "Rank": 123
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Samford",
+    "Rating": 3.5700723771109204,
+    "Rank": 124
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Illinois",
+    "Rating": 3.492127493916115,
+    "Rank": 125
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana Tech",
+    "Rating": 3.4438960094884425,
+    "Rank": 126
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UNC Wilmington",
+    "Rating": 3.391576987411163,
+    "Rank": 127
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "George Washington",
+    "Rating": 3.226182126784267,
+    "Rank": 128
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Lafayette",
+    "Rating": 3.093545273683993,
+    "Rank": 129
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Jose State",
+    "Rating": 3.0817353740484306,
+    "Rank": 130
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Baylor",
+    "Rating": 2.875530767836601,
+    "Rank": 131
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Weber State",
+    "Rating": 2.856449356750142,
+    "Rank": 132
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cleveland State",
+    "Rating": 2.6862673372259485,
+    "Rank": 133
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "College of Charleston",
+    "Rating": 2.685302743006204,
+    "Rank": 134
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "George Mason",
+    "Rating": 2.674797576790711,
+    "Rank": 135
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Delaware",
+    "Rating": 2.666934333445953,
+    "Rank": 136
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Richmond",
+    "Rating": 2.453510304638031,
+    "Rank": 137
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Milwaukee",
+    "Rating": 2.3869383880655004,
+    "Rank": 138
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wichita State",
+    "Rating": 2.349665604972258,
+    "Rank": 139
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Evansville",
+    "Rating": 2.340283628820501,
+    "Rank": 140
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northern Illinois",
+    "Rating": 2.32415903704492,
+    "Rank": 141
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Michigan",
+    "Rating": 2.26246926461974,
+    "Rank": 142
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Providence",
+    "Rating": 2.2357315790945207,
+    "Rank": 143
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas Tech",
+    "Rating": 2.185602933072751,
+    "Rank": 144
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UC Santa Barbara",
+    "Rating": 2.0529564884032574,
+    "Rank": 145
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northern Iowa",
+    "Rating": 1.8584305698291903,
+    "Rank": 146
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Austin Peay",
+    "Rating": 1.4838608787833252,
+    "Rank": 147
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Sam Houston",
+    "Rating": 1.4421152453456276,
+    "Rank": 148
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Central Connecticut State",
+    "Rating": 1.2271609993397623,
+    "Rank": 149
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nebraska",
+    "Rating": 1.1655113531403083,
+    "Rank": 150
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fordham",
+    "Rating": 1.1219690045210706,
+    "Rank": 151
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Washington",
+    "Rating": 0.9150040849068404,
+    "Rank": 152
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Akron",
+    "Rating": 0.8263202711334161,
+    "Rank": 153
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Princeton",
+    "Rating": 0.6866209353609882,
+    "Rank": 154
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida International",
+    "Rating": 0.5653725453810221,
+    "Rank": 155
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maine",
+    "Rating": 0.5289302097489126,
+    "Rank": 156
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Green Bay",
+    "Rating": 0.460686499411759,
+    "Rank": 157
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia State",
+    "Rating": 0.4112790697916608,
+    "Rank": 158
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Siena",
+    "Rating": 0.3044522945049479,
+    "Rank": 159
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Portland State",
+    "Rating": 0.2803928072191521,
+    "Rank": 160
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Kentucky",
+    "Rating": 0.2706930975771673,
+    "Rank": 161
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Davidson",
+    "Rating": 0.1774729194062417,
+    "Rank": 162
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee Tech",
+    "Rating": 0.051332183133173,
+    "Rank": 163
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana-Monroe",
+    "Rating": 0.0154620823429478,
+    "Rank": 164
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Illinois State",
+    "Rating": 0.0070562898982853,
+    "Rank": 165
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "IU Indy",
+    "Rating": 3.9185006609597337e-14,
+    "Rank": 166
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Drake",
+    "Rating": -0.0053709344908279,
+    "Rank": 167
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kansas State",
+    "Rating": -0.1901047923114394,
+    "Rank": 168
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Winthrop",
+    "Rating": -0.2919393287776906,
+    "Rank": 169
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wright State",
+    "Rating": -0.5676307880311136,
+    "Rank": 170
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Middle Tennessee",
+    "Rating": -0.8692527174677807,
+    "Rank": 171
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Boise State",
+    "Rating": -0.8962669044138352,
+    "Rank": 172
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "La Salle",
+    "Rating": -0.9552017816528852,
+    "Rank": 173
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Valparaiso",
+    "Rating": -1.044078978328514,
+    "Rank": 174
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Iona",
+    "Rating": -1.1688139691972168,
+    "Rank": 175
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Illinois-Chicago",
+    "Rating": -1.7107994125662334,
+    "Rank": 176
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Utah",
+    "Rating": -1.7137046623908532,
+    "Rank": 177
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Washington State",
+    "Rating": -1.7865820938123065,
+    "Rank": 178
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "James Madison",
+    "Rating": -1.9120153274378184,
+    "Rank": 179
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UTSA",
+    "Rating": -1.9752478190575056,
+    "Rank": 180
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northwestern",
+    "Rating": -1.9875877548468568,
+    "Rank": 181
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas A&M",
+    "Rating": -2.1283700873795786,
+    "Rank": 182
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arkansas State",
+    "Rating": -2.2310817420666678,
+    "Rank": 183
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northwestern State",
+    "Rating": -2.4513754916992987,
+    "Rank": 184
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Old Dominion",
+    "Rating": -2.914343166356023,
+    "Rank": 185
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Central Florida",
+    "Rating": -3.236270034324735,
+    "Rank": 186
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Idaho",
+    "Rating": -3.4722778320057657,
+    "Rank": 187
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Loyola (IL)",
+    "Rating": -3.4974084193563764,
+    "Rank": 188
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fairfield",
+    "Rating": -3.665067951553748,
+    "Rank": 189
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nevada",
+    "Rating": -3.7874734956032654,
+    "Rank": 190
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oakland",
+    "Rating": -3.849215212355503,
+    "Rank": 191
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UT Arlington",
+    "Rating": -3.939712203373089,
+    "Rank": 192
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Portland",
+    "Rating": -3.960853379978275,
+    "Rank": 193
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Central Michigan",
+    "Rating": -4.00261513513915,
+    "Rank": 194
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Robert Morris",
+    "Rating": -4.027813347063018,
+    "Rank": 195
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pacific",
+    "Rating": -4.070776630566584,
+    "Rank": 196
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Orleans",
+    "Rating": -4.091322806681735,
+    "Rank": 197
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UC Irvine",
+    "Rating": -4.136316113464076,
+    "Rank": 198
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas State",
+    "Rating": -4.168822640736396,
+    "Rank": 199
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Michigan",
+    "Rating": -4.392378740037605,
+    "Rank": 200
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "American",
+    "Rating": -4.414761189603128,
+    "Rank": 201
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Furman",
+    "Rating": -4.476451591957234,
+    "Rank": 202
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "William & Mary",
+    "Rating": -4.489729815017075,
+    "Rank": 203
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Troy",
+    "Rating": -4.650333429918302,
+    "Rank": 204
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cal Poly",
+    "Rating": -4.778673234689506,
+    "Rank": 205
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Virginia Commonwealth",
+    "Rating": -4.814847381981339,
+    "Rank": 206
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oral Roberts",
+    "Rating": -5.375268671241749,
+    "Rank": 207
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Marist",
+    "Rating": -5.420893733041927,
+    "Rank": 208
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Vermont",
+    "Rating": -5.515777177665771,
+    "Rank": 209
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UNC Greensboro",
+    "Rating": -5.620530461726796,
+    "Rank": 210
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kansas City",
+    "Rating": -5.636157474890787,
+    "Rank": 211
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nicholls State",
+    "Rating": -5.720542723458195,
+    "Rank": 212
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hampton",
+    "Rating": -5.791913947406868,
+    "Rank": 213
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wofford",
+    "Rating": -5.966292046165853,
+    "Rank": 214
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fairleigh Dickinson",
+    "Rating": -5.986190210571966,
+    "Rank": 215
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Duquesne",
+    "Rating": -6.006492324542831,
+    "Rank": 216
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Idaho State",
+    "Rating": -6.077507851191164,
+    "Rank": 217
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Carolina State",
+    "Rating": -6.105043904326605,
+    "Rank": 218
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas-Rio Grande Valley",
+    "Rating": -6.152571516577707,
+    "Rank": 219
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Manhattan",
+    "Rating": -6.175664412051587,
+    "Rank": 220
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Morehead State",
+    "Rating": -6.2383610917310754,
+    "Rank": 221
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Jacksonville State",
+    "Rating": -6.4399184138699805,
+    "Rank": 222
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "East Tennessee State",
+    "Rating": -6.457806637163079,
+    "Rank": 223
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bucknell",
+    "Rating": -6.649217105053776,
+    "Rank": 224
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Lamar",
+    "Rating": -6.667833277516282,
+    "Rank": 225
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "St. Francis (NY)",
+    "Rating": -6.73054789106832,
+    "Rank": 226
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Air Force",
+    "Rating": -6.762927742492479,
+    "Rank": 227
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Radford",
+    "Rating": -6.80343233322719,
+    "Rank": 228
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia Southern",
+    "Rating": -7.039462861814454,
+    "Rank": 229
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee-Martin",
+    "Rating": -7.196670191882543,
+    "Rank": 230
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rider",
+    "Rating": -7.2751732288273825,
+    "Rank": 231
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Niagara",
+    "Rating": -7.295525646333985,
+    "Rank": 232
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Drexel",
+    "Rating": -7.406405379050171,
+    "Rank": 233
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Chattanooga",
+    "Rating": -7.480754511589696,
+    "Rank": 234
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Youngstown State",
+    "Rating": -7.502318861251126,
+    "Rank": 235
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mercer",
+    "Rating": -7.641067483792594,
+    "Rank": 236
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Coppin State",
+    "Rating": -7.673275059833824,
+    "Rank": 237
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alcorn State",
+    "Rating": -7.768732963541604,
+    "Rank": 238
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Montana State",
+    "Rating": -7.769932145615608,
+    "Rank": 239
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "East Carolina",
+    "Rating": -8.041734624974588,
+    "Rank": 240
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wagner",
+    "Rating": -8.236211182289608,
+    "Rank": 241
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rice",
+    "Rating": -8.53964308695147,
+    "Rank": 242
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bethune-Cookman",
+    "Rating": -8.612787376550509,
+    "Rank": 243
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Towson",
+    "Rating": -8.925602376187886,
+    "Rank": 244
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Carolina",
+    "Rating": -8.967210450500811,
+    "Rank": 245
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Illinois",
+    "Rating": -9.046384223869708,
+    "Rank": 246
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Centenary (LA)",
+    "Rating": -9.204611556072456,
+    "Rank": 247
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Sacramento State",
+    "Rating": -9.297682385297865,
+    "Rank": 248
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alabama A&M",
+    "Rating": -9.36832876339868,
+    "Rank": 249
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Jacksonville",
+    "Rating": -9.403571905964652,
+    "Rank": 250
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Campbell",
+    "Rating": -9.425806822231356,
+    "Rank": 251
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maryland-Baltimore County",
+    "Rating": -9.640407178862688,
+    "Rank": 252
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Carolina A&T",
+    "Rating": -9.661585339030683,
+    "Rank": 253
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Mary's (CA)",
+    "Rating": -9.712571422850129,
+    "Rank": 254
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Canisius",
+    "Rating": -9.72886544243789,
+    "Rank": 255
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Denver",
+    "Rating": -9.789544609911248,
+    "Rank": 256
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Texas",
+    "Rating": -9.9633357977092,
+    "Rank": 257
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Quinnipiac",
+    "Rating": -10.133539617106772,
+    "Rank": 258
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Little Rock",
+    "Rating": -10.210604334496924,
+    "Rank": 259
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Jackson State",
+    "Rating": -10.31699434489986,
+    "Rank": 260
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southeastern Louisiana",
+    "Rating": -10.340944626857327,
+    "Rank": 261
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stephen F. Austin",
+    "Rating": -10.354981602544472,
+    "Rank": 262
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UNC Asheville",
+    "Rating": -10.362875565247233,
+    "Rank": 263
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rhode Island",
+    "Rating": -10.631689590603004,
+    "Rank": 264
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Buffalo",
+    "Rating": -10.867698983666738,
+    "Rank": 265
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Diego State",
+    "Rating": -10.875311072710671,
+    "Rank": 266
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Chicago State",
+    "Rating": -10.960928200220287,
+    "Rank": 267
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stetson",
+    "Rating": -11.001693106585783,
+    "Rank": 268
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas Southern",
+    "Rating": -11.243172373560306,
+    "Rank": 269
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cal State Fullerton",
+    "Rating": -11.306383563154196,
+    "Rank": 270
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Elon",
+    "Rating": -11.47016374085405,
+    "Rank": 271
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Belmont",
+    "Rating": -11.513517124730988,
+    "Rank": 272
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Coastal Carolina",
+    "Rating": -11.651801945384316,
+    "Rank": 273
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Boston University",
+    "Rating": -11.867239546286624,
+    "Rank": 274
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee State",
+    "Rating": -11.957278623049191,
+    "Rank": 275
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Monmouth",
+    "Rating": -12.15344547774204,
+    "Rank": 276
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Francis (PA)",
+    "Rating": -12.169329488711448,
+    "Rank": 277
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Holy Cross",
+    "Rating": -12.220299472576633,
+    "Rank": 278
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "McNeese State",
+    "Rating": -12.33701234708864,
+    "Rank": 279
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Harvard",
+    "Rating": -12.676353149301546,
+    "Rank": 280
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northeastern",
+    "Rating": -13.114806164081372,
+    "Rank": 281
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "The Citadel",
+    "Rating": -13.20485860157188,
+    "Rank": 282
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "VMI",
+    "Rating": -13.285693717551233,
+    "Rank": 283
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern",
+    "Rating": -13.52217816461286,
+    "Rank": 284
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Colgate",
+    "Rating": -13.529921252302683,
+    "Rank": 285
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Albany (NY)",
+    "Rating": -13.555351400532391,
+    "Rank": 286
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hartford",
+    "Rating": -13.6006309922524,
+    "Rank": 287
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Columbia",
+    "Rating": -13.852290581374143,
+    "Rank": 288
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alabama State",
+    "Rating": -13.857605698569898,
+    "Rank": 289
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Liberty",
+    "Rating": -14.064591074001424,
+    "Rank": 290
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Loyola Marymount",
+    "Rating": -14.619711385666964,
+    "Rank": 291
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Long Island University",
+    "Rating": -14.877794880929134,
+    "Rank": 292
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Lehigh",
+    "Rating": -15.004548218343244,
+    "Rank": 293
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Dartmouth",
+    "Rating": -15.422834337668547,
+    "Rank": 294
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mount St. Mary's",
+    "Rating": -15.547854686758368,
+    "Rank": 295
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Norfolk State",
+    "Rating": -15.630378912039063,
+    "Rank": 296
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "High Point",
+    "Rating": -15.92827130590324,
+    "Rank": 297
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stony Brook",
+    "Rating": -16.017105164577178,
+    "Rank": 298
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maryland-Eastern Shore",
+    "Rating": -16.366312634862528,
+    "Rank": 299
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cornell",
+    "Rating": -16.68328740403518,
+    "Rank": 300
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Yale",
+    "Rating": -16.819805740538655,
+    "Rank": 301
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Kentucky",
+    "Rating": -16.83437848392612,
+    "Rank": 302
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mississippi Valley State",
+    "Rating": -16.929514942028028,
+    "Rank": 303
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida A&M",
+    "Rating": -17.107856535211834,
+    "Rank": 304
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Peter's",
+    "Rating": -17.307961385968532,
+    "Rank": 305
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Delaware State",
+    "Rating": -17.76025659645998,
+    "Rank": 306
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Prairie View",
+    "Rating": -18.333234433003348,
+    "Rank": 307
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Charleston Southern",
+    "Rating": -18.51354569483584,
+    "Rank": 308
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Brown",
+    "Rating": -18.53353120108644,
+    "Rank": 309
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Army",
+    "Rating": -18.947079981943368,
+    "Rank": 310
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Loyola (MD)",
+    "Rating": -19.6039457233243,
+    "Rank": 311
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Morgan State",
+    "Rating": -19.811380300581398,
+    "Rank": 312
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida Atlantic",
+    "Rating": -20.316498674078066,
+    "Rank": 313
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arkansas-Pine Bluff",
+    "Rating": -20.94974757464412,
+    "Rank": 314
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Hampshire",
+    "Rating": -24.629299122345312,
+    "Rank": 315
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Grambling",
+    "Rating": -26.509049799882813,
+    "Rank": 316
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Sacred Heart",
+    "Rating": -27.30968288282334,
+    "Rank": 317
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Howard",
+    "Rating": -27.92583507571433,
+    "Rank": 318
+  }
+]

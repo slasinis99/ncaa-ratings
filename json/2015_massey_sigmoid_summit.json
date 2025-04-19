@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2015,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Summit",
+    "Team": "South Dakota State",
+    "Rating": 10.065330414284324,
+    "Rank": 1
+  },
+  {
+    "Year": 2015,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Summit",
+    "Team": "North Dakota State",
+    "Rating": 3.315260813538624,
+    "Rank": 2
+  },
+  {
+    "Year": 2015,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Summit",
+    "Team": "Purdue Fort Wayne",
+    "Rating": 2.492235702001759,
+    "Rank": 3
+  },
+  {
+    "Year": 2015,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Summit",
+    "Team": "South Dakota",
+    "Rating": 0.4974763276002633,
+    "Rank": 4
+  },
+  {
+    "Year": 2015,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Summit",
+    "Team": "IU Indy",
+    "Rating": -6.7843232000635735e-15,
+    "Rank": 5
+  },
+  {
+    "Year": 2015,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Summit",
+    "Team": "Oral Roberts",
+    "Rating": -0.4641663464986296,
+    "Rank": 6
+  },
+  {
+    "Year": 2015,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Summit",
+    "Team": "Denver",
+    "Rating": -1.626050455557155,
+    "Rank": 7
+  },
+  {
+    "Year": 2015,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Summit",
+    "Team": "Omaha",
+    "Rating": -2.601411190478623,
+    "Rank": 8
+  },
+  {
+    "Year": 2015,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Summit",
+    "Team": "Western Illinois",
+    "Rating": -11.67867526489057,
+    "Rank": 9
+  }
+]

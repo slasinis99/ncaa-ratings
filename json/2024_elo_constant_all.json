@@ -1,0 +1,3323 @@
+[
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Connecticut",
+    "Rating": 1754.8206775859237,
+    "Rank": 1
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Houston",
+    "Rating": 1742.654336031939,
+    "Rank": 2
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Iowa State",
+    "Rating": 1733.402765890597,
+    "Rank": 3
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Auburn",
+    "Rating": 1712.4636344377748,
+    "Rank": 4
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Purdue",
+    "Rating": 1706.1495690044928,
+    "Rank": 5
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Illinois",
+    "Rating": 1700.497091068171,
+    "Rank": 6
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "North Carolina",
+    "Rating": 1691.1209668380354,
+    "Rank": 7
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Saint Mary's (CA)",
+    "Rating": 1690.4928180876448,
+    "Rank": 8
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Tennessee",
+    "Rating": 1671.701913433854,
+    "Rank": 9
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Drake",
+    "Rating": 1671.5069071060857,
+    "Rank": 10
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Nevada",
+    "Rating": 1666.1865241952653,
+    "Rank": 11
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Gonzaga",
+    "Rating": 1664.8352305164271,
+    "Rank": 12
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Marquette",
+    "Rating": 1663.5112865789536,
+    "Rank": 13
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Kentucky",
+    "Rating": 1663.0670087601327,
+    "Rank": 14
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Duquesne",
+    "Rating": 1658.0380662398154,
+    "Rank": 15
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Creighton",
+    "Rating": 1654.083875778026,
+    "Rank": 16
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "New Mexico",
+    "Rating": 1653.309153506845,
+    "Rank": 17
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "South Carolina",
+    "Rating": 1652.7827423330873,
+    "Rank": 18
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Arizona",
+    "Rating": 1650.5488896041554,
+    "Rank": 19
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Texas Tech",
+    "Rating": 1649.9651071061753,
+    "Rank": 20
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "College of Charleston",
+    "Rating": 1649.253071236995,
+    "Rank": 21
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Florida",
+    "Rating": 1646.9185873537133,
+    "Rank": 22
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Baylor",
+    "Rating": 1646.40297790086,
+    "Rank": 23
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Utah State",
+    "Rating": 1644.9994412069163,
+    "Rank": 24
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Pittsburgh",
+    "Rating": 1641.339238268206,
+    "Rank": 25
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "James Madison",
+    "Rating": 1640.697133559514,
+    "Rank": 26
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Duke",
+    "Rating": 1640.1010115501438,
+    "Rank": 27
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Colorado",
+    "Rating": 1639.4477145567785,
+    "Rank": 28
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "NC State",
+    "Rating": 1638.6111250789088,
+    "Rank": 29
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Oregon",
+    "Rating": 1638.0286104559332,
+    "Rank": 30
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Grand Canyon",
+    "Rating": 1636.864842901005,
+    "Rank": 31
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Brigham Young",
+    "Rating": 1634.0675432407709,
+    "Rank": 32
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Nebraska",
+    "Rating": 1633.7752222448537,
+    "Rank": 33
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Vermont",
+    "Rating": 1631.3985359655835,
+    "Rank": 34
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "San Diego State",
+    "Rating": 1631.1767314585416,
+    "Rank": 35
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Alabama",
+    "Rating": 1631.05348747802,
+    "Rank": 36
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Washington State",
+    "Rating": 1627.9751767637083,
+    "Rank": 37
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "UAB",
+    "Rating": 1626.962998794608,
+    "Rank": 38
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Indiana State",
+    "Rating": 1626.877791861809,
+    "Rank": 39
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Boise State",
+    "Rating": 1624.7333187325603,
+    "Rank": 40
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Samford",
+    "Rating": 1623.9649511049874,
+    "Rank": 41
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Florida Atlantic",
+    "Rating": 1623.7207321544588,
+    "Rank": 42
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Dayton",
+    "Rating": 1623.4325287742931,
+    "Rank": 43
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Loyola (IL)",
+    "Rating": 1621.9594271976027,
+    "Rank": 44
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Wisconsin",
+    "Rating": 1621.1674412281848,
+    "Rank": 45
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "South Florida",
+    "Rating": 1620.0221819413505,
+    "Rank": 46
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "McNeese State",
+    "Rating": 1616.9028059164102,
+    "Rank": 47
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Texas A&M",
+    "Rating": 1616.0776583969605,
+    "Rank": 48
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Texas",
+    "Rating": 1613.031547019439,
+    "Rank": 49
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Ohio State",
+    "Rating": 1612.8918771852752,
+    "Rank": 50
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Princeton",
+    "Rating": 1610.9484327599869,
+    "Rank": 51
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Mississippi State",
+    "Rating": 1610.677404803415,
+    "Rank": 52
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Nevada-Las Vegas",
+    "Rating": 1609.6049193346926,
+    "Rank": 53
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Virginia Commonwealth",
+    "Rating": 1607.668065683762,
+    "Rank": 54
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "St. John's (NY)",
+    "Rating": 1607.0834993821966,
+    "Rank": 55
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Colorado State",
+    "Rating": 1606.7795576341828,
+    "Rank": 56
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Kansas",
+    "Rating": 1606.566070869841,
+    "Rank": 57
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Appalachian State",
+    "Rating": 1605.5569691120445,
+    "Rank": 58
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Yale",
+    "Rating": 1604.6141945421368,
+    "Rank": 59
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Virginia",
+    "Rating": 1604.4790389010038,
+    "Rank": 60
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Richmond",
+    "Rating": 1604.4215060714396,
+    "Rank": 61
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Indiana",
+    "Rating": 1599.687588760243,
+    "Rank": 62
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Tarleton State",
+    "Rating": 1599.0766264415854,
+    "Rank": 63
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Michigan State",
+    "Rating": 1598.8551071858828,
+    "Rank": 64
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "TCU",
+    "Rating": 1596.6979225567804,
+    "Rank": 65
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Kansas State",
+    "Rating": 1594.875318070319,
+    "Rank": 66
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Northwestern",
+    "Rating": 1593.170513004968,
+    "Rank": 67
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Cincinnati",
+    "Rating": 1592.1654214184807,
+    "Rank": 68
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Providence",
+    "Rating": 1589.5021211013382,
+    "Rank": 69
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Seton Hall",
+    "Rating": 1588.9172870548748,
+    "Rank": 70
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Wake Forest",
+    "Rating": 1588.1053590202637,
+    "Rank": 71
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Iowa",
+    "Rating": 1587.811771024814,
+    "Rank": 72
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Clemson",
+    "Rating": 1586.9309578590612,
+    "Rank": 73
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "UT Arlington",
+    "Rating": 1586.4078916862811,
+    "Rank": 74
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Bradley",
+    "Rating": 1584.4520896311117,
+    "Rank": 75
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Saint Joseph's",
+    "Rating": 1582.6935015916276,
+    "Rank": 76
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Oakland",
+    "Rating": 1579.7867480989098,
+    "Rank": 77
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Central Florida",
+    "Rating": 1579.4868859574465,
+    "Rank": 78
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Southern California",
+    "Rating": 1579.469085858626,
+    "Rank": 79
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Memphis",
+    "Rating": 1578.9168985767546,
+    "Rank": 80
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Northern Iowa",
+    "Rating": 1575.314051555452,
+    "Rank": 81
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "UC Irvine",
+    "Rating": 1573.46926134856,
+    "Rank": 82
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Massachusetts",
+    "Rating": 1573.3478553913562,
+    "Rank": 83
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Oklahoma",
+    "Rating": 1573.0846250609372,
+    "Rank": 84
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Colgate",
+    "Rating": 1571.272380436881,
+    "Rank": 85
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Arkansas State",
+    "Rating": 1571.0530785995336,
+    "Rank": 86
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "South Dakota State",
+    "Rating": 1570.7137234715535,
+    "Rank": 87
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Virginia Tech",
+    "Rating": 1568.8021423102996,
+    "Rank": 88
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Syracuse",
+    "Rating": 1568.6654984957104,
+    "Rank": 89
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Morehead State",
+    "Rating": 1568.3599351686607,
+    "Rank": 90
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Villanova",
+    "Rating": 1568.1519648821134,
+    "Rank": 91
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "San Francisco",
+    "Rating": 1566.9792492302188,
+    "Rank": 92
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Sam Houston",
+    "Rating": 1566.0552273077326,
+    "Rank": 93
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "St. Bonaventure",
+    "Rating": 1565.2042677789943,
+    "Rank": 94
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Cornell",
+    "Rating": 1561.6339694525689,
+    "Rank": 95
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Boston College",
+    "Rating": 1560.5113755066477,
+    "Rank": 96
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Florida State",
+    "Rating": 1560.386797099643,
+    "Rank": 97
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Washington",
+    "Rating": 1560.3087072073893,
+    "Rank": 98
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Belmont",
+    "Rating": 1559.032830948898,
+    "Rank": 99
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Louisiana State",
+    "Rating": 1557.375465397701,
+    "Rank": 100
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Penn State",
+    "Rating": 1556.6494514417295,
+    "Rank": 101
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "George Mason",
+    "Rating": 1552.4108369901105,
+    "Rank": 102
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Hofstra",
+    "Rating": 1549.9056280049506,
+    "Rank": 103
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "North Texas",
+    "Rating": 1548.9361609115165,
+    "Rank": 104
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Akron",
+    "Rating": 1547.9213686986309,
+    "Rank": 105
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Saint Peter's",
+    "Rating": 1546.986745672349,
+    "Rank": 106
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Santa Clara",
+    "Rating": 1546.9851524050532,
+    "Rank": 107
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Ohio",
+    "Rating": 1546.6252168425904,
+    "Rank": 108
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Arkansas",
+    "Rating": 1546.6168517818576,
+    "Rank": 109
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Brown",
+    "Rating": 1546.6151181791745,
+    "Rank": 110
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Xavier",
+    "Rating": 1545.4911599384434,
+    "Rank": 111
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "UCLA",
+    "Rating": 1545.4232910097128,
+    "Rank": 112
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Louisiana Tech",
+    "Rating": 1544.6211208270824,
+    "Rank": 113
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Eastern Washington",
+    "Rating": 1544.1308992796965,
+    "Rank": 114
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Little Rock",
+    "Rating": 1543.4944128925574,
+    "Rank": 115
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Stony Brook",
+    "Rating": 1543.411296592223,
+    "Rank": 116
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Minnesota",
+    "Rating": 1543.367053743364,
+    "Rank": 117
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Fairfield",
+    "Rating": 1543.1173270073912,
+    "Rank": 118
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Temple",
+    "Rating": 1542.7001995475152,
+    "Rank": 119
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "UC Davis",
+    "Rating": 1542.5099874998534,
+    "Rank": 120
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Hawaii",
+    "Rating": 1540.1216704978174,
+    "Rank": 121
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Long Beach State",
+    "Rating": 1539.5009044887329,
+    "Rank": 122
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "UC San Diego",
+    "Rating": 1538.5776975273127,
+    "Rank": 123
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "UNC Asheville",
+    "Rating": 1538.1487244792684,
+    "Rank": 124
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Charlotte",
+    "Rating": 1538.059663111247,
+    "Rank": 125
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Utah",
+    "Rating": 1537.7413393650106,
+    "Rank": 126
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Drexel",
+    "Rating": 1536.7832466810487,
+    "Rank": 127
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Western Carolina",
+    "Rating": 1536.6426550427627,
+    "Rank": 128
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Butler",
+    "Rating": 1536.6165536321437,
+    "Rank": 129
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Notre Dame",
+    "Rating": 1536.5094220279095,
+    "Rank": 130
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Western Kentucky",
+    "Rating": 1536.4786171369149,
+    "Rank": 131
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Montana",
+    "Rating": 1536.2476354249045,
+    "Rank": 132
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Stetson",
+    "Rating": 1536.1320123139035,
+    "Rank": 133
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Massachusetts-Lowell",
+    "Rating": 1533.529052607311,
+    "Rank": 134
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Quinnipiac",
+    "Rating": 1533.1656466040954,
+    "Rank": 135
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "High Point",
+    "Rating": 1532.1257743974886,
+    "Rank": 136
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Longwood",
+    "Rating": 1531.5233032260371,
+    "Rank": 137
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Southern Methodist",
+    "Rating": 1530.0259798574757,
+    "Rank": 138
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "East Tennessee State",
+    "Rating": 1529.2703033729667,
+    "Rank": 139
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Texas State",
+    "Rating": 1524.6454140599867,
+    "Rank": 140
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Grambling",
+    "Rating": 1524.434905800731,
+    "Rank": 141
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Chattanooga",
+    "Rating": 1524.0355522386617,
+    "Rank": 142
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Montana State",
+    "Rating": 1523.97607493716,
+    "Rank": 143
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Georgia",
+    "Rating": 1523.2280711023514,
+    "Rank": 144
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Milwaukee",
+    "Rating": 1523.091272206171,
+    "Rank": 145
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Towson",
+    "Rating": 1522.8215512687816,
+    "Rank": 146
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Rider",
+    "Rating": 1522.3833185028757,
+    "Rank": 147
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Nicholls State",
+    "Rating": 1521.402429153071,
+    "Rank": 148
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Seattle",
+    "Rating": 1521.0962229551003,
+    "Rank": 149
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Utah Valley",
+    "Rating": 1520.9913353015809,
+    "Rank": 150
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Georgia Tech",
+    "Rating": 1519.9015762727845,
+    "Rank": 151
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Toledo",
+    "Rating": 1519.134024143785,
+    "Rank": 152
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Troy",
+    "Rating": 1519.0102291798494,
+    "Rank": 153
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Tennessee-Martin",
+    "Rating": 1518.7474167501853,
+    "Rank": 154
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Mississippi",
+    "Rating": 1517.306356028579,
+    "Rank": 155
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Maryland",
+    "Rating": 1517.2948699222136,
+    "Rank": 156
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "UTEP",
+    "Rating": 1517.206905225563,
+    "Rank": 157
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Furman",
+    "Rating": 1517.0021720707623,
+    "Rank": 158
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Youngstown State",
+    "Rating": 1516.3983654693411,
+    "Rank": 159
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "UNC Wilmington",
+    "Rating": 1515.33186249194,
+    "Rank": 160
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Gardner-Webb",
+    "Rating": 1514.178897582003,
+    "Rank": 161
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Lipscomb",
+    "Rating": 1513.253538470226,
+    "Rank": 162
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Bryant",
+    "Rating": 1511.433974957842,
+    "Rank": 163
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Purdue Fort Wayne",
+    "Rating": 1511.0301047318785,
+    "Rank": 164
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Wichita State",
+    "Rating": 1509.062920602148,
+    "Rank": 165
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Stanford",
+    "Rating": 1508.8359798901824,
+    "Rank": 166
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Abilene Christian",
+    "Rating": 1508.3111309677142,
+    "Rank": 167
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Southern Illinois",
+    "Rating": 1508.293693222927,
+    "Rank": 168
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Mercer",
+    "Rating": 1507.3880897666463,
+    "Rank": 169
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "UNC Greensboro",
+    "Rating": 1505.3260516195862,
+    "Rank": 170
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Wright State",
+    "Rating": 1505.324529997211,
+    "Rank": 171
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Saint Louis",
+    "Rating": 1504.7703418878311,
+    "Rank": 172
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Wyoming",
+    "Rating": 1503.281886813614,
+    "Rank": 173
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Weber State",
+    "Rating": 1503.0236829146086,
+    "Rank": 174
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "UC Riverside",
+    "Rating": 1502.5810586945097,
+    "Rank": 175
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Norfolk State",
+    "Rating": 1501.85695283582,
+    "Rank": 176
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Vanderbilt",
+    "Rating": 1501.4412344330915,
+    "Rank": 177
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Merrimack",
+    "Rating": 1501.0667467857995,
+    "Rank": 178
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Rutgers",
+    "Rating": 1500.0573179561443,
+    "Rank": 179
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "IU Indy",
+    "Rating": 1500.0,
+    "Rank": 180
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "SIU Edwardsville",
+    "Rating": 1500.0,
+    "Rank": 181
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Morris Brown",
+    "Rating": 1499.9999991455488,
+    "Rank": 182
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "California",
+    "Rating": 1499.8463845757217,
+    "Rank": 183
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "La Salle",
+    "Rating": 1499.56053964665,
+    "Rank": 184
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Northern Kentucky",
+    "Rating": 1498.9809772310634,
+    "Rank": 185
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Oklahoma State",
+    "Rating": 1498.9668853828591,
+    "Rank": 186
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Missouri State",
+    "Rating": 1498.5220391176483,
+    "Rank": 187
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Savannah State",
+    "Rating": 1498.5110078933085,
+    "Rank": 188
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Howard",
+    "Rating": 1497.0727224447069,
+    "Rank": 189
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Tulsa",
+    "Rating": 1496.599276261203,
+    "Rank": 190
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Texas A&M-Corpus Christi",
+    "Rating": 1495.8550569919755,
+    "Rank": 191
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Northern Colorado",
+    "Rating": 1495.4689842834655,
+    "Rank": 192
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Western Illinois",
+    "Rating": 1495.0735409092,
+    "Rank": 193
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Stephen F. Austin",
+    "Rating": 1494.3333544726754,
+    "Rank": 194
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Monmouth",
+    "Rating": 1493.587698547294,
+    "Rank": 195
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Louisiana",
+    "Rating": 1492.703383376466,
+    "Rank": 196
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Wofford",
+    "Rating": 1490.2381772384038,
+    "Rank": 197
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Austin Peay",
+    "Rating": 1490.21970150755,
+    "Rank": 198
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Kent State",
+    "Rating": 1488.3064282296582,
+    "Rank": 199
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Marist",
+    "Rating": 1487.3010519550917,
+    "Rank": 200
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Centenary (LA)",
+    "Rating": 1487.2344647385314,
+    "Rank": 201
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "St. Thomas",
+    "Rating": 1486.2804612746354,
+    "Rank": 202
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Central Connecticut State",
+    "Rating": 1485.848320075712,
+    "Rank": 203
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Delaware",
+    "Rating": 1485.8066771078686,
+    "Rank": 204
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Cleveland State",
+    "Rating": 1485.176823964022,
+    "Rank": 205
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "San Diego",
+    "Rating": 1485.0675954252902,
+    "Rank": 206
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Arizona State",
+    "Rating": 1483.8449227466697,
+    "Rank": 207
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "South Alabama",
+    "Rating": 1483.355884251478,
+    "Rank": 208
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "East Carolina",
+    "Rating": 1482.080660763046,
+    "Rank": 209
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Kansas City",
+    "Rating": 1481.9328996738354,
+    "Rank": 210
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Lamar",
+    "Rating": 1481.105191823698,
+    "Rank": 211
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Fordham",
+    "Rating": 1479.8288016385795,
+    "Rank": 212
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Middle Tennessee",
+    "Rating": 1477.9794775762923,
+    "Rank": 213
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Central Michigan",
+    "Rating": 1477.1678062835174,
+    "Rank": 214
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Fresno State",
+    "Rating": 1474.9100829465024,
+    "Rank": 215
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Illinois State",
+    "Rating": 1474.017978469318,
+    "Rank": 216
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Oregon State",
+    "Rating": 1472.6747907541612,
+    "Rank": 217
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Texas Southern",
+    "Rating": 1471.6680858540549,
+    "Rank": 218
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Eastern Kentucky",
+    "Rating": 1471.46885245793,
+    "Rank": 219
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "North Dakota",
+    "Rating": 1468.9238385779577,
+    "Rank": 220
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Alcorn State",
+    "Rating": 1468.8387937415616,
+    "Rank": 221
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Tulane",
+    "Rating": 1468.7103012518498,
+    "Rank": 222
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Liberty",
+    "Rating": 1468.0718269211084,
+    "Rank": 223
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Birmingham-Southern",
+    "Rating": 1468.070337826059,
+    "Rank": 224
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Davidson",
+    "Rating": 1467.7851473499995,
+    "Rank": 225
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "West Virginia",
+    "Rating": 1467.678021545448,
+    "Rank": 226
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Bowling Green State",
+    "Rating": 1467.5416867115848,
+    "Rank": 227
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Cal State Northridge",
+    "Rating": 1467.4569974705232,
+    "Rank": 228
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Binghamton",
+    "Rating": 1465.17345929189,
+    "Rank": 229
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Boston University",
+    "Rating": 1464.9361818697903,
+    "Rank": 230
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Wagner",
+    "Rating": 1464.8780630739898,
+    "Rank": 231
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Maine",
+    "Rating": 1463.8002900921044,
+    "Rank": 232
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Green Bay",
+    "Rating": 1462.622907404204,
+    "Rank": 233
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Miami (FL)",
+    "Rating": 1462.2745902274055,
+    "Rank": 234
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Lehigh",
+    "Rating": 1462.1279348624785,
+    "Rank": 235
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Idaho State",
+    "Rating": 1461.445949804236,
+    "Rank": 236
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "North Alabama",
+    "Rating": 1460.2703577255263,
+    "Rank": 237
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Murray State",
+    "Rating": 1460.2689993484005,
+    "Rank": 238
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Cal State Bakersfield",
+    "Rating": 1459.524156652402,
+    "Rank": 239
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Canisius",
+    "Rating": 1459.266752470758,
+    "Rank": 240
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Portland",
+    "Rating": 1459.2513287643956,
+    "Rank": 241
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Evansville",
+    "Rating": 1458.4596312720437,
+    "Rank": 242
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "UC Santa Barbara",
+    "Rating": 1456.2025827038472,
+    "Rank": 243
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Harvard",
+    "Rating": 1455.4732301605436,
+    "Rank": 244
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Bethune-Cookman",
+    "Rating": 1455.24882987265,
+    "Rank": 245
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "New Hampshire",
+    "Rating": 1454.424286865804,
+    "Rank": 246
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "California Baptist",
+    "Rating": 1453.9716251103366,
+    "Rank": 247
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Florida Gulf Coast",
+    "Rating": 1453.6504747591466,
+    "Rank": 248
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "St. Francis (NY)",
+    "Rating": 1453.2405903256165,
+    "Rank": 249
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Georgia Southern",
+    "Rating": 1453.1309036293276,
+    "Rank": 250
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Cal State Fullerton",
+    "Rating": 1452.3569774450002,
+    "Rank": 251
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "North Carolina Central",
+    "Rating": 1451.7395681472442,
+    "Rank": 252
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Miami (OH)",
+    "Rating": 1451.227395888949,
+    "Rank": 253
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Queens (NC)",
+    "Rating": 1451.2207643684592,
+    "Rank": 254
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Pepperdine",
+    "Rating": 1446.4922872622396,
+    "Rank": 255
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "North Dakota State",
+    "Rating": 1446.4197339127847,
+    "Rank": 256
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Bucknell",
+    "Rating": 1446.1745432342386,
+    "Rank": 257
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Illinois-Chicago",
+    "Rating": 1446.0297650351042,
+    "Rank": 258
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Tennessee State",
+    "Rating": 1445.9315214985174,
+    "Rank": 259
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Rhode Island",
+    "Rating": 1444.3588380117246,
+    "Rank": 260
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Sacred Heart",
+    "Rating": 1444.035945207224,
+    "Rank": 261
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Iona",
+    "Rating": 1443.4476898423568,
+    "Rank": 262
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "George Washington",
+    "Rating": 1442.5666050130926,
+    "Rank": 263
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Michigan",
+    "Rating": 1442.3988514050875,
+    "Rank": 264
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "UTSA",
+    "Rating": 1442.1890564907635,
+    "Rank": 265
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "North Florida",
+    "Rating": 1441.8685516901887,
+    "Rank": 266
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Niagara",
+    "Rating": 1441.3069190666488,
+    "Rank": 267
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Georgia State",
+    "Rating": 1440.767067449745,
+    "Rank": 268
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Southern Mississippi",
+    "Rating": 1440.164133214719,
+    "Rank": 269
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Portland State",
+    "Rating": 1440.134823031934,
+    "Rank": 270
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Denver",
+    "Rating": 1437.9045078715828,
+    "Rank": 271
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Le Moyne",
+    "Rating": 1437.6120401100852,
+    "Rank": 272
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Alabama A&M",
+    "Rating": 1437.0290986332218,
+    "Rank": 273
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Jacksonville",
+    "Rating": 1437.024539348241,
+    "Rank": 274
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Mount St. Mary's",
+    "Rating": 1436.4437525211845,
+    "Rank": 275
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Winthrop",
+    "Rating": 1435.6588740391587,
+    "Rank": 276
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Northeastern",
+    "Rating": 1435.5896083821217,
+    "Rank": 277
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "South Carolina State",
+    "Rating": 1434.050572791352,
+    "Rank": 278
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "New Mexico State",
+    "Rating": 1433.6633842223596,
+    "Rank": 279
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Pennsylvania",
+    "Rating": 1433.1275320139416,
+    "Rank": 280
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Loyola Marymount",
+    "Rating": 1432.1321430781195,
+    "Rank": 281
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Western Michigan",
+    "Rating": 1432.1181424649565,
+    "Rank": 282
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Radford",
+    "Rating": 1431.9096515325546,
+    "Rank": 283
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Rice",
+    "Rating": 1431.4684644384267,
+    "Rank": 284
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Ball State",
+    "Rating": 1431.4178052395444,
+    "Rank": 285
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Campbell",
+    "Rating": 1429.489227598965,
+    "Rank": 286
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Florida International",
+    "Rating": 1428.6727670818736,
+    "Rank": 287
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "San Jose State",
+    "Rating": 1428.005293512767,
+    "Rank": 288
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Sacramento State",
+    "Rating": 1427.7726382173223,
+    "Rank": 289
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Presbyterian",
+    "Rating": 1427.105028451391,
+    "Rank": 290
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Maryland-Baltimore County",
+    "Rating": 1426.77852592622,
+    "Rank": 291
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Jackson State",
+    "Rating": 1426.7089931260914,
+    "Rank": 292
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Southern",
+    "Rating": 1425.3298432608397,
+    "Rank": 293
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Delaware State",
+    "Rating": 1425.1975496736532,
+    "Rank": 294
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Louisville",
+    "Rating": 1425.0000848666427,
+    "Rank": 295
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Utah Tech",
+    "Rating": 1424.7166523839053,
+    "Rank": 296
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Marshall",
+    "Rating": 1424.325701394135,
+    "Rank": 297
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Columbia",
+    "Rating": 1422.7434111350929,
+    "Rank": 298
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Northern Arizona",
+    "Rating": 1421.4414244298923,
+    "Rank": 299
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Air Force",
+    "Rating": 1420.906688682696,
+    "Rank": 300
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Eastern Michigan",
+    "Rating": 1420.070332768806,
+    "Rank": 301
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Jacksonville State",
+    "Rating": 1419.774684539381,
+    "Rank": 302
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Fairleigh Dickinson",
+    "Rating": 1419.283658980227,
+    "Rank": 303
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Georgetown",
+    "Rating": 1419.0127106316318,
+    "Rank": 304
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Omaha",
+    "Rating": 1418.0678363634188,
+    "Rank": 305
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Missouri",
+    "Rating": 1416.8382587086287,
+    "Rank": 306
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Southeastern Louisiana",
+    "Rating": 1416.462279475965,
+    "Rank": 307
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Navy",
+    "Rating": 1415.907227537811,
+    "Rank": 308
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Southern Illinois-Edwardsville",
+    "Rating": 1414.6269141506718,
+    "Rank": 309
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Charleston Southern",
+    "Rating": 1410.885044463128,
+    "Rank": 310
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Albany (NY)",
+    "Rating": 1410.2889724673837,
+    "Rank": 311
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Chicago State",
+    "Rating": 1410.037517498963,
+    "Rank": 312
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Louisiana-Monroe",
+    "Rating": 1409.471648927169,
+    "Rank": 313
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Southern Utah",
+    "Rating": 1409.0235279665928,
+    "Rank": 314
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "American",
+    "Rating": 1408.080306770929,
+    "Rank": 315
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Northern Illinois",
+    "Rating": 1406.0297969698158,
+    "Rank": 316
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Elon",
+    "Rating": 1405.7418960947557,
+    "Rank": 317
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "South Carolina Upstate",
+    "Rating": 1402.4241949812572,
+    "Rank": 318
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Morgan State",
+    "Rating": 1401.281873609699,
+    "Rank": 319
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Texas A&M-Commerce",
+    "Rating": 1398.2386553769556,
+    "Rank": 320
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Oral Roberts",
+    "Rating": 1396.7181368816157,
+    "Rank": 321
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Valparaiso",
+    "Rating": 1394.1337141809631,
+    "Rank": 322
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Coastal Carolina",
+    "Rating": 1393.5965692118032,
+    "Rank": 323
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Hartford",
+    "Rating": 1392.329446824896,
+    "Rank": 324
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Hampton",
+    "Rating": 1391.959681087974,
+    "Rank": 325
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "The Citadel",
+    "Rating": 1391.6957993472745,
+    "Rank": 326
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Kennesaw State",
+    "Rating": 1391.639357647286,
+    "Rank": 327
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Dartmouth",
+    "Rating": 1387.0860571389476,
+    "Rank": 328
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Bellarmine",
+    "Rating": 1386.897409860085,
+    "Rank": 329
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "William & Mary",
+    "Rating": 1385.4503239220442,
+    "Rank": 330
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Eastern Illinois",
+    "Rating": 1382.7384646203204,
+    "Rank": 331
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "South Dakota",
+    "Rating": 1380.3950791111813,
+    "Rank": 332
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Idaho",
+    "Rating": 1379.123139446394,
+    "Rank": 333
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "DePaul",
+    "Rating": 1376.712393341738,
+    "Rank": 334
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Tennessee Tech",
+    "Rating": 1375.3972653872413,
+    "Rank": 335
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Old Dominion",
+    "Rating": 1374.6209986045542,
+    "Rank": 336
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Holy Cross",
+    "Rating": 1371.72703330536,
+    "Rank": 337
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Robert Morris",
+    "Rating": 1371.6387668080915,
+    "Rank": 338
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Arkansas-Pine Bluff",
+    "Rating": 1370.7962743818118,
+    "Rank": 339
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Lafayette",
+    "Rating": 1364.6604447661118,
+    "Rank": 340
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Long Island University",
+    "Rating": 1361.7898737349117,
+    "Rank": 341
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Alabama State",
+    "Rating": 1361.788358005241,
+    "Rank": 342
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Maryland-Eastern Shore",
+    "Rating": 1359.5937676324793,
+    "Rank": 343
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "NJIT",
+    "Rating": 1358.945891346393,
+    "Rank": 344
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "New Orleans",
+    "Rating": 1358.582945947594,
+    "Rank": 345
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Northwestern State",
+    "Rating": 1357.7079669994337,
+    "Rank": 346
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Central Arkansas",
+    "Rating": 1353.0775725344292,
+    "Rank": 347
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Manhattan",
+    "Rating": 1352.3532627332092,
+    "Rank": 348
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Southeast Missouri State",
+    "Rating": 1345.1234858019643,
+    "Rank": 349
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "North Carolina A&T",
+    "Rating": 1336.7980041262992,
+    "Rank": 350
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Florida A&M",
+    "Rating": 1336.50350929746,
+    "Rank": 351
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Loyola (MD)",
+    "Rating": 1336.4914234827452,
+    "Rank": 352
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Army",
+    "Rating": 1335.6312511137526,
+    "Rank": 353
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Southern Indiana",
+    "Rating": 1335.0788808371929,
+    "Rank": 354
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Buffalo",
+    "Rating": 1328.9101163410382,
+    "Rank": 355
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Lindenwood",
+    "Rating": 1326.80097462822,
+    "Rank": 356
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Texas-Rio Grande Valley",
+    "Rating": 1321.4334754272447,
+    "Rank": 357
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Cal Poly",
+    "Rating": 1319.24811072132,
+    "Rank": 358
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Prairie View",
+    "Rating": 1319.1777176332955,
+    "Rank": 359
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Houston Christian",
+    "Rating": 1317.2267642991717,
+    "Rank": 360
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Pacific",
+    "Rating": 1315.1501922513332,
+    "Rank": 361
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Saint Francis (PA)",
+    "Rating": 1311.549288276325,
+    "Rank": 362
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Incarnate Word",
+    "Rating": 1310.41735689152,
+    "Rank": 363
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Stonehill",
+    "Rating": 1307.6953657970917,
+    "Rank": 364
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "VMI",
+    "Rating": 1305.322232788564,
+    "Rank": 365
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Detroit Mercy",
+    "Rating": 1304.8519846286115,
+    "Rank": 366
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Siena",
+    "Rating": 1296.2038044466597,
+    "Rank": 367
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Coppin State",
+    "Rating": 1280.7866200378396,
+    "Rank": 368
+  },
+  {
+    "Year": 2024,
+    "Method": "elo",
+    "Weight": "constant",
+    "Conference": "",
+    "Team": "Mississippi Valley State",
+    "Rating": 1266.2010831686694,
+    "Rank": 369
+  }
+]

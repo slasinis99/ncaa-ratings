@@ -1,0 +1,47 @@
+[
+  {
+    "Year": 1994,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ECC",
+    "Team": "Troy",
+    "Rating": 7.773851905593549,
+    "Rank": 1
+  },
+  {
+    "Year": 1994,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ECC",
+    "Team": "Buffalo",
+    "Rating": 6.27161801066468,
+    "Rank": 2
+  },
+  {
+    "Year": 1994,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ECC",
+    "Team": "Hofstra",
+    "Rating": 2.252070641921242,
+    "Rank": 3
+  },
+  {
+    "Year": 1994,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ECC",
+    "Team": "Chicago State",
+    "Rating": -0.5758518503655345,
+    "Rank": 4
+  },
+  {
+    "Year": 1994,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ECC",
+    "Team": "Central Connecticut State",
+    "Rating": -15.721688707813938,
+    "Rank": 5
+  }
+]

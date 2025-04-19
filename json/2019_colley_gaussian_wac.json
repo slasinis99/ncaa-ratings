@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2019,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "WAC",
+    "Team": "New Mexico State",
+    "Rating": 0.8644556332839266,
+    "Rank": 1
+  },
+  {
+    "Year": 2019,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "WAC",
+    "Team": "Utah Valley",
+    "Rating": 0.7178822780434658,
+    "Rank": 2
+  },
+  {
+    "Year": 2019,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "WAC",
+    "Team": "Grand Canyon",
+    "Rating": 0.5791301825696351,
+    "Rank": 3
+  },
+  {
+    "Year": 2019,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "WAC",
+    "Team": "Texas-Rio Grande Valley",
+    "Rating": 0.5615592616928763,
+    "Rank": 4
+  },
+  {
+    "Year": 2019,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "WAC",
+    "Team": "Seattle",
+    "Rating": 0.4766541481991001,
+    "Rank": 5
+  },
+  {
+    "Year": 2019,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "WAC",
+    "Team": "California Baptist",
+    "Rating": 0.4603625484596859,
+    "Rank": 6
+  },
+  {
+    "Year": 2019,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "WAC",
+    "Team": "Kansas City",
+    "Rating": 0.3830584448805262,
+    "Rank": 7
+  },
+  {
+    "Year": 2019,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "WAC",
+    "Team": "Cal State Bakersfield",
+    "Rating": 0.3010657472110522,
+    "Rank": 8
+  },
+  {
+    "Year": 2019,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "WAC",
+    "Team": "Chicago State",
+    "Rating": 0.15583175565973,
+    "Rank": 9
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Kentucky",
+    "Rating": 4.873803380139897,
+    "Rank": 1
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Florida",
+    "Rating": 4.671912202914006,
+    "Rank": 2
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Louisiana State",
+    "Rating": 3.2272194934058467,
+    "Rank": 3
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "South Carolina",
+    "Rating": 2.1039675118998487,
+    "Rank": 4
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Mississippi State",
+    "Rating": 2.054095844041824,
+    "Rank": 5
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Auburn",
+    "Rating": 1.7304807373510858,
+    "Rank": 6
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Alabama",
+    "Rating": -0.1837473192275708,
+    "Rank": 7
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Arkansas",
+    "Rating": -0.2625905804353184,
+    "Rank": 8
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Texas A&M",
+    "Rating": -0.6132664017718281,
+    "Rank": 9
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Tennessee",
+    "Rating": -1.0966424298092785,
+    "Rank": 10
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Missouri",
+    "Rating": -2.4394834104035805,
+    "Rank": 11
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Mississippi",
+    "Rating": -2.5321030269422478,
+    "Rank": 12
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Georgia",
+    "Rating": -3.477143349120137,
+    "Rank": 13
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Vanderbilt",
+    "Rating": -8.05650265204254,
+    "Rank": 14
+  }
+]

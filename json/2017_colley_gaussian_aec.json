@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "AEC",
+    "Team": "Vermont",
+    "Rating": 0.9145936508490828,
+    "Rank": 1
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "AEC",
+    "Team": "Albany (NY)",
+    "Rating": 0.6767048371147857,
+    "Rank": 2
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "AEC",
+    "Team": "New Hampshire",
+    "Rating": 0.6256986162791904,
+    "Rank": 3
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "AEC",
+    "Team": "Stony Brook",
+    "Rating": 0.6113183675485553,
+    "Rank": 4
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "AEC",
+    "Team": "Maryland-Baltimore County",
+    "Rating": 0.4949089168862506,
+    "Rank": 5
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "AEC",
+    "Team": "Hartford",
+    "Rating": 0.3338987068246502,
+    "Rank": 6
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "AEC",
+    "Team": "Massachusetts-Lowell",
+    "Rating": 0.3217487759450783,
+    "Rank": 7
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "AEC",
+    "Team": "Maine",
+    "Rating": 0.293883108109659,
+    "Rank": 8
+  },
+  {
+    "Year": 2017,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "AEC",
+    "Team": "Binghamton",
+    "Rating": 0.22724502044275,
+    "Rank": 9
+  }
+]

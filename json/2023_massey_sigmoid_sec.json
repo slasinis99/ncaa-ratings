@@ -1,0 +1,128 @@
+[
+  {
+    "Year": 2023,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Alabama",
+    "Rating": 15.135905275235771,
+    "Rank": 1
+  },
+  {
+    "Year": 2023,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Texas A&M",
+    "Rating": 7.098655379302383,
+    "Rank": 2
+  },
+  {
+    "Year": 2023,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Tennessee",
+    "Rating": 7.016887154242103,
+    "Rank": 3
+  },
+  {
+    "Year": 2023,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Kentucky",
+    "Rating": 3.8796617193844862,
+    "Rank": 4
+  },
+  {
+    "Year": 2023,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Arkansas",
+    "Rating": 3.459094984339438,
+    "Rank": 5
+  },
+  {
+    "Year": 2023,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Auburn",
+    "Rating": 3.3032282470812486,
+    "Rank": 6
+  },
+  {
+    "Year": 2023,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Mississippi State",
+    "Rating": 0.098394956493255,
+    "Rank": 7
+  },
+  {
+    "Year": 2023,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Missouri",
+    "Rating": -0.1781557730770103,
+    "Rank": 8
+  },
+  {
+    "Year": 2023,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Vanderbilt",
+    "Rating": -0.2158568118856045,
+    "Rank": 9
+  },
+  {
+    "Year": 2023,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Florida",
+    "Rating": -1.1639506125843335,
+    "Rank": 10
+  },
+  {
+    "Year": 2023,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Mississippi",
+    "Rating": -6.078755447110427,
+    "Rank": 11
+  },
+  {
+    "Year": 2023,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Louisiana State",
+    "Rating": -9.440169808003068,
+    "Rank": 12
+  },
+  {
+    "Year": 2023,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "South Carolina",
+    "Rating": -10.373421386199176,
+    "Rank": 13
+  },
+  {
+    "Year": 2023,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Georgia",
+    "Rating": -12.541517877219448,
+    "Rank": 14
+  }
+]

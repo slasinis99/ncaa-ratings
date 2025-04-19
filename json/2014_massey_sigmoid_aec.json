@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2014,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Vermont",
+    "Rating": 16.3662772848826,
+    "Rank": 1
+  },
+  {
+    "Year": 2014,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Albany (NY)",
+    "Rating": 6.3589388611409206,
+    "Rank": 2
+  },
+  {
+    "Year": 2014,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Stony Brook",
+    "Rating": 6.056894616980625,
+    "Rank": 3
+  },
+  {
+    "Year": 2014,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Hartford",
+    "Rating": 2.922070890037335,
+    "Rank": 4
+  },
+  {
+    "Year": 2014,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Massachusetts-Lowell",
+    "Rating": -3.455706121273475,
+    "Rank": 5
+  },
+  {
+    "Year": 2014,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Binghamton",
+    "Rating": -5.927219164900809,
+    "Rank": 6
+  },
+  {
+    "Year": 2014,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "New Hampshire",
+    "Rating": -6.01744649290564,
+    "Rank": 7
+  },
+  {
+    "Year": 2014,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Maryland-Baltimore County",
+    "Rating": -7.333954664853037,
+    "Rank": 8
+  },
+  {
+    "Year": 2014,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Maine",
+    "Rating": -8.969855209108532,
+    "Rank": 9
+  }
+]

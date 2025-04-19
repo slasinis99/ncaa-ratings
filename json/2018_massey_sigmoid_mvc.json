@@ -1,0 +1,92 @@
+[
+  {
+    "Year": 2018,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Loyola (IL)",
+    "Rating": 10.00933961697024,
+    "Rank": 1
+  },
+  {
+    "Year": 2018,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Northern Iowa",
+    "Rating": 0.355569610653858,
+    "Rank": 2
+  },
+  {
+    "Year": 2018,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Evansville",
+    "Rating": -0.511977867193577,
+    "Rank": 3
+  },
+  {
+    "Year": 2018,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Illinois State",
+    "Rating": -0.6594713418449956,
+    "Rank": 4
+  },
+  {
+    "Year": 2018,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Bradley",
+    "Rating": -0.9000498843215334,
+    "Rank": 5
+  },
+  {
+    "Year": 2018,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Drake",
+    "Rating": -1.070102825789048,
+    "Rank": 6
+  },
+  {
+    "Year": 2018,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Valparaiso",
+    "Rating": -1.2794052725469545,
+    "Rank": 7
+  },
+  {
+    "Year": 2018,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Indiana State",
+    "Rating": -1.4697776564550102,
+    "Rank": 8
+  },
+  {
+    "Year": 2018,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Southern Illinois",
+    "Rating": -2.1464923464687637,
+    "Rank": 9
+  },
+  {
+    "Year": 2018,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Missouri State",
+    "Rating": -2.327632033004218,
+    "Rank": 10
+  }
+]

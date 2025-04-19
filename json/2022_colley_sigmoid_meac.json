@@ -1,0 +1,74 @@
+[
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "Norfolk State",
+    "Rating": 0.7840810761303326,
+    "Rank": 1
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "Howard",
+    "Rating": 0.5751897078976554,
+    "Rank": 2
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "North Carolina Central",
+    "Rating": 0.561926447498298,
+    "Rank": 3
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "Morgan State",
+    "Rating": 0.5531085682779123,
+    "Rank": 4
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "Coppin State",
+    "Rating": 0.4884168576498996,
+    "Rank": 5
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "South Carolina State",
+    "Rating": 0.474235276809307,
+    "Rank": 6
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "Maryland-Eastern Shore",
+    "Rating": 0.4298888873905009,
+    "Rank": 7
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "Delaware State",
+    "Rating": 0.1331531783460931,
+    "Rank": 8
+  }
+]

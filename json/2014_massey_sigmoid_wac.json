@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2014,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "New Mexico State",
+    "Rating": 10.972112222330605,
+    "Rank": 1
+  },
+  {
+    "Year": 2014,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Utah Valley",
+    "Rating": 2.328048172046556,
+    "Rank": 2
+  },
+  {
+    "Year": 2014,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Cal State Bakersfield",
+    "Rating": -0.2718156273828293,
+    "Rank": 3
+  },
+  {
+    "Year": 2014,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Grand Canyon",
+    "Rating": -0.7322975555812105,
+    "Rank": 4
+  },
+  {
+    "Year": 2014,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Idaho",
+    "Rating": -1.1479474416044575,
+    "Rank": 5
+  },
+  {
+    "Year": 2014,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Seattle",
+    "Rating": -1.6976066825764875,
+    "Rank": 6
+  },
+  {
+    "Year": 2014,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Chicago State",
+    "Rating": -2.2348930953648547,
+    "Rank": 7
+  },
+  {
+    "Year": 2014,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Kansas City",
+    "Rating": -2.8475423563689968,
+    "Rank": 8
+  },
+  {
+    "Year": 2014,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Texas-Rio Grande Valley",
+    "Rating": -4.36805763549831,
+    "Rank": 9
+  }
+]

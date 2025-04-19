@@ -1,0 +1,74 @@
+[
+  {
+    "Year": 1990,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "Richmond",
+    "Rating": 0.707557758497566,
+    "Rank": 1
+  },
+  {
+    "Year": 1990,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "James Madison",
+    "Rating": 0.6972992975860676,
+    "Rank": 2
+  },
+  {
+    "Year": 1990,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "American",
+    "Rating": 0.6535361697285161,
+    "Rank": 3
+  },
+  {
+    "Year": 1990,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "George Mason",
+    "Rating": 0.645078419560392,
+    "Rank": 4
+  },
+  {
+    "Year": 1990,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "East Carolina",
+    "Rating": 0.4233250761061867,
+    "Rank": 5
+  },
+  {
+    "Year": 1990,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "Navy",
+    "Rating": 0.3146916643524014,
+    "Rank": 6
+  },
+  {
+    "Year": 1990,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "UNC Wilmington",
+    "Rating": 0.2993734786242071,
+    "Rank": 7
+  },
+  {
+    "Year": 1990,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "William & Mary",
+    "Rating": 0.2591381355446674,
+    "Rank": 8
+  }
+]

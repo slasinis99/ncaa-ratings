@@ -1,0 +1,65 @@
+[
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Patriot",
+    "Team": "Navy",
+    "Rating": 14.157521601491904,
+    "Rank": 1
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Patriot",
+    "Team": "Lafayette",
+    "Rating": 12.708505079412936,
+    "Rank": 2
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Patriot",
+    "Team": "Bucknell",
+    "Rating": 1.1221331853838836,
+    "Rank": 3
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Patriot",
+    "Team": "Colgate",
+    "Rating": -4.802336562895893,
+    "Rank": 4
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Patriot",
+    "Team": "Holy Cross",
+    "Rating": -5.5423324366373805,
+    "Rank": 5
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Patriot",
+    "Team": "Lehigh",
+    "Rating": -6.375179193904622,
+    "Rank": 6
+  },
+  {
+    "Year": 2000,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Patriot",
+    "Team": "Army",
+    "Rating": -11.268311672850825,
+    "Rank": 7
+  }
+]

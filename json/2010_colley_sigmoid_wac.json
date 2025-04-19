@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2010,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Utah State",
+    "Rating": 0.7922418282826358,
+    "Rank": 1
+  },
+  {
+    "Year": 2010,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "New Mexico State",
+    "Rating": 0.7029730963310961,
+    "Rank": 2
+  },
+  {
+    "Year": 2010,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Nevada",
+    "Rating": 0.6416999674198641,
+    "Rank": 3
+  },
+  {
+    "Year": 2010,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Louisiana Tech",
+    "Rating": 0.5140687025287625,
+    "Rank": 4
+  },
+  {
+    "Year": 2010,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Fresno State",
+    "Rating": 0.4162963014339422,
+    "Rank": 5
+  },
+  {
+    "Year": 2010,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Idaho",
+    "Rating": 0.4077407910345651,
+    "Rank": 6
+  },
+  {
+    "Year": 2010,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Boise State",
+    "Rating": 0.3902288753442864,
+    "Rank": 7
+  },
+  {
+    "Year": 2010,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "San Jose State",
+    "Rating": 0.3764916178207219,
+    "Rank": 8
+  },
+  {
+    "Year": 2010,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Hawaii",
+    "Rating": 0.2582588198041211,
+    "Rank": 9
+  }
+]

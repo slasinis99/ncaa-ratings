@@ -1,0 +1,38 @@
+[
+  {
+    "Year": 1986,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "GSC",
+    "Team": "Northwestern State",
+    "Rating": 7.05496088260798,
+    "Rank": 1
+  },
+  {
+    "Year": 1986,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "GSC",
+    "Team": "Southeastern Louisiana",
+    "Rating": 4.162713472116991,
+    "Rank": 2
+  },
+  {
+    "Year": 1986,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "GSC",
+    "Team": "Texas State",
+    "Rating": -4.984940142120793,
+    "Rank": 3
+  },
+  {
+    "Year": 1986,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "GSC",
+    "Team": "Nicholls State",
+    "Rating": -6.232734212604182,
+    "Rank": 4
+  }
+]

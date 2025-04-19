@@ -1,0 +1,2567 @@
+[
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nevada-Las Vegas",
+    "Rating": 1667.370027766726,
+    "Rank": 1
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgetown",
+    "Rating": 1654.3192459306438,
+    "Rank": 2
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Carolina",
+    "Rating": 1650.5601294129376,
+    "Rank": 3
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alabama",
+    "Rating": 1645.5219782341403,
+    "Rank": 4
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Temple",
+    "Rating": 1641.8341556307823,
+    "Rank": 5
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Navy",
+    "Rating": 1638.498457009748,
+    "Rank": 6
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Notre Dame",
+    "Rating": 1633.8616701374483,
+    "Rank": 7
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Missouri State",
+    "Rating": 1633.826054229153,
+    "Rank": 8
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northeastern",
+    "Rating": 1630.0096482063643,
+    "Rank": 9
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UCLA",
+    "Rating": 1627.038135587514,
+    "Rank": 10
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "DePaul",
+    "Rating": 1626.3420370000588,
+    "Rank": 11
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Orleans",
+    "Rating": 1625.438444382715,
+    "Rank": 12
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Memphis",
+    "Rating": 1619.7585170080697,
+    "Rank": 13
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Missouri",
+    "Rating": 1619.0531672470402,
+    "Rank": 14
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Marshall",
+    "Rating": 1618.146926797048,
+    "Rank": 15
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Syracuse",
+    "Rating": 1616.0397565329824,
+    "Rank": 16
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Iowa",
+    "Rating": 1613.2974903153993,
+    "Rank": 17
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Carolina A&T",
+    "Rating": 1612.784510149106,
+    "Rank": 18
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Purdue",
+    "Rating": 1610.4021871906662,
+    "Rank": 19
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Marist",
+    "Rating": 1609.3868265435983,
+    "Rank": 20
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Illinois",
+    "Rating": 1608.0116819012494,
+    "Rank": 21
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Indiana",
+    "Rating": 1607.476420488223,
+    "Rank": 22
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "West Virginia",
+    "Rating": 1604.5231522936922,
+    "Rank": 23
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana Tech",
+    "Rating": 1601.8317940242807,
+    "Rank": 24
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Virginia",
+    "Rating": 1599.680617715842,
+    "Rank": 25
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Central Michigan",
+    "Rating": 1596.8187353893825,
+    "Rank": 26
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cleveland State",
+    "Rating": 1595.0591039129818,
+    "Rank": 27
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UTEP",
+    "Rating": 1592.6092238651756,
+    "Rank": 28
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Diego",
+    "Rating": 1591.9636818837823,
+    "Rank": 29
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wyoming",
+    "Rating": 1589.3581361121935,
+    "Rank": 30
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Kentucky",
+    "Rating": 1589.354268750175,
+    "Rank": 31
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UAB",
+    "Rating": 1584.81894140333,
+    "Rank": 32
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wichita State",
+    "Rating": 1582.7295649910284,
+    "Rank": 33
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Howard",
+    "Rating": 1582.2411339013713,
+    "Rank": 34
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pittsburgh",
+    "Rating": 1580.4851680550137,
+    "Rank": 35
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stephen F. Austin",
+    "Rating": 1578.6006702025811,
+    "Rank": 36
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kansas",
+    "Rating": 1577.7314795493087,
+    "Rank": 37
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern",
+    "Rating": 1577.6171514462008,
+    "Rank": 38
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Providence",
+    "Rating": 1577.4196984741232,
+    "Rank": 39
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Duke",
+    "Rating": 1577.266345471859,
+    "Rank": 40
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "NC State",
+    "Rating": 1574.856160902806,
+    "Rank": 41
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Mexico",
+    "Rating": 1571.357885515324,
+    "Rank": 42
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bucknell",
+    "Rating": 1569.712708328183,
+    "Rank": 43
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Clemson",
+    "Rating": 1569.65162210823,
+    "Rank": 44
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tulsa",
+    "Rating": 1569.3320128826645,
+    "Rank": 45
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "TCU",
+    "Rating": 1567.8776520936744,
+    "Rank": 46
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "St. John's (NY)",
+    "Rating": 1567.5699022798858,
+    "Rank": 47
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisville",
+    "Rating": 1562.938649175513,
+    "Rank": 48
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Austin Peay",
+    "Rating": 1562.008310235415,
+    "Rank": 49
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Jacksonville",
+    "Rating": 1559.584024529478,
+    "Rank": 50
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Michigan",
+    "Rating": 1559.4037235555058,
+    "Rank": 51
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Boston University",
+    "Rating": 1557.5599321358766,
+    "Rank": 52
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Xavier",
+    "Rating": 1556.3616983965826,
+    "Rank": 53
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Chattanooga",
+    "Rating": 1555.7764282048752,
+    "Rank": 54
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Niagara",
+    "Rating": 1555.139399154339,
+    "Rank": 55
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bradley",
+    "Rating": 1554.8664116546795,
+    "Rank": 56
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Middle Tennessee",
+    "Rating": 1553.022645266414,
+    "Rank": 57
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana State",
+    "Rating": 1552.8583293824645,
+    "Rank": 58
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Brigham Young",
+    "Rating": 1552.6894462342138,
+    "Rank": 59
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Davidson",
+    "Rating": 1552.3255095430031,
+    "Rank": 60
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kentucky",
+    "Rating": 1551.230930765634,
+    "Rank": 61
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Louis",
+    "Rating": 1550.0346637809405,
+    "Rank": 62
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arizona",
+    "Rating": 1548.8156801688122,
+    "Rank": 63
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Peter's",
+    "Rating": 1548.4666233196035,
+    "Rank": 64
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Little Rock",
+    "Rating": 1546.234251785052,
+    "Rank": 65
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia Tech",
+    "Rating": 1546.1975668267737,
+    "Rank": 66
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia Southern",
+    "Rating": 1545.0840364572578,
+    "Rank": 67
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Charleston Southern",
+    "Rating": 1543.3598680852376,
+    "Rank": 68
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arkansas State",
+    "Rating": 1543.259103360834,
+    "Rank": 69
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UNC Wilmington",
+    "Rating": 1542.7998662047826,
+    "Rank": 70
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Montana State",
+    "Rating": 1542.799007226717,
+    "Rank": 71
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Princeton",
+    "Rating": 1542.7302305100966,
+    "Rank": 72
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Boise State",
+    "Rating": 1542.4356508251992,
+    "Rank": 73
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oklahoma",
+    "Rating": 1542.0334359683695,
+    "Rank": 74
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rhode Island",
+    "Rating": 1540.4956467442294,
+    "Rank": 75
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kansas State",
+    "Rating": 1539.4783345582568,
+    "Rank": 76
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Washington",
+    "Rating": 1539.2463104737244,
+    "Rank": 77
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida State",
+    "Rating": 1538.9110085090913,
+    "Rank": 78
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Jose State",
+    "Rating": 1538.5910485949285,
+    "Rank": 79
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Akron",
+    "Rating": 1537.826170156805,
+    "Rank": 80
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fairleigh Dickinson",
+    "Rating": 1537.623562129092,
+    "Rank": 81
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Baylor",
+    "Rating": 1537.3329713349713,
+    "Rank": 82
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pennsylvania",
+    "Rating": 1537.1762269687615,
+    "Rank": 83
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Kentucky",
+    "Rating": 1536.8631877848147,
+    "Rank": 84
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Siena",
+    "Rating": 1535.8799870402634,
+    "Rank": 85
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cal State Fullerton",
+    "Rating": 1535.730476378379,
+    "Rank": 86
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas A&M",
+    "Rating": 1535.6353045038225,
+    "Rank": 87
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Auburn",
+    "Rating": 1534.32205321698,
+    "Rank": 88
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kent State",
+    "Rating": 1531.8181819658444,
+    "Rank": 89
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nebraska",
+    "Rating": 1529.089275410572,
+    "Rank": 90
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Methodist",
+    "Rating": 1528.2477303250105,
+    "Rank": 91
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia",
+    "Rating": 1528.238331447654,
+    "Rank": 92
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Illinois State",
+    "Rating": 1528.041236977401,
+    "Rank": 93
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida",
+    "Rating": 1526.6955172699068,
+    "Rank": 94
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Santa Clara",
+    "Rating": 1526.6610962643415,
+    "Rank": 95
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Houston",
+    "Rating": 1525.820325952071,
+    "Rank": 96
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fairfield",
+    "Rating": 1525.16024054249,
+    "Rank": 97
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Sam Houston",
+    "Rating": 1525.118376465654,
+    "Rank": 98
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Grambling",
+    "Rating": 1525.0189060712878,
+    "Rank": 99
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "James Madison",
+    "Rating": 1525.0174020907496,
+    "Rank": 100
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Marquette",
+    "Rating": 1524.7383116599178,
+    "Rank": 101
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "La Salle",
+    "Rating": 1524.4420066240252,
+    "Rank": 102
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Richmond",
+    "Rating": 1524.0277295417873,
+    "Rank": 103
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Idaho State",
+    "Rating": 1523.118922188619,
+    "Rank": 104
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Ohio State",
+    "Rating": 1521.6935092567069,
+    "Rank": 105
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Lafayette",
+    "Rating": 1520.7612328872897,
+    "Rank": 106
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bowling Green State",
+    "Rating": 1520.05425031181,
+    "Rank": 107
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UC Santa Barbara",
+    "Rating": 1518.2921652326563,
+    "Rank": 108
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas Tech",
+    "Rating": 1518.177382666221,
+    "Rank": 109
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stetson",
+    "Rating": 1518.0849786980216,
+    "Rank": 110
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Iona",
+    "Rating": 1517.5430879227513,
+    "Rank": 111
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Houston Christian",
+    "Rating": 1516.8399579805637,
+    "Rank": 112
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee State",
+    "Rating": 1516.2926045919212,
+    "Rank": 113
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Mississippi",
+    "Rating": 1515.596199267495,
+    "Rank": 114
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Michigan",
+    "Rating": 1515.4724804094944,
+    "Rank": 115
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Loyola (IL)",
+    "Rating": 1514.6806005816416,
+    "Rank": 116
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "California",
+    "Rating": 1514.1383900533742,
+    "Rank": 117
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Canisius",
+    "Rating": 1513.2708020845407,
+    "Rank": 118
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "McNeese State",
+    "Rating": 1511.7382410567227,
+    "Rank": 119
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nevada",
+    "Rating": 1510.842885177256,
+    "Rank": 120
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arkansas",
+    "Rating": 1510.5918903606014,
+    "Rank": 121
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Gonzaga",
+    "Rating": 1509.3101814031502,
+    "Rank": 122
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Illinois-Chicago",
+    "Rating": 1509.2941538241903,
+    "Rank": 123
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cornell",
+    "Rating": 1507.7317188975614,
+    "Rank": 124
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee",
+    "Rating": 1506.724967173836,
+    "Rank": 125
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Furman",
+    "Rating": 1505.1002149156,
+    "Rank": 126
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pepperdine",
+    "Rating": 1504.7910204524464,
+    "Rank": 127
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Utah",
+    "Rating": 1503.5573114382833,
+    "Rank": 128
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Charlotte",
+    "Rating": 1503.4626392805433,
+    "Rank": 129
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Dayton",
+    "Rating": 1503.0836041595342,
+    "Rank": 130
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Green Bay",
+    "Rating": 1502.405563318377,
+    "Rank": 131
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Mexico State",
+    "Rating": 1501.380293574875,
+    "Rank": 132
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Jackson State",
+    "Rating": 1500.6694817221792,
+    "Rank": 133
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Evansville",
+    "Rating": 1500.653710176363,
+    "Rank": 134
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tulane",
+    "Rating": 1499.7615032605224,
+    "Rank": 135
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Joseph's",
+    "Rating": 1499.5682357300466,
+    "Rank": 136
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Lamar",
+    "Rating": 1499.4909288502297,
+    "Rank": 137
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oregon",
+    "Rating": 1499.3090152419384,
+    "Rank": 138
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Villanova",
+    "Rating": 1498.5699997296977,
+    "Rank": 139
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wagner",
+    "Rating": 1497.5561490714122,
+    "Rank": 140
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stanford",
+    "Rating": 1497.415719135858,
+    "Rank": 141
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "George Mason",
+    "Rating": 1496.9676953133464,
+    "Rank": 142
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Alabama",
+    "Rating": 1496.1318841705768,
+    "Rank": 143
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wake Forest",
+    "Rating": 1495.8298182759136,
+    "Rank": 144
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Mary's (CA)",
+    "Rating": 1495.2462398479902,
+    "Rank": 145
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Drexel",
+    "Rating": 1494.746887477137,
+    "Rank": 146
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mississippi Valley State",
+    "Rating": 1494.4891588850287,
+    "Rank": 147
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Army",
+    "Rating": 1493.217244079584,
+    "Rank": 148
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UC Irvine",
+    "Rating": 1492.7307167942456,
+    "Rank": 149
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Virginia Commonwealth",
+    "Rating": 1490.817800048438,
+    "Rank": 150
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Carolina",
+    "Rating": 1490.6238032626718,
+    "Rank": 151
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arizona State",
+    "Rating": 1490.1866554239318,
+    "Rank": 152
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Iowa State",
+    "Rating": 1489.7184655418414,
+    "Rank": 153
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Penn State",
+    "Rating": 1489.420499701867,
+    "Rank": 154
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Ohio",
+    "Rating": 1488.454730272574,
+    "Rank": 155
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mississippi",
+    "Rating": 1486.8828184780305,
+    "Rank": 156
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Michigan State",
+    "Rating": 1486.7224930209177,
+    "Rank": 157
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Miami (OH)",
+    "Rating": 1486.678961234605,
+    "Rank": 158
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Drake",
+    "Rating": 1486.0816720327066,
+    "Rank": 159
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Loyola (MD)",
+    "Rating": 1484.9420013198437,
+    "Rank": 160
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UNC Asheville",
+    "Rating": 1484.7300427487887,
+    "Rank": 161
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Campbell",
+    "Rating": 1483.6032652371784,
+    "Rank": 162
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Lehigh",
+    "Rating": 1483.3638082530683,
+    "Rank": 163
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas",
+    "Rating": 1482.8319371276964,
+    "Rank": 164
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana-Monroe",
+    "Rating": 1481.0851235415632,
+    "Rank": 165
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Vanderbilt",
+    "Rating": 1480.8753266587537,
+    "Rank": 166
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oregon State",
+    "Rating": 1478.9455412740842,
+    "Rank": 167
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Columbia",
+    "Rating": 1478.4219966040887,
+    "Rank": 168
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Yale",
+    "Rating": 1477.1665505439737,
+    "Rank": 169
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maryland",
+    "Rating": 1477.079489826899,
+    "Rank": 170
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas-Rio Grande Valley",
+    "Rating": 1477.068379209664,
+    "Rank": 171
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Dartmouth",
+    "Rating": 1476.5216126757546,
+    "Rank": 172
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Utah State",
+    "Rating": 1475.7673890658089,
+    "Rank": 173
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wisconsin",
+    "Rating": 1475.5584765735937,
+    "Rank": 174
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Montana",
+    "Rating": 1475.4832638349203,
+    "Rank": 175
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hartford",
+    "Rating": 1474.3446573167669,
+    "Rank": 176
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Seton Hall",
+    "Rating": 1472.9432151360556,
+    "Rank": 177
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rider",
+    "Rating": 1471.4590457278966,
+    "Rank": 178
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fordham",
+    "Rating": 1471.391230957478,
+    "Rank": 179
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Virginia Tech",
+    "Rating": 1471.369750578864,
+    "Rank": 180
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maryland-Baltimore County",
+    "Rating": 1471.2222274138726,
+    "Rank": 181
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Illinois",
+    "Rating": 1470.5784428941,
+    "Rank": 182
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Massachusetts",
+    "Rating": 1470.1494083608577,
+    "Rank": 183
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Miami (FL)",
+    "Rating": 1469.796303566611,
+    "Rank": 184
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oral Roberts",
+    "Rating": 1468.3943721200817,
+    "Rank": 185
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Francisco",
+    "Rating": 1466.8053698612223,
+    "Rank": 186
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "The Citadel",
+    "Rating": 1466.3456043696417,
+    "Rank": 187
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Boston College",
+    "Rating": 1466.341991019978,
+    "Rank": 188
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UTSA",
+    "Rating": 1466.0725950879682,
+    "Rank": 189
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northern Iowa",
+    "Rating": 1465.948126799134,
+    "Rank": 190
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Murray State",
+    "Rating": 1465.309352530191,
+    "Rank": 191
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Radford",
+    "Rating": 1465.1767921213825,
+    "Rank": 192
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Colorado",
+    "Rating": 1464.827405031629,
+    "Rank": 193
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Carolina State",
+    "Rating": 1464.54088567114,
+    "Rank": 194
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Texas",
+    "Rating": 1464.1063341209658,
+    "Rank": 195
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Duquesne",
+    "Rating": 1464.0597768785697,
+    "Rank": 196
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Central Florida",
+    "Rating": 1462.8718234543742,
+    "Rank": 197
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northern Arizona",
+    "Rating": 1462.3836887024015,
+    "Rank": 198
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Carolina",
+    "Rating": 1462.0571875151454,
+    "Rank": 199
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Long Island University",
+    "Rating": 1460.2927370096995,
+    "Rank": 200
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Washington State",
+    "Rating": 1459.962455555999,
+    "Rank": 201
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Colorado State",
+    "Rating": 1458.4813033622463,
+    "Rank": 202
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cincinnati",
+    "Rating": 1458.4647702208322,
+    "Rank": 203
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northwestern State",
+    "Rating": 1457.0570460876788,
+    "Rank": 204
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Loyola Marymount",
+    "Rating": 1455.7452037521855,
+    "Rank": 205
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "American",
+    "Rating": 1454.7288499344509,
+    "Rank": 206
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oklahoma State",
+    "Rating": 1454.2676946575998,
+    "Rank": 207
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maine",
+    "Rating": 1453.130601532631,
+    "Rank": 208
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Towson",
+    "Rating": 1453.063735003066,
+    "Rank": 209
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Portland",
+    "Rating": 1449.620381428064,
+    "Rank": 210
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Idaho",
+    "Rating": 1447.917921244103,
+    "Rank": 211
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Morehead State",
+    "Rating": 1447.198719528769,
+    "Rank": 212
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Weber State",
+    "Rating": 1446.9832487813003,
+    "Rank": 213
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Illinois",
+    "Rating": 1446.7184191784218,
+    "Rank": 214
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Michigan",
+    "Rating": 1446.4942661601935,
+    "Rank": 215
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rutgers",
+    "Rating": 1446.3520954384933,
+    "Rank": 216
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia State",
+    "Rating": 1446.3041374081884,
+    "Rank": 217
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "George Washington",
+    "Rating": 1445.125202961288,
+    "Rank": 218
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pacific",
+    "Rating": 1443.567804084809,
+    "Rank": 219
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana",
+    "Rating": 1443.5483240967317,
+    "Rank": 220
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "VMI",
+    "Rating": 1442.4542769929335,
+    "Rank": 221
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas Southern",
+    "Rating": 1442.1844803901122,
+    "Rank": 222
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southeastern Louisiana",
+    "Rating": 1441.9089026981874,
+    "Rank": 223
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alabama State",
+    "Rating": 1441.7394942959406,
+    "Rank": 224
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Robert Morris",
+    "Rating": 1440.644247353114,
+    "Rank": 225
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fresno State",
+    "Rating": 1439.123291406453,
+    "Rank": 226
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Ball State",
+    "Rating": 1438.424287588185,
+    "Rank": 227
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Butler",
+    "Rating": 1438.106689402143,
+    "Rank": 228
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bethune-Cookman",
+    "Rating": 1437.862054282217,
+    "Rank": 229
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northern Illinois",
+    "Rating": 1437.6109803736329,
+    "Rank": 230
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Diego State",
+    "Rating": 1437.3696406698382,
+    "Rank": 231
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida A&M",
+    "Rating": 1437.082336594539,
+    "Rank": 232
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Coppin State",
+    "Rating": 1436.9274395179375,
+    "Rank": 233
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Old Dominion",
+    "Rating": 1435.747804177707,
+    "Rank": 234
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Toledo",
+    "Rating": 1435.5136220437807,
+    "Rank": 235
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Air Force",
+    "Rating": 1435.3804940789564,
+    "Rank": 236
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "East Carolina",
+    "Rating": 1435.1854757630206,
+    "Rank": 237
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "St. Francis (NY)",
+    "Rating": 1434.905936429298,
+    "Rank": 238
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Coastal Carolina",
+    "Rating": 1434.9004277498725,
+    "Rank": 239
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Connecticut",
+    "Rating": 1434.4560839932603,
+    "Rank": 240
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Appalachian State",
+    "Rating": 1434.450074137262,
+    "Rank": 241
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Youngstown State",
+    "Rating": 1434.345812644305,
+    "Rank": 242
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Creighton",
+    "Rating": 1433.851015059567,
+    "Rank": 243
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Florida",
+    "Rating": 1433.2537235709185,
+    "Rank": 244
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hofstra",
+    "Rating": 1432.563745121911,
+    "Rank": 245
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Long Beach State",
+    "Rating": 1432.507454522622,
+    "Rank": 246
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern California",
+    "Rating": 1432.2404014181434,
+    "Rank": 247
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alcorn State",
+    "Rating": 1431.1646312493672,
+    "Rank": 248
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Washington",
+    "Rating": 1430.9793504749175,
+    "Rank": 249
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Brown",
+    "Rating": 1430.7472452282989,
+    "Rank": 250
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Francis (PA)",
+    "Rating": 1430.7053814581063,
+    "Rank": 251
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mercer",
+    "Rating": 1428.230314749206,
+    "Rank": 252
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas State",
+    "Rating": 1428.1648665095615,
+    "Rank": 253
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Holy Cross",
+    "Rating": 1428.0361882589657,
+    "Rank": 254
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UT Arlington",
+    "Rating": 1427.463839803556,
+    "Rank": 255
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Detroit Mercy",
+    "Rating": 1426.624489285965,
+    "Rank": 256
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nicholls State",
+    "Rating": 1426.0486736940315,
+    "Rank": 257
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Centenary (LA)",
+    "Rating": 1426.0115781286586,
+    "Rank": 258
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Illinois",
+    "Rating": 1425.3306902994675,
+    "Rank": 259
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Morgan State",
+    "Rating": 1422.2714338271485,
+    "Rank": 260
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Indiana State",
+    "Rating": 1421.9410511312396,
+    "Rank": 261
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Chicago State",
+    "Rating": 1420.3625577998223,
+    "Rank": 262
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mississippi State",
+    "Rating": 1420.2680873490258,
+    "Rank": 263
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Delaware",
+    "Rating": 1417.0785536364608,
+    "Rank": 264
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Central Connecticut State",
+    "Rating": 1415.289902796036,
+    "Rank": 265
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee Tech",
+    "Rating": 1413.4469040304712,
+    "Rank": 266
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Harvard",
+    "Rating": 1411.9659725717224,
+    "Rank": 267
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rice",
+    "Rating": 1410.3880461131812,
+    "Rank": 268
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Winthrop",
+    "Rating": 1407.9960917721476,
+    "Rank": 269
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northwestern",
+    "Rating": 1407.8830014622836,
+    "Rank": 270
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Monmouth",
+    "Rating": 1406.401894565308,
+    "Rank": 271
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Valparaiso",
+    "Rating": 1402.666879764384,
+    "Rank": 272
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Vermont",
+    "Rating": 1398.627395540853,
+    "Rank": 273
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Prairie View",
+    "Rating": 1396.2365071084807,
+    "Rank": 274
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "William & Mary",
+    "Rating": 1394.7165265744025,
+    "Rank": 275
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Minnesota",
+    "Rating": 1394.6906935692002,
+    "Rank": 276
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "St. Bonaventure",
+    "Rating": 1389.7371040056478,
+    "Rank": 277
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "East Tennessee State",
+    "Rating": 1388.8430740068711,
+    "Rank": 278
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hawaii",
+    "Rating": 1387.950324765293,
+    "Rank": 279
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Colgate",
+    "Rating": 1386.8578475851589,
+    "Rank": 280
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Hampshire",
+    "Rating": 1381.3641796269385,
+    "Rank": 281
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Manhattan",
+    "Rating": 1373.4605706232678,
+    "Rank": 282
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Samford",
+    "Rating": 1370.4102276213423,
+    "Rank": 283
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Delaware State",
+    "Rating": 1362.3161402973906,
+    "Rank": 284
+  },
+  {
+    "Year": 1987,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maryland-Eastern Shore",
+    "Rating": 1334.936686324263,
+    "Rank": 285
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "Year": 2005,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Independent",
+    "Team": "Texas A&M-Corpus Christi",
+    "Rating": 9.286864119046644,
+    "Rank": 1
+  },
+  {
+    "Year": 2005,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Independent",
+    "Team": "Purdue Fort Wayne",
+    "Rating": 9.016193706280283,
+    "Rank": 2
+  },
+  {
+    "Year": 2005,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Independent",
+    "Team": "Texas-Rio Grande Valley",
+    "Rating": 3.784012563823291,
+    "Rank": 3
+  },
+  {
+    "Year": 2005,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Independent",
+    "Team": "Savannah State",
+    "Rating": -22.087070389150277,
+    "Rank": 4
+  }
+]

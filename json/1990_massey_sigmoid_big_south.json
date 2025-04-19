@@ -1,0 +1,56 @@
+[
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Coastal Carolina",
+    "Rating": 8.659906589278993,
+    "Rank": 1
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "UNC Asheville",
+    "Rating": 2.536684866606231,
+    "Rank": 2
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Radford",
+    "Rating": -0.5268354940110762,
+    "Rank": 3
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Charleston Southern",
+    "Rating": -2.0949819046368514,
+    "Rank": 4
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Winthrop",
+    "Rating": -4.0450501555494505,
+    "Rank": 5
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Campbell",
+    "Rating": -4.529723901687836,
+    "Rank": 6
+  }
+]

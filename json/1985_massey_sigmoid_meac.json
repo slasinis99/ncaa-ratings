@@ -1,0 +1,65 @@
+[
+  {
+    "Year": 1985,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "North Carolina A&T",
+    "Rating": 9.211645681500343,
+    "Rank": 1
+  },
+  {
+    "Year": 1985,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "Howard",
+    "Rating": 8.351741948727371,
+    "Rank": 2
+  },
+  {
+    "Year": 1985,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "South Carolina State",
+    "Rating": 4.057801837225021,
+    "Rank": 3
+  },
+  {
+    "Year": 1985,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "Delaware State",
+    "Rating": 2.1156906194269207,
+    "Rank": 4
+  },
+  {
+    "Year": 1985,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "Bethune-Cookman",
+    "Rating": -5.558980822073629,
+    "Rank": 5
+  },
+  {
+    "Year": 1985,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "Morgan State",
+    "Rating": -8.948896638261873,
+    "Rank": 6
+  },
+  {
+    "Year": 1985,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "Maryland-Eastern Shore",
+    "Rating": -9.229002626544151,
+    "Rank": 7
+  }
+]

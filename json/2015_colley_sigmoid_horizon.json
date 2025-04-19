@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2015,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Valparaiso",
+    "Rating": 0.7904533899700426,
+    "Rank": 1
+  },
+  {
+    "Year": 2015,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Green Bay",
+    "Rating": 0.6745354738807661,
+    "Rank": 2
+  },
+  {
+    "Year": 2015,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Cleveland State",
+    "Rating": 0.6227489113934718,
+    "Rank": 3
+  },
+  {
+    "Year": 2015,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Oakland",
+    "Rating": 0.5910364123837647,
+    "Rank": 4
+  },
+  {
+    "Year": 2015,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Milwaukee",
+    "Rating": 0.5773964743794262,
+    "Rank": 5
+  },
+  {
+    "Year": 2015,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Detroit Mercy",
+    "Rating": 0.4525382071246773,
+    "Rank": 6
+  },
+  {
+    "Year": 2015,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Illinois-Chicago",
+    "Rating": 0.3688908932572027,
+    "Rank": 7
+  },
+  {
+    "Year": 2015,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Wright State",
+    "Rating": 0.214779286249876,
+    "Rank": 8
+  },
+  {
+    "Year": 2015,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Youngstown State",
+    "Rating": 0.2076209513607678,
+    "Rank": 9
+  }
+]

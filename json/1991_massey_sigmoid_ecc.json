@@ -1,0 +1,65 @@
+[
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ECC",
+    "Team": "Towson",
+    "Rating": 5.67650552857742,
+    "Rank": 1
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ECC",
+    "Team": "Drexel",
+    "Rating": 3.2216829492486245,
+    "Rank": 2
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ECC",
+    "Team": "Delaware",
+    "Rating": 1.7302732486369723,
+    "Rank": 3
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ECC",
+    "Team": "Hofstra",
+    "Rating": 0.8294997395556023,
+    "Rank": 4
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ECC",
+    "Team": "Rider",
+    "Rating": -0.0414285396036854,
+    "Rank": 5
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ECC",
+    "Team": "Maryland-Baltimore County",
+    "Rating": -2.503758477899328,
+    "Rank": 6
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ECC",
+    "Team": "Central Connecticut State",
+    "Rating": -8.912774448515597,
+    "Rank": 7
+  }
+]

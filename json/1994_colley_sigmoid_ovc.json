@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 1994,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "OVC",
+    "Team": "Murray State",
+    "Rating": 0.8047052643604744,
+    "Rank": 1
+  },
+  {
+    "Year": 1994,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "OVC",
+    "Team": "Tennessee State",
+    "Rating": 0.7505522234071694,
+    "Rank": 2
+  },
+  {
+    "Year": 1994,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "OVC",
+    "Team": "Austin Peay",
+    "Rating": 0.5247073120099182,
+    "Rank": 3
+  },
+  {
+    "Year": 1994,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "OVC",
+    "Team": "Morehead State",
+    "Rating": 0.521388383881628,
+    "Rank": 4
+  },
+  {
+    "Year": 1994,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "OVC",
+    "Team": "Eastern Kentucky",
+    "Rating": 0.4937133924908924,
+    "Rank": 5
+  },
+  {
+    "Year": 1994,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "OVC",
+    "Team": "Tennessee Tech",
+    "Rating": 0.4066198072846158,
+    "Rank": 6
+  },
+  {
+    "Year": 1994,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "OVC",
+    "Team": "Middle Tennessee",
+    "Rating": 0.3764164773539679,
+    "Rank": 7
+  },
+  {
+    "Year": 1994,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "OVC",
+    "Team": "Southeast Missouri State",
+    "Rating": 0.3571469955376066,
+    "Rank": 8
+  },
+  {
+    "Year": 1994,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "OVC",
+    "Team": "Tennessee-Martin",
+    "Rating": 0.264750143673726,
+    "Rank": 9
+  }
+]

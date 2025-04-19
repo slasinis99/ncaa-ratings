@@ -1,0 +1,56 @@
+[
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "GMWC",
+    "Team": "Cincinnati",
+    "Rating": 10.346007559206363,
+    "Rank": 1
+  },
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "GMWC",
+    "Team": "Memphis",
+    "Rating": 1.7946562904410015,
+    "Rank": 2
+  },
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "GMWC",
+    "Team": "Marquette",
+    "Rating": 1.669459964144055,
+    "Rank": 3
+  },
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "GMWC",
+    "Team": "DePaul",
+    "Rating": 0.5740326853152286,
+    "Rank": 4
+  },
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "GMWC",
+    "Team": "UAB",
+    "Rating": -1.188995836831944,
+    "Rank": 5
+  },
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "GMWC",
+    "Team": "Saint Louis",
+    "Rating": -13.1951606622747,
+    "Rank": 6
+  }
+]

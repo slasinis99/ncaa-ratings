@@ -1,0 +1,128 @@
+[
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Alabama",
+    "Rating": 10.891600404110411,
+    "Rank": 1
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Arkansas",
+    "Rating": 7.515795801664336,
+    "Rank": 2
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Louisiana State",
+    "Rating": 5.286357680874122,
+    "Rank": 3
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Tennessee",
+    "Rating": 3.2011650847282143,
+    "Rank": 4
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Kentucky",
+    "Rating": 2.144805561939493,
+    "Rank": 5
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Mississippi",
+    "Rating": 1.4831461159532031,
+    "Rank": 6
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Florida",
+    "Rating": 0.7439439304668933,
+    "Rank": 7
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Missouri",
+    "Rating": -0.5933727863634292,
+    "Rank": 8
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Auburn",
+    "Rating": -0.8245060519347771,
+    "Rank": 9
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Vanderbilt",
+    "Rating": -2.9263653436251964,
+    "Rank": 10
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Mississippi State",
+    "Rating": -3.153177785147497,
+    "Rank": 11
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Georgia",
+    "Rating": -4.81566012184559,
+    "Rank": 12
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Texas A&M",
+    "Rating": -9.26747578986468,
+    "Rank": 13
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "South Carolina",
+    "Rating": -9.686256700955168,
+    "Rank": 14
+  }
+]

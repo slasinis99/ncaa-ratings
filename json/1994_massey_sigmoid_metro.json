@@ -1,0 +1,65 @@
+[
+  {
+    "Year": 1994,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Metro",
+    "Team": "Louisville",
+    "Rating": 8.848893183121447,
+    "Rank": 1
+  },
+  {
+    "Year": 1994,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Metro",
+    "Team": "Southern Mississippi",
+    "Rating": 1.8939997511428264,
+    "Rank": 2
+  },
+  {
+    "Year": 1994,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Metro",
+    "Team": "Tulane",
+    "Rating": 1.6124293816537287,
+    "Rank": 3
+  },
+  {
+    "Year": 1994,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Metro",
+    "Team": "Virginia Tech",
+    "Rating": 1.3757165534435811,
+    "Rank": 4
+  },
+  {
+    "Year": 1994,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Metro",
+    "Team": "Charlotte",
+    "Rating": -0.1882136351008373,
+    "Rank": 5
+  },
+  {
+    "Year": 1994,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Metro",
+    "Team": "Virginia Commonwealth",
+    "Rating": -4.275878233060893,
+    "Rank": 6
+  },
+  {
+    "Year": 1994,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Metro",
+    "Team": "South Florida",
+    "Rating": -9.266947001199842,
+    "Rank": 7
+  }
+]

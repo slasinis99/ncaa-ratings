@@ -1,0 +1,74 @@
+[
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "constant",
+    "Conference": "Ivy",
+    "Team": "Princeton",
+    "Rating": 12.5,
+    "Rank": 1
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "constant",
+    "Conference": "Ivy",
+    "Team": "Yale",
+    "Rating": 2.750000000000025,
+    "Rank": 2
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "constant",
+    "Conference": "Ivy",
+    "Team": "Pennsylvania",
+    "Rating": 0.6874999999999994,
+    "Rank": 3
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "constant",
+    "Conference": "Ivy",
+    "Team": "Brown",
+    "Rating": -0.8750000000000017,
+    "Rank": 4
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "constant",
+    "Conference": "Ivy",
+    "Team": "Harvard",
+    "Rating": -1.1875000000000029,
+    "Rank": 5
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "constant",
+    "Conference": "Ivy",
+    "Team": "Cornell",
+    "Rating": -1.812500000000004,
+    "Rank": 6
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "constant",
+    "Conference": "Ivy",
+    "Team": "Dartmouth",
+    "Rating": -4.750000000000004,
+    "Rank": 7
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "constant",
+    "Conference": "Ivy",
+    "Team": "Columbia",
+    "Rating": -7.312499999999998,
+    "Rank": 8
+  }
+]

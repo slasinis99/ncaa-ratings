@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2005,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Milwaukee",
+    "Rating": 0.8160739017341331,
+    "Rank": 1
+  },
+  {
+    "Year": 2005,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Detroit Mercy",
+    "Rating": 0.5767857129999331,
+    "Rank": 2
+  },
+  {
+    "Year": 2005,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Loyola (IL)",
+    "Rating": 0.5570271057786657,
+    "Rank": 3
+  },
+  {
+    "Year": 2005,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Green Bay",
+    "Rating": 0.5378908371194396,
+    "Rank": 4
+  },
+  {
+    "Year": 2005,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Wright State",
+    "Rating": 0.4941446024030528,
+    "Rank": 5
+  },
+  {
+    "Year": 2005,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Illinois-Chicago",
+    "Rating": 0.4901531261880975,
+    "Rank": 6
+  },
+  {
+    "Year": 2005,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Butler",
+    "Rating": 0.4402709251958057,
+    "Rank": 7
+  },
+  {
+    "Year": 2005,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Cleveland State",
+    "Rating": 0.3871884592509217,
+    "Rank": 8
+  },
+  {
+    "Year": 2005,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Youngstown State",
+    "Rating": 0.2004653293299474,
+    "Rank": 9
+  }
+]

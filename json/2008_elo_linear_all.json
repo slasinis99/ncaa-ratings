@@ -1,0 +1,2981 @@
+[
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Memphis",
+    "Rating": 1696.9126525445768,
+    "Rank": 1
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "North Carolina",
+    "Rating": 1690.8452144825385,
+    "Rank": 2
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Kansas",
+    "Rating": 1682.1685408997291,
+    "Rank": 3
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "UCLA",
+    "Rating": 1676.498473179789,
+    "Rank": 4
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Wisconsin",
+    "Rating": 1670.7917433091077,
+    "Rank": 5
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Davidson",
+    "Rating": 1666.960075913241,
+    "Rank": 6
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Georgetown",
+    "Rating": 1650.9450892147397,
+    "Rank": 7
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Texas",
+    "Rating": 1645.3844593459546,
+    "Rank": 8
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Butler",
+    "Rating": 1641.664577767448,
+    "Rank": 9
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Kent State",
+    "Rating": 1638.514130062787,
+    "Rank": 10
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Tennessee",
+    "Rating": 1636.4853019978489,
+    "Rank": 11
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Western Kentucky",
+    "Rating": 1635.9640287448412,
+    "Rank": 12
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Pittsburgh",
+    "Rating": 1629.6603694661678,
+    "Rank": 13
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Drake",
+    "Rating": 1628.915920550775,
+    "Rank": 14
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Nevada-Las Vegas",
+    "Rating": 1623.3029586851003,
+    "Rank": 15
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Xavier",
+    "Rating": 1617.66015416908,
+    "Rank": 16
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Temple",
+    "Rating": 1612.821316680134,
+    "Rank": 17
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Louisville",
+    "Rating": 1612.013669345726,
+    "Rank": 18
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Brigham Young",
+    "Rating": 1611.6054573855158,
+    "Rank": 19
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Cal State Fullerton",
+    "Rating": 1606.289047489904,
+    "Rank": 20
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Siena",
+    "Rating": 1604.3798362564078,
+    "Rank": 21
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Belmont",
+    "Rating": 1603.9743259225938,
+    "Rank": 22
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Portland State",
+    "Rating": 1603.5900656703334,
+    "Rank": 23
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Austin Peay",
+    "Rating": 1603.0706204148717,
+    "Rank": 24
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Gonzaga",
+    "Rating": 1601.0279723056294,
+    "Rank": 25
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Cornell",
+    "Rating": 1599.8933631416903,
+    "Rank": 26
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Stanford",
+    "Rating": 1599.7880191784848,
+    "Rank": 27
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Duke",
+    "Rating": 1599.5123388773957,
+    "Rank": 28
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "San Diego",
+    "Rating": 1594.9441941059092,
+    "Rank": 29
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Illinois State",
+    "Rating": 1594.8211661838798,
+    "Rank": 30
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Virginia Commonwealth",
+    "Rating": 1594.5591227245354,
+    "Rank": 31
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Clemson",
+    "Rating": 1593.1449784731503,
+    "Rank": 32
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Boise State",
+    "Rating": 1593.0336995207945,
+    "Rank": 33
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Notre Dame",
+    "Rating": 1593.0302801146747,
+    "Rank": 34
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Robert Morris",
+    "Rating": 1592.1627063222709,
+    "Rank": 35
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "West Virginia",
+    "Rating": 1588.7072826626843,
+    "Rank": 36
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "South Alabama",
+    "Rating": 1587.9190531039062,
+    "Rank": 37
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Oral Roberts",
+    "Rating": 1587.6181533124957,
+    "Rank": 38
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Maryland-Baltimore County",
+    "Rating": 1583.188693632481,
+    "Rank": 39
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "New Mexico State",
+    "Rating": 1582.7283188213,
+    "Rank": 40
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Southern California",
+    "Rating": 1582.0256641605688,
+    "Rank": 41
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "American",
+    "Rating": 1581.833712540584,
+    "Rank": 42
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Winthrop",
+    "Rating": 1580.0962662037791,
+    "Rank": 43
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Connecticut",
+    "Rating": 1578.2480678571796,
+    "Rank": 44
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Mississippi State",
+    "Rating": 1578.2150772231614,
+    "Rank": 45
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Purdue",
+    "Rating": 1578.2137687070351,
+    "Rank": 46
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Tulsa",
+    "Rating": 1577.087725594784,
+    "Rank": 47
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Marquette",
+    "Rating": 1576.9273012214635,
+    "Rank": 48
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Michigan State",
+    "Rating": 1576.7550693247947,
+    "Rank": 49
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Washington State",
+    "Rating": 1573.6325761782048,
+    "Rank": 50
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Mount St. Mary's",
+    "Rating": 1570.5198230004214,
+    "Rank": 51
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "George Mason",
+    "Rating": 1570.2399311655963,
+    "Rank": 52
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Villanova",
+    "Rating": 1570.2053171646194,
+    "Rank": 53
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Arkansas",
+    "Rating": 1570.0850495981426,
+    "Rank": 54
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Nevada",
+    "Rating": 1569.877784204671,
+    "Rank": 55
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Massachusetts",
+    "Rating": 1569.3246886023162,
+    "Rank": 56
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Oklahoma",
+    "Rating": 1569.19852733984,
+    "Rank": 57
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Utah State",
+    "Rating": 1568.7789230959745,
+    "Rank": 58
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Vanderbilt",
+    "Rating": 1568.5633617496926,
+    "Rank": 59
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Kentucky",
+    "Rating": 1568.3433443573197,
+    "Rank": 60
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Saint Joseph's",
+    "Rating": 1568.1255397299194,
+    "Rank": 61
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Akron",
+    "Rating": 1567.2284060429856,
+    "Rank": 62
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Brown",
+    "Rating": 1566.2043286555047,
+    "Rank": 63
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "UAB",
+    "Rating": 1565.66831109563,
+    "Rank": 64
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Virginia Tech",
+    "Rating": 1564.0793962159871,
+    "Rank": 65
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Saint Mary's (CA)",
+    "Rating": 1563.781385588372,
+    "Rank": 66
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Texas A&M",
+    "Rating": 1562.8966290150686,
+    "Rank": 67
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Rider",
+    "Rating": 1561.6375235420317,
+    "Rank": 68
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Creighton",
+    "Rating": 1560.674725378636,
+    "Rank": 69
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "New Mexico",
+    "Rating": 1559.9061737979043,
+    "Rank": 70
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Mississippi Valley State",
+    "Rating": 1558.4925424107732,
+    "Rank": 71
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Indiana",
+    "Rating": 1558.0444097997672,
+    "Rank": 72
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Georgia",
+    "Rating": 1557.6144567420474,
+    "Rank": 73
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Morgan State",
+    "Rating": 1556.6239579325688,
+    "Rank": 74
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Southern Illinois",
+    "Rating": 1555.6563717492588,
+    "Rank": 75
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Charlotte",
+    "Rating": 1554.619433520453,
+    "Rank": 76
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Western Michigan",
+    "Rating": 1552.4487921829543,
+    "Rank": 77
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Florida State",
+    "Rating": 1551.291571456385,
+    "Rank": 78
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Wagner",
+    "Rating": 1551.1872372406235,
+    "Rank": 79
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Dayton",
+    "Rating": 1549.934210535573,
+    "Rank": 80
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Northern Arizona",
+    "Rating": 1549.8246299328273,
+    "Rank": 81
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Middle Tennessee",
+    "Rating": 1548.9270605792162,
+    "Rank": 82
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "UNC Greensboro",
+    "Rating": 1548.860617859346,
+    "Rank": 83
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Oklahoma State",
+    "Rating": 1548.0183844770252,
+    "Rank": 84
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Cleveland State",
+    "Rating": 1547.8189883265684,
+    "Rank": 85
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Southern Mississippi",
+    "Rating": 1547.4557840231764,
+    "Rank": 86
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Stephen F. Austin",
+    "Rating": 1547.2559484010906,
+    "Rank": 87
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Illinois",
+    "Rating": 1546.4025890593828,
+    "Rank": 88
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "UC Irvine",
+    "Rating": 1545.817445799878,
+    "Rank": 89
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Sacred Heart",
+    "Rating": 1545.5119496232312,
+    "Rank": 90
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Ohio State",
+    "Rating": 1543.519388254805,
+    "Rank": 91
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "UC Santa Barbara",
+    "Rating": 1541.04671818027,
+    "Rank": 92
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Nebraska",
+    "Rating": 1540.909554781585,
+    "Rank": 93
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Miami (OH)",
+    "Rating": 1539.9254009282104,
+    "Rank": 94
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Coppin State",
+    "Rating": 1539.2785173185075,
+    "Rank": 95
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Valparaiso",
+    "Rating": 1538.0857347143549,
+    "Rank": 96
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Syracuse",
+    "Rating": 1537.7475830244691,
+    "Rank": 97
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Oregon",
+    "Rating": 1536.7636276395235,
+    "Rank": 98
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Wright State",
+    "Rating": 1536.6518232386186,
+    "Rank": 99
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Miami (FL)",
+    "Rating": 1536.578079627075,
+    "Rank": 100
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Niagara",
+    "Rating": 1534.9886610252595,
+    "Rank": 101
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Loyola (MD)",
+    "Rating": 1534.1768818628573,
+    "Rank": 102
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "UNC Asheville",
+    "Rating": 1533.5215803440078,
+    "Rank": 103
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Missouri State",
+    "Rating": 1533.082424294704,
+    "Rank": 104
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "North Texas",
+    "Rating": 1532.958186704848,
+    "Rank": 105
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Kansas State",
+    "Rating": 1530.9789218766944,
+    "Rank": 106
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Old Dominion",
+    "Rating": 1530.0271068450447,
+    "Rank": 107
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Alabama State",
+    "Rating": 1529.7086084528903,
+    "Rank": 108
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "UNC Wilmington",
+    "Rating": 1529.2972074747506,
+    "Rank": 109
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "UT Arlington",
+    "Rating": 1529.2556173283533,
+    "Rank": 110
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Georgia Tech",
+    "Rating": 1527.398459313307,
+    "Rank": 111
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Little Rock",
+    "Rating": 1524.597629754095,
+    "Rank": 112
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Pacific",
+    "Rating": 1523.6647656117468,
+    "Rank": 113
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Baylor",
+    "Rating": 1522.889218000332,
+    "Rank": 114
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Houston",
+    "Rating": 1522.7039943209732,
+    "Rank": 115
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "San Diego State",
+    "Rating": 1522.1806057098586,
+    "Rank": 116
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Colgate",
+    "Rating": 1521.5033468561685,
+    "Rank": 117
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Illinois-Chicago",
+    "Rating": 1521.029012672792,
+    "Rank": 118
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Hartford",
+    "Rating": 1520.7587329501152,
+    "Rank": 119
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Bradley",
+    "Rating": 1520.756351142531,
+    "Rank": 120
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Marist",
+    "Rating": 1519.924438129441,
+    "Rank": 121
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Northern Iowa",
+    "Rating": 1518.26604080226,
+    "Rank": 122
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Mississippi",
+    "Rating": 1517.45294978479,
+    "Rank": 123
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "East Tennessee State",
+    "Rating": 1517.0814670515974,
+    "Rank": 124
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "UTEP",
+    "Rating": 1516.1639489848765,
+    "Rank": 125
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "William & Mary",
+    "Rating": 1515.5887442590322,
+    "Rank": 126
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Minnesota",
+    "Rating": 1514.8814196286128,
+    "Rank": 127
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Florida",
+    "Rating": 1514.2081600708243,
+    "Rank": 128
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Arizona",
+    "Rating": 1513.5329583906505,
+    "Rank": 129
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Fairfield",
+    "Rating": 1512.6670594430825,
+    "Rank": 130
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Sam Houston",
+    "Rating": 1512.6447686539536,
+    "Rank": 131
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Arizona State",
+    "Rating": 1512.4088659302408,
+    "Rank": 132
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Vermont",
+    "Rating": 1512.1859697744571,
+    "Rank": 133
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Alabama",
+    "Rating": 1512.1366915299498,
+    "Rank": 134
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Boston University",
+    "Rating": 1510.085058249064,
+    "Rank": 135
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Weber State",
+    "Rating": 1508.9644425536562,
+    "Rank": 136
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Lamar",
+    "Rating": 1508.6909772349088,
+    "Rank": 137
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Tennessee State",
+    "Rating": 1508.6199629335667,
+    "Rank": 138
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Navy",
+    "Rating": 1508.3504952415626,
+    "Rank": 139
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Appalachian State",
+    "Rating": 1508.0145317837696,
+    "Rank": 140
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Central Connecticut State",
+    "Rating": 1507.788506816618,
+    "Rank": 141
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Ohio",
+    "Rating": 1507.624625788973,
+    "Rank": 142
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Florida Atlantic",
+    "Rating": 1506.8175300079151,
+    "Rank": 143
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Albany (NY)",
+    "Rating": 1505.8474048293228,
+    "Rank": 144
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Elon",
+    "Rating": 1505.5817058257426,
+    "Rank": 145
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Air Force",
+    "Rating": 1505.3575707765349,
+    "Rank": 146
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Maryland",
+    "Rating": 1504.9918575460413,
+    "Rank": 147
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Tennessee-Martin",
+    "Rating": 1503.9171379660495,
+    "Rank": 148
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Oakland",
+    "Rating": 1503.6568445195742,
+    "Rank": 149
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Murray State",
+    "Rating": 1503.5898129645634,
+    "Rank": 150
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "College of Charleston",
+    "Rating": 1503.25722819081,
+    "Rank": 151
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Pennsylvania",
+    "Rating": 1502.1733293409936,
+    "Rank": 152
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Utah",
+    "Rating": 1501.7539155854563,
+    "Rank": 153
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Texas Tech",
+    "Rating": 1501.5510107696618,
+    "Rank": 154
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Birmingham-Southern",
+    "Rating": 1501.468466247276,
+    "Rank": 155
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Cal State Northridge",
+    "Rating": 1501.3445471624502,
+    "Rank": 156
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Virginia",
+    "Rating": 1500.431918290297,
+    "Rank": 157
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "IU Indy",
+    "Rating": 1500.0,
+    "Rank": 158
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Richmond",
+    "Rating": 1498.8857257449774,
+    "Rank": 159
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Morris Brown",
+    "Rating": 1498.7793882793435,
+    "Rank": 160
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Georgia Southern",
+    "Rating": 1498.571595602852,
+    "Rank": 161
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Northeastern",
+    "Rating": 1498.5597034997877,
+    "Rank": 162
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Alabama A&M",
+    "Rating": 1497.6997398512358,
+    "Rank": 163
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "High Point",
+    "Rating": 1496.8096100005282,
+    "Rank": 164
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Wake Forest",
+    "Rating": 1496.3776768915138,
+    "Rank": 165
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Louisiana",
+    "Rating": 1496.070260582931,
+    "Rank": 166
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Louisiana State",
+    "Rating": 1495.4405070468056,
+    "Rank": 167
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Delaware State",
+    "Rating": 1495.322770674405,
+    "Rank": 168
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Florida A&M",
+    "Rating": 1495.0126062411875,
+    "Rank": 169
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Hampton",
+    "Rating": 1494.4703864626997,
+    "Rank": 170
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Penn State",
+    "Rating": 1494.4513543133307,
+    "Rank": 171
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "La Salle",
+    "Rating": 1494.3457652537372,
+    "Rank": 172
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Jackson State",
+    "Rating": 1494.1974106438745,
+    "Rank": 173
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Toledo",
+    "Rating": 1493.9451547344424,
+    "Rank": 174
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "South Carolina",
+    "Rating": 1492.6640421032812,
+    "Rank": 175
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Northwestern State",
+    "Rating": 1491.3111760038191,
+    "Rank": 176
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Chattanooga",
+    "Rating": 1491.0003427105162,
+    "Rank": 177
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Washington",
+    "Rating": 1490.9976449671913,
+    "Rank": 178
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Hofstra",
+    "Rating": 1490.9432892484106,
+    "Rank": 179
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Rhode Island",
+    "Rating": 1490.1442514467808,
+    "Rank": 180
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Jacksonville",
+    "Rating": 1489.3681350711208,
+    "Rank": 181
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Southeastern Louisiana",
+    "Rating": 1488.9052141663915,
+    "Rank": 182
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Indiana State",
+    "Rating": 1488.528093946834,
+    "Rank": 183
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Yale",
+    "Rating": 1488.4591116835052,
+    "Rank": 184
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "California",
+    "Rating": 1488.2044179824643,
+    "Rank": 185
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Providence",
+    "Rating": 1487.85696130415,
+    "Rank": 186
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Lipscomb",
+    "Rating": 1487.262281147435,
+    "Rank": 187
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Eastern Michigan",
+    "Rating": 1486.9623808121924,
+    "Rank": 188
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Tulane",
+    "Rating": 1486.826128544913,
+    "Rank": 189
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Southern Utah",
+    "Rating": 1485.8565174122675,
+    "Rank": 190
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Towson",
+    "Rating": 1484.6204234727077,
+    "Rank": 191
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Central Florida",
+    "Rating": 1484.5884488367676,
+    "Rank": 192
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "New Orleans",
+    "Rating": 1483.575178900939,
+    "Rank": 193
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Missouri",
+    "Rating": 1483.0336250479118,
+    "Rank": 194
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "George Washington",
+    "Rating": 1483.0181079009783,
+    "Rank": 195
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Marshall",
+    "Rating": 1482.8048089982838,
+    "Rank": 196
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Binghamton",
+    "Rating": 1482.168400896834,
+    "Rank": 197
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Quinnipiac",
+    "Rating": 1482.0946228352807,
+    "Rank": 198
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Green Bay",
+    "Rating": 1481.7814821549002,
+    "Rank": 199
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Army",
+    "Rating": 1480.5424431681672,
+    "Rank": 200
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Holy Cross",
+    "Rating": 1479.7385609646374,
+    "Rank": 201
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Gardner-Webb",
+    "Rating": 1479.668867185643,
+    "Rank": 202
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Norfolk State",
+    "Rating": 1479.2003213746138,
+    "Rank": 203
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Central Michigan",
+    "Rating": 1478.1823568394989,
+    "Rank": 204
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Saint Louis",
+    "Rating": 1474.2115005805742,
+    "Rank": 205
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Santa Clara",
+    "Rating": 1473.9481871253768,
+    "Rank": 206
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Purdue Fort Wayne",
+    "Rating": 1471.647378905153,
+    "Rank": 207
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Duquesne",
+    "Rating": 1471.4867794616496,
+    "Rank": 208
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Montana",
+    "Rating": 1471.243255744699,
+    "Rank": 209
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Northern Colorado",
+    "Rating": 1471.1381909844106,
+    "Rank": 210
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Michigan",
+    "Rating": 1470.758724151878,
+    "Rank": 211
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Lehigh",
+    "Rating": 1470.6559260557565,
+    "Rank": 212
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Delaware",
+    "Rating": 1469.6453813675428,
+    "Rank": 213
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Houston Christian",
+    "Rating": 1469.4238495324155,
+    "Rank": 214
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Fordham",
+    "Rating": 1468.8291880443544,
+    "Rank": 215
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Tennessee Tech",
+    "Rating": 1468.013413926201,
+    "Rank": 216
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Long Island University",
+    "Rating": 1467.4878427858707,
+    "Rank": 217
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Loyola (IL)",
+    "Rating": 1467.2915130552983,
+    "Rank": 218
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Stetson",
+    "Rating": 1467.264345625678,
+    "Rank": 219
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Liberty",
+    "Rating": 1467.1178737591174,
+    "Rank": 220
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "DePaul",
+    "Rating": 1466.6452665280426,
+    "Rank": 221
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Texas-Rio Grande Valley",
+    "Rating": 1465.5841459883347,
+    "Rank": 222
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Morehead State",
+    "Rating": 1464.5116881398867,
+    "Rank": 223
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Idaho State",
+    "Rating": 1464.134933606825,
+    "Rank": 224
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Samford",
+    "Rating": 1462.9677286352228,
+    "Rank": 225
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "St. John's (NY)",
+    "Rating": 1462.121749660504,
+    "Rank": 226
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Boston College",
+    "Rating": 1461.0314751205192,
+    "Rank": 227
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Eastern Kentucky",
+    "Rating": 1460.3350520244053,
+    "Rank": 228
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Milwaukee",
+    "Rating": 1460.1730377392012,
+    "Rank": 229
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "TCU",
+    "Rating": 1459.9434066469862,
+    "Rank": 230
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Kansas City",
+    "Rating": 1459.0701896807104,
+    "Rank": 231
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Fresno State",
+    "Rating": 1458.8441772797885,
+    "Rank": 232
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Wofford",
+    "Rating": 1457.8348506949355,
+    "Rank": 233
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Columbia",
+    "Rating": 1456.3791433559022,
+    "Rank": 234
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Texas A&M-Corpus Christi",
+    "Rating": 1456.1185538244245,
+    "Rank": 235
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "North Carolina A&T",
+    "Rating": 1455.6390074075896,
+    "Rank": 236
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Eastern Washington",
+    "Rating": 1454.8022661237585,
+    "Rank": 237
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Colorado",
+    "Rating": 1454.738921625769,
+    "Rank": 238
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Bucknell",
+    "Rating": 1454.2605903059375,
+    "Rank": 239
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Chicago State",
+    "Rating": 1454.0045959140548,
+    "Rank": 240
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Cincinnati",
+    "Rating": 1453.3228429943017,
+    "Rank": 241
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "McNeese State",
+    "Rating": 1453.0299227324997,
+    "Rank": 242
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "South Carolina State",
+    "Rating": 1452.6280285465425,
+    "Rank": 243
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Seton Hall",
+    "Rating": 1450.444782185044,
+    "Rank": 244
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "San Francisco",
+    "Rating": 1450.3909810354526,
+    "Rank": 245
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Iowa",
+    "Rating": 1449.813050409775,
+    "Rank": 246
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "UC Riverside",
+    "Rating": 1448.99434851001,
+    "Rank": 247
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "NC State",
+    "Rating": 1448.7853139004403,
+    "Rank": 248
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Savannah State",
+    "Rating": 1448.4674445686062,
+    "Rank": 249
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Wyoming",
+    "Rating": 1447.5208642553848,
+    "Rank": 250
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "VMI",
+    "Rating": 1447.4224063415252,
+    "Rank": 251
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Eastern Illinois",
+    "Rating": 1445.444542777372,
+    "Rank": 252
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Nicholls State",
+    "Rating": 1445.3529417058885,
+    "Rank": 253
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Auburn",
+    "Rating": 1445.3328888277977,
+    "Rank": 254
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Troy",
+    "Rating": 1442.7259120104836,
+    "Rank": 255
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Cal Poly",
+    "Rating": 1442.637538014579,
+    "Rank": 256
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Texas State",
+    "Rating": 1441.5619878199432,
+    "Rank": 257
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Bowling Green State",
+    "Rating": 1441.3184983128072,
+    "Rank": 258
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Southern",
+    "Rating": 1441.1115748760324,
+    "Rank": 259
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Florida International",
+    "Rating": 1439.8017189439504,
+    "Rank": 260
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "UTSA",
+    "Rating": 1439.4634000971937,
+    "Rank": 261
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Manhattan",
+    "Rating": 1438.3145892263592,
+    "Rank": 262
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Coastal Carolina",
+    "Rating": 1437.9940564481972,
+    "Rank": 263
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Pepperdine",
+    "Rating": 1437.888515113012,
+    "Rank": 264
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Georgia State",
+    "Rating": 1437.8031928944724,
+    "Rank": 265
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "South Florida",
+    "Rating": 1437.3420757196982,
+    "Rank": 266
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Arkansas-Pine Bluff",
+    "Rating": 1437.1867254211677,
+    "Rank": 267
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Idaho",
+    "Rating": 1436.7176505182197,
+    "Rank": 268
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Iona",
+    "Rating": 1435.14009937896,
+    "Rank": 269
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Montana State",
+    "Rating": 1433.82392889801,
+    "Rank": 270
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Drexel",
+    "Rating": 1433.0681617252235,
+    "Rank": 271
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "James Madison",
+    "Rating": 1433.046759368985,
+    "Rank": 272
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Western Illinois",
+    "Rating": 1432.8755902052053,
+    "Rank": 273
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Buffalo",
+    "Rating": 1432.7491393691264,
+    "Rank": 274
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "East Carolina",
+    "Rating": 1432.43777390202,
+    "Rank": 275
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Lafayette",
+    "Rating": 1432.112327551656,
+    "Rank": 276
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Rutgers",
+    "Rating": 1431.8037195121035,
+    "Rank": 277
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "New Hampshire",
+    "Rating": 1431.708653745286,
+    "Rank": 278
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Wichita State",
+    "Rating": 1431.308233194062,
+    "Rank": 279
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Iowa State",
+    "Rating": 1430.7572791908597,
+    "Rank": 280
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Furman",
+    "Rating": 1429.764724934564,
+    "Rank": 281
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Southern Methodist",
+    "Rating": 1428.0255820389348,
+    "Rank": 282
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Hawaii",
+    "Rating": 1427.948802182843,
+    "Rank": 283
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Arkansas State",
+    "Rating": 1427.8491882327392,
+    "Rank": 284
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Longwood",
+    "Rating": 1427.577789077965,
+    "Rank": 285
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Radford",
+    "Rating": 1426.9026183482122,
+    "Rank": 286
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Western Carolina",
+    "Rating": 1424.9562982617358,
+    "Rank": 287
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Jacksonville State",
+    "Rating": 1424.6989895915287,
+    "Rank": 288
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Dartmouth",
+    "Rating": 1423.4096490477366,
+    "Rank": 289
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Evansville",
+    "Rating": 1423.4002937602072,
+    "Rank": 290
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "San Jose State",
+    "Rating": 1422.1334576678037,
+    "Rank": 291
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Grambling",
+    "Rating": 1421.3962807497894,
+    "Rank": 292
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Charleston Southern",
+    "Rating": 1420.8017828869772,
+    "Rank": 293
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "St. Francis (NY)",
+    "Rating": 1417.7497390770352,
+    "Rank": 294
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Canisius",
+    "Rating": 1416.7520746126213,
+    "Rank": 295
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Northwestern",
+    "Rating": 1416.0281959312997,
+    "Rank": 296
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Youngstown State",
+    "Rating": 1414.8797411940318,
+    "Rank": 297
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Ball State",
+    "Rating": 1414.5894686350678,
+    "Rank": 298
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Louisiana Tech",
+    "Rating": 1413.0052181321948,
+    "Rank": 299
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Denver",
+    "Rating": 1412.7653958581311,
+    "Rank": 300
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Mercer",
+    "Rating": 1412.1166221976107,
+    "Rank": 301
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Prairie View",
+    "Rating": 1411.6626019460225,
+    "Rank": 302
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Louisiana-Monroe",
+    "Rating": 1411.4832235599415,
+    "Rank": 303
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Alcorn State",
+    "Rating": 1411.3137043509612,
+    "Rank": 304
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Harvard",
+    "Rating": 1410.8246449252324,
+    "Rank": 305
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Detroit Mercy",
+    "Rating": 1409.4069622249024,
+    "Rank": 306
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Monmouth",
+    "Rating": 1409.3082265652276,
+    "Rank": 307
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Fairleigh Dickinson",
+    "Rating": 1408.9926550169826,
+    "Rank": 308
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Stony Brook",
+    "Rating": 1407.7051219846303,
+    "Rank": 309
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "St. Bonaventure",
+    "Rating": 1404.9274870733548,
+    "Rank": 310
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Long Beach State",
+    "Rating": 1404.7846074526956,
+    "Rank": 311
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Portland",
+    "Rating": 1402.7043907294253,
+    "Rank": 312
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Campbell",
+    "Rating": 1399.7228535012275,
+    "Rank": 313
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Colorado State",
+    "Rating": 1398.5871439312923,
+    "Rank": 314
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Bethune-Cookman",
+    "Rating": 1390.413680298463,
+    "Rank": 315
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Northern Illinois",
+    "Rating": 1387.2510528997973,
+    "Rank": 316
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Princeton",
+    "Rating": 1386.9453719938097,
+    "Rank": 317
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Southeast Missouri State",
+    "Rating": 1383.2407937208168,
+    "Rank": 318
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Texas Southern",
+    "Rating": 1382.427860853622,
+    "Rank": 319
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "UC Davis",
+    "Rating": 1382.3985530381751,
+    "Rank": 320
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Saint Peter's",
+    "Rating": 1381.97218691418,
+    "Rank": 321
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Saint Francis (PA)",
+    "Rating": 1379.733103320008,
+    "Rank": 322
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Centenary (LA)",
+    "Rating": 1378.0729066820943,
+    "Rank": 323
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Oregon State",
+    "Rating": 1367.1286812571077,
+    "Rank": 324
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Howard",
+    "Rating": 1366.275541390774,
+    "Rank": 325
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Sacramento State",
+    "Rating": 1364.2566052214856,
+    "Rank": 326
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Loyola Marymount",
+    "Rating": 1363.989886137367,
+    "Rank": 327
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Maine",
+    "Rating": 1363.6276105124994,
+    "Rank": 328
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Rice",
+    "Rating": 1358.8039049059755,
+    "Rank": 329
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "Maryland-Eastern Shore",
+    "Rating": 1347.8285304159078,
+    "Rank": 330
+  },
+  {
+    "Year": 2008,
+    "Method": "elo",
+    "Weight": "linear",
+    "Conference": "",
+    "Team": "The Citadel",
+    "Rating": 1347.573054855725,
+    "Rank": 331
+  }
+]

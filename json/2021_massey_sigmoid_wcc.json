@@ -1,0 +1,92 @@
+[
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Gonzaga",
+    "Rating": 22.81794559611416,
+    "Rank": 1
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Brigham Young",
+    "Rating": 11.870110751381397,
+    "Rank": 2
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Saint Mary's (CA)",
+    "Rating": 2.67170205353714,
+    "Rank": 3
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Pepperdine",
+    "Rating": 1.1738757762308645,
+    "Rank": 4
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Loyola Marymount",
+    "Rating": 0.3891029313213179,
+    "Rank": 5
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "San Francisco",
+    "Rating": -1.7970382288502986,
+    "Rank": 6
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Pacific",
+    "Rating": -2.728086525352822,
+    "Rank": 7
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Santa Clara",
+    "Rating": -4.747394889406694,
+    "Rank": 8
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "San Diego",
+    "Rating": -8.747580321313082,
+    "Rank": 9
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Portland",
+    "Rating": -20.90263714366198,
+    "Rank": 10
+  }
+]

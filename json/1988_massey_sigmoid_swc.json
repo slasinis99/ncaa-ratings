@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 1988,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SWC",
+    "Team": "Southern Methodist",
+    "Rating": 9.056263194346151,
+    "Rank": 1
+  },
+  {
+    "Year": 1988,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SWC",
+    "Team": "Baylor",
+    "Rating": 8.285385923474756,
+    "Rank": 2
+  },
+  {
+    "Year": 1988,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SWC",
+    "Team": "Arkansas",
+    "Rating": 7.182707610993038,
+    "Rank": 3
+  },
+  {
+    "Year": 1988,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SWC",
+    "Team": "Houston",
+    "Rating": 3.177052394098111,
+    "Rank": 4
+  },
+  {
+    "Year": 1988,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SWC",
+    "Team": "Texas",
+    "Rating": -0.0657284455909414,
+    "Rank": 5
+  },
+  {
+    "Year": 1988,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SWC",
+    "Team": "Texas A&M",
+    "Rating": -3.150984152866785,
+    "Rank": 6
+  },
+  {
+    "Year": 1988,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SWC",
+    "Team": "Texas Tech",
+    "Rating": -4.397160868248012,
+    "Rank": 7
+  },
+  {
+    "Year": 1988,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SWC",
+    "Team": "TCU",
+    "Rating": -9.48059303451501,
+    "Rank": 8
+  },
+  {
+    "Year": 1988,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SWC",
+    "Team": "Rice",
+    "Rating": -10.606942621691337,
+    "Rank": 9
+  }
+]

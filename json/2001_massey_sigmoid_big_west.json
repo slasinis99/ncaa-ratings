@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2001,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big West",
+    "Team": "Utah State",
+    "Rating": 13.85541387205482,
+    "Rank": 1
+  },
+  {
+    "Year": 2001,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big West",
+    "Team": "Boise State",
+    "Rating": 2.539491007571064,
+    "Rank": 2
+  },
+  {
+    "Year": 2001,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big West",
+    "Team": "UC Irvine",
+    "Rating": 2.01084183976342,
+    "Rank": 3
+  },
+  {
+    "Year": 2001,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big West",
+    "Team": "Pacific",
+    "Rating": 1.4961067843277998,
+    "Rank": 4
+  },
+  {
+    "Year": 2001,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big West",
+    "Team": "Long Beach State",
+    "Rating": 0.8960003561179937,
+    "Rank": 5
+  },
+  {
+    "Year": 2001,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big West",
+    "Team": "UC Santa Barbara",
+    "Rating": -1.538359032324591,
+    "Rank": 6
+  },
+  {
+    "Year": 2001,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big West",
+    "Team": "Idaho",
+    "Rating": -4.587345736898894,
+    "Rank": 7
+  },
+  {
+    "Year": 2001,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big West",
+    "Team": "Cal Poly",
+    "Rating": -6.629775375359709,
+    "Rank": 8
+  },
+  {
+    "Year": 2001,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big West",
+    "Team": "Cal State Fullerton",
+    "Rating": -8.042373715252038,
+    "Rank": 9
+  }
+]

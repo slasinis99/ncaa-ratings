@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Robert Morris",
+    "Rating": 5.902820670035515,
+    "Rank": 1
+  },
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Monmouth",
+    "Rating": 3.548440250131447,
+    "Rank": 2
+  },
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Marist",
+    "Rating": 1.5974855251256803,
+    "Rank": 3
+  },
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "St. Francis (NY)",
+    "Rating": 1.4151124259206893,
+    "Rank": 4
+  },
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Long Island University",
+    "Rating": 0.6663484171255382,
+    "Rank": 5
+  },
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Fairleigh Dickinson",
+    "Rating": 0.0333629734625852,
+    "Rank": 6
+  },
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Wagner",
+    "Rating": -0.0111503727279576,
+    "Rank": 7
+  },
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Mount St. Mary's",
+    "Rating": -6.481947753705853,
+    "Rank": 8
+  },
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Saint Francis (PA)",
+    "Rating": -6.67047213536764,
+    "Rank": 9
+  }
+]

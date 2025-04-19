@@ -1,0 +1,56 @@
+[
+  {
+    "Year": 1990,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "ASC",
+    "Team": "New Orleans",
+    "Rating": 0.738769524750325,
+    "Rank": 1
+  },
+  {
+    "Year": 1990,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "ASC",
+    "Team": "Louisiana Tech",
+    "Rating": 0.6581539556798877,
+    "Rank": 2
+  },
+  {
+    "Year": 1990,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "ASC",
+    "Team": "Texas-Rio Grande Valley",
+    "Rating": 0.6530692582465566,
+    "Rank": 3
+  },
+  {
+    "Year": 1990,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "ASC",
+    "Team": "Louisiana",
+    "Rating": 0.4563115452635206,
+    "Rank": 4
+  },
+  {
+    "Year": 1990,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "ASC",
+    "Team": "Arkansas State",
+    "Rating": 0.266909649434765,
+    "Rank": 5
+  },
+  {
+    "Year": 1990,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "ASC",
+    "Team": "Lamar",
+    "Rating": 0.2267860666249485,
+    "Rank": 6
+  }
+]

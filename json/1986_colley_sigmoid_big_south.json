@@ -1,0 +1,29 @@
+[
+  {
+    "Year": 1986,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Charleston Southern",
+    "Rating": 0.713281385619068,
+    "Rank": 1
+  },
+  {
+    "Year": 1986,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Radford",
+    "Rating": 0.5003160124461966,
+    "Rank": 2
+  },
+  {
+    "Year": 1986,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Campbell",
+    "Rating": 0.2864026019347353,
+    "Rank": 3
+  }
+]

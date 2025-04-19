@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 1995,
+    "Method": "massey",
+    "Weight": "gaussian",
+    "Conference": "OVC",
+    "Team": "Murray State",
+    "Rating": 11.52381138512228,
+    "Rank": 1
+  },
+  {
+    "Year": 1995,
+    "Method": "massey",
+    "Weight": "gaussian",
+    "Conference": "OVC",
+    "Team": "Austin Peay",
+    "Rating": 1.085691911908138,
+    "Rank": 2
+  },
+  {
+    "Year": 1995,
+    "Method": "massey",
+    "Weight": "gaussian",
+    "Conference": "OVC",
+    "Team": "Eastern Kentucky",
+    "Rating": 0.5225343752146396,
+    "Rank": 3
+  },
+  {
+    "Year": 1995,
+    "Method": "massey",
+    "Weight": "gaussian",
+    "Conference": "OVC",
+    "Team": "Morehead State",
+    "Rating": 0.2772545817068013,
+    "Rank": 4
+  },
+  {
+    "Year": 1995,
+    "Method": "massey",
+    "Weight": "gaussian",
+    "Conference": "OVC",
+    "Team": "Southeast Missouri State",
+    "Rating": -0.9471743912211136,
+    "Rank": 5
+  },
+  {
+    "Year": 1995,
+    "Method": "massey",
+    "Weight": "gaussian",
+    "Conference": "OVC",
+    "Team": "Tennessee State",
+    "Rating": -1.5761874024522666,
+    "Rank": 6
+  },
+  {
+    "Year": 1995,
+    "Method": "massey",
+    "Weight": "gaussian",
+    "Conference": "OVC",
+    "Team": "Tennessee Tech",
+    "Rating": -2.1685090603592574,
+    "Rank": 7
+  },
+  {
+    "Year": 1995,
+    "Method": "massey",
+    "Weight": "gaussian",
+    "Conference": "OVC",
+    "Team": "Middle Tennessee",
+    "Rating": -3.2316392704691066,
+    "Rank": 8
+  },
+  {
+    "Year": 1995,
+    "Method": "massey",
+    "Weight": "gaussian",
+    "Conference": "OVC",
+    "Team": "Tennessee-Martin",
+    "Rating": -5.485782129450108,
+    "Rank": 9
+  }
+]

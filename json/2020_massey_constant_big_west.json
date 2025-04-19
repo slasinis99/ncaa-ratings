@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "constant",
+    "Conference": "Big West",
+    "Team": "UC Irvine",
+    "Rating": 8.888888888888886,
+    "Rank": 1
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "constant",
+    "Conference": "Big West",
+    "Team": "UC Santa Barbara",
+    "Rating": 2.222222222222236,
+    "Rank": 2
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "constant",
+    "Conference": "Big West",
+    "Team": "UC Riverside",
+    "Rating": 1.0555555555555551,
+    "Rank": 3
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "constant",
+    "Conference": "Big West",
+    "Team": "Cal State Northridge",
+    "Rating": 0.7222222222222183,
+    "Rank": 4
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "constant",
+    "Conference": "Big West",
+    "Team": "UC Davis",
+    "Rating": 0.3888888888888841,
+    "Rank": 5
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "constant",
+    "Conference": "Big West",
+    "Team": "Hawaii",
+    "Rating": -0.722222222222227,
+    "Rank": 6
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "constant",
+    "Conference": "Big West",
+    "Team": "Cal State Fullerton",
+    "Rating": -2.944444444444447,
+    "Rank": 7
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "constant",
+    "Conference": "Big West",
+    "Team": "Long Beach State",
+    "Rating": -4.555555555555561,
+    "Rank": 8
+  },
+  {
+    "Year": 2020,
+    "Method": "massey",
+    "Weight": "constant",
+    "Conference": "Big West",
+    "Team": "Cal Poly",
+    "Rating": -5.055555555555553,
+    "Rank": 9
+  }
+]

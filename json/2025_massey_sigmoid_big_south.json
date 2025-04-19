@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2025,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "High Point",
+    "Rating": 13.246301780311995,
+    "Rank": 1
+  },
+  {
+    "Year": 2025,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Winthrop",
+    "Rating": 5.315449583245486,
+    "Rank": 2
+  },
+  {
+    "Year": 2025,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Radford",
+    "Rating": 4.416712936474422,
+    "Rank": 3
+  },
+  {
+    "Year": 2025,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Presbyterian",
+    "Rating": 0.5606081377890297,
+    "Rank": 4
+  },
+  {
+    "Year": 2025,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "UNC Asheville",
+    "Rating": -0.3344382604397964,
+    "Rank": 5
+  },
+  {
+    "Year": 2025,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Longwood",
+    "Rating": -1.4145640844983474,
+    "Rank": 6
+  },
+  {
+    "Year": 2025,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Gardner-Webb",
+    "Rating": -4.320031169106042,
+    "Rank": 7
+  },
+  {
+    "Year": 2025,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Charleston Southern",
+    "Rating": -6.694019091043137,
+    "Rank": 8
+  },
+  {
+    "Year": 2025,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "South Carolina Upstate",
+    "Rating": -10.776019832733596,
+    "Rank": 9
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "Year": 2017,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Florida",
+    "Rating": 10.395974557719663,
+    "Rank": 1
+  },
+  {
+    "Year": 2017,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Kentucky",
+    "Rating": 10.382293834099316,
+    "Rank": 2
+  },
+  {
+    "Year": 2017,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Vanderbilt",
+    "Rating": 6.200715264579934,
+    "Rank": 3
+  },
+  {
+    "Year": 2017,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Arkansas",
+    "Rating": 4.084386051207947,
+    "Rank": 4
+  },
+  {
+    "Year": 2017,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "South Carolina",
+    "Rating": 2.914538832848824,
+    "Rank": 5
+  },
+  {
+    "Year": 2017,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Alabama",
+    "Rating": 2.0496233840318485,
+    "Rank": 6
+  },
+  {
+    "Year": 2017,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Mississippi",
+    "Rating": -0.646448270420789,
+    "Rank": 7
+  },
+  {
+    "Year": 2017,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Georgia",
+    "Rating": -0.7819894705802706,
+    "Rank": 8
+  },
+  {
+    "Year": 2017,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Texas A&M",
+    "Rating": -1.3077776274755797,
+    "Rank": 9
+  },
+  {
+    "Year": 2017,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Tennessee",
+    "Rating": -2.4455098519969125,
+    "Rank": 10
+  },
+  {
+    "Year": 2017,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Mississippi State",
+    "Rating": -4.603565796994284,
+    "Rank": 11
+  },
+  {
+    "Year": 2017,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Auburn",
+    "Rating": -4.851198061720757,
+    "Rank": 12
+  },
+  {
+    "Year": 2017,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Missouri",
+    "Rating": -7.86279413819488,
+    "Rank": 13
+  },
+  {
+    "Year": 2017,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Louisiana State",
+    "Rating": -13.528248707104078,
+    "Rank": 14
+  }
+]

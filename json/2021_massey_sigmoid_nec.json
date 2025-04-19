@@ -1,0 +1,92 @@
+[
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Bryant",
+    "Rating": 6.277149646519337,
+    "Rank": 1
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Wagner",
+    "Rating": 4.783738086694262,
+    "Rank": 2
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Mount St. Mary's",
+    "Rating": 3.863724907036036,
+    "Rank": 3
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Long Island University",
+    "Rating": 0.2323616046444196,
+    "Rank": 4
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Fairleigh Dickinson",
+    "Rating": 0.0504324435051912,
+    "Rank": 5
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Merrimack",
+    "Rating": -0.0011325117868624,
+    "Rank": 6
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "St. Francis (NY)",
+    "Rating": -1.0263675824175411,
+    "Rank": 7
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Saint Francis (PA)",
+    "Rating": -2.156228203628765,
+    "Rank": 8
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Sacred Heart",
+    "Rating": -4.4592825139781125,
+    "Rank": 9
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Central Connecticut State",
+    "Rating": -7.5643958765879455,
+    "Rank": 10
+  }
+]

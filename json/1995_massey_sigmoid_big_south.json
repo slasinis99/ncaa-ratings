@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 1995,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "UNC Greensboro",
+    "Rating": 12.973324982137616,
+    "Rank": 1
+  },
+  {
+    "Year": 1995,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Charleston Southern",
+    "Rating": 5.728614813644539,
+    "Rank": 2
+  },
+  {
+    "Year": 1995,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Maryland-Baltimore County",
+    "Rating": 0.919163090274894,
+    "Rank": 3
+  },
+  {
+    "Year": 1995,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Liberty",
+    "Rating": 0.392212292803558,
+    "Rank": 4
+  },
+  {
+    "Year": 1995,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Radford",
+    "Rating": -0.5564754406875199,
+    "Rank": 5
+  },
+  {
+    "Year": 1995,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "UNC Asheville",
+    "Rating": -1.9075306847507985,
+    "Rank": 6
+  },
+  {
+    "Year": 1995,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Towson",
+    "Rating": -2.901760741230321,
+    "Rank": 7
+  },
+  {
+    "Year": 1995,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Winthrop",
+    "Rating": -5.630737867322887,
+    "Rank": 8
+  },
+  {
+    "Year": 1995,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Coastal Carolina",
+    "Rating": -9.016810444869112,
+    "Rank": 9
+  }
+]

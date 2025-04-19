@@ -1,0 +1,56 @@
+[
+  {
+    "Year": 1989,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ASC",
+    "Team": "Louisiana Tech",
+    "Rating": 5.362886769965004,
+    "Rank": 1
+  },
+  {
+    "Year": 1989,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ASC",
+    "Team": "Arkansas State",
+    "Rating": 2.7153177158559667,
+    "Rank": 2
+  },
+  {
+    "Year": 1989,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ASC",
+    "Team": "New Orleans",
+    "Rating": 2.0496898544597784,
+    "Rank": 3
+  },
+  {
+    "Year": 1989,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ASC",
+    "Team": "Louisiana",
+    "Rating": -0.3294664100285349,
+    "Rank": 4
+  },
+  {
+    "Year": 1989,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ASC",
+    "Team": "Texas-Rio Grande Valley",
+    "Rating": -2.371679925194243,
+    "Rank": 5
+  },
+  {
+    "Year": 1989,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ASC",
+    "Team": "Lamar",
+    "Rating": -7.426748005057974,
+    "Rank": 6
+  }
+]

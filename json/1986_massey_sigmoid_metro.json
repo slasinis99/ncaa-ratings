@@ -1,0 +1,65 @@
+[
+  {
+    "Year": 1986,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Metro",
+    "Team": "Louisville",
+    "Rating": 10.332752346899166,
+    "Rank": 1
+  },
+  {
+    "Year": 1986,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Metro",
+    "Team": "Memphis",
+    "Rating": 8.082322069581918,
+    "Rank": 2
+  },
+  {
+    "Year": 1986,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Metro",
+    "Team": "Southern Mississippi",
+    "Rating": -0.0548782468900613,
+    "Rank": 3
+  },
+  {
+    "Year": 1986,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Metro",
+    "Team": "Virginia Tech",
+    "Rating": -0.6275276817377327,
+    "Rank": 4
+  },
+  {
+    "Year": 1986,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Metro",
+    "Team": "Cincinnati",
+    "Rating": -3.92154851897294,
+    "Rank": 5
+  },
+  {
+    "Year": 1986,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Metro",
+    "Team": "Florida State",
+    "Rating": -5.006139859826613,
+    "Rank": 6
+  },
+  {
+    "Year": 1986,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Metro",
+    "Team": "South Carolina",
+    "Rating": -8.804980109053693,
+    "Rank": 7
+  }
+]

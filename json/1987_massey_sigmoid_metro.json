@@ -1,0 +1,65 @@
+[
+  {
+    "Year": 1987,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Metro",
+    "Team": "Memphis",
+    "Rating": 7.040634492051025,
+    "Rank": 1
+  },
+  {
+    "Year": 1987,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Metro",
+    "Team": "Louisville",
+    "Rating": 5.053694695622175,
+    "Rank": 2
+  },
+  {
+    "Year": 1987,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Metro",
+    "Team": "Florida State",
+    "Rating": 3.777062050658293,
+    "Rank": 3
+  },
+  {
+    "Year": 1987,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Metro",
+    "Team": "Southern Mississippi",
+    "Rating": 1.4612066570480542,
+    "Rank": 4
+  },
+  {
+    "Year": 1987,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Metro",
+    "Team": "South Carolina",
+    "Rating": -2.475040384884756,
+    "Rank": 5
+  },
+  {
+    "Year": 1987,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Metro",
+    "Team": "Cincinnati",
+    "Rating": -6.900953838232679,
+    "Rank": 6
+  },
+  {
+    "Year": 1987,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Metro",
+    "Team": "Virginia Tech",
+    "Rating": -7.956603672262111,
+    "Rank": 7
+  }
+]

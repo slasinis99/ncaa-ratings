@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2024,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CUSA",
+    "Team": "Sam Houston",
+    "Rating": 5.874617569828897,
+    "Rank": 1
+  },
+  {
+    "Year": 2024,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CUSA",
+    "Team": "Western Kentucky",
+    "Rating": 5.871873824434625,
+    "Rank": 2
+  },
+  {
+    "Year": 2024,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CUSA",
+    "Team": "Louisiana Tech",
+    "Rating": 5.801465360282445,
+    "Rank": 3
+  },
+  {
+    "Year": 2024,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CUSA",
+    "Team": "UTEP",
+    "Rating": 2.3839929402758067,
+    "Rank": 4
+  },
+  {
+    "Year": 2024,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CUSA",
+    "Team": "Liberty",
+    "Rating": 0.3629643137188859,
+    "Rank": 5
+  },
+  {
+    "Year": 2024,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CUSA",
+    "Team": "Jacksonville State",
+    "Rating": -2.89416324498064,
+    "Rank": 6
+  },
+  {
+    "Year": 2024,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CUSA",
+    "Team": "Florida International",
+    "Rating": -4.993477616215859,
+    "Rank": 7
+  },
+  {
+    "Year": 2024,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CUSA",
+    "Team": "Middle Tennessee",
+    "Rating": -5.118313041813309,
+    "Rank": 8
+  },
+  {
+    "Year": 2024,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CUSA",
+    "Team": "New Mexico State",
+    "Rating": -7.288960105530798,
+    "Rank": 9
+  }
+]

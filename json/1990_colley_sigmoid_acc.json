@@ -1,0 +1,74 @@
+[
+  {
+    "Year": 1990,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "ACC",
+    "Team": "Clemson",
+    "Rating": 0.6358705921856109,
+    "Rank": 1
+  },
+  {
+    "Year": 1990,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "ACC",
+    "Team": "Georgia Tech",
+    "Rating": 0.6357568779144352,
+    "Rank": 2
+  },
+  {
+    "Year": 1990,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "ACC",
+    "Team": "Duke",
+    "Rating": 0.5573057051841369,
+    "Rank": 3
+  },
+  {
+    "Year": 1990,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "ACC",
+    "Team": "Virginia",
+    "Rating": 0.5169739447777626,
+    "Rank": 4
+  },
+  {
+    "Year": 1990,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "ACC",
+    "Team": "North Carolina",
+    "Rating": 0.510398988818913,
+    "Rank": 5
+  },
+  {
+    "Year": 1990,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "ACC",
+    "Team": "Maryland",
+    "Rating": 0.4207336246589103,
+    "Rank": 6
+  },
+  {
+    "Year": 1990,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "ACC",
+    "Team": "NC State",
+    "Rating": 0.4002781498152445,
+    "Rank": 7
+  },
+  {
+    "Year": 1990,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "ACC",
+    "Team": "Wake Forest",
+    "Rating": 0.3226821166449882,
+    "Rank": 8
+  }
+]

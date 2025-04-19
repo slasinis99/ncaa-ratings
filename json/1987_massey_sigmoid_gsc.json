@@ -1,0 +1,56 @@
+[
+  {
+    "Year": 1987,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "GSC",
+    "Team": "Stephen F. Austin",
+    "Rating": 10.549374974304987,
+    "Rank": 1
+  },
+  {
+    "Year": 1987,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "GSC",
+    "Team": "Sam Houston",
+    "Rating": 3.7054300977568126,
+    "Rank": 2
+  },
+  {
+    "Year": 1987,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "GSC",
+    "Team": "Northwestern State",
+    "Rating": -1.7779654990319085,
+    "Rank": 3
+  },
+  {
+    "Year": 1987,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "GSC",
+    "Team": "Southeastern Louisiana",
+    "Rating": -2.348482459489696,
+    "Rank": 4
+  },
+  {
+    "Year": 1987,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "GSC",
+    "Team": "Texas State",
+    "Rating": -3.030540299190747,
+    "Rank": 5
+  },
+  {
+    "Year": 1987,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "GSC",
+    "Team": "Nicholls State",
+    "Rating": -7.097816814349446,
+    "Rank": 6
+  }
+]

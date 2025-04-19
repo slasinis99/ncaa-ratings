@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "Syracuse",
+    "Rating": 5.378509357824942,
+    "Rank": 1
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "Seton Hall",
+    "Rating": 3.505774862153221,
+    "Rank": 2
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "Georgetown",
+    "Rating": 1.9607933705222536,
+    "Rank": 3
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "Pittsburgh",
+    "Rating": 1.4846123160542328,
+    "Rank": 4
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "Connecticut",
+    "Rating": -0.0750805221721068,
+    "Rank": 5
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "St. John's (NY)",
+    "Rating": -0.1413742776629427,
+    "Rank": 6
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "Villanova",
+    "Rating": -1.5360399547823214,
+    "Rank": 7
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "Providence",
+    "Rating": -2.2461699091922607,
+    "Rank": 8
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "Boston College",
+    "Rating": -8.331025242745012,
+    "Rank": 9
+  }
+]

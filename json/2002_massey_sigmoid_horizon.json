@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2002,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Butler",
+    "Rating": 9.817500462884812,
+    "Rank": 1
+  },
+  {
+    "Year": 2002,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Milwaukee",
+    "Rating": 3.6786417468296144,
+    "Rank": 2
+  },
+  {
+    "Year": 2002,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Detroit Mercy",
+    "Rating": 3.0829209741888115,
+    "Rank": 3
+  },
+  {
+    "Year": 2002,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Loyola (IL)",
+    "Rating": 1.3418354375125174,
+    "Rank": 4
+  },
+  {
+    "Year": 2002,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Illinois-Chicago",
+    "Rating": 1.0465105162722337,
+    "Rank": 5
+  },
+  {
+    "Year": 2002,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Wright State",
+    "Rating": -2.2421641668894896,
+    "Rank": 6
+  },
+  {
+    "Year": 2002,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Green Bay",
+    "Rating": -2.9352388999110577,
+    "Rank": 7
+  },
+  {
+    "Year": 2002,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Cleveland State",
+    "Rating": -3.2234388123621707,
+    "Rank": 8
+  },
+  {
+    "Year": 2002,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Horizon",
+    "Team": "Youngstown State",
+    "Rating": -10.566567258525248,
+    "Rank": 9
+  }
+]

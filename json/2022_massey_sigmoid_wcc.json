@@ -1,0 +1,92 @@
+[
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Gonzaga",
+    "Rating": 21.78963047552426,
+    "Rank": 1
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Saint Mary's (CA)",
+    "Rating": 10.90533153885767,
+    "Rank": 2
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "San Francisco",
+    "Rating": 10.490445919678514,
+    "Rank": 3
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Santa Clara",
+    "Rating": 5.362268473822905,
+    "Rank": 4
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Brigham Young",
+    "Rating": 1.7541641216164054,
+    "Rank": 5
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Portland",
+    "Rating": -3.341999520489531,
+    "Rank": 6
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Loyola Marymount",
+    "Rating": -9.00370989711918,
+    "Rank": 7
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "San Diego",
+    "Rating": -9.43040181777188,
+    "Rank": 8
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Pepperdine",
+    "Rating": -13.2373778582607,
+    "Rank": 9
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Pacific",
+    "Rating": -15.28835143585843,
+    "Rank": 10
+  }
+]

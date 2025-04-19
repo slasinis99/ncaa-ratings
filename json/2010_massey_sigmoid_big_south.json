@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2010,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Coastal Carolina",
+    "Rating": 10.58207664366193,
+    "Rank": 1
+  },
+  {
+    "Year": 2010,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Winthrop",
+    "Rating": 6.307453731571508,
+    "Rank": 2
+  },
+  {
+    "Year": 2010,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Radford",
+    "Rating": 3.506957175954684,
+    "Rank": 3
+  },
+  {
+    "Year": 2010,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "UNC Asheville",
+    "Rating": 0.6873817379445117,
+    "Rank": 4
+  },
+  {
+    "Year": 2010,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Charleston Southern",
+    "Rating": -1.2928621626234984,
+    "Rank": 5
+  },
+  {
+    "Year": 2010,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Liberty",
+    "Rating": -1.3581767573264385,
+    "Rank": 6
+  },
+  {
+    "Year": 2010,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "High Point",
+    "Rating": -1.9654772592552103,
+    "Rank": 7
+  },
+  {
+    "Year": 2010,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Gardner-Webb",
+    "Rating": -7.285214779230227,
+    "Rank": 8
+  },
+  {
+    "Year": 2010,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "VMI",
+    "Rating": -9.182138330697285,
+    "Rank": 9
+  }
+]

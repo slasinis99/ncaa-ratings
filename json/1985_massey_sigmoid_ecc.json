@@ -1,0 +1,74 @@
+[
+  {
+    "Year": 1985,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ECC",
+    "Team": "Bucknell",
+    "Rating": 3.95473210918256,
+    "Rank": 1
+  },
+  {
+    "Year": 1985,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ECC",
+    "Team": "Lafayette",
+    "Rating": 2.15988075288732,
+    "Rank": 2
+  },
+  {
+    "Year": 1985,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ECC",
+    "Team": "Drexel",
+    "Rating": 0.247649935776707,
+    "Rank": 3
+  },
+  {
+    "Year": 1985,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ECC",
+    "Team": "Rider",
+    "Rating": -0.0047847955228926,
+    "Rank": 4
+  },
+  {
+    "Year": 1985,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ECC",
+    "Team": "Hofstra",
+    "Rating": -0.4901020365491297,
+    "Rank": 5
+  },
+  {
+    "Year": 1985,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ECC",
+    "Team": "Delaware",
+    "Rating": -1.0853484080917517,
+    "Rank": 6
+  },
+  {
+    "Year": 1985,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ECC",
+    "Team": "Lehigh",
+    "Rating": -1.1442620060189554,
+    "Rank": 7
+  },
+  {
+    "Year": 1985,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "ECC",
+    "Team": "Towson",
+    "Rating": -3.6377655516638585,
+    "Rank": 8
+  }
+]

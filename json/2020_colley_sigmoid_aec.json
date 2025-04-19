@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2020,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Vermont",
+    "Rating": 0.8062485822480403,
+    "Rank": 1
+  },
+  {
+    "Year": 2020,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Hartford",
+    "Rating": 0.5790902851246654,
+    "Rank": 2
+  },
+  {
+    "Year": 2020,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Stony Brook",
+    "Rating": 0.5679990542872805,
+    "Rank": 3
+  },
+  {
+    "Year": 2020,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Maryland-Baltimore County",
+    "Rating": 0.5371140992813198,
+    "Rank": 4
+  },
+  {
+    "Year": 2020,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "New Hampshire",
+    "Rating": 0.4850729973148986,
+    "Rank": 5
+  },
+  {
+    "Year": 2020,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Massachusetts-Lowell",
+    "Rating": 0.4393176068143494,
+    "Rank": 6
+  },
+  {
+    "Year": 2020,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Albany (NY)",
+    "Rating": 0.4053472646070978,
+    "Rank": 7
+  },
+  {
+    "Year": 2020,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Maine",
+    "Rating": 0.3657095838838597,
+    "Rank": 8
+  },
+  {
+    "Year": 2020,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Binghamton",
+    "Rating": 0.3141005264384924,
+    "Rank": 9
+  }
+]

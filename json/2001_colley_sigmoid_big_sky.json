@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Big Sky",
+    "Team": "Cal State Northridge",
+    "Rating": 0.7868688670385232,
+    "Rank": 1
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Big Sky",
+    "Team": "Eastern Washington",
+    "Rating": 0.6478176785415855,
+    "Rank": 2
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Big Sky",
+    "Team": "Idaho State",
+    "Rating": 0.5728002009583266,
+    "Rank": 3
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Big Sky",
+    "Team": "Northern Arizona",
+    "Rating": 0.4997260385291501,
+    "Rank": 4
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Big Sky",
+    "Team": "Weber State",
+    "Rating": 0.4989449149219288,
+    "Rank": 5
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Big Sky",
+    "Team": "Montana State",
+    "Rating": 0.4456550868059972,
+    "Rank": 6
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Big Sky",
+    "Team": "Portland State",
+    "Rating": 0.4143887764125573,
+    "Rank": 7
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Big Sky",
+    "Team": "Montana",
+    "Rating": 0.4124499606533948,
+    "Rank": 8
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Big Sky",
+    "Team": "Sacramento State",
+    "Rating": 0.2213484761385329,
+    "Rank": 9
+  }
+]

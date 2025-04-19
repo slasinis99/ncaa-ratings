@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2011,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big West",
+    "Team": "Long Beach State",
+    "Rating": 7.172319988048114,
+    "Rank": 1
+  },
+  {
+    "Year": 2011,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big West",
+    "Team": "UC Santa Barbara",
+    "Rating": 4.021598066916919,
+    "Rank": 2
+  },
+  {
+    "Year": 2011,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big West",
+    "Team": "Cal Poly",
+    "Rating": 2.620556987970248,
+    "Rank": 3
+  },
+  {
+    "Year": 2011,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big West",
+    "Team": "Pacific",
+    "Rating": 1.318611136669958,
+    "Rank": 4
+  },
+  {
+    "Year": 2011,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big West",
+    "Team": "Cal State Northridge",
+    "Rating": -1.0567108317654077,
+    "Rank": 5
+  },
+  {
+    "Year": 2011,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big West",
+    "Team": "UC Irvine",
+    "Rating": -2.1287057638290605,
+    "Rank": 6
+  },
+  {
+    "Year": 2011,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big West",
+    "Team": "UC Riverside",
+    "Rating": -3.613204919064604,
+    "Rank": 7
+  },
+  {
+    "Year": 2011,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big West",
+    "Team": "UC Davis",
+    "Rating": -3.951652819759394,
+    "Rank": 8
+  },
+  {
+    "Year": 2011,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big West",
+    "Team": "Cal State Fullerton",
+    "Rating": -4.382811845186771,
+    "Rank": 9
+  }
+]

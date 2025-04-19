@@ -1,0 +1,29 @@
+[
+  {
+    "Year": 2012,
+    "Method": "massey",
+    "Weight": "gaussian",
+    "Conference": "Independent",
+    "Team": "Seattle",
+    "Rating": 12.078984042204986,
+    "Rank": 1
+  },
+  {
+    "Year": 2012,
+    "Method": "massey",
+    "Weight": "gaussian",
+    "Conference": "Independent",
+    "Team": "Cal State Bakersfield",
+    "Rating": -9.099906647686288e-16,
+    "Rank": 2
+  },
+  {
+    "Year": 2012,
+    "Method": "massey",
+    "Weight": "gaussian",
+    "Conference": "Independent",
+    "Team": "Longwood",
+    "Rating": -12.078984042204985,
+    "Rank": 3
+  }
+]

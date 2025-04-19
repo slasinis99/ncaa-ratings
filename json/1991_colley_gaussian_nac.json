@@ -1,0 +1,56 @@
+[
+  {
+    "Year": 1991,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "NAC",
+    "Team": "Northeastern",
+    "Rating": 0.7921424042448413,
+    "Rank": 1
+  },
+  {
+    "Year": 1991,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "NAC",
+    "Team": "Maine",
+    "Rating": 0.6057144470291929,
+    "Rank": 2
+  },
+  {
+    "Year": 1991,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "NAC",
+    "Team": "Hartford",
+    "Rating": 0.5311477113849385,
+    "Rank": 3
+  },
+  {
+    "Year": 1991,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "NAC",
+    "Team": "Boston University",
+    "Rating": 0.493738166206722,
+    "Rank": 4
+  },
+  {
+    "Year": 1991,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "NAC",
+    "Team": "Vermont",
+    "Rating": 0.4017762129343833,
+    "Rank": 5
+  },
+  {
+    "Year": 1991,
+    "Method": "colley",
+    "Weight": "gaussian",
+    "Conference": "NAC",
+    "Team": "New Hampshire",
+    "Rating": 0.1754810581999233,
+    "Rank": 6
+  }
+]

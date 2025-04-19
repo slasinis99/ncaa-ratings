@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MAC",
+    "Team": "Ball State",
+    "Rating": 10.130220416566369,
+    "Rank": 1
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MAC",
+    "Team": "Bowling Green State",
+    "Rating": 4.066054377318954,
+    "Rank": 2
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MAC",
+    "Team": "Miami (OH)",
+    "Rating": 1.8764178706014647,
+    "Rank": 3
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MAC",
+    "Team": "Kent State",
+    "Rating": 1.7656361092436308,
+    "Rank": 4
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MAC",
+    "Team": "Eastern Michigan",
+    "Rating": 0.6360879869765477,
+    "Rank": 5
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MAC",
+    "Team": "Central Michigan",
+    "Rating": -1.973322910514802,
+    "Rank": 6
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MAC",
+    "Team": "Toledo",
+    "Rating": -3.125157145924377,
+    "Rank": 7
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MAC",
+    "Team": "Ohio",
+    "Rating": -5.744213014269584,
+    "Rank": 8
+  },
+  {
+    "Year": 1990,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MAC",
+    "Team": "Western Michigan",
+    "Rating": -7.631723689998192,
+    "Rank": 9
+  }
+]

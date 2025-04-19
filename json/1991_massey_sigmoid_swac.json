@@ -1,0 +1,65 @@
+[
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SWAC",
+    "Team": "Jackson State",
+    "Rating": 8.25966503149265,
+    "Rank": 1
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SWAC",
+    "Team": "Southern",
+    "Rating": 5.525609319895827,
+    "Rank": 2
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SWAC",
+    "Team": "Alabama State",
+    "Rating": 5.399231657596629,
+    "Rank": 3
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SWAC",
+    "Team": "Texas Southern",
+    "Rating": 1.132335405188245,
+    "Rank": 4
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SWAC",
+    "Team": "Mississippi Valley State",
+    "Rating": -1.2224195489727938,
+    "Rank": 5
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SWAC",
+    "Team": "Alcorn State",
+    "Rating": -6.045224909718495,
+    "Rank": 6
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "SWAC",
+    "Team": "Grambling",
+    "Rating": -13.04919695548207,
+    "Rank": 7
+  }
+]

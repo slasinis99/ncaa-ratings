@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 1986,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SWC",
+    "Team": "Texas A&M",
+    "Rating": 0.6761180780725403,
+    "Rank": 1
+  },
+  {
+    "Year": 1986,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SWC",
+    "Team": "Texas",
+    "Rating": 0.6692334005333055,
+    "Rank": 2
+  },
+  {
+    "Year": 1986,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SWC",
+    "Team": "TCU",
+    "Rating": 0.6523628275960671,
+    "Rank": 3
+  },
+  {
+    "Year": 1986,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SWC",
+    "Team": "Texas Tech",
+    "Rating": 0.6481166237174056,
+    "Rank": 4
+  },
+  {
+    "Year": 1986,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SWC",
+    "Team": "Southern Methodist",
+    "Rating": 0.5615961490434614,
+    "Rank": 5
+  },
+  {
+    "Year": 1986,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SWC",
+    "Team": "Houston",
+    "Rating": 0.4959758712619747,
+    "Rank": 6
+  },
+  {
+    "Year": 1986,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SWC",
+    "Team": "Arkansas",
+    "Rating": 0.3102305380443254,
+    "Rank": 7
+  },
+  {
+    "Year": 1986,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SWC",
+    "Team": "Baylor",
+    "Rating": 0.282432197594909,
+    "Rank": 8
+  },
+  {
+    "Year": 1986,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SWC",
+    "Team": "Rice",
+    "Rating": 0.203934314136013,
+    "Rank": 9
+  }
+]

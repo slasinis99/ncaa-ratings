@@ -1,0 +1,38 @@
+[
+  {
+    "Year": 2009,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Independent",
+    "Team": "Chicago State",
+    "Rating": 8.215867555290709,
+    "Rank": 1
+  },
+  {
+    "Year": 2009,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Independent",
+    "Team": "Longwood",
+    "Rating": 0.6381593193826576,
+    "Rank": 2
+  },
+  {
+    "Year": 2009,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Independent",
+    "Team": "Savannah State",
+    "Rating": -3.4446350941440382,
+    "Rank": 3
+  },
+  {
+    "Year": 2009,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Independent",
+    "Team": "Texas-Rio Grande Valley",
+    "Rating": -5.409391780529329,
+    "Rank": 4
+  }
+]

@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Team Ratings</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', system-ui, sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+      margin: 2em;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    h1 {
+      margin-bottom: 1em;
+    }
+  
+    #controls {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 1em;
+      margin-bottom: 2em;
+    }
+  
+    #controls label {
+      font-weight: bold;
+      margin-right: 0.3em;
+    }
+  
+    #controls select,
+    #controls input[type="text"] {
+      padding: 0.4em 0.6em;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      font-size: 1em;
+    }
+  
+    #controls button {
+      padding: 0.5em 1em;
+      font-size: 1em;
+      background-color: #0066cc;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: background-color 0.2s ease;
+    }
+  
+    #controls button:hover {
+      background-color: #004d99;
+    }
+  
+    table {
+      width: 90%;
+      max-width: 1000px;
+      border-collapse: collapse;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      background: white;
+    }
+  
+    th, td {
+      padding: 0.75em 1em;
+      border: 1px solid #ddd;
+      text-align: left;
+    }
+  
+    th {
+      background-color: #f2f2f2;
+    }
+
+    th span {
+      font-size: 0.85em;
+      margin-left: 0.3em;
+      color: #666;
+    }
+  
+    tr:hover {
+      background-color: #f9f9f9;
+    }
+
+    th.sorted {
+      background-color: #d0e7ff;
+      color: #004183;
+    }
+  
+    @media (max-width: 600px) {
+      #controls {
+        flex-direction: column;
+        align-items: stretch;
+      }
+  
+      table {
+        font-size: 0.9em;
+      }
+    }
+
+    input:disabled {
+      background-color: #f0f0f0;
+      color: #888;
+      cursor: not-allowed;
+    }
+
+    .control-pair {
+      display: flex;
+      align-items: center;
+      gap: 0.5em;
+    }
+  </style>
+</head>
+<body>
+  <h1>Team Ratings</h1>
+  <div id="controls">
+    <!-- Dropdowns or buttons to pick year/method/weight/conference could go here -->
+    <div id="controls">
+      <div class="control-pair">
+        <label for="year">Year:</label>
+        <select id="year">
+          <option value="2025">2025</option>
+          <option value="2024">2024</option>
+          <option value="2023">2023</option>
+          <option value="2022">2022</option>
+          <option value="2021">2021</option>
+          <option value="2020">2020</option>
+          <option value="2019">2019</option>
+          <option value="2018">2018</option>
+          <option value="2017">2017</option>
+          <option value="2016">2016</option>
+          <option value="2015">2015</option>
+          <option value="2014">2014</option>
+          <option value="2013">2013</option>
+          <option value="2012">2012</option>
+          <option value="2011">2011</option>
+          <option value="2010">2010</option>
+          <option value="2009">2009</option>
+          <option value="2008">2008</option>
+          <option value="2007">2007</option>
+          <option value="2006">2006</option>
+          <option value="2005">2005</option>
+          <option value="2004">2004</option>
+          <option value="2003">2003</option>
+          <option value="2002">2002</option>
+          <option value="2001">2001</option>
+          <option value="2000">2000</option>
+        </select>
+      </div>
+    
+      <div class="control-pair">
+        <label for="method">Method:</label>
+        <select id="method" onchange="onMethodChange()">
+          <option value="colley">Colley</option>
+          <option value="massey">Massey</option>
+          <option value="elo">Elo</option>
+        </select>
+      </div>
+    
+      <div class="control-pair">
+        <label for="weight">Weight:</label>
+        <select id="weight">
+          <option value="constant">constant</option>
+          <option value="linear">Linear</option>
+          <option value="biweekly">Biweekly</option>
+          <option value="logarithmic">Logarithmic</option>
+          <option value="sigmoid">Sigmoid</option>
+          <option value="gaussian">Gaussian</option>
+        </select>
+      </div>
+    
+      <div class="control-pair">
+        <label for="conference">Conference:</label>
+        <input type="text" id="conference" placeholder="e.g., Big Ten" title="">
+      </div>
+    
+      <button onclick="onRetrieve()">Retrieve</button>
+      <button onclick="downloadCSV()">Download CSV</button>
+    </div>
+  </div>
+  <table id="ratings-table">
+    <thead>
+      <tr>
+        <thead>
+          <tr>
+            <th onclick="sortTable('Rank')">Rank <span id="arrow-rank">⇅</span></th>
+            <th onclick="sortTable('Team')">Team <span id="arrow-team">⇅</span></th>
+            <th>Conference</th>
+            <th>Rating</th>
+          </tr>
+        </thead>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- JS will insert rows here -->
+    </tbody>
+  </table>
+
+  <script src="ratings.js"></script>
+</body>
+</html>

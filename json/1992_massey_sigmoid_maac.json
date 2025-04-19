@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MAAC",
+    "Team": "La Salle",
+    "Rating": 11.894653992601324,
+    "Rank": 1
+  },
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MAAC",
+    "Team": "Manhattan",
+    "Rating": 5.278689682452032,
+    "Rank": 2
+  },
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MAAC",
+    "Team": "Siena",
+    "Rating": 4.998961906005889,
+    "Rank": 3
+  },
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MAAC",
+    "Team": "Loyola (MD)",
+    "Rating": 3.239966137235728,
+    "Rank": 4
+  },
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MAAC",
+    "Team": "Iona",
+    "Rating": -0.4810759212838079,
+    "Rank": 5
+  },
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MAAC",
+    "Team": "Niagara",
+    "Rating": -1.8576855235459668,
+    "Rank": 6
+  },
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MAAC",
+    "Team": "Fairfield",
+    "Rating": -3.898711716483622,
+    "Rank": 7
+  },
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MAAC",
+    "Team": "Saint Peter's",
+    "Rating": -7.922411208783019,
+    "Rank": 8
+  },
+  {
+    "Year": 1992,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "MAAC",
+    "Team": "Canisius",
+    "Rating": -11.25238734819844,
+    "Rank": 9
+  }
+]

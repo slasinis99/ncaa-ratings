@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2009,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Vermont",
+    "Rating": 9.77926929736591,
+    "Rank": 1
+  },
+  {
+    "Year": 2009,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Binghamton",
+    "Rating": 4.701484643647066,
+    "Rank": 2
+  },
+  {
+    "Year": 2009,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Boston University",
+    "Rating": 3.655205940942954,
+    "Rank": 3
+  },
+  {
+    "Year": 2009,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Stony Brook",
+    "Rating": 2.5872573563220005,
+    "Rank": 4
+  },
+  {
+    "Year": 2009,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "New Hampshire",
+    "Rating": -1.0541610315152812,
+    "Rank": 5
+  },
+  {
+    "Year": 2009,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Maryland-Baltimore County",
+    "Rating": -2.345406477956541,
+    "Rank": 6
+  },
+  {
+    "Year": 2009,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Albany (NY)",
+    "Rating": -3.265331680536564,
+    "Rank": 7
+  },
+  {
+    "Year": 2009,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Maine",
+    "Rating": -5.979456771964189,
+    "Rank": 8
+  },
+  {
+    "Year": 2009,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Hartford",
+    "Rating": -8.07886127630535,
+    "Rank": 9
+  }
+]

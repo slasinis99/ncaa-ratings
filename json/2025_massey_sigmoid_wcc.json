@@ -1,0 +1,101 @@
+[
+  {
+    "Year": 2025,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Gonzaga",
+    "Rating": 18.03113841828132,
+    "Rank": 1
+  },
+  {
+    "Year": 2025,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Saint Mary's (CA)",
+    "Rating": 13.643823182727068,
+    "Rank": 2
+  },
+  {
+    "Year": 2025,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Santa Clara",
+    "Rating": 9.877695321049709,
+    "Rank": 3
+  },
+  {
+    "Year": 2025,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "San Francisco",
+    "Rating": 4.784755621897692,
+    "Rank": 4
+  },
+  {
+    "Year": 2025,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Oregon State",
+    "Rating": 0.648982632697347,
+    "Rank": 5
+  },
+  {
+    "Year": 2025,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Loyola Marymount",
+    "Rating": -3.210438179035598,
+    "Rank": 6
+  },
+  {
+    "Year": 2025,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Washington State",
+    "Rating": -3.818673414638482,
+    "Rank": 7
+  },
+  {
+    "Year": 2025,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Pepperdine",
+    "Rating": -7.595199045746554,
+    "Rank": 8
+  },
+  {
+    "Year": 2025,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Portland",
+    "Rating": -8.047151176501057,
+    "Rank": 9
+  },
+  {
+    "Year": 2025,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "Pacific",
+    "Rating": -11.229464709412746,
+    "Rank": 10
+  },
+  {
+    "Year": 2025,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WCC",
+    "Team": "San Diego",
+    "Rating": -13.085468651318624,
+    "Rank": 11
+  }
+]

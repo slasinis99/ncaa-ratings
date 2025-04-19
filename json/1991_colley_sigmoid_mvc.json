@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 1991,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Creighton",
+    "Rating": 0.7653374868178017,
+    "Rank": 1
+  },
+  {
+    "Year": 1991,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Missouri State",
+    "Rating": 0.635751126903482,
+    "Rank": 2
+  },
+  {
+    "Year": 1991,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Tulsa",
+    "Rating": 0.5996969213707914,
+    "Rank": 3
+  },
+  {
+    "Year": 1991,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Indiana State",
+    "Rating": 0.566747314893463,
+    "Rank": 4
+  },
+  {
+    "Year": 1991,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Southern Illinois",
+    "Rating": 0.5529705365450328,
+    "Rank": 5
+  },
+  {
+    "Year": 1991,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Wichita State",
+    "Rating": 0.4132231141010615,
+    "Rank": 6
+  },
+  {
+    "Year": 1991,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Bradley",
+    "Rating": 0.3775342291606487,
+    "Rank": 7
+  },
+  {
+    "Year": 1991,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Drake",
+    "Rating": 0.3196610509678423,
+    "Rank": 8
+  },
+  {
+    "Year": 1991,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "MVC",
+    "Team": "Illinois State",
+    "Rating": 0.2690782192398707,
+    "Rank": 9
+  }
+]

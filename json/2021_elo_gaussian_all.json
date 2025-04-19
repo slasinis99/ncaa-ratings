@@ -1,0 +1,3260 @@
+[
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Gonzaga",
+    "Rating": 1651.4364920482258,
+    "Rank": 1
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "San Diego State",
+    "Rating": 1645.3833729228456,
+    "Rank": 2
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Houston",
+    "Rating": 1629.3655479321048,
+    "Rank": 3
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Texas Southern",
+    "Rating": 1625.2205122888051,
+    "Rank": 4
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Illinois",
+    "Rating": 1623.791634650143,
+    "Rank": 5
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Winthrop",
+    "Rating": 1618.9164355742475,
+    "Rank": 6
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Liberty",
+    "Rating": 1617.4732975751308,
+    "Rank": 7
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Loyola (IL)",
+    "Rating": 1614.6484951357795,
+    "Rank": 8
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Abilene Christian",
+    "Rating": 1614.443352827832,
+    "Rank": 9
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "UC Santa Barbara",
+    "Rating": 1609.800829230806,
+    "Rank": 10
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Colgate",
+    "Rating": 1609.6526697383342,
+    "Rank": 11
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Morehead State",
+    "Rating": 1607.836617164923,
+    "Rank": 12
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Eastern Washington",
+    "Rating": 1604.833071604476,
+    "Rank": 13
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Alabama",
+    "Rating": 1603.174397250878,
+    "Rank": 14
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Prairie View",
+    "Rating": 1593.9032858939038,
+    "Rank": 15
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Ohio",
+    "Rating": 1592.17137377443,
+    "Rank": 16
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Georgia Tech",
+    "Rating": 1591.438144645797,
+    "Rank": 17
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Utah State",
+    "Rating": 1589.6861548114605,
+    "Rank": 18
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "St. Bonaventure",
+    "Rating": 1587.002298699584,
+    "Rank": 19
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Kansas",
+    "Rating": 1586.7219520278811,
+    "Rank": 20
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Buffalo",
+    "Rating": 1585.314743938992,
+    "Rank": 21
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Oregon",
+    "Rating": 1585.2833924611975,
+    "Rank": 22
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "UNC Greensboro",
+    "Rating": 1583.4412972650246,
+    "Rank": 23
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Brigham Young",
+    "Rating": 1580.9776651079146,
+    "Rank": 24
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Nicholls State",
+    "Rating": 1580.1491126399642,
+    "Rank": 25
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Oral Roberts",
+    "Rating": 1579.552059211593,
+    "Rank": 26
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "North Texas",
+    "Rating": 1577.5744595207923,
+    "Rank": 27
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Belmont",
+    "Rating": 1576.343665438469,
+    "Rank": 28
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Iona",
+    "Rating": 1575.784693966867,
+    "Rank": 29
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Baylor",
+    "Rating": 1575.599926034388,
+    "Rank": 30
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Oklahoma State",
+    "Rating": 1573.7852858787965,
+    "Rank": 31
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Oregon State",
+    "Rating": 1573.5099790492395,
+    "Rank": 32
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Georgetown",
+    "Rating": 1573.015968331217,
+    "Rank": 33
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Arkansas",
+    "Rating": 1572.5268618945404,
+    "Rank": 34
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Virginia",
+    "Rating": 1572.3646603478328,
+    "Rank": 35
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Norfolk State",
+    "Rating": 1572.1453115586544,
+    "Rank": 36
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Stephen F. Austin",
+    "Rating": 1569.4086076050885,
+    "Rank": 37
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Hartford",
+    "Rating": 1568.9219490869252,
+    "Rank": 38
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Texas",
+    "Rating": 1568.1250373719663,
+    "Rank": 39
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Jackson State",
+    "Rating": 1568.035665429802,
+    "Rank": 40
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Louisiana Tech",
+    "Rating": 1567.8885799071577,
+    "Rank": 41
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Colorado",
+    "Rating": 1567.0878776090444,
+    "Rank": 42
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Grand Canyon",
+    "Rating": 1566.0089255766889,
+    "Rank": 43
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "UC Irvine",
+    "Rating": 1565.396818750702,
+    "Rank": 44
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Georgia State",
+    "Rating": 1564.0832865707446,
+    "Rank": 45
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Western Kentucky",
+    "Rating": 1563.7299350837686,
+    "Rank": 46
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Connecticut",
+    "Rating": 1560.1024872896262,
+    "Rank": 47
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Southern Utah",
+    "Rating": 1559.080460179736,
+    "Rank": 48
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Iowa",
+    "Rating": 1558.8815000088423,
+    "Rank": 49
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Texas State",
+    "Rating": 1558.8567637102192,
+    "Rank": 50
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "New Mexico State",
+    "Rating": 1558.751223188884,
+    "Rank": 51
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Campbell",
+    "Rating": 1558.324842639731,
+    "Rank": 52
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "North Carolina A&T",
+    "Rating": 1557.770746176189,
+    "Rank": 53
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Louisiana State",
+    "Rating": 1556.8256093797563,
+    "Rank": 54
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Wichita State",
+    "Rating": 1555.9236520736954,
+    "Rank": 55
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Creighton",
+    "Rating": 1555.4602223165348,
+    "Rank": 56
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Memphis",
+    "Rating": 1554.148200166896,
+    "Rank": 57
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "North Dakota State",
+    "Rating": 1553.101845150788,
+    "Rank": 58
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Southern California",
+    "Rating": 1552.8979421556032,
+    "Rank": 59
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Michigan",
+    "Rating": 1551.972066555266,
+    "Rank": 60
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "South Dakota State",
+    "Rating": 1551.0702847300236,
+    "Rank": 61
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Appalachian State",
+    "Rating": 1550.6598198347644,
+    "Rank": 62
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Cleveland State",
+    "Rating": 1549.8599296862023,
+    "Rank": 63
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Eastern Kentucky",
+    "Rating": 1548.965916997525,
+    "Rank": 64
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Drexel",
+    "Rating": 1548.1652895602235,
+    "Rank": 65
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Jacksonville State",
+    "Rating": 1547.799296847241,
+    "Rank": 66
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "UAB",
+    "Rating": 1547.3417889116397,
+    "Rank": 67
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Ohio State",
+    "Rating": 1547.0876525927324,
+    "Rank": 68
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Saint Louis",
+    "Rating": 1546.4401032691694,
+    "Rank": 69
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Drake",
+    "Rating": 1545.1657892596963,
+    "Rank": 70
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "North Carolina",
+    "Rating": 1545.0597615621728,
+    "Rank": 71
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Weber State",
+    "Rating": 1544.7201448527665,
+    "Rank": 72
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Florida State",
+    "Rating": 1544.5017216374772,
+    "Rank": 73
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Virginia Commonwealth",
+    "Rating": 1543.9106450332145,
+    "Rank": 74
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Northern Kentucky",
+    "Rating": 1542.1136069130434,
+    "Rank": 75
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Elon",
+    "Rating": 1541.8155746782222,
+    "Rank": 76
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Vermont",
+    "Rating": 1541.7202964438509,
+    "Rank": 77
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Cincinnati",
+    "Rating": 1541.3960341585273,
+    "Rank": 78
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Syracuse",
+    "Rating": 1540.6698308241405,
+    "Rank": 79
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Mount St. Mary's",
+    "Rating": 1540.490278971373,
+    "Rank": 80
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Wagner",
+    "Rating": 1539.4631295845395,
+    "Rank": 81
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "UC Riverside",
+    "Rating": 1539.1981245830216,
+    "Rank": 82
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Toledo",
+    "Rating": 1538.5849103167495,
+    "Rank": 83
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Mercer",
+    "Rating": 1538.144577010467,
+    "Rank": 84
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Purdue",
+    "Rating": 1536.0818077698489,
+    "Rank": 85
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Bryant",
+    "Rating": 1535.1912873635206,
+    "Rank": 86
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Wright State",
+    "Rating": 1535.1059905539992,
+    "Rank": 87
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Dayton",
+    "Rating": 1534.8988356849054,
+    "Rank": 88
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Duke",
+    "Rating": 1534.6704167751654,
+    "Rank": 89
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Nevada",
+    "Rating": 1533.414854660183,
+    "Rank": 90
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Colorado State",
+    "Rating": 1532.3820284690803,
+    "Rank": 91
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Marshall",
+    "Rating": 1532.3598404671857,
+    "Rank": 92
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Saint Mary's (CA)",
+    "Rating": 1531.8153371335748,
+    "Rank": 93
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Lamar",
+    "Rating": 1530.3906776441097,
+    "Rank": 94
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Siena",
+    "Rating": 1529.1999270559786,
+    "Rank": 95
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Yale",
+    "Rating": 1528.67688453973,
+    "Rank": 96
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Harvard",
+    "Rating": 1528.183005164729,
+    "Rank": 97
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Montana",
+    "Rating": 1527.9919579780424,
+    "Rank": 98
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "South Alabama",
+    "Rating": 1527.842093187552,
+    "Rank": 99
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Navy",
+    "Rating": 1527.2850909645354,
+    "Rank": 100
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Tennessee",
+    "Rating": 1526.4552760481324,
+    "Rank": 101
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Indiana State",
+    "Rating": 1526.4274466041236,
+    "Rank": 102
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Akron",
+    "Rating": 1526.3930616730909,
+    "Rank": 103
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Michigan State",
+    "Rating": 1524.5809125614408,
+    "Rank": 104
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Missouri State",
+    "Rating": 1524.2285274379408,
+    "Rank": 105
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Florida Atlantic",
+    "Rating": 1524.034525086695,
+    "Rank": 106
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Detroit Mercy",
+    "Rating": 1523.5466832706393,
+    "Rank": 107
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Wofford",
+    "Rating": 1523.0966987255708,
+    "Rank": 108
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Davidson",
+    "Rating": 1522.790029227692,
+    "Rank": 109
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Longwood",
+    "Rating": 1522.6546892680592,
+    "Rank": 110
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "George Mason",
+    "Rating": 1522.616170413572,
+    "Rank": 111
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Hofstra",
+    "Rating": 1521.7927193657506,
+    "Rank": 112
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Northwestern State",
+    "Rating": 1521.4858951799645,
+    "Rank": 113
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "UC Davis",
+    "Rating": 1521.04300899829,
+    "Rank": 114
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Northern Iowa",
+    "Rating": 1520.9305851579172,
+    "Rank": 115
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "NC State",
+    "Rating": 1520.6117232275772,
+    "Rank": 116
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Villanova",
+    "Rating": 1520.499367987866,
+    "Rank": 117
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Old Dominion",
+    "Rating": 1520.1454798855616,
+    "Rank": 118
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Central Florida",
+    "Rating": 1520.0790414837272,
+    "Rank": 119
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Tarleton State",
+    "Rating": 1519.5466602182494,
+    "Rank": 120
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Fairfield",
+    "Rating": 1519.0489311665372,
+    "Rank": 121
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Maryland-Baltimore County",
+    "Rating": 1519.0039776418214,
+    "Rank": 122
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Mississippi",
+    "Rating": 1518.919855217889,
+    "Rank": 123
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Furman",
+    "Rating": 1517.2133163171477,
+    "Rank": 124
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Arizona",
+    "Rating": 1516.5230344777965,
+    "Rank": 125
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Oakland",
+    "Rating": 1516.3624472718502,
+    "Rank": 126
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "New Orleans",
+    "Rating": 1515.652329517952,
+    "Rank": 127
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "UTSA",
+    "Rating": 1515.6086341136177,
+    "Rank": 128
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Sam Houston",
+    "Rating": 1515.470860006291,
+    "Rank": 129
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Gardner-Webb",
+    "Rating": 1515.1920411831716,
+    "Rank": 130
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Bellarmine",
+    "Rating": 1515.0992929295871,
+    "Rank": 131
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Bethune-Cookman",
+    "Rating": 1515.065106114565,
+    "Rank": 132
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "West Virginia",
+    "Rating": 1514.879165858502,
+    "Rank": 133
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "South Dakota",
+    "Rating": 1514.0397401173334,
+    "Rank": 134
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Coastal Carolina",
+    "Rating": 1513.1564336104543,
+    "Rank": 135
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Grambling",
+    "Rating": 1513.1405719584086,
+    "Rank": 136
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Pennsylvania",
+    "Rating": 1512.917278122237,
+    "Rank": 137
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Maryland",
+    "Rating": 1512.6824869803904,
+    "Rank": 138
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Kent State",
+    "Rating": 1512.3275104919485,
+    "Rank": 139
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Clemson",
+    "Rating": 1511.9498615755538,
+    "Rank": 140
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Massachusetts-Lowell",
+    "Rating": 1511.6498057942931,
+    "Rank": 141
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "St. John's (NY)",
+    "Rating": 1509.3041359717215,
+    "Rank": 142
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "East Tennessee State",
+    "Rating": 1508.5771587892982,
+    "Rank": 143
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Northern Colorado",
+    "Rating": 1508.2317124998874,
+    "Rank": 144
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Southern",
+    "Rating": 1508.158944521277,
+    "Rank": 145
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Saint Peter's",
+    "Rating": 1507.404607623004,
+    "Rank": 146
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Loyola Marymount",
+    "Rating": 1507.3686184784335,
+    "Rank": 147
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Brown",
+    "Rating": 1507.3117272699324,
+    "Rank": 148
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Chattanooga",
+    "Rating": 1507.2158197929748,
+    "Rank": 149
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Louisiana",
+    "Rating": 1506.6787058152588,
+    "Rank": 150
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Morgan State",
+    "Rating": 1506.547620325366,
+    "Rank": 151
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "North Alabama",
+    "Rating": 1505.6789259610332,
+    "Rank": 152
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Youngstown State",
+    "Rating": 1505.520062010044,
+    "Rank": 153
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Utah Valley",
+    "Rating": 1504.8155465637187,
+    "Rank": 154
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Wyoming",
+    "Rating": 1504.6458996280146,
+    "Rank": 155
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Duquesne",
+    "Rating": 1504.0320047726614,
+    "Rank": 156
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Miami (OH)",
+    "Rating": 1503.8935871008275,
+    "Rank": 157
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Florida",
+    "Rating": 1502.797538590161,
+    "Rank": 158
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Princeton",
+    "Rating": 1502.7354840607384,
+    "Rank": 159
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Delaware",
+    "Rating": 1502.6848973350766,
+    "Rank": 160
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Monmouth",
+    "Rating": 1502.6355581926923,
+    "Rank": 161
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Loyola (MD)",
+    "Rating": 1502.5521344927154,
+    "Rank": 162
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Pepperdine",
+    "Rating": 1502.4892974317083,
+    "Rank": 163
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Louisville",
+    "Rating": 1501.9682325661868,
+    "Rank": 164
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Montana State",
+    "Rating": 1501.198557073866,
+    "Rank": 165
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Northeastern",
+    "Rating": 1501.161798531933,
+    "Rank": 166
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Radford",
+    "Rating": 1501.1532099455735,
+    "Rank": 167
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Providence",
+    "Rating": 1500.7433952897215,
+    "Rank": 168
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Lafayette",
+    "Rating": 1500.304430431236,
+    "Rank": 169
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Texas Tech",
+    "Rating": 1500.018633321942,
+    "Rank": 170
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "IU Indy",
+    "Rating": 1500.0,
+    "Rank": 171
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "SIU Edwardsville",
+    "Rating": 1500.0,
+    "Rank": 172
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Morris Brown",
+    "Rating": 1499.999994778949,
+    "Rank": 173
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Centenary (LA)",
+    "Rating": 1499.7529591809348,
+    "Rank": 174
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Niagara",
+    "Rating": 1499.723532672964,
+    "Rank": 175
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Birmingham-Southern",
+    "Rating": 1499.6012032543442,
+    "Rank": 176
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Auburn",
+    "Rating": 1499.5071014277923,
+    "Rank": 177
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Seattle",
+    "Rating": 1499.388749006658,
+    "Rank": 178
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Kentucky",
+    "Rating": 1499.3624884223962,
+    "Rank": 179
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Sacred Heart",
+    "Rating": 1499.2504141720474,
+    "Rank": 180
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Mississippi State",
+    "Rating": 1498.2607595215702,
+    "Rank": 181
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Boise State",
+    "Rating": 1498.044621756593,
+    "Rank": 182
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Murray State",
+    "Rating": 1497.19194439794,
+    "Rank": 183
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Stetson",
+    "Rating": 1497.1572664214552,
+    "Rank": 184
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Coppin State",
+    "Rating": 1496.6335099664325,
+    "Rank": 185
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Missouri",
+    "Rating": 1496.3376836710302,
+    "Rank": 186
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Bowling Green State",
+    "Rating": 1495.757122920764,
+    "Rank": 187
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Hawaii",
+    "Rating": 1495.723424800433,
+    "Rank": 188
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Richmond",
+    "Rating": 1495.4911265026874,
+    "Rank": 189
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "UCLA",
+    "Rating": 1495.3646912793251,
+    "Rank": 190
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Rutgers",
+    "Rating": 1495.3423024951526,
+    "Rank": 191
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Massachusetts",
+    "Rating": 1495.136769557165,
+    "Rank": 192
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Kansas City",
+    "Rating": 1494.9523453140378,
+    "Rank": 193
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Savannah State",
+    "Rating": 1494.7850495218738,
+    "Rank": 194
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Florida A&M",
+    "Rating": 1494.677931653326,
+    "Rank": 195
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "UTEP",
+    "Rating": 1494.5107511160904,
+    "Rank": 196
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Ball State",
+    "Rating": 1493.738385965573,
+    "Rank": 197
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Arizona State",
+    "Rating": 1493.5888925905622,
+    "Rank": 198
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Utah",
+    "Rating": 1493.5420154320884,
+    "Rank": 199
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Marist",
+    "Rating": 1493.1815265406842,
+    "Rank": 200
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Lipscomb",
+    "Rating": 1492.7721045992516,
+    "Rank": 201
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "California Baptist",
+    "Rating": 1492.63028243961,
+    "Rank": 202
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "New Hampshire",
+    "Rating": 1492.1582899836055,
+    "Rank": 203
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "James Madison",
+    "Rating": 1491.9348693575498,
+    "Rank": 204
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "VMI",
+    "Rating": 1491.69480691865,
+    "Rank": 205
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Canisius",
+    "Rating": 1491.4436747530278,
+    "Rank": 206
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "UNC Asheville",
+    "Rating": 1491.1116015400391,
+    "Rank": 207
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Fresno State",
+    "Rating": 1491.0428472545643,
+    "Rank": 208
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Marquette",
+    "Rating": 1490.910998303403,
+    "Rank": 209
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "St. Francis (NY)",
+    "Rating": 1489.499862661039,
+    "Rank": 210
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Butler",
+    "Rating": 1489.436009974586,
+    "Rank": 211
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Wisconsin",
+    "Rating": 1489.3708659734143,
+    "Rank": 212
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Southern Methodist",
+    "Rating": 1489.1717597944776,
+    "Rank": 213
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "North Dakota",
+    "Rating": 1488.635673494535,
+    "Rank": 214
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "North Carolina Central",
+    "Rating": 1488.53898363086,
+    "Rank": 215
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Southeast Missouri State",
+    "Rating": 1488.4071911758688,
+    "Rank": 216
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Boston University",
+    "Rating": 1488.3145584960766,
+    "Rank": 217
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "College of Charleston",
+    "Rating": 1488.1632324560996,
+    "Rank": 218
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Bucknell",
+    "Rating": 1488.0771515312022,
+    "Rank": 219
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Green Bay",
+    "Rating": 1487.4038121710737,
+    "Rank": 220
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Virginia Tech",
+    "Rating": 1487.3437153383466,
+    "Rank": 221
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "UT Arlington",
+    "Rating": 1487.2926741449255,
+    "Rank": 222
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Saint Joseph's",
+    "Rating": 1487.033197368433,
+    "Rank": 223
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Dartmouth",
+    "Rating": 1486.9882645648486,
+    "Rank": 224
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "UC San Diego",
+    "Rating": 1486.9280050789948,
+    "Rank": 225
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Penn State",
+    "Rating": 1486.258697219889,
+    "Rank": 226
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Nevada-Las Vegas",
+    "Rating": 1486.210764894733,
+    "Rank": 227
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Merrimack",
+    "Rating": 1484.8509974931178,
+    "Rank": 228
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Pacific",
+    "Rating": 1484.15435163317,
+    "Rank": 229
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "North Florida",
+    "Rating": 1484.1479181419554,
+    "Rank": 230
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Cornell",
+    "Rating": 1484.1413271216202,
+    "Rank": 231
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Florida Gulf Coast",
+    "Rating": 1483.826406303277,
+    "Rank": 232
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Army",
+    "Rating": 1482.8514115511184,
+    "Rank": 233
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Seton Hall",
+    "Rating": 1482.8173664411756,
+    "Rank": 234
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Notre Dame",
+    "Rating": 1482.4689232036203,
+    "Rank": 235
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Albany (NY)",
+    "Rating": 1482.1550207938585,
+    "Rank": 236
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Hampton",
+    "Rating": 1481.980738533495,
+    "Rank": 237
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Santa Clara",
+    "Rating": 1481.818749420402,
+    "Rank": 238
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "American",
+    "Rating": 1481.6446767464677,
+    "Rank": 239
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Portland State",
+    "Rating": 1481.443667183515,
+    "Rank": 240
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Oklahoma",
+    "Rating": 1480.736943325319,
+    "Rank": 241
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Cal State Bakersfield",
+    "Rating": 1480.5176332187878,
+    "Rank": 242
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Binghamton",
+    "Rating": 1480.391585053846,
+    "Rank": 243
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Rice",
+    "Rating": 1480.1872738314391,
+    "Rank": 244
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "William & Mary",
+    "Rating": 1479.7985690912546,
+    "Rank": 245
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Arkansas State",
+    "Rating": 1479.7623819562332,
+    "Rank": 246
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Fairleigh Dickinson",
+    "Rating": 1479.226131015803,
+    "Rank": 247
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Maine",
+    "Rating": 1476.5170545013032,
+    "Rank": 248
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Miami (FL)",
+    "Rating": 1475.805532299627,
+    "Rank": 249
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Long Island University",
+    "Rating": 1475.3486761867068,
+    "Rank": 250
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Alcorn State",
+    "Rating": 1474.7343150128531,
+    "Rank": 251
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Illinois-Chicago",
+    "Rating": 1474.396690385039,
+    "Rank": 252
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Valparaiso",
+    "Rating": 1474.1060980657503,
+    "Rank": 253
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Kansas State",
+    "Rating": 1472.7652116635843,
+    "Rank": 254
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Tennessee Tech",
+    "Rating": 1471.6416096311327,
+    "Rank": 255
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Georgia Southern",
+    "Rating": 1471.403635419951,
+    "Rank": 256
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Jacksonville",
+    "Rating": 1469.2638056305502,
+    "Rank": 257
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Howard",
+    "Rating": 1468.2249319504897,
+    "Rank": 258
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Austin Peay",
+    "Rating": 1467.2556152504817,
+    "Rank": 259
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "San Francisco",
+    "Rating": 1466.6791794858243,
+    "Rank": 260
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Bradley",
+    "Rating": 1466.2097592841728,
+    "Rank": 261
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Quinnipiac",
+    "Rating": 1465.3255144723046,
+    "Rank": 262
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Omaha",
+    "Rating": 1465.024133757977,
+    "Rank": 263
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Holy Cross",
+    "Rating": 1465.0067812672603,
+    "Rank": 264
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Saint Francis (PA)",
+    "Rating": 1464.7836227787134,
+    "Rank": 265
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Utah Tech",
+    "Rating": 1464.159650031199,
+    "Rank": 266
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Rhode Island",
+    "Rating": 1464.0716144358998,
+    "Rank": 267
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Rider",
+    "Rating": 1463.874054992985,
+    "Rank": 268
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Towson",
+    "Rating": 1463.612678252514,
+    "Rank": 269
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Western Carolina",
+    "Rating": 1463.4761264471429,
+    "Rank": 270
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Southern Illinois",
+    "Rating": 1463.259304286334,
+    "Rank": 271
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Vanderbilt",
+    "Rating": 1463.214775356818,
+    "Rank": 272
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Idaho State",
+    "Rating": 1462.828471249434,
+    "Rank": 273
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "High Point",
+    "Rating": 1461.962900974421,
+    "Rank": 274
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Milwaukee",
+    "Rating": 1460.8488312165694,
+    "Rank": 275
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Eastern Illinois",
+    "Rating": 1460.1515219006772,
+    "Rank": 276
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Texas A&M",
+    "Rating": 1458.5269145827724,
+    "Rank": 277
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Eastern Michigan",
+    "Rating": 1458.411233985876,
+    "Rank": 278
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Xavier",
+    "Rating": 1457.6400919267865,
+    "Rank": 279
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Purdue Fort Wayne",
+    "Rating": 1457.3052522463229,
+    "Rank": 280
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Northern Arizona",
+    "Rating": 1457.1465404939838,
+    "Rank": 281
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Stony Brook",
+    "Rating": 1455.965860963892,
+    "Rank": 282
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Georgia",
+    "Rating": 1455.8692759646426,
+    "Rank": 283
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Washington State",
+    "Rating": 1455.757615093383,
+    "Rank": 284
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Maryland-Eastern Shore",
+    "Rating": 1455.5277352866187,
+    "Rank": 285
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Columbia",
+    "Rating": 1455.3691245113207,
+    "Rank": 286
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Charleston Southern",
+    "Rating": 1454.9683396923365,
+    "Rank": 287
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "South Carolina State",
+    "Rating": 1454.8278033741449,
+    "Rank": 288
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Robert Morris",
+    "Rating": 1454.6258196671083,
+    "Rank": 289
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Long Beach State",
+    "Rating": 1454.3791484779888,
+    "Rank": 290
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Cal State Northridge",
+    "Rating": 1454.2314900716865,
+    "Rank": 291
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "The Citadel",
+    "Rating": 1453.0904520918527,
+    "Rank": 292
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "George Washington",
+    "Rating": 1453.0411493998442,
+    "Rank": 293
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Louisiana-Monroe",
+    "Rating": 1452.9079193366874,
+    "Rank": 294
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "McNeese State",
+    "Rating": 1451.2113249421743,
+    "Rank": 295
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Northwestern",
+    "Rating": 1450.771868314519,
+    "Rank": 296
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Central Arkansas",
+    "Rating": 1450.6003153156296,
+    "Rank": 297
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Tulane",
+    "Rating": 1450.008389112813,
+    "Rank": 298
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Tulsa",
+    "Rating": 1449.5991179254004,
+    "Rank": 299
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "DePaul",
+    "Rating": 1449.3936217813068,
+    "Rank": 300
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Western Illinois",
+    "Rating": 1446.5360461407197,
+    "Rank": 301
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Lehigh",
+    "Rating": 1446.0209983814852,
+    "Rank": 302
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "South Florida",
+    "Rating": 1445.759619733511,
+    "Rank": 303
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Little Rock",
+    "Rating": 1445.614433909068,
+    "Rank": 304
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Chicago State",
+    "Rating": 1445.5476460314642,
+    "Rank": 305
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Sacramento State",
+    "Rating": 1445.1149971547816,
+    "Rank": 306
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Tennessee-Martin",
+    "Rating": 1444.9455284870542,
+    "Rank": 307
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "La Salle",
+    "Rating": 1444.4166409074774,
+    "Rank": 308
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Central Connecticut State",
+    "Rating": 1443.1237457240895,
+    "Rank": 309
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Manhattan",
+    "Rating": 1440.5560335330483,
+    "Rank": 310
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "UNC Wilmington",
+    "Rating": 1440.5443609319436,
+    "Rank": 311
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Evansville",
+    "Rating": 1440.2646204743105,
+    "Rank": 312
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Texas A&M-Corpus Christi",
+    "Rating": 1440.098494207388,
+    "Rank": 313
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "South Carolina Upstate",
+    "Rating": 1440.0737989565755,
+    "Rank": 314
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Indiana",
+    "Rating": 1439.1168782129637,
+    "Rank": 315
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "NJIT",
+    "Rating": 1438.8630370873234,
+    "Rank": 316
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Stanford",
+    "Rating": 1438.6885848525426,
+    "Rank": 317
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "California",
+    "Rating": 1438.5094647160097,
+    "Rank": 318
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Northern Illinois",
+    "Rating": 1437.8690897350698,
+    "Rank": 319
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Southeastern Louisiana",
+    "Rating": 1437.6546656564465,
+    "Rank": 320
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Kennesaw State",
+    "Rating": 1436.780430592392,
+    "Rank": 321
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Temple",
+    "Rating": 1436.5748849388742,
+    "Rank": 322
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Cal State Fullerton",
+    "Rating": 1434.938404246673,
+    "Rank": 323
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Western Michigan",
+    "Rating": 1433.6634908365515,
+    "Rank": 324
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Troy",
+    "Rating": 1433.6632925728848,
+    "Rank": 325
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Delaware State",
+    "Rating": 1432.776254832018,
+    "Rank": 326
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Texas-Rio Grande Valley",
+    "Rating": 1432.1651190254274,
+    "Rank": 327
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Southern Illinois-Edwardsville",
+    "Rating": 1431.6934055293716,
+    "Rank": 328
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Tennessee State",
+    "Rating": 1431.587034486947,
+    "Rank": 329
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Houston Christian",
+    "Rating": 1431.576744220292,
+    "Rank": 330
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Presbyterian",
+    "Rating": 1430.2819652487017,
+    "Rank": 331
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Illinois State",
+    "Rating": 1429.31095618386,
+    "Rank": 332
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "South Carolina",
+    "Rating": 1428.0360384744226,
+    "Rank": 333
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "San Diego",
+    "Rating": 1427.3602984672889,
+    "Rank": 334
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Central Michigan",
+    "Rating": 1425.3614602549433,
+    "Rank": 335
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Pittsburgh",
+    "Rating": 1425.0678470301732,
+    "Rank": 336
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Washington",
+    "Rating": 1424.2063782639957,
+    "Rank": 337
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Arkansas-Pine Bluff",
+    "Rating": 1422.5756846693296,
+    "Rank": 338
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Charlotte",
+    "Rating": 1421.280025585263,
+    "Rank": 339
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "East Carolina",
+    "Rating": 1419.9912219922055,
+    "Rank": 340
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Alabama A&M",
+    "Rating": 1419.9651934110134,
+    "Rank": 341
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Fordham",
+    "Rating": 1419.8340221825165,
+    "Rank": 342
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Minnesota",
+    "Rating": 1418.4382851404746,
+    "Rank": 343
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Boston College",
+    "Rating": 1418.4335305415625,
+    "Rank": 344
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Alabama State",
+    "Rating": 1418.4051706557548,
+    "Rank": 345
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Samford",
+    "Rating": 1417.8433857715436,
+    "Rank": 346
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "New Mexico",
+    "Rating": 1417.7589620861636,
+    "Rank": 347
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "San Jose State",
+    "Rating": 1414.5675423208409,
+    "Rank": 348
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "TCU",
+    "Rating": 1413.9100845309536,
+    "Rank": 349
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Cal Poly",
+    "Rating": 1412.6439235482767,
+    "Rank": 350
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Mississippi Valley State",
+    "Rating": 1411.1319698066322,
+    "Rank": 351
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Florida International",
+    "Rating": 1409.684838814886,
+    "Rank": 352
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Southern Mississippi",
+    "Rating": 1409.0619374318055,
+    "Rank": 353
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Nebraska",
+    "Rating": 1408.6671693915248,
+    "Rank": 354
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Middle Tennessee",
+    "Rating": 1408.6162658342294,
+    "Rank": 355
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Denver",
+    "Rating": 1406.3843733720948,
+    "Rank": 356
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Incarnate Word",
+    "Rating": 1402.563960878711,
+    "Rank": 357
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Idaho",
+    "Rating": 1401.0422769553622,
+    "Rank": 358
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Air Force",
+    "Rating": 1399.8771414669932,
+    "Rank": 359
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Wake Forest",
+    "Rating": 1394.3456665094943,
+    "Rank": 360
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Portland",
+    "Rating": 1388.5152740942408,
+    "Rank": 361
+  },
+  {
+    "Year": 2021,
+    "Method": "elo",
+    "Weight": "gaussian",
+    "Conference": "",
+    "Team": "Iowa State",
+    "Rating": 1367.6931379299228,
+    "Rank": 362
+  }
+]

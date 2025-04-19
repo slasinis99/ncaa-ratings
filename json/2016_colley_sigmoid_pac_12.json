@@ -1,0 +1,110 @@
+[
+  {
+    "Year": 2016,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Oregon",
+    "Rating": 0.7943282184239058,
+    "Rank": 1
+  },
+  {
+    "Year": 2016,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Utah",
+    "Rating": 0.7235814367716674,
+    "Rank": 2
+  },
+  {
+    "Year": 2016,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "California",
+    "Rating": 0.6607632300115489,
+    "Rank": 3
+  },
+  {
+    "Year": 2016,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Arizona",
+    "Rating": 0.6257385870402175,
+    "Rank": 4
+  },
+  {
+    "Year": 2016,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Colorado",
+    "Rating": 0.529717828149223,
+    "Rank": 5
+  },
+  {
+    "Year": 2016,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Oregon State",
+    "Rating": 0.5187624201244998,
+    "Rank": 6
+  },
+  {
+    "Year": 2016,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Washington",
+    "Rating": 0.4768566653569103,
+    "Rank": 7
+  },
+  {
+    "Year": 2016,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Southern California",
+    "Rating": 0.4765218025753039,
+    "Rank": 8
+  },
+  {
+    "Year": 2016,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Stanford",
+    "Rating": 0.4382705484610038,
+    "Rank": 9
+  },
+  {
+    "Year": 2016,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "UCLA",
+    "Rating": 0.3312498574058503,
+    "Rank": 10
+  },
+  {
+    "Year": 2016,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Arizona State",
+    "Rating": 0.2995544834863941,
+    "Rank": 11
+  },
+  {
+    "Year": 2016,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Washington State",
+    "Rating": 0.1246549221934734,
+    "Rank": 12
+  }
+]

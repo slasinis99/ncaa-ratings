@@ -1,0 +1,74 @@
+[
+  {
+    "Year": 2000,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Fresno State",
+    "Rating": 0.7610585939834027,
+    "Rank": 1
+  },
+  {
+    "Year": 2000,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Tulsa",
+    "Rating": 0.7443969329259524,
+    "Rank": 2
+  },
+  {
+    "Year": 2000,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "TCU",
+    "Rating": 0.5649883297435134,
+    "Rank": 3
+  },
+  {
+    "Year": 2000,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Southern Methodist",
+    "Rating": 0.5565943717912673,
+    "Rank": 4
+  },
+  {
+    "Year": 2000,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "San Jose State",
+    "Rating": 0.4280604508933922,
+    "Rank": 5
+  },
+  {
+    "Year": 2000,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Hawaii",
+    "Rating": 0.4213514704514799,
+    "Rank": 6
+  },
+  {
+    "Year": 2000,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "UTEP",
+    "Rating": 0.3272035248395043,
+    "Rank": 7
+  },
+  {
+    "Year": 2000,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Rice",
+    "Rating": 0.1963463253714845,
+    "Rank": 8
+  }
+]

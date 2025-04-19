@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "gaussian",
+    "Conference": "NEC",
+    "Team": "Saint Francis (PA)",
+    "Rating": 13.51782889251113,
+    "Rank": 1
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "gaussian",
+    "Conference": "NEC",
+    "Team": "Fairleigh Dickinson",
+    "Rating": 8.984685068103134,
+    "Rank": 2
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "gaussian",
+    "Conference": "NEC",
+    "Team": "Robert Morris",
+    "Rating": 7.366877222697921,
+    "Rank": 3
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "gaussian",
+    "Conference": "NEC",
+    "Team": "Monmouth",
+    "Rating": 6.028283679706222,
+    "Rank": 4
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "gaussian",
+    "Conference": "NEC",
+    "Team": "St. Francis (NY)",
+    "Rating": -2.519407786547058,
+    "Rank": 5
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "gaussian",
+    "Conference": "NEC",
+    "Team": "Marist",
+    "Rating": -5.759779546125136,
+    "Rank": 6
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "gaussian",
+    "Conference": "NEC",
+    "Team": "Mount St. Mary's",
+    "Rating": -7.159506503873329,
+    "Rank": 7
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "gaussian",
+    "Conference": "NEC",
+    "Team": "Long Island University",
+    "Rating": -7.367174676610154,
+    "Rank": 8
+  },
+  {
+    "Year": 1991,
+    "Method": "massey",
+    "Weight": "gaussian",
+    "Conference": "NEC",
+    "Team": "Wagner",
+    "Rating": -13.091806349862736,
+    "Rank": 9
+  }
+]

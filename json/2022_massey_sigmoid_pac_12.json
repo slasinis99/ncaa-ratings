@@ -1,0 +1,110 @@
+[
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Arizona",
+    "Rating": 11.79125479910364,
+    "Rank": 1
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "UCLA",
+    "Rating": 10.06689480536089,
+    "Rank": 2
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Colorado",
+    "Rating": 3.507948045373391,
+    "Rank": 3
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Southern California",
+    "Rating": 1.8813509464698912,
+    "Rank": 4
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Arizona State",
+    "Rating": 1.2719738622498902,
+    "Rank": 5
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Washington State",
+    "Rating": 1.2062147021629563,
+    "Rank": 6
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Oregon",
+    "Rating": -0.377346433287413,
+    "Rank": 7
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Washington",
+    "Rating": -1.310151081207347,
+    "Rank": 8
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Stanford",
+    "Rating": -2.7891201027515944,
+    "Rank": 9
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Utah",
+    "Rating": -5.627887566127217,
+    "Rank": 10
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "California",
+    "Rating": -7.000131492294124,
+    "Rank": 11
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Pac-12",
+    "Team": "Oregon State",
+    "Rating": -12.62100048505294,
+    "Rank": 12
+  }
+]

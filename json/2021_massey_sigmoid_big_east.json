@@ -1,0 +1,101 @@
+[
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "Connecticut",
+    "Rating": 7.5940832207524895,
+    "Rank": 1
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "Villanova",
+    "Rating": 6.2194179177496185,
+    "Rank": 2
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "Creighton",
+    "Rating": 5.639001337436344,
+    "Rank": 3
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "Georgetown",
+    "Rating": 4.254990562064664,
+    "Rank": 4
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "St. John's (NY)",
+    "Rating": 0.0450900622158561,
+    "Rank": 5
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "Seton Hall",
+    "Rating": -0.434227429686567,
+    "Rank": 6
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "Providence",
+    "Rating": -1.867840767376974,
+    "Rank": 7
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "Xavier",
+    "Rating": -2.577041344295015,
+    "Rank": 8
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "Marquette",
+    "Rating": -4.629953628402075,
+    "Rank": 9
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "Butler",
+    "Rating": -5.593395637976945,
+    "Rank": 10
+  },
+  {
+    "Year": 2021,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big East",
+    "Team": "DePaul",
+    "Rating": -8.650124292481397,
+    "Rank": 11
+  }
+]

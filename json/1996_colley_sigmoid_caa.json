@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 1996,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "Virginia Commonwealth",
+    "Rating": 0.8094828986896835,
+    "Rank": 1
+  },
+  {
+    "Year": 1996,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "Old Dominion",
+    "Rating": 0.6690446992136011,
+    "Rank": 2
+  },
+  {
+    "Year": 1996,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "UNC Wilmington",
+    "Rating": 0.5719000518695477,
+    "Rank": 3
+  },
+  {
+    "Year": 1996,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "East Carolina",
+    "Rating": 0.4926431802311107,
+    "Rank": 4
+  },
+  {
+    "Year": 1996,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "American",
+    "Rating": 0.4627462784600645,
+    "Rank": 5
+  },
+  {
+    "Year": 1996,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "James Madison",
+    "Rating": 0.4365630040970049,
+    "Rank": 6
+  },
+  {
+    "Year": 1996,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "William & Mary",
+    "Rating": 0.3885824931408733,
+    "Rank": 7
+  },
+  {
+    "Year": 1996,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "George Mason",
+    "Rating": 0.3648708521914514,
+    "Rank": 8
+  },
+  {
+    "Year": 1996,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "Richmond",
+    "Rating": 0.3041665421066591,
+    "Rank": 9
+  }
+]

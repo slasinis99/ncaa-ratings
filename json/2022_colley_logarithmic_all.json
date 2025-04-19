@@ -1,0 +1,3233 @@
+[
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Arizona",
+    "Rating": 0.970153804856735,
+    "Rank": 1
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Tennessee",
+    "Rating": 0.940264298046846,
+    "Rank": 2
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Gonzaga",
+    "Rating": 0.9310212544215962,
+    "Rank": 3
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Kansas",
+    "Rating": 0.9283348800360144,
+    "Rank": 4
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Villanova",
+    "Rating": 0.9237761423730884,
+    "Rank": 5
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Houston",
+    "Rating": 0.904076291665736,
+    "Rank": 6
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Boise State",
+    "Rating": 0.9034500827816788,
+    "Rank": 7
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Kentucky",
+    "Rating": 0.8996199158210659,
+    "Rank": 8
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Auburn",
+    "Rating": 0.8746387183507651,
+    "Rank": 9
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Baylor",
+    "Rating": 0.8640451602442445,
+    "Rank": 10
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Duke",
+    "Rating": 0.8569633903529552,
+    "Rank": 11
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Colorado State",
+    "Rating": 0.854265221059533,
+    "Rank": 12
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Providence",
+    "Rating": 0.8539758686620605,
+    "Rank": 13
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "UCLA",
+    "Rating": 0.8519115199117522,
+    "Rank": 14
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Murray State",
+    "Rating": 0.8515115345574685,
+    "Rank": 15
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Saint Mary's (CA)",
+    "Rating": 0.8426273339034609,
+    "Rank": 16
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "San Diego State",
+    "Rating": 0.8399236235755958,
+    "Rank": 17
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Purdue",
+    "Rating": 0.8370374514726491,
+    "Rank": 18
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Arkansas",
+    "Rating": 0.8354376151738196,
+    "Rank": 19
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Texas Tech",
+    "Rating": 0.8220925398499468,
+    "Rank": 20
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Wisconsin",
+    "Rating": 0.8180594153106364,
+    "Rank": 21
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "South Dakota State",
+    "Rating": 0.8169936031301488,
+    "Rank": 22
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Davidson",
+    "Rating": 0.8151792912775639,
+    "Rank": 23
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Iowa",
+    "Rating": 0.8150524439989676,
+    "Rank": 24
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Virginia Commonwealth",
+    "Rating": 0.8008503839917671,
+    "Rank": 25
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "North Texas",
+    "Rating": 0.8002175504213069,
+    "Rank": 26
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Memphis",
+    "Rating": 0.7940806687709985,
+    "Rank": 27
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "North Carolina",
+    "Rating": 0.7939259280282651,
+    "Rank": 28
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Connecticut",
+    "Rating": 0.790387864023613,
+    "Rank": 29
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Southern Methodist",
+    "Rating": 0.7901863831852359,
+    "Rank": 30
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Illinois",
+    "Rating": 0.7894621466851615,
+    "Rank": 31
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Loyola (IL)",
+    "Rating": 0.7841343961647492,
+    "Rank": 32
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Vermont",
+    "Rating": 0.7841327327050782,
+    "Rank": 33
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Southern California",
+    "Rating": 0.7818030229263843,
+    "Rank": 34
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "New Mexico State",
+    "Rating": 0.7767669956891821,
+    "Rank": 35
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "UAB",
+    "Rating": 0.7656135363078218,
+    "Rank": 36
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Chattanooga",
+    "Rating": 0.7653613705192148,
+    "Rank": 37
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Towson",
+    "Rating": 0.7648809967283937,
+    "Rank": 38
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Dayton",
+    "Rating": 0.7644062425644443,
+    "Rank": 39
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Wyoming",
+    "Rating": 0.7591820686509253,
+    "Rank": 40
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Virginia Tech",
+    "Rating": 0.7585767008540689,
+    "Rank": 41
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Creighton",
+    "Rating": 0.7553320919633977,
+    "Rank": 42
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Richmond",
+    "Rating": 0.7550960558670672,
+    "Rank": 43
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Montana State",
+    "Rating": 0.7416501297661072,
+    "Rank": 44
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Saint Louis",
+    "Rating": 0.73825271807849,
+    "Rank": 45
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Longwood",
+    "Rating": 0.7379291999630113,
+    "Rank": 46
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Miami (FL)",
+    "Rating": 0.7376350132802326,
+    "Rank": 47
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Notre Dame",
+    "Rating": 0.7372975150599372,
+    "Rank": 48
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "UNC Wilmington",
+    "Rating": 0.7363521722471276,
+    "Rank": 49
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Iona",
+    "Rating": 0.7339712339643618,
+    "Rank": 50
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Northern Iowa",
+    "Rating": 0.7274332700386262,
+    "Rank": 51
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Texas",
+    "Rating": 0.7231788255401989,
+    "Rank": 52
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Seton Hall",
+    "Rating": 0.7210099250672809,
+    "Rank": 53
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Toledo",
+    "Rating": 0.7174296276976363,
+    "Rank": 54
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "St. Bonaventure",
+    "Rating": 0.715907028733535,
+    "Rank": 55
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "San Francisco",
+    "Rating": 0.7146186857202921,
+    "Rank": 56
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Missouri State",
+    "Rating": 0.7140046510699837,
+    "Rank": 57
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Texas A&M",
+    "Rating": 0.7094651457801919,
+    "Rank": 58
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Drake",
+    "Rating": 0.7075702115517886,
+    "Rank": 59
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Kent State",
+    "Rating": 0.7038871163553425,
+    "Rank": 60
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Michigan State",
+    "Rating": 0.7020589753208437,
+    "Rank": 61
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Belmont",
+    "Rating": 0.6996008180911358,
+    "Rank": 62
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Colorado",
+    "Rating": 0.6990718918350295,
+    "Rank": 63
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Bryant",
+    "Rating": 0.6914903442393732,
+    "Rank": 64
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Saint Peter's",
+    "Rating": 0.6908648083156416,
+    "Rank": 65
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Louisiana State",
+    "Rating": 0.690456816261247,
+    "Rank": 66
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "TCU",
+    "Rating": 0.6882960382541965,
+    "Rank": 67
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Princeton",
+    "Rating": 0.6874083601052013,
+    "Rank": 68
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Hofstra",
+    "Rating": 0.6868189098109252,
+    "Rank": 69
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Akron",
+    "Rating": 0.6865777566815772,
+    "Rank": 70
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Alabama",
+    "Rating": 0.6833417914457315,
+    "Rank": 71
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Texas State",
+    "Rating": 0.6832475011860076,
+    "Rank": 72
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Santa Clara",
+    "Rating": 0.6823812098629854,
+    "Rank": 73
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Grand Canyon",
+    "Rating": 0.6822585868928096,
+    "Rank": 74
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Wake Forest",
+    "Rating": 0.6821087821286623,
+    "Rank": 75
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Michigan",
+    "Rating": 0.6811290701173299,
+    "Rank": 76
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Marquette",
+    "Rating": 0.6800925329748784,
+    "Rank": 77
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Rutgers",
+    "Rating": 0.6734690610928435,
+    "Rank": 78
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Winthrop",
+    "Rating": 0.6687682376839015,
+    "Rank": 79
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Stephen F. Austin",
+    "Rating": 0.6680241112085861,
+    "Rank": 80
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Louisiana Tech",
+    "Rating": 0.6666044627657607,
+    "Rank": 81
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Virginia",
+    "Rating": 0.6629841263303659,
+    "Rank": 82
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Long Beach State",
+    "Rating": 0.6601223970377904,
+    "Rank": 83
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Colgate",
+    "Rating": 0.6594080130096467,
+    "Rank": 84
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Middle Tennessee",
+    "Rating": 0.6564910516032704,
+    "Rank": 85
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Ohio State",
+    "Rating": 0.651249732483783,
+    "Rank": 86
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Furman",
+    "Rating": 0.6499564201425979,
+    "Rank": 87
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Yale",
+    "Rating": 0.6492234970146213,
+    "Rank": 88
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Georgia State",
+    "Rating": 0.6472877441332905,
+    "Rank": 89
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Delaware",
+    "Rating": 0.646236246377267,
+    "Rank": 90
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Abilene Christian",
+    "Rating": 0.6437558898294065,
+    "Rank": 91
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Florida",
+    "Rating": 0.6433677491167796,
+    "Rank": 92
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Cal State Fullerton",
+    "Rating": 0.6421780719849352,
+    "Rank": 93
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Indiana",
+    "Rating": 0.6415015274869753,
+    "Rank": 94
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Brigham Young",
+    "Rating": 0.6390878903494849,
+    "Rank": 95
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Iowa State",
+    "Rating": 0.6373871787283336,
+    "Rank": 96
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Oklahoma",
+    "Rating": 0.6367297532805478,
+    "Rank": 97
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Norfolk State",
+    "Rating": 0.6335499731629216,
+    "Rank": 98
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Oregon",
+    "Rating": 0.6321345440027911,
+    "Rank": 99
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "North Dakota State",
+    "Rating": 0.6305949106894965,
+    "Rank": 100
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Nevada-Las Vegas",
+    "Rating": 0.6303654909064259,
+    "Rank": 101
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "South Carolina",
+    "Rating": 0.629542644414926,
+    "Rank": 102
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Washington",
+    "Rating": 0.6289115889445849,
+    "Rank": 103
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Temple",
+    "Rating": 0.6279826220960102,
+    "Rank": 104
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Seattle",
+    "Rating": 0.6251530365816356,
+    "Rank": 105
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Washington State",
+    "Rating": 0.6230814218766062,
+    "Rank": 106
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Arizona State",
+    "Rating": 0.6220147867801402,
+    "Rank": 107
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Tulane",
+    "Rating": 0.6171092823610154,
+    "Rank": 108
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Wagner",
+    "Rating": 0.6149022282040854,
+    "Rank": 109
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Oklahoma State",
+    "Rating": 0.6139553927809227,
+    "Rank": 110
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Jacksonville State",
+    "Rating": 0.6121363978508852,
+    "Rank": 111
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Samford",
+    "Rating": 0.6101941333530122,
+    "Rank": 112
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Bradley",
+    "Rating": 0.6101627371797119,
+    "Rank": 113
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Mississippi State",
+    "Rating": 0.6088894124234523,
+    "Rank": 114
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Vanderbilt",
+    "Rating": 0.6038429731936916,
+    "Rank": 115
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Morehead State",
+    "Rating": 0.5987167044528997,
+    "Rank": 116
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "St. John's (NY)",
+    "Rating": 0.5969602337158784,
+    "Rank": 117
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Ohio",
+    "Rating": 0.5963934427366642,
+    "Rank": 118
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "UTEP",
+    "Rating": 0.5957793859180559,
+    "Rank": 119
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Sam Houston",
+    "Rating": 0.5930324205193108,
+    "Rank": 120
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Bellarmine",
+    "Rating": 0.5921277751745118,
+    "Rank": 121
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Utah State",
+    "Rating": 0.5903605380457957,
+    "Rank": 122
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Northern Kentucky",
+    "Rating": 0.5889966954763931,
+    "Rank": 123
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Wright State",
+    "Rating": 0.5885161338999048,
+    "Rank": 124
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Liberty",
+    "Rating": 0.5880160567125108,
+    "Rank": 125
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Florida State",
+    "Rating": 0.5873395323143693,
+    "Rank": 126
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Central Florida",
+    "Rating": 0.5865690127342882,
+    "Rank": 127
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Appalachian State",
+    "Rating": 0.5858377507274782,
+    "Rank": 128
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Xavier",
+    "Rating": 0.5840989410237468,
+    "Rank": 129
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Monmouth",
+    "Rating": 0.5836694534374214,
+    "Rank": 130
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Wofford",
+    "Rating": 0.5803273755985469,
+    "Rank": 131
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Buffalo",
+    "Rating": 0.5790659292739979,
+    "Rank": 132
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Western Kentucky",
+    "Rating": 0.5781685819477921,
+    "Rank": 133
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Stanford",
+    "Rating": 0.5771380292835881,
+    "Rank": 134
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Texas Southern",
+    "Rating": 0.5756169218848536,
+    "Rank": 135
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Troy",
+    "Rating": 0.5746701737261942,
+    "Rank": 136
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Jacksonville",
+    "Rating": 0.5730280337740105,
+    "Rank": 137
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Fresno State",
+    "Rating": 0.5720333750751704,
+    "Rank": 138
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Purdue Fort Wayne",
+    "Rating": 0.5696077535292715,
+    "Rank": 139
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Syracuse",
+    "Rating": 0.5678249529455524,
+    "Rank": 140
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Southern Utah",
+    "Rating": 0.5627177474791496,
+    "Rank": 141
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Utah Valley",
+    "Rating": 0.5594720192016063,
+    "Rank": 142
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "UC Santa Barbara",
+    "Rating": 0.5580856927946831,
+    "Rank": 143
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Clemson",
+    "Rating": 0.5532368620783444,
+    "Rank": 144
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Maryland",
+    "Rating": 0.548014242829765,
+    "Rank": 145
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Florida Atlantic",
+    "Rating": 0.547640915545027,
+    "Rank": 146
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Florida Gulf Coast",
+    "Rating": 0.5466807949491459,
+    "Rank": 147
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "South Dakota",
+    "Rating": 0.5465203249467007,
+    "Rank": 148
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Siena",
+    "Rating": 0.5426686544778986,
+    "Rank": 149
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Penn State",
+    "Rating": 0.5412790018353122,
+    "Rank": 150
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Northern Colorado",
+    "Rating": 0.5394357495590316,
+    "Rank": 151
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Hawaii",
+    "Rating": 0.5390569706491327,
+    "Rank": 152
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "West Virginia",
+    "Rating": 0.5350919983020943,
+    "Rank": 153
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Drexel",
+    "Rating": 0.5338030858201573,
+    "Rank": 154
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Wichita State",
+    "Rating": 0.5335799217972426,
+    "Rank": 155
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "UC Irvine",
+    "Rating": 0.5320246459495572,
+    "Rank": 156
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Oral Roberts",
+    "Rating": 0.5310412938096104,
+    "Rank": 157
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Navy",
+    "Rating": 0.5309336207389684,
+    "Rank": 158
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "South Alabama",
+    "Rating": 0.5278019132104199,
+    "Rank": 159
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Arkansas State",
+    "Rating": 0.5264574409872147,
+    "Rank": 160
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Nicholls State",
+    "Rating": 0.5254829557472425,
+    "Rank": 161
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Maryland-Baltimore County",
+    "Rating": 0.5247507672935741,
+    "Rank": 162
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Fordham",
+    "Rating": 0.5225776167795373,
+    "Rank": 163
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Gardner-Webb",
+    "Rating": 0.5220076715468432,
+    "Rank": 164
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "College of Charleston",
+    "Rating": 0.5197351656995284,
+    "Rank": 165
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Alcorn State",
+    "Rating": 0.5191925774663446,
+    "Rank": 166
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Kansas City",
+    "Rating": 0.5189615429293175,
+    "Rank": 167
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Southern Illinois",
+    "Rating": 0.5179631139284901,
+    "Rank": 168
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Cincinnati",
+    "Rating": 0.516951193343284,
+    "Rank": 169
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Long Island University",
+    "Rating": 0.5165385473715383,
+    "Rank": 170
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Cleveland State",
+    "Rating": 0.5144329096013159,
+    "Rank": 171
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Kansas State",
+    "Rating": 0.5138888006485359,
+    "Rank": 172
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Portland",
+    "Rating": 0.5135965378764734,
+    "Rank": 173
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Southeastern Louisiana",
+    "Rating": 0.5118825043980025,
+    "Rank": 174
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Charlotte",
+    "Rating": 0.511827085525199,
+    "Rank": 175
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "UNC Greensboro",
+    "Rating": 0.5108268701561477,
+    "Rank": 176
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "DePaul",
+    "Rating": 0.5089385918816844,
+    "Rank": 177
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Louisiana",
+    "Rating": 0.5088751867435781,
+    "Rank": 178
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Northwestern",
+    "Rating": 0.5063804876893008,
+    "Rank": 179
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Nevada",
+    "Rating": 0.505402375413651,
+    "Rank": 180
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Weber State",
+    "Rating": 0.5053435870632088,
+    "Rank": 181
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Stony Brook",
+    "Rating": 0.5042466579054883,
+    "Rank": 182
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "George Mason",
+    "Rating": 0.5009296703645657,
+    "Rank": 183
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Massachusetts",
+    "Rating": 0.5009246871846832,
+    "Rank": 184
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Butler",
+    "Rating": 0.5000763908931867,
+    "Rank": 185
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "IU Indy",
+    "Rating": 0.5,
+    "Rank": 186
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "SIU Edwardsville",
+    "Rating": 0.5,
+    "Rank": 187
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Boston University",
+    "Rating": 0.497996241660152,
+    "Rank": 188
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Coastal Carolina",
+    "Rating": 0.494096371655737,
+    "Rank": 189
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "VMI",
+    "Rating": 0.4892027498656944,
+    "Rank": 190
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "UC Riverside",
+    "Rating": 0.4852938137272141,
+    "Rank": 191
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Niagara",
+    "Rating": 0.4821166674333625,
+    "Rank": 192
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Eastern Washington",
+    "Rating": 0.4797369913729001,
+    "Rank": 193
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Rider",
+    "Rating": 0.4747533604240206,
+    "Rank": 194
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Oakland",
+    "Rating": 0.4726583995928206,
+    "Rank": 195
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "George Washington",
+    "Rating": 0.4698859702464083,
+    "Rank": 196
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Texas A&M-Corpus Christi",
+    "Rating": 0.4685289638948931,
+    "Rank": 197
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Mercer",
+    "Rating": 0.4662536554615266,
+    "Rank": 198
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Pennsylvania",
+    "Rating": 0.4652652615486866,
+    "Rank": 199
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "New Orleans",
+    "Rating": 0.4631818403832023,
+    "Rank": 200
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Detroit Mercy",
+    "Rating": 0.4602141824251645,
+    "Rank": 201
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Marist",
+    "Rating": 0.4560309210501833,
+    "Rank": 202
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "South Carolina Upstate",
+    "Rating": 0.4521725349474132,
+    "Rank": 203
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Missouri",
+    "Rating": 0.4495951653897487,
+    "Rank": 204
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "East Carolina",
+    "Rating": 0.449116134148088,
+    "Rank": 205
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "San Diego",
+    "Rating": 0.4470283051544914,
+    "Rank": 206
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Mississippi",
+    "Rating": 0.4445496478687574,
+    "Rank": 207
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "New Hampshire",
+    "Rating": 0.4431740857319444,
+    "Rank": 208
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "UC Davis",
+    "Rating": 0.4430764318888031,
+    "Rank": 209
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Old Dominion",
+    "Rating": 0.4398852002978849,
+    "Rank": 210
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "New Mexico",
+    "Rating": 0.4384141206969527,
+    "Rank": 211
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Southern",
+    "Rating": 0.4369223931499928,
+    "Rank": 212
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Portland State",
+    "Rating": 0.4346733452943092,
+    "Rank": 213
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "California",
+    "Rating": 0.4343149796330549,
+    "Rank": 214
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Pittsburgh",
+    "Rating": 0.4335293679263453,
+    "Rank": 215
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Boston College",
+    "Rating": 0.4308468162903325,
+    "Rank": 216
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Tarleton State",
+    "Rating": 0.4289338627733385,
+    "Rank": 217
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "James Madison",
+    "Rating": 0.4282936269960227,
+    "Rank": 218
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Montana",
+    "Rating": 0.4274242632540816,
+    "Rank": 219
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Fairfield",
+    "Rating": 0.4269168831768744,
+    "Rank": 220
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Rhode Island",
+    "Rating": 0.4249440242883227,
+    "Rank": 221
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Valparaiso",
+    "Rating": 0.423437304696528,
+    "Rank": 222
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Rice",
+    "Rating": 0.4232944041652489,
+    "Rank": 223
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Cornell",
+    "Rating": 0.4224195128996565,
+    "Rank": 224
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "East Tennessee State",
+    "Rating": 0.4222059911768682,
+    "Rank": 225
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Louisville",
+    "Rating": 0.4210388232706924,
+    "Rank": 226
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "La Salle",
+    "Rating": 0.4191573133253939,
+    "Rank": 227
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Manhattan",
+    "Rating": 0.4188132990445082,
+    "Rank": 228
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Howard",
+    "Rating": 0.4173953746957524,
+    "Rank": 229
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "North Carolina Central",
+    "Rating": 0.4169116664565456,
+    "Rank": 230
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Nebraska",
+    "Rating": 0.4165650403565696,
+    "Rank": 231
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Mount St. Mary's",
+    "Rating": 0.4143411983154343,
+    "Rank": 232
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Elon",
+    "Rating": 0.4116895907496919,
+    "Rank": 233
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Quinnipiac",
+    "Rating": 0.4112532541948251,
+    "Rank": 234
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Ball State",
+    "Rating": 0.4054678567536756,
+    "Rank": 235
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Morgan State",
+    "Rating": 0.4053530092224638,
+    "Rank": 236
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "California Baptist",
+    "Rating": 0.4051369231262287,
+    "Rank": 237
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Tulsa",
+    "Rating": 0.4017488240563832,
+    "Rank": 238
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Merrimack",
+    "Rating": 0.4008978049747868,
+    "Rank": 239
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Canisius",
+    "Rating": 0.4004781611639834,
+    "Rank": 240
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Minnesota",
+    "Rating": 0.3985684194050866,
+    "Rank": 241
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Youngstown State",
+    "Rating": 0.3984397797340889,
+    "Rank": 242
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Albany (NY)",
+    "Rating": 0.3981130530567524,
+    "Rank": 243
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Campbell",
+    "Rating": 0.3972516607389943,
+    "Rank": 244
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Hartford",
+    "Rating": 0.3966025417197474,
+    "Rank": 245
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Georgia Tech",
+    "Rating": 0.3951909998117861,
+    "Rank": 246
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "The Citadel",
+    "Rating": 0.3915151397087024,
+    "Rank": 247
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "UNC Asheville",
+    "Rating": 0.3864721501471445,
+    "Rank": 248
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Southeast Missouri State",
+    "Rating": 0.3853784760009736,
+    "Rank": 249
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "South Carolina State",
+    "Rating": 0.3837067482004758,
+    "Rank": 250
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "High Point",
+    "Rating": 0.3819028912706244,
+    "Rank": 251
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Lehigh",
+    "Rating": 0.3791146356814174,
+    "Rank": 252
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Utah Tech",
+    "Rating": 0.3775982850078632,
+    "Rank": 253
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Utah",
+    "Rating": 0.3757665640314674,
+    "Rank": 254
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Saint Joseph's",
+    "Rating": 0.3738239869496413,
+    "Rank": 255
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Florida A&M",
+    "Rating": 0.3709881739810186,
+    "Rank": 256
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Binghamton",
+    "Rating": 0.3691992128572088,
+    "Rank": 257
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Loyola Marymount",
+    "Rating": 0.3671032810425081,
+    "Rank": 258
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "North Florida",
+    "Rating": 0.3656425137806384,
+    "Rank": 259
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Illinois State",
+    "Rating": 0.3646342057336609,
+    "Rank": 260
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Illinois-Chicago",
+    "Rating": 0.3646207860358823,
+    "Rank": 261
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "UT Arlington",
+    "Rating": 0.3632746918135113,
+    "Rank": 262
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Georgia Southern",
+    "Rating": 0.3628912711884294,
+    "Rank": 263
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Tennessee State",
+    "Rating": 0.3622356538275407,
+    "Rank": 264
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Western Illinois",
+    "Rating": 0.3621662568362599,
+    "Rank": 265
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Austin Peay",
+    "Rating": 0.3575285394088107,
+    "Rank": 266
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "NC State",
+    "Rating": 0.3550606650639109,
+    "Rank": 267
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Air Force",
+    "Rating": 0.3549903028618275,
+    "Rank": 268
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Harvard",
+    "Rating": 0.353487982647957,
+    "Rank": 269
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Kennesaw State",
+    "Rating": 0.3524244743460962,
+    "Rank": 270
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Brown",
+    "Rating": 0.3513797221246298,
+    "Rank": 271
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Dartmouth",
+    "Rating": 0.3480766284467491,
+    "Rank": 272
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Massachusetts-Lowell",
+    "Rating": 0.3460316154900474,
+    "Rank": 273
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Central Arkansas",
+    "Rating": 0.3427382724986359,
+    "Rank": 274
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Jackson State",
+    "Rating": 0.3426305648553773,
+    "Rank": 275
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Lipscomb",
+    "Rating": 0.3390282516827643,
+    "Rank": 276
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Tennessee Tech",
+    "Rating": 0.3378895526903483,
+    "Rank": 277
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Bowling Green State",
+    "Rating": 0.3362399291093891,
+    "Rank": 278
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "UC San Diego",
+    "Rating": 0.3357952858422921,
+    "Rank": 279
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Miami (OH)",
+    "Rating": 0.3347516886781704,
+    "Rank": 280
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Army",
+    "Rating": 0.3345008166161541,
+    "Rank": 281
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Alabama A&M",
+    "Rating": 0.332791719210101,
+    "Rank": 282
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Louisiana-Monroe",
+    "Rating": 0.3290394653699592,
+    "Rank": 283
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Coppin State",
+    "Rating": 0.3284791054010351,
+    "Rank": 284
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Loyola (MD)",
+    "Rating": 0.3281362468039226,
+    "Rank": 285
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Radford",
+    "Rating": 0.3271042427146057,
+    "Rank": 286
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Marshall",
+    "Rating": 0.3256085993722099,
+    "Rank": 287
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Sacramento State",
+    "Rating": 0.323489614311462,
+    "Rank": 288
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Denver",
+    "Rating": 0.320777504445255,
+    "Rank": 289
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Western Carolina",
+    "Rating": 0.3172273882034825,
+    "Rank": 290
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Florida International",
+    "Rating": 0.3153669363497879,
+    "Rank": 291
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Prairie View",
+    "Rating": 0.3102049072309307,
+    "Rank": 292
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Maryland-Eastern Shore",
+    "Rating": 0.3075300604441613,
+    "Rank": 293
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Grambling",
+    "Rating": 0.3071653968779948,
+    "Rank": 294
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "South Florida",
+    "Rating": 0.307105176496509,
+    "Rank": 295
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "North Carolina A&T",
+    "Rating": 0.3070621847948492,
+    "Rank": 296
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Northern Illinois",
+    "Rating": 0.3020605470430388,
+    "Rank": 297
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Northeastern",
+    "Rating": 0.2960340852744816,
+    "Rank": 298
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Indiana State",
+    "Rating": 0.290992572136136,
+    "Rank": 299
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Georgetown",
+    "Rating": 0.2876108103986404,
+    "Rank": 300
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "St. Francis (NY)",
+    "Rating": 0.2869218976705915,
+    "Rank": 301
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "NJIT",
+    "Rating": 0.2819278679908261,
+    "Rank": 302
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Central Michigan",
+    "Rating": 0.2814681531346484,
+    "Rank": 303
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Georgia",
+    "Rating": 0.2774260258338867,
+    "Rank": 304
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Little Rock",
+    "Rating": 0.2724722743386317,
+    "Rank": 305
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Lafayette",
+    "Rating": 0.2682633989290376,
+    "Rank": 306
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Eastern Kentucky",
+    "Rating": 0.2679482124427229,
+    "Rank": 307
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Alabama State",
+    "Rating": 0.2653533557784729,
+    "Rank": 308
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Idaho",
+    "Rating": 0.2647173343572612,
+    "Rank": 309
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Bucknell",
+    "Rating": 0.2631366703886318,
+    "Rank": 310
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Southern Illinois-Edwardsville",
+    "Rating": 0.2629716319925236,
+    "Rank": 311
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Houston Christian",
+    "Rating": 0.2608058554995309,
+    "Rank": 312
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Stetson",
+    "Rating": 0.2544473774297758,
+    "Rank": 313
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Eastern Michigan",
+    "Rating": 0.2519805598979406,
+    "Rank": 314
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "San Jose State",
+    "Rating": 0.2518902072380496,
+    "Rank": 315
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Hampton",
+    "Rating": 0.2509337161882259,
+    "Rank": 316
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Pacific",
+    "Rating": 0.244731476004788,
+    "Rank": 317
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Western Michigan",
+    "Rating": 0.2398714801195269,
+    "Rank": 318
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "UTSA",
+    "Rating": 0.2368508222970708,
+    "Rank": 319
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Bethune-Cookman",
+    "Rating": 0.2365433196379871,
+    "Rank": 320
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Sacred Heart",
+    "Rating": 0.235583216528076,
+    "Rank": 321
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Oregon State",
+    "Rating": 0.2354465299944687,
+    "Rank": 322
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Robert Morris",
+    "Rating": 0.2354260202786293,
+    "Rank": 323
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Pepperdine",
+    "Rating": 0.233769507667773,
+    "Rank": 324
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Holy Cross",
+    "Rating": 0.2337066414603952,
+    "Rank": 325
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "American",
+    "Rating": 0.2334253588126255,
+    "Rank": 326
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Idaho State",
+    "Rating": 0.2237229759077954,
+    "Rank": 327
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Duquesne",
+    "Rating": 0.2230119161526733,
+    "Rank": 328
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Presbyterian",
+    "Rating": 0.2218218051572405,
+    "Rank": 329
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Northwestern State",
+    "Rating": 0.2217428222214741,
+    "Rank": 330
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Cal Poly",
+    "Rating": 0.2184235344125876,
+    "Rank": 331
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Saint Francis (PA)",
+    "Rating": 0.2168013814891221,
+    "Rank": 332
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Central Connecticut State",
+    "Rating": 0.2163682514260998,
+    "Rank": 333
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "St. Thomas",
+    "Rating": 0.2150518276200435,
+    "Rank": 334
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "McNeese State",
+    "Rating": 0.2139699438437797,
+    "Rank": 335
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Evansville",
+    "Rating": 0.2130957127602277,
+    "Rank": 336
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "William & Mary",
+    "Rating": 0.2098134474091424,
+    "Rank": 337
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Milwaukee",
+    "Rating": 0.2095429690485155,
+    "Rank": 338
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Cal State Bakersfield",
+    "Rating": 0.2094634389486062,
+    "Rank": 339
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Texas-Rio Grande Valley",
+    "Rating": 0.2037855082809238,
+    "Rank": 340
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Chicago State",
+    "Rating": 0.203267826598076,
+    "Rank": 341
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Northern Arizona",
+    "Rating": 0.1991211903092908,
+    "Rank": 342
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Omaha",
+    "Rating": 0.1955343745822317,
+    "Rank": 343
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Tennessee-Martin",
+    "Rating": 0.1936774114361288,
+    "Rank": 344
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Cal State Northridge",
+    "Rating": 0.1911605087934854,
+    "Rank": 345
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Southern Mississippi",
+    "Rating": 0.1685116546242372,
+    "Rank": 346
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Incarnate Word",
+    "Rating": 0.1577805045124706,
+    "Rank": 347
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Arkansas-Pine Bluff",
+    "Rating": 0.1570775559445912,
+    "Rank": 348
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "North Alabama",
+    "Rating": 0.155284051509889,
+    "Rank": 349
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Maine",
+    "Rating": 0.1479371729545606,
+    "Rank": 350
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Fairleigh Dickinson",
+    "Rating": 0.1472458400352482,
+    "Rank": 351
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Eastern Illinois",
+    "Rating": 0.1177663793442698,
+    "Rank": 352
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "North Dakota",
+    "Rating": 0.1150926458763788,
+    "Rank": 353
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Charleston Southern",
+    "Rating": 0.0952489616953162,
+    "Rank": 354
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Columbia",
+    "Rating": 0.0857053866200355,
+    "Rank": 355
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Green Bay",
+    "Rating": 0.0714047680968814,
+    "Rank": 356
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Lamar",
+    "Rating": 0.0323807741145952,
+    "Rank": 357
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Mississippi Valley State",
+    "Rating": 0.0317741586029603,
+    "Rank": 358
+  },
+  {
+    "Year": 2022,
+    "Method": "colley",
+    "Weight": "logarithmic",
+    "Conference": "",
+    "Team": "Delaware State",
+    "Rating": 0.0150866865403078,
+    "Rank": 359
+  }
+]

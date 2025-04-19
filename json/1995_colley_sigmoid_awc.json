@@ -1,0 +1,38 @@
+[
+  {
+    "Year": 1995,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "AWC",
+    "Team": "Southern Utah",
+    "Rating": 0.804500338740821,
+    "Rank": 1
+  },
+  {
+    "Year": 1995,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "AWC",
+    "Team": "Cal State Northridge",
+    "Rating": 0.5866311132214453,
+    "Rank": 2
+  },
+  {
+    "Year": 1995,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "AWC",
+    "Team": "Sacramento State",
+    "Rating": 0.3717699481525582,
+    "Rank": 3
+  },
+  {
+    "Year": 1995,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "AWC",
+    "Team": "Cal Poly",
+    "Rating": 0.2370985998851749,
+    "Rank": 4
+  }
+]

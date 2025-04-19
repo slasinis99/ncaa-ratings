@@ -1,0 +1,38 @@
+[
+  {
+    "Year": 2010,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "GWC",
+    "Team": "NJIT",
+    "Rating": 2.704844614901296,
+    "Rank": 1
+  },
+  {
+    "Year": 2010,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "GWC",
+    "Team": "Texas-Rio Grande Valley",
+    "Rating": 1.0938984177739246,
+    "Rank": 2
+  },
+  {
+    "Year": 2010,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "GWC",
+    "Team": "Utah Valley",
+    "Rating": -1.13674232626387,
+    "Rank": 3
+  },
+  {
+    "Year": 2010,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "GWC",
+    "Team": "Chicago State",
+    "Rating": -2.662000706411349,
+    "Rank": 4
+  }
+]

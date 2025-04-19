@@ -1,0 +1,2963 @@
+[
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Memphis",
+    "Rating": 0.9753574379977742,
+    "Rank": 1
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisville",
+    "Rating": 0.9747811788266186,
+    "Rank": 2
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Carolina",
+    "Rating": 0.9400661222264262,
+    "Rank": 3
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pittsburgh",
+    "Rating": 0.9386969410761556,
+    "Rank": 4
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Duke",
+    "Rating": 0.9319618805789782,
+    "Rank": 5
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Connecticut",
+    "Rating": 0.9300653733430164,
+    "Rank": 6
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Michigan State",
+    "Rating": 0.9106760956170012,
+    "Rank": 7
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Villanova",
+    "Rating": 0.8740452891128125,
+    "Rank": 8
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Missouri",
+    "Rating": 0.8728465700848873,
+    "Rank": 9
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kansas",
+    "Rating": 0.8676653255813039,
+    "Rank": 10
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Washington",
+    "Rating": 0.8628065160074518,
+    "Rank": 11
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oklahoma",
+    "Rating": 0.8503558004833593,
+    "Rank": 12
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Gonzaga",
+    "Rating": 0.8447717462875147,
+    "Rank": 13
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Syracuse",
+    "Rating": 0.8357892442861438,
+    "Rank": 14
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Siena",
+    "Rating": 0.8351414409058728,
+    "Rank": 15
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Purdue",
+    "Rating": 0.8330140517830846,
+    "Rank": 16
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Utah",
+    "Rating": 0.8323348334168745,
+    "Rank": 17
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wake Forest",
+    "Rating": 0.8298455867517772,
+    "Rank": 18
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UCLA",
+    "Rating": 0.8270504513540371,
+    "Rank": 19
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Utah State",
+    "Rating": 0.8248244068919387,
+    "Rank": 20
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida State",
+    "Rating": 0.8201257131913496,
+    "Rank": 21
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Creighton",
+    "Rating": 0.8101741150673593,
+    "Rank": 22
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana State",
+    "Rating": 0.8010092245082867,
+    "Rank": 23
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Butler",
+    "Rating": 0.8008200752088286,
+    "Rank": 24
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arizona State",
+    "Rating": 0.7933379071750349,
+    "Rank": 25
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Brigham Young",
+    "Rating": 0.7879136153105447,
+    "Rank": 26
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "West Virginia",
+    "Rating": 0.7846974385677006,
+    "Rank": 27
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Xavier",
+    "Rating": 0.7787723011982343,
+    "Rank": 28
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Illinois",
+    "Rating": 0.7771599112491739,
+    "Rank": 29
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Ohio State",
+    "Rating": 0.7701365719313775,
+    "Rank": 30
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northern Iowa",
+    "Rating": 0.7651247064748153,
+    "Rank": 31
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Diego State",
+    "Rating": 0.7636691167550733,
+    "Rank": 32
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Temple",
+    "Rating": 0.7624327433064212,
+    "Rank": 33
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Dayton",
+    "Rating": 0.7612139565723437,
+    "Rank": 34
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern California",
+    "Rating": 0.7580295205390926,
+    "Rank": 35
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Marquette",
+    "Rating": 0.7563061905870622,
+    "Rank": 36
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Niagara",
+    "Rating": 0.7562803263055579,
+    "Rank": 37
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oklahoma State",
+    "Rating": 0.7557836550131041,
+    "Rank": 38
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tulsa",
+    "Rating": 0.7519786544431266,
+    "Rank": 39
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Virginia Commonwealth",
+    "Rating": 0.7450671371886586,
+    "Rank": 40
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Kentucky",
+    "Rating": 0.7398689211549763,
+    "Rank": 41
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Mary's (CA)",
+    "Rating": 0.7395795707115064,
+    "Rank": 42
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mississippi State",
+    "Rating": 0.7370236637225712,
+    "Rank": 43
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Auburn",
+    "Rating": 0.7369401315306949,
+    "Rank": 44
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas A&M",
+    "Rating": 0.7364406387792256,
+    "Rank": 45
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "California",
+    "Rating": 0.7352428749387656,
+    "Rank": 46
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cleveland State",
+    "Rating": 0.7350187662015832,
+    "Rank": 47
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Mexico",
+    "Rating": 0.732878727964844,
+    "Rank": 48
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee",
+    "Rating": 0.7288183663660204,
+    "Rank": 49
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Clemson",
+    "Rating": 0.7228768611802455,
+    "Rank": 50
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "American",
+    "Rating": 0.717292506989567,
+    "Rank": 51
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas",
+    "Rating": 0.7154682983653756,
+    "Rank": 52
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Boston College",
+    "Rating": 0.712100799303308,
+    "Rank": 53
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Binghamton",
+    "Rating": 0.7091588481500277,
+    "Rank": 54
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Illinois State",
+    "Rating": 0.7054056810628729,
+    "Rank": 55
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Minnesota",
+    "Rating": 0.7023178340187157,
+    "Rank": 56
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UAB",
+    "Rating": 0.7009830414678625,
+    "Rank": 57
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rhode Island",
+    "Rating": 0.6986966414982684,
+    "Rank": 58
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Penn State",
+    "Rating": 0.6968223889163557,
+    "Rank": 59
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maryland",
+    "Rating": 0.6965483509770124,
+    "Rank": 60
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arizona",
+    "Rating": 0.6956549484844861,
+    "Rank": 61
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Dakota State",
+    "Rating": 0.6902275608956627,
+    "Rank": 62
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Carolina",
+    "Rating": 0.689904986596562,
+    "Rank": 63
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Michigan",
+    "Rating": 0.6881309999822318,
+    "Rank": 64
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Davidson",
+    "Rating": 0.6868881115915133,
+    "Rank": 65
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nevada",
+    "Rating": 0.6867693899112319,
+    "Rank": 66
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wisconsin",
+    "Rating": 0.6842307646959043,
+    "Rank": 67
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Duquesne",
+    "Rating": 0.682780619951071,
+    "Rank": 68
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Old Dominion",
+    "Rating": 0.6811148169795124,
+    "Rank": 69
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kansas State",
+    "Rating": 0.678921649727417,
+    "Rank": 70
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida",
+    "Rating": 0.6765228453590942,
+    "Rank": 71
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Providence",
+    "Rating": 0.6757206142102753,
+    "Rank": 72
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Vermont",
+    "Rating": 0.6748192602672325,
+    "Rank": 73
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nevada-Las Vegas",
+    "Rating": 0.6705969089530794,
+    "Rank": 74
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Little Rock",
+    "Rating": 0.6669550538340422,
+    "Rank": 75
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stephen F. Austin",
+    "Rating": 0.6650970006162117,
+    "Rank": 76
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Green Bay",
+    "Rating": 0.663496314645054,
+    "Rank": 77
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "George Mason",
+    "Rating": 0.661010744928398,
+    "Rank": 78
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wright State",
+    "Rating": 0.6595484887346758,
+    "Rank": 79
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Houston",
+    "Rating": 0.6545136691724917,
+    "Rank": 80
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Virginia Tech",
+    "Rating": 0.6519729227652598,
+    "Rank": 81
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UTEP",
+    "Rating": 0.6505413305846015,
+    "Rank": 82
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Weber State",
+    "Rating": 0.65002720808497,
+    "Rank": 83
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Miami (FL)",
+    "Rating": 0.6490824313280198,
+    "Rank": 84
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "College of Charleston",
+    "Rating": 0.6488502954453121,
+    "Rank": 85
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Robert Morris",
+    "Rating": 0.641170616014028,
+    "Rank": 86
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Baylor",
+    "Rating": 0.6379646955054668,
+    "Rank": 87
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Radford",
+    "Rating": 0.6337824843393093,
+    "Rank": 88
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Notre Dame",
+    "Rating": 0.6337417511619655,
+    "Rank": 89
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northwestern",
+    "Rating": 0.6302448390110313,
+    "Rank": 90
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Washington State",
+    "Rating": 0.6295942763923316,
+    "Rank": 91
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Vanderbilt",
+    "Rating": 0.6252854304345217,
+    "Rank": 92
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nebraska",
+    "Rating": 0.6249017161505752,
+    "Rank": 93
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kentucky",
+    "Rating": 0.619348561791371,
+    "Rank": 94
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cornell",
+    "Rating": 0.6178540619496594,
+    "Rank": 95
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rider",
+    "Rating": 0.6149681073062759,
+    "Rank": 96
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "La Salle",
+    "Rating": 0.6142539503723358,
+    "Rank": 97
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Troy",
+    "Rating": 0.6124428120571939,
+    "Rank": 98
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Akron",
+    "Rating": 0.6109633905867181,
+    "Rank": 99
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Morgan State",
+    "Rating": 0.6099622961447883,
+    "Rank": 100
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hofstra",
+    "Rating": 0.6087648416918654,
+    "Rank": 101
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Buffalo",
+    "Rating": 0.6053283875906953,
+    "Rank": 102
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "VMI",
+    "Rating": 0.6048494175131712,
+    "Rank": 103
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Seton Hall",
+    "Rating": 0.5994452506774994,
+    "Rank": 104
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cincinnati",
+    "Rating": 0.597520473624031,
+    "Rank": 105
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alabama",
+    "Rating": 0.5968499186830727,
+    "Rank": 106
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgetown",
+    "Rating": 0.5959439807870968,
+    "Rank": 107
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Portland State",
+    "Rating": 0.5954800739603294,
+    "Rank": 108
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stanford",
+    "Rating": 0.5950118907568178,
+    "Rank": 109
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alabama State",
+    "Rating": 0.5939271555458951,
+    "Rank": 110
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bradley",
+    "Rating": 0.593200061319524,
+    "Rank": 111
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cal State Northridge",
+    "Rating": 0.5876863009768871,
+    "Rank": 112
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Louis",
+    "Rating": 0.5853354596313795,
+    "Rank": 113
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wyoming",
+    "Rating": 0.5850890015872904,
+    "Rank": 114
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northeastern",
+    "Rating": 0.5843724439603658,
+    "Rank": 115
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "The Citadel",
+    "Rating": 0.5841532176456872,
+    "Rank": 116
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee-Martin",
+    "Rating": 0.580761998947545,
+    "Rank": 117
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Joseph's",
+    "Rating": 0.5795193515228555,
+    "Rank": 118
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "NC State",
+    "Rating": 0.5789619611105827,
+    "Rank": 119
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Mexico State",
+    "Rating": 0.5776229810696082,
+    "Rank": 120
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mississippi",
+    "Rating": 0.5750001047322281,
+    "Rank": 121
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Richmond",
+    "Rating": 0.5737991184840138,
+    "Rank": 122
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wichita State",
+    "Rating": 0.5737963881212459,
+    "Rank": 123
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oakland",
+    "Rating": 0.5696807835049225,
+    "Rank": 124
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Alabama",
+    "Rating": 0.5666485985947239,
+    "Rank": 125
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Evansville",
+    "Rating": 0.5632146024641924,
+    "Rank": 126
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bowling Green State",
+    "Rating": 0.5616452865234911,
+    "Rank": 127
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kent State",
+    "Rating": 0.560723060580084,
+    "Rank": 128
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Texas",
+    "Rating": 0.5591413260978196,
+    "Rank": 129
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Portland",
+    "Rating": 0.5515805547858054,
+    "Rank": 130
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Holy Cross",
+    "Rating": 0.5512897514186081,
+    "Rank": 131
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Liberty",
+    "Rating": 0.5447831327286848,
+    "Rank": 132
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mount St. Mary's",
+    "Rating": 0.5435494607521714,
+    "Rank": 133
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "East Tennessee State",
+    "Rating": 0.542878892907708,
+    "Rank": 134
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pacific",
+    "Rating": 0.5428438212979643,
+    "Rank": 135
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Idaho",
+    "Rating": 0.5420617607221105,
+    "Rank": 136
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "James Madison",
+    "Rating": 0.5417619735545935,
+    "Rank": 137
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "St. John's (NY)",
+    "Rating": 0.5406588629845648,
+    "Rank": 138
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Milwaukee",
+    "Rating": 0.540009403044243,
+    "Rank": 139
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Boise State",
+    "Rating": 0.5391584857833421,
+    "Rank": 140
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nicholls State",
+    "Rating": 0.5388284253888657,
+    "Rank": 141
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fairfield",
+    "Rating": 0.5353639145960571,
+    "Rank": 142
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oregon State",
+    "Rating": 0.5322308088608008,
+    "Rank": 143
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Murray State",
+    "Rating": 0.5303777108594548,
+    "Rank": 144
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Boston University",
+    "Rating": 0.5278939618922984,
+    "Rank": 145
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Miami (OH)",
+    "Rating": 0.5260747967116126,
+    "Rank": 146
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Sam Houston",
+    "Rating": 0.5247977406662424,
+    "Rank": 147
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Jackson State",
+    "Rating": 0.5193726854260174,
+    "Rank": 148
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Drexel",
+    "Rating": 0.5179031205643893,
+    "Rank": 149
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Illinois-Chicago",
+    "Rating": 0.5155187975640807,
+    "Rank": 150
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Iowa",
+    "Rating": 0.5132572254120977,
+    "Rank": 151
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Chattanooga",
+    "Rating": 0.5108968534887292,
+    "Rank": 152
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Manhattan",
+    "Rating": 0.5080043973544683,
+    "Rank": 153
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Montana",
+    "Rating": 0.5061102726988259,
+    "Rank": 154
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Jacksonville",
+    "Rating": 0.5047565122936886,
+    "Rank": 155
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Drake",
+    "Rating": 0.5019787676571184,
+    "Rank": 156
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Morehead State",
+    "Rating": 0.5008067302399695,
+    "Rank": 157
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Central Florida",
+    "Rating": 0.5006212308174712,
+    "Rank": 158
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "IU Indy",
+    "Rating": 0.5,
+    "Rank": 159
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Virginia",
+    "Rating": 0.4978235365341416,
+    "Rank": 160
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas A&M-Corpus Christi",
+    "Rating": 0.4977089114764741,
+    "Rank": 161
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UC Santa Barbara",
+    "Rating": 0.4963524021140818,
+    "Rank": 162
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Austin Peay",
+    "Rating": 0.4956255652605077,
+    "Rank": 163
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas Tech",
+    "Rating": 0.4919671171377745,
+    "Rank": 164
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Illinois",
+    "Rating": 0.4887853473973113,
+    "Rank": 165
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tulane",
+    "Rating": 0.4881116507960775,
+    "Rank": 166
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Massachusetts",
+    "Rating": 0.4843981352644895,
+    "Rank": 167
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana Tech",
+    "Rating": 0.4827209575233834,
+    "Rank": 168
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Navy",
+    "Rating": 0.4816134803818293,
+    "Rank": 169
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Santa Clara",
+    "Rating": 0.4805567849964448,
+    "Rank": 170
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Indiana State",
+    "Rating": 0.4804445782153801,
+    "Rank": 171
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oral Roberts",
+    "Rating": 0.4803390445221592,
+    "Rank": 172
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia Tech",
+    "Rating": 0.4782548846600035,
+    "Rank": 173
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Sacred Heart",
+    "Rating": 0.4759726306694111,
+    "Rank": 174
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wofford",
+    "Rating": 0.4746919163801851,
+    "Rank": 175
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Marshall",
+    "Rating": 0.4714550340535414,
+    "Rank": 176
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Iowa State",
+    "Rating": 0.4712051364101451,
+    "Rank": 177
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Long Beach State",
+    "Rating": 0.466745583294213,
+    "Rank": 178
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Middle Tennessee",
+    "Rating": 0.4658307566416469,
+    "Rank": 179
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UTSA",
+    "Rating": 0.4653220357115002,
+    "Rank": 180
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Hampshire",
+    "Rating": 0.4627197677462739,
+    "Rank": 181
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stony Brook",
+    "Rating": 0.4618164636665911,
+    "Rank": 182
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Diego",
+    "Rating": 0.461739091378565,
+    "Rank": 183
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maryland-Baltimore County",
+    "Rating": 0.4592546686889818,
+    "Rank": 184
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "St. Bonaventure",
+    "Rating": 0.4572345342059996,
+    "Rank": 185
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Lipscomb",
+    "Rating": 0.4563088733626706,
+    "Rank": 186
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Kentucky",
+    "Rating": 0.4529288319088188,
+    "Rank": 187
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "TCU",
+    "Rating": 0.4521500454165227,
+    "Rank": 188
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Denver",
+    "Rating": 0.4486161333087974,
+    "Rank": 189
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Long Island University",
+    "Rating": 0.4477827759219431,
+    "Rank": 190
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UNC Asheville",
+    "Rating": 0.4472294402950683,
+    "Rank": 191
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arkansas",
+    "Rating": 0.446107925900908,
+    "Rank": 192
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Idaho State",
+    "Rating": 0.4430382555804595,
+    "Rank": 193
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Chicago State",
+    "Rating": 0.441035928938406,
+    "Rank": 194
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UC Riverside",
+    "Rating": 0.4409554244861229,
+    "Rank": 195
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Carolina",
+    "Rating": 0.440855020950896,
+    "Rank": 196
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Belmont",
+    "Rating": 0.4399951318126168,
+    "Rank": 197
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Mississippi",
+    "Rating": 0.4378962775998106,
+    "Rank": 198
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia State",
+    "Rating": 0.4292292485138713,
+    "Rank": 199
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Charlotte",
+    "Rating": 0.4266040187915603,
+    "Rank": 200
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Quinnipiac",
+    "Rating": 0.4245303777142707,
+    "Rank": 201
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Jose State",
+    "Rating": 0.4235445247569567,
+    "Rank": 202
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Carolina State",
+    "Rating": 0.4194620973809052,
+    "Rank": 203
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Purdue Fort Wayne",
+    "Rating": 0.4191816894686955,
+    "Rank": 204
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Youngstown State",
+    "Rating": 0.4182378550526979,
+    "Rank": 205
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Canisius",
+    "Rating": 0.4168648443261108,
+    "Rank": 206
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Peter's",
+    "Rating": 0.4137118277332831,
+    "Rank": 207
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Samford",
+    "Rating": 0.4131846170773844,
+    "Rank": 208
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UT Arlington",
+    "Rating": 0.4107378508631475,
+    "Rank": 209
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Ohio",
+    "Rating": 0.4095208016633304,
+    "Rank": 210
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Florida",
+    "Rating": 0.4077194754666332,
+    "Rank": 211
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Delaware",
+    "Rating": 0.407495676029132,
+    "Rank": 212
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oregon",
+    "Rating": 0.403307450608359,
+    "Rank": 213
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia",
+    "Rating": 0.4025413383280772,
+    "Rank": 214
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UC Irvine",
+    "Rating": 0.4021050770384606,
+    "Rank": 215
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Albany (NY)",
+    "Rating": 0.4019410116012522,
+    "Rank": 216
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Loyola (IL)",
+    "Rating": 0.4009045135032739,
+    "Rank": 217
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida International",
+    "Rating": 0.3956932924822944,
+    "Rank": 218
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hawaii",
+    "Rating": 0.392779638279347,
+    "Rank": 219
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cal State Fullerton",
+    "Rating": 0.3914322037714961,
+    "Rank": 220
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Loyola (MD)",
+    "Rating": 0.3886520644054735,
+    "Rank": 221
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas State",
+    "Rating": 0.3869967737157997,
+    "Rank": 222
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Prairie View",
+    "Rating": 0.3868254962112117,
+    "Rank": 223
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Princeton",
+    "Rating": 0.3848552847271828,
+    "Rank": 224
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Campbell",
+    "Rating": 0.381235607954727,
+    "Rank": 225
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Iona",
+    "Rating": 0.3797713905010267,
+    "Rank": 226
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "George Washington",
+    "Rating": 0.3789836447551611,
+    "Rank": 227
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Coppin State",
+    "Rating": 0.3774235354287367,
+    "Rank": 228
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Missouri State",
+    "Rating": 0.3770525351172271,
+    "Rank": 229
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rutgers",
+    "Rating": 0.3756386835752283,
+    "Rank": 230
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arkansas-Pine Bluff",
+    "Rating": 0.3733422778358577,
+    "Rank": 231
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wagner",
+    "Rating": 0.3732295965331696,
+    "Rank": 232
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Harvard",
+    "Rating": 0.3723249075953516,
+    "Rank": 233
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Norfolk State",
+    "Rating": 0.3719987171653535,
+    "Rank": 234
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Towson",
+    "Rating": 0.3700061473911603,
+    "Rank": 235
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stetson",
+    "Rating": 0.3698100698436008,
+    "Rank": 236
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Colorado State",
+    "Rating": 0.3661054547366491,
+    "Rank": 237
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rice",
+    "Rating": 0.3637620347922614,
+    "Rank": 238
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fresno State",
+    "Rating": 0.3635249284080155,
+    "Rank": 239
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UC Davis",
+    "Rating": 0.3627662389466435,
+    "Rank": 240
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Montana State",
+    "Rating": 0.362733718431267,
+    "Rank": 241
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bethune-Cookman",
+    "Rating": 0.36206187212577,
+    "Rank": 242
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Army",
+    "Rating": 0.3620616625961834,
+    "Rank": 243
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northern Colorado",
+    "Rating": 0.3607839439867301,
+    "Rank": 244
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "DePaul",
+    "Rating": 0.3598415689460122,
+    "Rank": 245
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Lamar",
+    "Rating": 0.3582698904082964,
+    "Rank": 246
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mercer",
+    "Rating": 0.3569040056248749,
+    "Rank": 247
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee State",
+    "Rating": 0.3530506534501428,
+    "Rank": 248
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Valparaiso",
+    "Rating": 0.3523560268089526,
+    "Rank": 249
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "East Carolina",
+    "Rating": 0.3495696221694546,
+    "Rank": 250
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Gardner-Webb",
+    "Rating": 0.3491449008414636,
+    "Rank": 251
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Appalachian State",
+    "Rating": 0.3461485158304844,
+    "Rank": 252
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hampton",
+    "Rating": 0.3449549503327251,
+    "Rank": 253
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "William & Mary",
+    "Rating": 0.3441322694999717,
+    "Rank": 254
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pepperdine",
+    "Rating": 0.3385311934409479,
+    "Rank": 255
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Columbia",
+    "Rating": 0.3383498444763805,
+    "Rank": 256
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Winthrop",
+    "Rating": 0.3375390376011585,
+    "Rank": 257
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Methodist",
+    "Rating": 0.3360394703382098,
+    "Rank": 258
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Savannah State",
+    "Rating": 0.3343525989195451,
+    "Rank": 259
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Longwood",
+    "Rating": 0.3339908778211688,
+    "Rank": 260
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Ball State",
+    "Rating": 0.3320578191326465,
+    "Rank": 261
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Lehigh",
+    "Rating": 0.330068008733501,
+    "Rank": 262
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Central Michigan",
+    "Rating": 0.3299438069864992,
+    "Rank": 263
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Utah",
+    "Rating": 0.3294354303276648,
+    "Rank": 264
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Marist",
+    "Rating": 0.3285616394884936,
+    "Rank": 265
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Carolina A&T",
+    "Rating": 0.3216015513685335,
+    "Rank": 266
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Colorado",
+    "Rating": 0.320798160634428,
+    "Rank": 267
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Washington",
+    "Rating": 0.3203204492575093,
+    "Rank": 268
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pennsylvania",
+    "Rating": 0.3188213592116783,
+    "Rank": 269
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Central Connecticut State",
+    "Rating": 0.3183400487276652,
+    "Rank": 270
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana",
+    "Rating": 0.3180566606655935,
+    "Rank": 271
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southeastern Louisiana",
+    "Rating": 0.3146593226248843,
+    "Rank": 272
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "McNeese State",
+    "Rating": 0.3132121363680168,
+    "Rank": 273
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Indiana",
+    "Rating": 0.3088780570658161,
+    "Rank": 274
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Elon",
+    "Rating": 0.3006763603337563,
+    "Rank": 275
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Illinois",
+    "Rating": 0.2956310695974118,
+    "Rank": 276
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Francisco",
+    "Rating": 0.2947923932701687,
+    "Rank": 277
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Dakota State",
+    "Rating": 0.2940483110505777,
+    "Rank": 278
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana-Monroe",
+    "Rating": 0.2918661938884618,
+    "Rank": 279
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Orleans",
+    "Rating": 0.2909711726624858,
+    "Rank": 280
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Air Force",
+    "Rating": 0.2862815034159324,
+    "Rank": 281
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Dartmouth",
+    "Rating": 0.283113097252716,
+    "Rank": 282
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Colgate",
+    "Rating": 0.2774559733581226,
+    "Rank": 283
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Coastal Carolina",
+    "Rating": 0.2739620835616817,
+    "Rank": 284
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Michigan",
+    "Rating": 0.2712522627472705,
+    "Rank": 285
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UNC Wilmington",
+    "Rating": 0.271064087139267,
+    "Rank": 286
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Detroit Mercy",
+    "Rating": 0.2654182422209979,
+    "Rank": 287
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "St. Francis (NY)",
+    "Rating": 0.2638454654741212,
+    "Rank": 288
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arkansas State",
+    "Rating": 0.2604348596281992,
+    "Rank": 289
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northern Arizona",
+    "Rating": 0.2572066703999742,
+    "Rank": 290
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Monmouth",
+    "Rating": 0.2534864378142042,
+    "Rank": 291
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cal Poly",
+    "Rating": 0.2531679769254485,
+    "Rank": 292
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Brown",
+    "Rating": 0.2526748276273018,
+    "Rank": 293
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "High Point",
+    "Rating": 0.2523922917037327,
+    "Rank": 294
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida A&M",
+    "Rating": 0.2499111971754136,
+    "Rank": 295
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee Tech",
+    "Rating": 0.2485531144737135,
+    "Rank": 296
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Michigan",
+    "Rating": 0.2356826467376589,
+    "Rank": 297
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Centenary (LA)",
+    "Rating": 0.2345994012542577,
+    "Rank": 298
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northern Illinois",
+    "Rating": 0.2321389444917802,
+    "Rank": 299
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Howard",
+    "Rating": 0.231885802025754,
+    "Rank": 300
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bucknell",
+    "Rating": 0.227108365860523,
+    "Rank": 301
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Lafayette",
+    "Rating": 0.2252793085494769,
+    "Rank": 302
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maine",
+    "Rating": 0.2240653027335391,
+    "Rank": 303
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Jacksonville State",
+    "Rating": 0.2180909912029404,
+    "Rank": 304
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Illinois",
+    "Rating": 0.2165659106792708,
+    "Rank": 305
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Toledo",
+    "Rating": 0.2148329370566547,
+    "Rank": 306
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas Southern",
+    "Rating": 0.2140172174493366,
+    "Rank": 307
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fordham",
+    "Rating": 0.2084536025509135,
+    "Rank": 308
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fairleigh Dickinson",
+    "Rating": 0.2057147454758531,
+    "Rank": 309
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern",
+    "Rating": 0.2055762878375064,
+    "Rank": 310
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Delaware State",
+    "Rating": 0.1994873494924262,
+    "Rank": 311
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hartford",
+    "Rating": 0.1964426082401661,
+    "Rank": 312
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia Southern",
+    "Rating": 0.1955694317409681,
+    "Rank": 313
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mississippi Valley State",
+    "Rating": 0.1930194811765081,
+    "Rank": 314
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Loyola Marymount",
+    "Rating": 0.1903328614870017,
+    "Rank": 315
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Furman",
+    "Rating": 0.1886051106808566,
+    "Rank": 316
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alabama A&M",
+    "Rating": 0.1800203260613515,
+    "Rank": 317
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida Atlantic",
+    "Rating": 0.179223509741883,
+    "Rank": 318
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Charleston Southern",
+    "Rating": 0.1730313980330689,
+    "Rank": 319
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas-Rio Grande Valley",
+    "Rating": 0.1730269609462201,
+    "Rank": 320
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UNC Greensboro",
+    "Rating": 0.1725802054558143,
+    "Rank": 321
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kansas City",
+    "Rating": 0.1701941969656927,
+    "Rank": 322
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Francis (PA)",
+    "Rating": 0.1485348127578899,
+    "Rank": 323
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northwestern State",
+    "Rating": 0.1411019966857427,
+    "Rank": 324
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alcorn State",
+    "Rating": 0.0782714965142821,
+    "Rank": 325
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Sacramento State",
+    "Rating": 0.0776851019841781,
+    "Rank": 326
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Grambling",
+    "Rating": 0.0757637227564013,
+    "Rank": 327
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maryland-Eastern Shore",
+    "Rating": 0.0720231426807657,
+    "Rank": 328
+  },
+  {
+    "Year": 2009,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southeast Missouri State",
+    "Rating": 0.0183597523841156,
+    "Rank": 329
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big 12",
+    "Team": "Kansas",
+    "Rating": 6.9325005866054354,
+    "Rank": 1
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big 12",
+    "Team": "Texas Tech",
+    "Rating": 5.461706234482217,
+    "Rank": 2
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big 12",
+    "Team": "Baylor",
+    "Rating": 4.502025524327153,
+    "Rank": 3
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big 12",
+    "Team": "Texas",
+    "Rating": 0.7392588577324979,
+    "Rank": 4
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big 12",
+    "Team": "Oklahoma State",
+    "Rating": 0.6054009616530888,
+    "Rank": 5
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big 12",
+    "Team": "Oklahoma",
+    "Rating": -0.8550394340135691,
+    "Rank": 6
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big 12",
+    "Team": "TCU",
+    "Rating": -1.3658315263222078,
+    "Rank": 7
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big 12",
+    "Team": "Kansas State",
+    "Rating": -3.9060824227348414,
+    "Rank": 8
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big 12",
+    "Team": "Iowa State",
+    "Rating": -6.0389111890330085,
+    "Rank": 9
+  },
+  {
+    "Year": 2022,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big 12",
+    "Team": "West Virginia",
+    "Rating": -6.075027592696772,
+    "Rank": 10
+  }
+]

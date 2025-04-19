@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "OVC",
+    "Team": "Tennessee Tech",
+    "Rating": 0.7032149071244932,
+    "Rank": 1
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "OVC",
+    "Team": "Eastern Illinois",
+    "Rating": 0.6994684731142962,
+    "Rank": 2
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "OVC",
+    "Team": "Murray State",
+    "Rating": 0.6310963842080358,
+    "Rank": 3
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "OVC",
+    "Team": "Austin Peay",
+    "Rating": 0.615789081304123,
+    "Rank": 4
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "OVC",
+    "Team": "Southeast Missouri State",
+    "Rating": 0.4953905514637033,
+    "Rank": 5
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "OVC",
+    "Team": "Tennessee State",
+    "Rating": 0.4464051976984973,
+    "Rank": 6
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "OVC",
+    "Team": "Morehead State",
+    "Rating": 0.3860107930268565,
+    "Rank": 7
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "OVC",
+    "Team": "Tennessee-Martin",
+    "Rating": 0.3452381925190216,
+    "Rank": 8
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "OVC",
+    "Team": "Eastern Kentucky",
+    "Rating": 0.1773864195409719,
+    "Rank": 9
+  }
+]

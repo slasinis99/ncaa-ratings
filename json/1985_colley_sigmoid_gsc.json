@@ -1,0 +1,38 @@
+[
+  {
+    "Year": 1985,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "GSC",
+    "Team": "Southeastern Louisiana",
+    "Rating": 0.7632235465478381,
+    "Rank": 1
+  },
+  {
+    "Year": 1985,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "GSC",
+    "Team": "Nicholls State",
+    "Rating": 0.5864516219024304,
+    "Rank": 2
+  },
+  {
+    "Year": 1985,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "GSC",
+    "Team": "Texas State",
+    "Rating": 0.4259942864259797,
+    "Rank": 3
+  },
+  {
+    "Year": 1985,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "GSC",
+    "Team": "Northwestern State",
+    "Rating": 0.2243305451237517,
+    "Rank": 4
+  }
+]

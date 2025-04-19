@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Fresno State",
+    "Rating": 0.6985558906712039,
+    "Rank": 1
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Hawaii",
+    "Rating": 0.6136022841862355,
+    "Rank": 2
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Tulsa",
+    "Rating": 0.6076604778326244,
+    "Rank": 3
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "UTEP",
+    "Rating": 0.5864912353836268,
+    "Rank": 4
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "TCU",
+    "Rating": 0.5210960941712164,
+    "Rank": 5
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Southern Methodist",
+    "Rating": 0.4451994186832503,
+    "Rank": 6
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "San Jose State",
+    "Rating": 0.4142697690126436,
+    "Rank": 7
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Rice",
+    "Rating": 0.3574105708468557,
+    "Rank": 8
+  },
+  {
+    "Year": 2001,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Nevada",
+    "Rating": 0.255714259212338,
+    "Rank": 9
+  }
+]

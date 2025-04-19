@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2023,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Merrimack",
+    "Rating": 7.264044691264104,
+    "Rank": 1
+  },
+  {
+    "Year": 2023,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Fairleigh Dickinson",
+    "Rating": 4.190330287367352,
+    "Rank": 2
+  },
+  {
+    "Year": 2023,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Sacred Heart",
+    "Rating": 1.2669817107723935,
+    "Rank": 3
+  },
+  {
+    "Year": 2023,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Stonehill",
+    "Rating": 1.196932514638474,
+    "Rank": 4
+  },
+  {
+    "Year": 2023,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Saint Francis (PA)",
+    "Rating": 0.9353051799951438,
+    "Rank": 5
+  },
+  {
+    "Year": 2023,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Wagner",
+    "Rating": 0.4279787714297995,
+    "Rank": 6
+  },
+  {
+    "Year": 2023,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Central Connecticut State",
+    "Rating": -1.4056456775699475,
+    "Rank": 7
+  },
+  {
+    "Year": 2023,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "St. Francis (NY)",
+    "Rating": -3.838741829917447,
+    "Rank": 8
+  },
+  {
+    "Year": 2023,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "NEC",
+    "Team": "Long Island University",
+    "Rating": -10.037185647979864,
+    "Rank": 9
+  }
+]

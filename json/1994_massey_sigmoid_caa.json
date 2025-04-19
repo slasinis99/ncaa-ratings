@@ -1,0 +1,74 @@
+[
+  {
+    "Year": 1994,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "Old Dominion",
+    "Rating": 9.890542817843748,
+    "Rank": 1
+  },
+  {
+    "Year": 1994,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "Richmond",
+    "Rating": 5.478938400935222,
+    "Rank": 2
+  },
+  {
+    "Year": 1994,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "James Madison",
+    "Rating": 4.673395287177619,
+    "Rank": 3
+  },
+  {
+    "Year": 1994,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "East Carolina",
+    "Rating": 1.680539337823236,
+    "Rank": 4
+  },
+  {
+    "Year": 1994,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "UNC Wilmington",
+    "Rating": 0.960983742710535,
+    "Rank": 5
+  },
+  {
+    "Year": 1994,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "American",
+    "Rating": -4.732573610143276,
+    "Rank": 6
+  },
+  {
+    "Year": 1994,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "George Mason",
+    "Rating": -6.692436024623897,
+    "Rank": 7
+  },
+  {
+    "Year": 1994,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "CAA",
+    "Team": "William & Mary",
+    "Rating": -11.259389951723172,
+    "Rank": 8
+  }
+]

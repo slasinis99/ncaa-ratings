@@ -1,0 +1,3314 @@
+[
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Houston",
+    "Rating": 1666.2930774803433,
+    "Rank": 1
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Gonzaga",
+    "Rating": 1664.665668888166,
+    "Rank": 2
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alabama",
+    "Rating": 1657.8716387943782,
+    "Rank": 3
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Virginia Commonwealth",
+    "Rating": 1657.1285031616003,
+    "Rank": 4
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UCLA",
+    "Rating": 1652.4292704525558,
+    "Rank": 5
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Duke",
+    "Rating": 1650.033994273458,
+    "Rank": 6
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Marquette",
+    "Rating": 1649.74272639344,
+    "Rank": 7
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Diego State",
+    "Rating": 1648.1232600851972,
+    "Rank": 8
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida Atlantic",
+    "Rating": 1646.5413219811323,
+    "Rank": 9
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Drake",
+    "Rating": 1642.874466453439,
+    "Rank": 10
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Memphis",
+    "Rating": 1642.846662059663,
+    "Rank": 11
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arizona",
+    "Rating": 1640.3108526072488,
+    "Rank": 12
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oral Roberts",
+    "Rating": 1639.9628376929372,
+    "Rank": 13
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "College of Charleston",
+    "Rating": 1632.1710450840617,
+    "Rank": 14
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kent State",
+    "Rating": 1631.6027807572566,
+    "Rank": 15
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Iona",
+    "Rating": 1631.475082364442,
+    "Rank": 16
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas A&M",
+    "Rating": 1630.28024828665,
+    "Rank": 17
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas",
+    "Rating": 1629.4267613415352,
+    "Rank": 18
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Purdue",
+    "Rating": 1629.2917426358583,
+    "Rank": 19
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kansas",
+    "Rating": 1626.2903189033984,
+    "Rank": 20
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Vermont",
+    "Rating": 1624.601576770181,
+    "Rank": 21
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Colgate",
+    "Rating": 1621.7913316185152,
+    "Rank": 22
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Toledo",
+    "Rating": 1615.0103190119205,
+    "Rank": 23
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bradley",
+    "Rating": 1614.7231739815627,
+    "Rank": 24
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UAB",
+    "Rating": 1613.2125598508428,
+    "Rank": 25
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Furman",
+    "Rating": 1613.01980231673,
+    "Rank": 26
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Montana State",
+    "Rating": 1609.6494368149367,
+    "Rank": 27
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Utah State",
+    "Rating": 1609.4304284641732,
+    "Rank": 28
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Mary's (CA)",
+    "Rating": 1609.1230969295125,
+    "Rank": 29
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Texas",
+    "Rating": 1608.56922348516,
+    "Rank": 30
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Connecticut",
+    "Rating": 1605.284463082658,
+    "Rank": 31
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UNC Asheville",
+    "Rating": 1602.7478451365423,
+    "Rank": 32
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kennesaw State",
+    "Rating": 1600.4185754171635,
+    "Rank": 33
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UC Santa Barbara",
+    "Rating": 1600.3273018411314,
+    "Rank": 34
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana",
+    "Rating": 1598.4417245818963,
+    "Rank": 35
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Virginia",
+    "Rating": 1596.203535471641,
+    "Rank": 36
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Miami (FL)",
+    "Rating": 1594.8106444258317,
+    "Rank": 37
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Sam Houston",
+    "Rating": 1594.4709251479317,
+    "Rank": 38
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Liberty",
+    "Rating": 1591.9595714902955,
+    "Rank": 39
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hofstra",
+    "Rating": 1591.2698635302734,
+    "Rank": 40
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Princeton",
+    "Rating": 1590.9306175099518,
+    "Rank": 41
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Grand Canyon",
+    "Rating": 1589.4034920784006,
+    "Rank": 42
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Vanderbilt",
+    "Rating": 1588.4032895607772,
+    "Rank": 43
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Xavier",
+    "Rating": 1585.4051478332424,
+    "Rank": 44
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Boise State",
+    "Rating": 1585.1607858032698,
+    "Rank": 45
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Utah Valley",
+    "Rating": 1583.0121175847655,
+    "Rank": 46
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kentucky",
+    "Rating": 1581.9702138244102,
+    "Rank": 47
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Dayton",
+    "Rating": 1576.8761748774552,
+    "Rank": 48
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Penn State",
+    "Rating": 1575.2887176542597,
+    "Rank": 49
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Indiana",
+    "Rating": 1575.272148996457,
+    "Rank": 50
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Yale",
+    "Rating": 1575.0724229274322,
+    "Rank": 51
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Missouri",
+    "Rating": 1573.3109078614912,
+    "Rank": 52
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Creighton",
+    "Rating": 1572.417733371858,
+    "Rank": 53
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Massachusetts-Lowell",
+    "Rating": 1572.4046407104972,
+    "Rank": 54
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern California",
+    "Rating": 1571.303011162356,
+    "Rank": 55
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Louis",
+    "Rating": 1569.6523648282664,
+    "Rank": 56
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Santa Clara",
+    "Rating": 1569.480595974942,
+    "Rank": 57
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas A&M-Corpus Christi",
+    "Rating": 1568.6861936250314,
+    "Rank": 58
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northern Kentucky",
+    "Rating": 1566.9872384177186,
+    "Rank": 59
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee",
+    "Rating": 1566.3108150329442,
+    "Rank": 60
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cal State Fullerton",
+    "Rating": 1565.6111891607527,
+    "Rank": 61
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Baylor",
+    "Rating": 1565.1272550701624,
+    "Rank": 62
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fordham",
+    "Rating": 1564.4628475542154,
+    "Rank": 63
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Howard",
+    "Rating": 1562.8374361509511,
+    "Rank": 64
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Akron",
+    "Rating": 1560.477424242652,
+    "Rank": 65
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Alabama",
+    "Rating": 1559.7762623593478,
+    "Rank": 66
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Illinois",
+    "Rating": 1559.1808409686157,
+    "Rank": 67
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Merrimack",
+    "Rating": 1557.9895459971356,
+    "Rank": 68
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Clemson",
+    "Rating": 1557.7383288830215,
+    "Rank": 69
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oregon",
+    "Rating": 1557.242857009962,
+    "Rank": 70
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "West Virginia",
+    "Rating": 1557.0093413431669,
+    "Rank": 71
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "George Mason",
+    "Rating": 1556.5586687180842,
+    "Rank": 72
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Grambling",
+    "Rating": 1556.0270521535929,
+    "Rank": 73
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cincinnati",
+    "Rating": 1555.7224016066557,
+    "Rank": 74
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UNC Wilmington",
+    "Rating": 1553.716458980898,
+    "Rank": 75
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Carolina",
+    "Rating": 1553.1157711364872,
+    "Rank": 76
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tulane",
+    "Rating": 1552.9314239718249,
+    "Rank": 77
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Villanova",
+    "Rating": 1551.9548523023293,
+    "Rank": 78
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Belmont",
+    "Rating": 1550.639082470695,
+    "Rank": 79
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kansas State",
+    "Rating": 1550.136490175128,
+    "Rank": 80
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Utah",
+    "Rating": 1550.1180951131869,
+    "Rank": 81
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Michigan State",
+    "Rating": 1548.743896668902,
+    "Rank": 82
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Marshall",
+    "Rating": 1548.5627231853568,
+    "Rank": 83
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mississippi State",
+    "Rating": 1548.4147045875436,
+    "Rank": 84
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "TCU",
+    "Rating": 1547.8117148070262,
+    "Rank": 85
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arkansas",
+    "Rating": 1546.5870678502124,
+    "Rank": 86
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Towson",
+    "Rating": 1546.3859404818982,
+    "Rank": 87
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Washington State",
+    "Rating": 1546.0610707423102,
+    "Rank": 88
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "James Madison",
+    "Rating": 1545.8509792302436,
+    "Rank": 89
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arizona State",
+    "Rating": 1545.557078416261,
+    "Rank": 90
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Samford",
+    "Rating": 1545.393325153221,
+    "Rank": 91
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Dakota State",
+    "Rating": 1545.105144941415,
+    "Rank": 92
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "NC State",
+    "Rating": 1544.844770271193,
+    "Rank": 93
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UC Irvine",
+    "Rating": 1543.7684862568644,
+    "Rank": 94
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Francisco",
+    "Rating": 1542.7619549369165,
+    "Rank": 95
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Dakota State",
+    "Rating": 1542.388720411707,
+    "Rank": 96
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Jose State",
+    "Rating": 1541.3119694038514,
+    "Rank": 97
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UC Riverside",
+    "Rating": 1541.1743586949983,
+    "Rank": 98
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pittsburgh",
+    "Rating": 1540.5751087420592,
+    "Rank": 99
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northwestern",
+    "Rating": 1540.5488182072536,
+    "Rank": 100
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Washington",
+    "Rating": 1538.0968457474178,
+    "Rank": 101
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Iowa",
+    "Rating": 1538.0316045754598,
+    "Rank": 102
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Morehead State",
+    "Rating": 1537.260079809733,
+    "Rank": 103
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cleveland State",
+    "Rating": 1537.0894520429313,
+    "Rank": 104
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Mississippi",
+    "Rating": 1536.8963858012012,
+    "Rank": 105
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Auburn",
+    "Rating": 1536.316728401971,
+    "Rank": 106
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Old Dominion",
+    "Rating": 1536.2497383070292,
+    "Rank": 107
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Youngstown State",
+    "Rating": 1535.0684045241285,
+    "Rank": 108
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Ohio",
+    "Rating": 1535.0299690999034,
+    "Rank": 109
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Indiana State",
+    "Rating": 1534.694667192984,
+    "Rank": 110
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Illinois",
+    "Rating": 1534.3262431852706,
+    "Rank": 111
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maryland",
+    "Rating": 1534.2132519296383,
+    "Rank": 112
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oklahoma State",
+    "Rating": 1533.1259427353782,
+    "Rank": 113
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Brigham Young",
+    "Rating": 1532.9658758306462,
+    "Rank": 114
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Lipscomb",
+    "Rating": 1532.2024301888198,
+    "Rank": 115
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Missouri State",
+    "Rating": 1532.0792930530588,
+    "Rank": 116
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pennsylvania",
+    "Rating": 1531.5270881620422,
+    "Rank": 117
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wichita State",
+    "Rating": 1531.079468387299,
+    "Rank": 118
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Carolina Central",
+    "Rating": 1530.6655365513934,
+    "Rank": 119
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UNC Greensboro",
+    "Rating": 1530.4594118289897,
+    "Rank": 120
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Middle Tennessee",
+    "Rating": 1529.3557576070118,
+    "Rank": 121
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Iowa State",
+    "Rating": 1529.2602703484122,
+    "Rank": 122
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Providence",
+    "Rating": 1529.1961149090832,
+    "Rank": 123
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Davidson",
+    "Rating": 1528.8934695469277,
+    "Rank": 124
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nevada",
+    "Rating": 1527.2328928651698,
+    "Rank": 125
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Troy",
+    "Rating": 1526.858138398655,
+    "Rank": 126
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Virginia Tech",
+    "Rating": 1526.5826514839796,
+    "Rank": 127
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Colorado",
+    "Rating": 1526.4660819111973,
+    "Rank": 128
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Norfolk State",
+    "Rating": 1525.56789305087,
+    "Rank": 129
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Weber State",
+    "Rating": 1525.5526684195952,
+    "Rank": 130
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hawaii",
+    "Rating": 1524.0449867297805,
+    "Rank": 131
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Kentucky",
+    "Rating": 1523.7835848437428,
+    "Rank": 132
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Ohio State",
+    "Rating": 1522.479098235753,
+    "Rank": 133
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Navy",
+    "Rating": 1521.3137259959672,
+    "Rank": 134
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northwestern State",
+    "Rating": 1519.96883682764,
+    "Rank": 135
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southeast Missouri State",
+    "Rating": 1519.9010980699172,
+    "Rank": 136
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Murray State",
+    "Rating": 1518.6807500886025,
+    "Rank": 137
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alcorn State",
+    "Rating": 1518.2122599438214,
+    "Rank": 138
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Longwood",
+    "Rating": 1516.834465761201,
+    "Rank": 139
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Michigan",
+    "Rating": 1515.8783477594234,
+    "Rank": 140
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nevada-Las Vegas",
+    "Rating": 1515.6636560945872,
+    "Rank": 141
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Milwaukee",
+    "Rating": 1514.2060563618938,
+    "Rank": 142
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nebraska",
+    "Rating": 1512.576485620815,
+    "Rank": 143
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Loyola Marymount",
+    "Rating": 1512.527682606166,
+    "Rank": 144
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rutgers",
+    "Rating": 1512.195750191922,
+    "Rank": 145
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas Tech",
+    "Rating": 1510.8157202160382,
+    "Rank": 146
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Colorado State",
+    "Rating": 1510.7901265857452,
+    "Rank": 147
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wake Forest",
+    "Rating": 1509.6739628163575,
+    "Rank": 148
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Boston College",
+    "Rating": 1509.3971529726236,
+    "Rank": 149
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Chattanooga",
+    "Rating": 1509.084745369077,
+    "Rank": 150
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Carolina Upstate",
+    "Rating": 1509.0204806826202,
+    "Rank": 151
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Montana",
+    "Rating": 1508.8834231868002,
+    "Rank": 152
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Mexico",
+    "Rating": 1507.9519439467342,
+    "Rank": 153
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stanford",
+    "Rating": 1506.059366604795,
+    "Rank": 154
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Charlotte",
+    "Rating": 1505.6929872821513,
+    "Rank": 155
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida",
+    "Rating": 1505.5265595583548,
+    "Rank": 156
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Carolina",
+    "Rating": 1505.343586253024,
+    "Rank": 157
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stephen F. Austin",
+    "Rating": 1504.8283247582165,
+    "Rank": 158
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Central Florida",
+    "Rating": 1504.4997096253196,
+    "Rank": 159
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Winthrop",
+    "Rating": 1504.3884169887524,
+    "Rank": 160
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Radford",
+    "Rating": 1504.305400407817,
+    "Rank": 161
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Joseph's",
+    "Rating": 1503.8844271111782,
+    "Rank": 162
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Duquesne",
+    "Rating": 1503.7585741092585,
+    "Rank": 163
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Seattle",
+    "Rating": 1503.582840222796,
+    "Rank": 164
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "St. John's (NY)",
+    "Rating": 1503.5733404497876,
+    "Rank": 165
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas Southern",
+    "Rating": 1503.493977698054,
+    "Rank": 166
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Seton Hall",
+    "Rating": 1502.9118870370394,
+    "Rank": 167
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oklahoma",
+    "Rating": 1502.8232221477992,
+    "Rank": 168
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas State",
+    "Rating": 1501.913977276733,
+    "Rank": 169
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Jackson State",
+    "Rating": 1501.5806261707703,
+    "Rank": 170
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Delaware",
+    "Rating": 1501.3410258532813,
+    "Rank": 171
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Hampshire",
+    "Rating": 1500.9615865005387,
+    "Rank": 172
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "IU Indy",
+    "Rating": 1500.0,
+    "Rank": 173
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "SIU Edwardsville",
+    "Rating": 1500.0,
+    "Rank": 174
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Morris Brown",
+    "Rating": 1499.999998689728,
+    "Rank": 175
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "George Washington",
+    "Rating": 1499.7964919369128,
+    "Rank": 176
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Kentucky",
+    "Rating": 1499.6766586926394,
+    "Rank": 177
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rider",
+    "Rating": 1499.611425734495,
+    "Rank": 178
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mount St. Mary's",
+    "Rating": 1498.6383297560485,
+    "Rank": 179
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UC Davis",
+    "Rating": 1498.2976834890385,
+    "Rank": 180
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Birmingham-Southern",
+    "Rating": 1498.256894462605,
+    "Rank": 181
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Savannah State",
+    "Rating": 1498.0523686694185,
+    "Rank": 182
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Brown",
+    "Rating": 1497.546145557581,
+    "Rank": 183
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Buffalo",
+    "Rating": 1497.4448033151816,
+    "Rank": 184
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Campbell",
+    "Rating": 1497.3923987942744,
+    "Rank": 185
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wisconsin",
+    "Rating": 1496.5586973760005,
+    "Rank": 186
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Ball State",
+    "Rating": 1496.1654765405328,
+    "Rank": 187
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia Tech",
+    "Rating": 1495.9810722799843,
+    "Rank": 188
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stetson",
+    "Rating": 1494.8590925346011,
+    "Rank": 189
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bellarmine",
+    "Rating": 1494.681194554631,
+    "Rank": 190
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Drexel",
+    "Rating": 1494.666169257832,
+    "Rank": 191
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Syracuse",
+    "Rating": 1494.2352110365105,
+    "Rank": 192
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Centenary (LA)",
+    "Rating": 1493.608938107374,
+    "Rank": 193
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maryland-Eastern Shore",
+    "Rating": 1492.9006215197603,
+    "Rank": 194
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Robert Morris",
+    "Rating": 1492.0629072361855,
+    "Rank": 195
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Richmond",
+    "Rating": 1491.9709641375914,
+    "Rank": 196
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia Southern",
+    "Rating": 1491.9324948454096,
+    "Rank": 197
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Marist",
+    "Rating": 1491.7099460369432,
+    "Rank": 198
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee Tech",
+    "Rating": 1491.5869851371697,
+    "Rank": 199
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Temple",
+    "Rating": 1491.2912500280072,
+    "Rank": 200
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fairleigh Dickinson",
+    "Rating": 1490.992418435486,
+    "Rank": 201
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "St. Thomas",
+    "Rating": 1490.456105468335,
+    "Rank": 202
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Florida",
+    "Rating": 1489.7861363074464,
+    "Rank": 203
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Army",
+    "Rating": 1489.5874071420787,
+    "Rank": 204
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southeastern Louisiana",
+    "Rating": 1489.464298374911,
+    "Rank": 205
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tarleton State",
+    "Rating": 1489.347498811694,
+    "Rank": 206
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wofford",
+    "Rating": 1488.829965497128,
+    "Rank": 207
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "California Baptist",
+    "Rating": 1486.8458329227017,
+    "Rank": 208
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Alabama",
+    "Rating": 1486.4222950402436,
+    "Rank": 209
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Peter's",
+    "Rating": 1485.6867878520998,
+    "Rank": 210
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wright State",
+    "Rating": 1485.357775335383,
+    "Rank": 211
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Jacksonville State",
+    "Rating": 1484.439515558161,
+    "Rank": 212
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "East Carolina",
+    "Rating": 1484.3266013484076,
+    "Rank": 213
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cornell",
+    "Rating": 1484.3039649086234,
+    "Rank": 214
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Washington",
+    "Rating": 1484.0605658762322,
+    "Rank": 215
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northern Iowa",
+    "Rating": 1483.5381055890118,
+    "Rank": 216
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bryant",
+    "Rating": 1483.2596413362844,
+    "Rank": 217
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northern Arizona",
+    "Rating": 1481.538365706513,
+    "Rank": 218
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "La Salle",
+    "Rating": 1481.288322413292,
+    "Rank": 219
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee State",
+    "Rating": 1481.2395332096648,
+    "Rank": 220
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Quinnipiac",
+    "Rating": 1480.4619016612305,
+    "Rank": 221
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana Tech",
+    "Rating": 1478.9679278744188,
+    "Rank": 222
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Long Beach State",
+    "Rating": 1478.776289810599,
+    "Rank": 223
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Boston University",
+    "Rating": 1478.7676874305766,
+    "Rank": 224
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Mexico State",
+    "Rating": 1478.2310763440144,
+    "Rank": 225
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Gardner-Webb",
+    "Rating": 1477.4453041118356,
+    "Rank": 226
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Appalachian State",
+    "Rating": 1476.889467183296,
+    "Rank": 227
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Canisius",
+    "Rating": 1476.1856345235192,
+    "Rank": 228
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maryland-Baltimore County",
+    "Rating": 1475.1818320016127,
+    "Rank": 229
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Queens (NC)",
+    "Rating": 1474.754352228518,
+    "Rank": 230
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Niagara",
+    "Rating": 1474.1348316884882,
+    "Rank": 231
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Florida",
+    "Rating": 1472.518097388716,
+    "Rank": 232
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Loyola (MD)",
+    "Rating": 1472.2563790261854,
+    "Rank": 233
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wagner",
+    "Rating": 1472.254402664696,
+    "Rank": 234
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Dakota",
+    "Rating": 1471.9431371171463,
+    "Rank": 235
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Lehigh",
+    "Rating": 1471.4799407467965,
+    "Rank": 236
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tennessee-Martin",
+    "Rating": 1471.3163700079117,
+    "Rank": 237
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alabama A&M",
+    "Rating": 1471.0132614011125,
+    "Rank": 238
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northern Colorado",
+    "Rating": 1470.7438112948312,
+    "Rank": 239
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stonehill",
+    "Rating": 1470.207871859721,
+    "Rank": 240
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Sacred Heart",
+    "Rating": 1469.8078555569766,
+    "Rank": 241
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UTEP",
+    "Rating": 1469.4188030842251,
+    "Rank": 242
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pacific",
+    "Rating": 1469.0169663117629,
+    "Rank": 243
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rice",
+    "Rating": 1468.5272996006745,
+    "Rank": 244
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Maine",
+    "Rating": 1468.427538530975,
+    "Rank": 245
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Utah",
+    "Rating": 1467.2844209248178,
+    "Rank": 246
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Nicholls State",
+    "Rating": 1466.8736642213846,
+    "Rank": 247
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Manhattan",
+    "Rating": 1466.7923390679475,
+    "Rank": 248
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Detroit Mercy",
+    "Rating": 1466.586749012583,
+    "Rank": 249
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Utah Tech",
+    "Rating": 1465.940490780588,
+    "Rank": 250
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "St. Bonaventure",
+    "Rating": 1465.3825994466974,
+    "Rank": 251
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Binghamton",
+    "Rating": 1465.2417154912523,
+    "Rank": 252
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fresno State",
+    "Rating": 1465.1316207961202,
+    "Rank": 253
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northern Illinois",
+    "Rating": 1464.5849907729455,
+    "Rank": 254
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "East Tennessee State",
+    "Rating": 1463.60958114712,
+    "Rank": 255
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "New Orleans",
+    "Rating": 1461.852287275203,
+    "Rank": 256
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Harvard",
+    "Rating": 1461.5043544156993,
+    "Rank": 257
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Illinois",
+    "Rating": 1461.46373782217,
+    "Rank": 258
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mercer",
+    "Rating": 1461.2856519873849,
+    "Rank": 259
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Dartmouth",
+    "Rating": 1460.192086161618,
+    "Rank": 260
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Morgan State",
+    "Rating": 1459.5985936771783,
+    "Rank": 261
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Illinois-Edwardsville",
+    "Rating": 1459.3397119454444,
+    "Rank": 262
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Lafayette",
+    "Rating": 1458.924000084693,
+    "Rank": 263
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Miami (OH)",
+    "Rating": 1458.815593594766,
+    "Rank": 264
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oakland",
+    "Rating": 1458.6483213516751,
+    "Rank": 265
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Indiana",
+    "Rating": 1458.234180339226,
+    "Rank": 266
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Prairie View",
+    "Rating": 1458.1578519694058,
+    "Rank": 267
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Saint Francis (PA)",
+    "Rating": 1457.6902258074554,
+    "Rank": 268
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Abilene Christian",
+    "Rating": 1457.6520169591006,
+    "Rank": 269
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Massachusetts",
+    "Rating": 1457.4422338786717,
+    "Rank": 270
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Portland",
+    "Rating": 1456.55782098512,
+    "Rank": 271
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Fairfield",
+    "Rating": 1455.697714832945,
+    "Rank": 272
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Purdue Fort Wayne",
+    "Rating": 1455.0869851140494,
+    "Rank": 273
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida Gulf Coast",
+    "Rating": 1454.0662016534818,
+    "Rank": 274
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Butler",
+    "Rating": 1453.6340509109384,
+    "Rank": 275
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Wyoming",
+    "Rating": 1452.7417536484932,
+    "Rank": 276
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "William & Mary",
+    "Rating": 1452.492727681721,
+    "Rank": 277
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UT Arlington",
+    "Rating": 1449.9903690432857,
+    "Rank": 278
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Siena",
+    "Rating": 1449.1581723939676,
+    "Rank": 279
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern Methodist",
+    "Rating": 1448.2220927938104,
+    "Rank": 280
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "American",
+    "Rating": 1447.6094340827012,
+    "Rank": 281
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "High Point",
+    "Rating": 1446.5147414295702,
+    "Rank": 282
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida International",
+    "Rating": 1445.8364159150035,
+    "Rank": 283
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida State",
+    "Rating": 1445.4190269477742,
+    "Rank": 284
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Loyola (IL)",
+    "Rating": 1445.0385765654612,
+    "Rank": 285
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Stony Brook",
+    "Rating": 1444.8328131867702,
+    "Rank": 286
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mississippi",
+    "Rating": 1444.768156751831,
+    "Rank": 287
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "McNeese State",
+    "Rating": 1444.668097144242,
+    "Rank": 288
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Carolina",
+    "Rating": 1444.0507114499696,
+    "Rank": 289
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arkansas State",
+    "Rating": 1443.1712860800085,
+    "Rank": 290
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana State",
+    "Rating": 1441.98495284661,
+    "Rank": 291
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "St. Francis (NY)",
+    "Rating": 1441.8106484975092,
+    "Rank": 292
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Southern",
+    "Rating": 1441.4717787851796,
+    "Rank": 293
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas-Rio Grande Valley",
+    "Rating": 1441.374200788915,
+    "Rank": 294
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Dakota",
+    "Rating": 1440.529119813978,
+    "Rank": 295
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Air Force",
+    "Rating": 1439.617593863561,
+    "Rank": 296
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bethune-Cookman",
+    "Rating": 1439.4749693366964,
+    "Rank": 297
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Central Connecticut State",
+    "Rating": 1438.27111564923,
+    "Rank": 298
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UTSA",
+    "Rating": 1437.736942265632,
+    "Rank": 299
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Texas A&M-Commerce",
+    "Rating": 1437.4048506067809,
+    "Rank": 300
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Notre Dame",
+    "Rating": 1436.9257897370146,
+    "Rank": 301
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Sacramento State",
+    "Rating": 1436.889475198374,
+    "Rank": 302
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Denver",
+    "Rating": 1436.76541393075,
+    "Rank": 303
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "UC San Diego",
+    "Rating": 1436.326794438928,
+    "Rank": 304
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Minnesota",
+    "Rating": 1435.0730171445714,
+    "Rank": 305
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Idaho State",
+    "Rating": 1434.924961935972,
+    "Rank": 306
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Illinois-Chicago",
+    "Rating": 1433.710821485906,
+    "Rank": 307
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "DePaul",
+    "Rating": 1433.6475173595347,
+    "Rank": 308
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Jacksonville",
+    "Rating": 1433.6122060046025,
+    "Rank": 309
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Northeastern",
+    "Rating": 1433.3852891588003,
+    "Rank": 310
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "North Carolina A&T",
+    "Rating": 1431.9609129198736,
+    "Rank": 311
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia",
+    "Rating": 1431.5053546489166,
+    "Rank": 312
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Illinois State",
+    "Rating": 1430.9638677563846,
+    "Rank": 313
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Little Rock",
+    "Rating": 1430.2536341129608,
+    "Rank": 314
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Portland State",
+    "Rating": 1430.1044648881038,
+    "Rank": 315
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Oregon State",
+    "Rating": 1429.0738065588566,
+    "Rank": 316
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Lindenwood",
+    "Rating": 1427.468563105086,
+    "Rank": 317
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bucknell",
+    "Rating": 1427.0696635068884,
+    "Rank": 318
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Coppin State",
+    "Rating": 1426.7088031066362,
+    "Rank": 319
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Elon",
+    "Rating": 1425.6324206221418,
+    "Rank": 320
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Valparaiso",
+    "Rating": 1425.6275865076038,
+    "Rank": 321
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "San Diego",
+    "Rating": 1425.3157476069312,
+    "Rank": 322
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Monmouth",
+    "Rating": 1423.927900284368,
+    "Rank": 323
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cal State Bakersfield",
+    "Rating": 1421.215457809839,
+    "Rank": 324
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Michigan",
+    "Rating": 1420.927472357759,
+    "Rank": 325
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Charleston Southern",
+    "Rating": 1419.9467363973977,
+    "Rank": 326
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Chicago State",
+    "Rating": 1419.4332614422,
+    "Rank": 327
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Albany (NY)",
+    "Rating": 1419.3808486750509,
+    "Rank": 328
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Bowling Green State",
+    "Rating": 1417.9617172417763,
+    "Rank": 329
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Rhode Island",
+    "Rating": 1417.298364141498,
+    "Rank": 330
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Holy Cross",
+    "Rating": 1413.1758401104698,
+    "Rank": 331
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisiana-Monroe",
+    "Rating": 1412.3718287239396,
+    "Rank": 332
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Incarnate Word",
+    "Rating": 1412.344223974048,
+    "Rank": 333
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Kansas City",
+    "Rating": 1412.0417651312314,
+    "Rank": 334
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hampton",
+    "Rating": 1411.2982028422928,
+    "Rank": 335
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Pepperdine",
+    "Rating": 1410.2913742652338,
+    "Rank": 336
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Omaha",
+    "Rating": 1406.013483260371,
+    "Rank": 337
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Central Arkansas",
+    "Rating": 1404.6014328342217,
+    "Rank": 338
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgetown",
+    "Rating": 1404.5620384521824,
+    "Rank": 339
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Western Michigan",
+    "Rating": 1404.319635473812,
+    "Rank": 340
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Houston Christian",
+    "Rating": 1403.2652727847894,
+    "Rank": 341
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Florida A&M",
+    "Rating": 1400.9536002149844,
+    "Rank": 342
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Coastal Carolina",
+    "Rating": 1400.4123152155807,
+    "Rank": 343
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "NJIT",
+    "Rating": 1399.8463421306888,
+    "Rank": 344
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Louisville",
+    "Rating": 1398.9415886509664,
+    "Rank": 345
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Central Michigan",
+    "Rating": 1398.8374665305157,
+    "Rank": 346
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Georgia State",
+    "Rating": 1398.269392131907,
+    "Rank": 347
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Eastern Illinois",
+    "Rating": 1391.010731660557,
+    "Rank": 348
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Idaho",
+    "Rating": 1390.1701247025585,
+    "Rank": 349
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "The Citadel",
+    "Rating": 1389.999054717942,
+    "Rank": 350
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Austin Peay",
+    "Rating": 1389.6691733809037,
+    "Rank": 351
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cal Poly",
+    "Rating": 1389.3746352189632,
+    "Rank": 352
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "VMI",
+    "Rating": 1388.4409940671485,
+    "Rank": 353
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Columbia",
+    "Rating": 1387.7254968690456,
+    "Rank": 354
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Cal State Northridge",
+    "Rating": 1387.4374683239755,
+    "Rank": 355
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Delaware State",
+    "Rating": 1385.4369387160143,
+    "Rank": 356
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "South Carolina State",
+    "Rating": 1384.2195057522429,
+    "Rank": 357
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Lamar",
+    "Rating": 1382.851953924834,
+    "Rank": 358
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Mississippi Valley State",
+    "Rating": 1377.5794573205787,
+    "Rank": 359
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Alabama State",
+    "Rating": 1376.521741242066,
+    "Rank": 360
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Arkansas-Pine Bluff",
+    "Rating": 1375.0213152599774,
+    "Rank": 361
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Tulsa",
+    "Rating": 1371.793560205663,
+    "Rank": 362
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "California",
+    "Rating": 1371.587676025168,
+    "Rank": 363
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Hartford",
+    "Rating": 1371.445863385758,
+    "Rank": 364
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Long Island University",
+    "Rating": 1364.199354753632,
+    "Rank": 365
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Evansville",
+    "Rating": 1360.785263929835,
+    "Rank": 366
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Green Bay",
+    "Rating": 1349.6978368622165,
+    "Rank": 367
+  },
+  {
+    "Year": 2023,
+    "Method": "elo",
+    "Weight": "sigmoid",
+    "Conference": "",
+    "Team": "Presbyterian",
+    "Rating": 1345.8661646442038,
+    "Rank": 368
+  }
+]

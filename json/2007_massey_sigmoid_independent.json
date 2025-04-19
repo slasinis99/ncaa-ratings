@@ -1,0 +1,38 @@
+[
+  {
+    "Year": 2007,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Independent",
+    "Team": "Purdue Fort Wayne",
+    "Rating": 1.957320793421488,
+    "Rank": 1
+  },
+  {
+    "Year": 2007,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Independent",
+    "Team": "Savannah State",
+    "Rating": 1.5365873084880102e-16,
+    "Rank": 2
+  },
+  {
+    "Year": 2007,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Independent",
+    "Team": "Chicago State",
+    "Rating": 0.0,
+    "Rank": 3
+  },
+  {
+    "Year": 2007,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Independent",
+    "Team": "Texas-Rio Grande Valley",
+    "Rating": -1.957320793421488,
+    "Rank": 4
+  }
+]

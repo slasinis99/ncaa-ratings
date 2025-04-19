@@ -1,0 +1,128 @@
+[
+  {
+    "Year": 2019,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Kentucky",
+    "Rating": 0.7755499578217349,
+    "Rank": 1
+  },
+  {
+    "Year": 2019,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Tennessee",
+    "Rating": 0.7702423719258173,
+    "Rank": 2
+  },
+  {
+    "Year": 2019,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Louisiana State",
+    "Rating": 0.7513469660515495,
+    "Rank": 3
+  },
+  {
+    "Year": 2019,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Auburn",
+    "Rating": 0.6942809509902659,
+    "Rank": 4
+  },
+  {
+    "Year": 2019,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Mississippi State",
+    "Rating": 0.5772588380899785,
+    "Rank": 5
+  },
+  {
+    "Year": 2019,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Florida",
+    "Rating": 0.5448289334467554,
+    "Rank": 6
+  },
+  {
+    "Year": 2019,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "South Carolina",
+    "Rating": 0.5366877358342624,
+    "Rank": 7
+  },
+  {
+    "Year": 2019,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Mississippi",
+    "Rating": 0.4878822510513579,
+    "Rank": 8
+  },
+  {
+    "Year": 2019,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Alabama",
+    "Rating": 0.455363523915573,
+    "Rank": 9
+  },
+  {
+    "Year": 2019,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Arkansas",
+    "Rating": 0.4166040580639711,
+    "Rank": 10
+  },
+  {
+    "Year": 2019,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Texas A&M",
+    "Rating": 0.3696529443208111,
+    "Rank": 11
+  },
+  {
+    "Year": 2019,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Missouri",
+    "Rating": 0.3398774925036124,
+    "Rank": 12
+  },
+  {
+    "Year": 2019,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Georgia",
+    "Rating": 0.1805147721905483,
+    "Rank": 13
+  },
+  {
+    "Year": 2019,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "SEC",
+    "Team": "Vanderbilt",
+    "Rating": 0.0999092037937537,
+    "Rank": 14
+  }
+]

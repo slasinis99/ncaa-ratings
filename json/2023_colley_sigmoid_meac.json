@@ -1,0 +1,74 @@
+[
+  {
+    "Year": 2023,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "Howard",
+    "Rating": 0.7540159384251686,
+    "Rank": 1
+  },
+  {
+    "Year": 2023,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "North Carolina Central",
+    "Rating": 0.6588997755140346,
+    "Rank": 2
+  },
+  {
+    "Year": 2023,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "Norfolk State",
+    "Rating": 0.6193332944162174,
+    "Rank": 3
+  },
+  {
+    "Year": 2023,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "Maryland-Eastern Shore",
+    "Rating": 0.5930353635281741,
+    "Rank": 4
+  },
+  {
+    "Year": 2023,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "Morgan State",
+    "Rating": 0.4775991718078697,
+    "Rank": 5
+  },
+  {
+    "Year": 2023,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "Coppin State",
+    "Rating": 0.3418805011399574,
+    "Rank": 6
+  },
+  {
+    "Year": 2023,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "Delaware State",
+    "Rating": 0.306774995910963,
+    "Rank": 7
+  },
+  {
+    "Year": 2023,
+    "Method": "colley",
+    "Weight": "sigmoid",
+    "Conference": "MEAC",
+    "Team": "South Carolina State",
+    "Rating": 0.2484609592576099,
+    "Rank": 8
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "Year": 1996,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Independent",
+    "Team": "Oral Roberts",
+    "Rating": 12.743690630305522,
+    "Rank": 1
+  },
+  {
+    "Year": 1996,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Independent",
+    "Team": "Wofford",
+    "Rating": 8.555783460737697e-16,
+    "Rank": 2
+  },
+  {
+    "Year": 1996,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Independent",
+    "Team": "Hampton",
+    "Rating": -12.74369063030552,
+    "Rank": 3
+  }
+]
