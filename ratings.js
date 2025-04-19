@@ -16,11 +16,17 @@ async function loadRatingsJson(filename) {
 
 // Populate the HTML table with given data
 function populateRatingsTable(data) {
-  currentData = data; // Save current data globally for sorting
+  currentData = data;
+
+  // Clear and fill table rows
   const tbody = document.querySelector("#ratings-table tbody");
   tbody.innerHTML = "";
 
+  const cardContainer = document.getElementById("card-view");
+  cardContainer.innerHTML = "";
+
   for (const team of data) {
+    // Table row
     const row = document.createElement("tr");
     row.innerHTML = `
       <td>${team.Rank}</td>
@@ -29,6 +35,17 @@ function populateRatingsTable(data) {
       <td>${team.Rating}</td>
     `;
     tbody.appendChild(row);
+
+    // Mobile card
+    const card = document.createElement("div");
+    card.className = "card";
+    card.innerHTML = `
+      <div><span>Rank:</span>${team.Rank}</div>
+      <div><span>Team:</span>${team.Team}</div>
+      ${team.Conference ? `<div><span>Conference:</span>${team.Conference}</div>` : ""}
+      <div><span>Rating:</span>${team.Rating}</div>
+    `;
+    cardContainer.appendChild(card);
   }
 }
 

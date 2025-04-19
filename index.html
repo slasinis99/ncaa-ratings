@@ -101,6 +101,34 @@
       .hide-mobile {
         display: none;
       }
+
+      .table-container {
+        display: none;
+      }
+
+      .card-container {
+        display: flex;
+        flex-direction: column;
+        gap: 1em;
+        width: 100%;
+      }
+
+      .card {
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        padding: 1em;
+        background-color: #fff;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+      }
+
+      .card div {
+        margin-bottom: 0.3em;
+      }
+
+      .card div span {
+        font-weight: bold;
+        margin-right: 0.5em;
+      }
     }
 
     input:disabled {
@@ -122,6 +150,10 @@
 
     table {
       min-width: 375px; /* optional: prevent it from shrinking too much */
+    }
+
+    .card-container {
+      display: none;
     }
   </style>
 </head>
@@ -211,6 +243,9 @@
       </tbody>
     </table>
   </div>
+
+  <!-- Add this for mobile cards -->
+  <div id="card-view" class="card-container"></div>
 
   <script src="ratings.js"></script>
 </body>
