@@ -1,5 +1,6 @@
 let currentData = [];
 let sortDirection = { Rank: "asc", Team: "asc" };
+let panZoomInstance = null;
 
 // Load and display ratings from a JSON file
 async function loadRatingsJson(filename) {
@@ -113,6 +114,7 @@ function onRetrieve() {
   const filename = `json/${year}_${method}_${weightLabel}_${confLabel}.json`;
   console.log("Loading:", filename);
   loadRatingsJson(filename);
+  loadBracket(year, method, weight);
 }
 
 function loadSelections() {
@@ -138,7 +140,8 @@ function loadSelections() {
 }
 
 // Run when the script loads
-loadRatingsJson('json/2025_elo_constant_all.json')
+loadRatingsJson("json/2025_elo_constant_all.json")
+loadBracket(2025, 'elo', 'constant')
 
 function onMethodChange() {
   const method = document.getElementById("method").value;
@@ -187,4 +190,38 @@ function downloadCSV() {
   a.click();
   document.body.removeChild(a);
   URL.revokeObjectURL(url);
+}
+
+function loadBracket(year, method, weight) {
+  const svgPath = `output/${year}-${method}-${weight}.svg`;
+  const container = document.getElementById('bracket-container');
+
+  fetch(svgPath)
+    .then(res => {
+      if (!res.ok) throw new Error('not found');
+      return res.text();
+    })
+    .then(svgText => {
+      container.innerHTML = svgText;
+      const svgEl = container.querySelector('svg');
+      if (!svgEl) throw new Error('no-svg');
+
+      if (panZoomInstance) panZoomInstance.destroy();
+      panZoomInstance = svgPanZoom(svgEl, {
+        zoomEnabled: true,
+        controlIconsEnabled: true,
+        fit: true,
+        center: true,
+        mouseWheelZoomEnabled: true,
+        dblClickZoomEnabled: true
+      });
+    })
+    .catch(err => {
+      console.warn('Bracket load failed, clearing display:', err);
+      container.innerHTML = '';    // remove any prior bracket
+      if (panZoomInstance) {
+        panZoomInstance.destroy();
+        panZoomInstance = null;
+      }
+    });
 }

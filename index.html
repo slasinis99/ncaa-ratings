@@ -166,6 +166,20 @@
       opacity: 0.8;
     }
 
+    /* Bracket container styling */
+    #bracket-container {
+      width: 90%;
+      max-width: 1200px;
+      overflow-x: auto;
+      border: 1px solid transparent;
+    }
+    #bracket-container svg {
+      display: block;
+      width: 100%;
+      height: auto;
+      margin: 0 auto;
+    }
+
     /* Dark mode overrides */
     @media (prefers-color-scheme: dark) {
       body {
@@ -211,6 +225,16 @@
       }
       .card span {
         color: #ccc;
+      }
+
+      #bracket-container svg text.region-label,
+      #bracket-container svg text.round-label {
+        fill: #e0e0e0 !important;
+      }
+
+      /* leave your team names full–strength white (or whatever you choose) */
+      #bracket-container svg text.team-name {
+        fill: #000000 !important;
       }
 
       /* Disabled controls */
@@ -275,7 +299,8 @@
   
     <button onclick="onRetrieve()">Retrieve</button>
     <button onclick="downloadCSV()">Download CSV</button>
-    </div>
+    <button id="toggle-table">Hide Ratings</button>
+  </div>
   </div>
   <div class="table-container">
     <table id="ratings-table">
@@ -296,6 +321,23 @@
   <!-- Add this for mobile cards -->
   <div id="card-view" class="card-container"></div>
 
+  <h2>Tournament Bracket</h2>
+  <div id="bracket-container"></div>
+
+
   <script src="ratings.js"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/svg-pan-zoom@3.6.1/dist/svg-pan-zoom.min.js"></script>
+
+  <script>
+    const toggleBtn = document.getElementById('toggle-table');
+    const tableContainer = document.querySelector('.table-container');
+  
+    toggleBtn.addEventListener('click', () => {
+      const isHidden = tableContainer.style.display === 'none';
+      tableContainer.style.display = isHidden ? '' : 'none';
+      toggleBtn.textContent = isHidden ? 'Hide Ratings' : 'Show Ratings';
+    });
+  </script>
 </body>
 </html>
