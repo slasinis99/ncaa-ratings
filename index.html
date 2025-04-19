@@ -165,6 +165,62 @@
       cursor: not-allowed;
       opacity: 0.8;
     }
+
+    /* Dark mode overrides */
+    @media (prefers-color-scheme: dark) {
+      body {
+        background-color: #121212;
+        color: #e0e0e0;
+      }
+
+      /* Controls */
+      #controls select,
+      #controls input[type="text"],
+      #controls button {
+        background-color: #1e1e1e;
+        border: 1px solid #333;
+        color: #e0e0e0;
+      }
+      #controls button:hover {
+        background-color: #2a2a2a;
+      }
+
+      /* Table */
+      table {
+        background: #1e1e1e;
+        color: #e0e0e0;
+        box-shadow: none;
+      }
+      th {
+        background-color: #2a2a2a;
+        color: #e0e0e0;
+      }
+      tr:hover {
+        background-color: #272727;
+      }
+      th, td {
+        border-color: #333;
+      }
+
+      /* Cards */
+      .card {
+        background-color: #1e1e1e;
+        border-color: #333;
+        box-shadow: none;
+        color: #e0e0e0;
+      }
+      .card span {
+        color: #ccc;
+      }
+
+      /* Disabled controls */
+      select:disabled,
+      input:disabled,
+      button:disabled {
+        background-color: #2a2a2a;
+        color: #888;
+      }
+    }
   </style>
 </head>
 <body>
