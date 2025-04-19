@@ -209,11 +209,12 @@ function loadBracket(year, method, weight) {
       if (panZoomInstance) panZoomInstance.destroy();
       panZoomInstance = svgPanZoom(svgEl, {
         zoomEnabled: true,
-        controlIconsEnabled: true,
+        controlIconsEnabled: false,
         fit: true,
         center: true,
         mouseWheelZoomEnabled: true,
-        dblClickZoomEnabled: true
+        dblClickZoomEnabled: true,
+        pinchZoomEnabled: true
       });
     })
     .catch(err => {
