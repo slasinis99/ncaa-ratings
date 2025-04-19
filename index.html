@@ -110,6 +110,15 @@
       align-items: center;
       gap: 0.5em;
     }
+
+    .table-container {
+      width: 100%;
+      overflow-x: auto;
+    }
+
+    table {
+      min-width: 600px; /* optional: prevent it from shrinking too much */
+    }
   </style>
 </head>
 <body>
@@ -179,23 +188,25 @@
       <button onclick="downloadCSV()">Download CSV</button>
     </div>
   </div>
-  <table id="ratings-table">
-    <thead>
-      <tr>
-        <thead>
-          <tr>
-            <th onclick="sortTable('Rank')">Rank <span id="arrow-rank">⇅</span></th>
-            <th onclick="sortTable('Team')">Team <span id="arrow-team">⇅</span></th>
-            <th>Conference</th>
-            <th>Rating</th>
-          </tr>
-        </thead>
-      </tr>
-    </thead>
-    <tbody>
-      <!-- JS will insert rows here -->
-    </tbody>
-  </table>
+  <div class="table-container">
+    <table id="ratings-table">
+      <thead>
+        <tr>
+          <thead>
+            <tr>
+              <th onclick="sortTable('Rank')">Rank <span id="arrow-rank">⇅</span></th>
+              <th onclick="sortTable('Team')">Team <span id="arrow-team">⇅</span></th>
+              <th>Conference</th>
+              <th>Rating</th>
+            </tr>
+          </thead>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- JS will insert rows here -->
+      </tbody>
+    </table>
+  </div>
 
   <script src="ratings.js"></script>
 </body>
