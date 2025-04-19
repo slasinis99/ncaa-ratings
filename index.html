@@ -97,6 +97,10 @@
       table {
         font-size: 0.9em;
       }
+
+      .hide-mobile {
+        display: none;
+      }
     }
 
     input:disabled {
@@ -196,7 +200,7 @@
             <tr>
               <th onclick="sortTable('Rank')">Rank <span id="arrow-rank">⇅</span></th>
               <th onclick="sortTable('Team')">Team <span id="arrow-team">⇅</span></th>
-              <th>Conference</th>
+              <th class="hide-mobile">Conference</th>
               <th>Rating</th>
             </tr>
           </thead>

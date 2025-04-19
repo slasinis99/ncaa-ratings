@@ -25,7 +25,7 @@ function populateRatingsTable(data) {
     row.innerHTML = `
       <td>${team.Rank}</td>
       <td>${team.Team}</td>
-      <td>${team.Conference || ""}</td>
+      <td class="hide-mobile">${team.Conference || ""}</td>
       <td>${team.Rating}</td>
     `;
     tbody.appendChild(row);
