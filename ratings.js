@@ -141,7 +141,7 @@ function loadSelections() {
 
 // Run when the script loads
 loadRatingsJson("json/2025_elo_constant_all.json")
-loadBracket(2025, 'elo', 'constant')
+loadBracket("2025", 'elo', 'constant')
 
 function onMethodChange() {
   const method = document.getElementById("method").value;
