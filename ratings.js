@@ -2,6 +2,8 @@ let currentData = [];
 let sortDirection = { Rank: "asc", Team: "asc" };
 let panZoomInstance = null;
 
+console.log("ratings.js loaded at", new Date().toISOString());
+
 // Load and display ratings from a JSON file
 async function loadRatingsJson(filename) {
   try {
@@ -98,6 +100,18 @@ function onRetrieve() {
   const method = document.getElementById("method").value;
   const weight = document.getElementById("weight").value;
   const conferenceInput = document.getElementById("conference").value.trim();
+  const statusMsg = document.getElementById("status-msg");
+
+  // if (statusMsg) statusMsg.textContent = "";
+
+  // if (year === "2026" && method !== "elo") {
+  //   if (statusMsg) {
+  //     statusMsg.textContent = "Colley and Massey are not available for 2026.";
+  //   } else {
+  //     alert("Colley and Massey are not available for 2026.");
+  //   }
+  //   return; // <-- stop here, don't fetch
+  // }
 
   // Save user preferences
   localStorage.setItem("rating_year", year);
@@ -226,3 +240,37 @@ function loadBracket(year, method, weight) {
       }
     });
 }
+
+function lockMethodsForYear() {
+  const yearSelect = document.getElementById('year');
+  const methodSelect = document.getElementById('method');
+
+  const selectedYear = yearSelect.value;
+
+  // grab the option elements themselves
+  const eloOpt = methodSelect.querySelector('option[value="elo"]');
+  const colleyOpt = methodSelect.querySelector('option[value="colley"]');
+  const masseyOpt = methodSelect.querySelector('option[value="massey"]');
+
+  if (selectedYear === '2026') {
+    // lock Colley and Massey
+    colleyOpt.disabled = true;
+    masseyOpt.disabled = true;
+
+    // if user was on one of the now-disabled ones, bump to Elo
+    if (methodSelect.value !== 'elo') {
+      methodSelect.value = 'elo';
+    }
+  } else {
+    // unlock them for earlier years
+    colleyOpt.disabled = false;
+    masseyOpt.disabled = false;
+  }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  const yearSelect = document.getElementById('year');
+  yearSelect.addEventListener('change', lockMethodsForYear);
+  // make sure initial state is correct on page load
+  lockMethodsForYear();
+});
