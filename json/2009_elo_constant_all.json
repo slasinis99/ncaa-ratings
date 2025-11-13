@@ -5,7 +5,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Louisville",
-    "Rating": 1754.7787733693442,
+    "Rating": 1753.885962276662,
     "Rank": 1
   },
   {
@@ -14,7 +14,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Memphis",
-    "Rating": 1748.8570201158154,
+    "Rating": 1749.0948321195278,
     "Rank": 2
   },
   {
@@ -23,7 +23,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Duke",
-    "Rating": 1723.6457057144155,
+    "Rating": 1723.6635955411368,
     "Rank": 3
   },
   {
@@ -31,8 +31,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Pittsburgh",
-    "Rating": 1712.71194171835,
+    "Team": "North Carolina",
+    "Rating": 1712.3168221705373,
     "Rank": 4
   },
   {
@@ -40,8 +40,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "North Carolina",
-    "Rating": 1712.2986741410098,
+    "Team": "Pittsburgh",
+    "Rating": 1711.8542063832308,
     "Rank": 5
   },
   {
@@ -50,7 +50,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Missouri",
-    "Rating": 1700.065649612213,
+    "Rating": 1700.0422592067423,
     "Rank": 6
   },
   {
@@ -59,7 +59,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Connecticut",
-    "Rating": 1699.3827979155487,
+    "Rating": 1698.2867769468048,
     "Rank": 7
   },
   {
@@ -68,7 +68,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Michigan State",
-    "Rating": 1692.013566745332,
+    "Rating": 1692.4611417376789,
     "Rank": 8
   },
   {
@@ -77,7 +77,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Syracuse",
-    "Rating": 1688.5136137844993,
+    "Rating": 1687.3834916110534,
     "Rank": 9
   },
   {
@@ -85,8 +85,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Villanova",
-    "Rating": 1674.443171311461,
+    "Team": "Washington",
+    "Rating": 1674.7625612483694,
     "Rank": 10
   },
   {
@@ -94,8 +94,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Washington",
-    "Rating": 1674.215548870681,
+    "Team": "Villanova",
+    "Rating": 1673.5863995587856,
     "Rank": 11
   },
   {
@@ -104,7 +104,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Purdue",
-    "Rating": 1672.6323920292116,
+    "Rating": 1673.065088399671,
     "Rank": 12
   },
   {
@@ -113,7 +113,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Kansas",
-    "Rating": 1670.3453650475085,
+    "Rating": 1670.2848185526682,
     "Rank": 13
   },
   {
@@ -122,7 +122,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Gonzaga",
-    "Rating": 1667.648197372231,
+    "Rating": 1667.805372321916,
     "Rank": 14
   },
   {
@@ -131,7 +131,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Florida State",
-    "Rating": 1665.0258840455322,
+    "Rating": 1665.0264690524914,
     "Rank": 15
   },
   {
@@ -140,7 +140,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Utah",
-    "Rating": 1659.8103113179625,
+    "Rating": 1659.8324810966208,
     "Rank": 16
   },
   {
@@ -149,7 +149,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "UCLA",
-    "Rating": 1656.6828687929687,
+    "Rating": 1657.0862112983543,
     "Rank": 17
   },
   {
@@ -158,7 +158,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Oklahoma",
-    "Rating": 1655.9030909343633,
+    "Rating": 1655.8787411710048,
     "Rank": 18
   },
   {
@@ -167,7 +167,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "West Virginia",
-    "Rating": 1655.5400904674937,
+    "Rating": 1654.7293026472555,
     "Rank": 19
   },
   {
@@ -176,7 +176,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Wake Forest",
-    "Rating": 1653.6595374362107,
+    "Rating": 1653.7734421240525,
     "Rank": 20
   },
   {
@@ -185,7 +185,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Mississippi State",
-    "Rating": 1653.1691515577454,
+    "Rating": 1653.25752696039,
     "Rank": 21
   },
   {
@@ -194,7 +194,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Siena",
-    "Rating": 1649.315768116388,
+    "Rating": 1649.14015156625,
     "Rank": 22
   },
   {
@@ -202,8 +202,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Auburn",
-    "Rating": 1647.2769442312017,
+    "Team": "Arizona State",
+    "Rating": 1647.7310429184115,
     "Rank": 23
   },
   {
@@ -211,8 +211,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Arizona State",
-    "Rating": 1646.7451746557724,
+    "Team": "Auburn",
+    "Rating": 1647.3263163456218,
     "Rank": 24
   },
   {
@@ -221,7 +221,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Southern California",
-    "Rating": 1645.8154999205915,
+    "Rating": 1646.3006446133982,
     "Rank": 25
   },
   {
@@ -230,7 +230,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Ohio State",
-    "Rating": 1642.8928782414932,
+    "Rating": 1643.4055206716776,
     "Rank": 26
   },
   {
@@ -238,8 +238,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Louisiana State",
-    "Rating": 1641.699997373282,
+    "Team": "Temple",
+    "Rating": 1642.0271364361388,
     "Rank": 27
   },
   {
@@ -247,8 +247,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Temple",
-    "Rating": 1641.1753795770012,
+    "Team": "Louisiana State",
+    "Rating": 1641.773945391658,
     "Rank": 28
   },
   {
@@ -257,7 +257,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Oklahoma State",
-    "Rating": 1639.456954924765,
+    "Rating": 1639.450372645464,
     "Rank": 29
   },
   {
@@ -266,7 +266,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Creighton",
-    "Rating": 1638.5271817974117,
+    "Rating": 1637.4439743610355,
     "Rank": 30
   },
   {
@@ -275,7 +275,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Brigham Young",
-    "Rating": 1634.827778520713,
+    "Rating": 1634.9199612440225,
     "Rank": 31
   },
   {
@@ -284,7 +284,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Western Kentucky",
-    "Rating": 1633.1170839183064,
+    "Rating": 1633.1171628221134,
     "Rank": 32
   },
   {
@@ -293,7 +293,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Northern Iowa",
-    "Rating": 1631.9644112718831,
+    "Rating": 1630.6730082364431,
     "Rank": 33
   },
   {
@@ -302,7 +302,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Tennessee",
-    "Rating": 1629.7302576260197,
+    "Rating": 1629.8291016138614,
     "Rank": 34
   },
   {
@@ -311,7 +311,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Butler",
-    "Rating": 1629.7067394151773,
+    "Rating": 1629.562069560179,
     "Rank": 35
   },
   {
@@ -320,7 +320,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Utah State",
-    "Rating": 1627.8435496857703,
+    "Rating": 1627.8170834765406,
     "Rank": 36
   },
   {
@@ -329,7 +329,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Cleveland State",
-    "Rating": 1626.976185170742,
+    "Rating": 1626.7413697845743,
     "Rank": 37
   },
   {
@@ -338,7 +338,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "San Diego State",
-    "Rating": 1626.3351757664548,
+    "Rating": 1626.34327047871,
     "Rank": 38
   },
   {
@@ -347,7 +347,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Virginia Commonwealth",
-    "Rating": 1625.592734021412,
+    "Rating": 1625.7663892498354,
     "Rank": 39
   },
   {
@@ -356,7 +356,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Illinois",
-    "Rating": 1622.7488755803954,
+    "Rating": 1623.2280832675242,
     "Rank": 40
   },
   {
@@ -365,7 +365,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "New Mexico",
-    "Rating": 1622.0937155820193,
+    "Rating": 1622.1040729789154,
     "Rank": 41
   },
   {
@@ -374,7 +374,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Tulsa",
-    "Rating": 1621.532658865655,
+    "Rating": 1621.6536495926343,
     "Rank": 42
   },
   {
@@ -383,7 +383,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "American",
-    "Rating": 1619.133678994977,
+    "Rating": 1619.1399864382931,
     "Rank": 43
   },
   {
@@ -392,7 +392,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Texas A&M",
-    "Rating": 1617.5398567224588,
+    "Rating": 1617.5265949802565,
     "Rank": 44
   },
   {
@@ -401,7 +401,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Marquette",
-    "Rating": 1616.411140280068,
+    "Rating": 1615.4612072120722,
     "Rank": 45
   },
   {
@@ -410,7 +410,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Maryland",
-    "Rating": 1611.756592631399,
+    "Rating": 1611.7950620687575,
     "Rank": 46
   },
   {
@@ -419,7 +419,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Xavier",
-    "Rating": 1610.0915116641247,
+    "Rating": 1610.8215700867777,
     "Rank": 47
   },
   {
@@ -427,8 +427,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Niagara",
-    "Rating": 1609.3999759600538,
+    "Team": "Dayton",
+    "Rating": 1610.0098202752051,
     "Rank": 48
   },
   {
@@ -436,8 +436,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Dayton",
-    "Rating": 1609.1896457072253,
+    "Team": "Niagara",
+    "Rating": 1609.2376159593923,
     "Rank": 49
   },
   {
@@ -446,7 +446,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Boston College",
-    "Rating": 1607.9052129460815,
+    "Rating": 1607.9526328500483,
     "Rank": 50
   },
   {
@@ -454,8 +454,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Texas",
-    "Rating": 1605.0048381472752,
+    "Team": "North Dakota State",
+    "Rating": 1605.9128179405816,
     "Rank": 51
   },
   {
@@ -463,8 +463,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Binghamton",
-    "Rating": 1600.9288890690736,
+    "Team": "Texas",
+    "Rating": 1604.9963763445658,
     "Rank": 52
   },
   {
@@ -472,8 +472,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Saint Mary's (CA)",
-    "Rating": 1600.8541221415314,
+    "Team": "Binghamton",
+    "Rating": 1601.0024088220794,
     "Rank": 53
   },
   {
@@ -481,8 +481,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Michigan",
-    "Rating": 1599.896231168639,
+    "Team": "Saint Mary's (CA)",
+    "Rating": 1600.9291117506248,
     "Rank": 54
   },
   {
@@ -490,8 +490,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Wisconsin",
-    "Rating": 1598.572387139597,
+    "Team": "Michigan",
+    "Rating": 1600.4367193521257,
     "Rank": 55
   },
   {
@@ -499,8 +499,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Minnesota",
-    "Rating": 1594.6871660927852,
+    "Team": "Wisconsin",
+    "Rating": 1599.1275431983977,
     "Rank": 56
   },
   {
@@ -509,7 +509,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Duquesne",
-    "Rating": 1594.5148357568582,
+    "Rating": 1595.536378807851,
     "Rank": 57
   },
   {
@@ -517,8 +517,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Vanderbilt",
-    "Rating": 1592.5637802780195,
+    "Team": "Minnesota",
+    "Rating": 1595.189557163127,
     "Rank": 58
   },
   {
@@ -526,8 +526,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Clemson",
-    "Rating": 1592.1801858078682,
+    "Team": "Vanderbilt",
+    "Rating": 1592.858770480325,
     "Rank": 59
   },
   {
@@ -535,8 +535,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "North Dakota State",
-    "Rating": 1592.0656611493544,
+    "Team": "Clemson",
+    "Rating": 1592.2082670250572,
     "Rank": 60
   },
   {
@@ -545,7 +545,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Arizona",
-    "Rating": 1590.9566095358423,
+    "Rating": 1591.482430708867,
     "Rank": 61
   },
   {
@@ -553,8 +553,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "UAB",
-    "Rating": 1590.8481402947646,
+    "Team": "California",
+    "Rating": 1591.1294692430502,
     "Rank": 62
   },
   {
@@ -562,8 +562,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "California",
-    "Rating": 1590.6690516712567,
+    "Team": "UAB",
+    "Rating": 1590.9459623289913,
     "Rank": 63
   },
   {
@@ -572,7 +572,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Kansas State",
-    "Rating": 1590.5380114222417,
+    "Rating": 1590.4932280802052,
     "Rank": 64
   },
   {
@@ -580,8 +580,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Illinois State",
-    "Rating": 1590.0636161074342,
+    "Team": "Washington State",
+    "Rating": 1589.5176286901733,
     "Rank": 65
   },
   {
@@ -589,8 +589,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Washington State",
-    "Rating": 1589.0323352863386,
+    "Team": "Illinois State",
+    "Rating": 1588.9332025466445,
     "Rank": 66
   },
   {
@@ -599,7 +599,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Virginia Tech",
-    "Rating": 1588.238264389832,
+    "Rating": 1588.2535357675213,
     "Rank": 67
   },
   {
@@ -608,7 +608,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Nevada",
-    "Rating": 1586.432851373865,
+    "Rating": 1586.4327521855791,
     "Rank": 68
   },
   {
@@ -617,7 +617,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Notre Dame",
-    "Rating": 1585.418053341986,
+    "Rating": 1584.628624140299,
     "Rank": 69
   },
   {
@@ -626,7 +626,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Providence",
-    "Rating": 1584.8734298969164,
+    "Rating": 1584.0660181043663,
     "Rank": 70
   },
   {
@@ -634,8 +634,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Old Dominion",
-    "Rating": 1582.9625341907033,
+    "Team": "Rhode Island",
+    "Rating": 1583.9127512152124,
     "Rank": 71
   },
   {
@@ -643,8 +643,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Rhode Island",
-    "Rating": 1582.76594946895,
+    "Team": "Old Dominion",
+    "Rating": 1583.3308119430046,
     "Rank": 72
   },
   {
@@ -653,7 +653,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Penn State",
-    "Rating": 1582.38428986298,
+    "Rating": 1583.0056385762412,
     "Rank": 73
   },
   {
@@ -661,8 +661,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Florida",
-    "Rating": 1582.178494358527,
+    "Team": "Houston",
+    "Rating": 1582.2378181053723,
     "Rank": 74
   },
   {
@@ -670,8 +670,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Houston",
-    "Rating": 1581.9607827023024,
+    "Team": "Florida",
+    "Rating": 1582.216540381598,
     "Rank": 75
   },
   {
@@ -680,7 +680,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Alabama",
-    "Rating": 1581.751298079405,
+    "Rating": 1581.8363830579851,
     "Rank": 76
   },
   {
@@ -689,7 +689,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Baylor",
-    "Rating": 1581.690731615936,
+    "Rating": 1581.6813961586186,
     "Rank": 77
   },
   {
@@ -698,7 +698,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "South Carolina",
-    "Rating": 1581.401979329121,
+    "Rating": 1581.496194046107,
     "Rank": 78
   },
   {
@@ -707,7 +707,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Stephen F. Austin",
-    "Rating": 1579.5569006761,
+    "Rating": 1579.5407856349514,
     "Rank": 79
   },
   {
@@ -716,7 +716,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Vermont",
-    "Rating": 1578.2021847694184,
+    "Rating": 1578.2211458726836,
     "Rank": 80
   },
   {
@@ -725,7 +725,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Robert Morris",
-    "Rating": 1576.9094192227797,
+    "Rating": 1576.8678002281752,
     "Rank": 81
   },
   {
@@ -734,7 +734,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Miami (FL)",
-    "Rating": 1575.472577492124,
+    "Rating": 1575.4956463283595,
     "Rank": 82
   },
   {
@@ -743,7 +743,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Little Rock",
-    "Rating": 1574.8102055766456,
+    "Rating": 1574.821905344902,
     "Rank": 83
   },
   {
@@ -752,7 +752,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Wright State",
-    "Rating": 1573.037129098539,
+    "Rating": 1573.2155425732003,
     "Rank": 84
   },
   {
@@ -761,7 +761,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Akron",
-    "Rating": 1570.6569598498047,
+    "Rating": 1569.9299248513012,
     "Rank": 85
   },
   {
@@ -770,7 +770,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "UTEP",
-    "Rating": 1569.600608604561,
+    "Rating": 1569.7033300804576,
     "Rank": 86
   },
   {
@@ -779,7 +779,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Davidson",
-    "Rating": 1569.5825471585315,
+    "Rating": 1569.558498368164,
     "Rank": 87
   },
   {
@@ -788,7 +788,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "College of Charleston",
-    "Rating": 1568.5458174742214,
+    "Rating": 1568.5295844069642,
     "Rank": 88
   },
   {
@@ -797,7 +797,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Radford",
-    "Rating": 1565.3755387071203,
+    "Rating": 1565.361212906186,
     "Rank": 89
   },
   {
@@ -806,7 +806,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Northwestern",
-    "Rating": 1561.5004072831528,
+    "Rating": 1561.997763552044,
     "Rank": 90
   },
   {
@@ -814,8 +814,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Seton Hall",
-    "Rating": 1560.8213373554076,
+    "Team": "George Mason",
+    "Rating": 1561.0707517303597,
     "Rank": 91
   },
   {
@@ -823,8 +823,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "George Mason",
-    "Rating": 1560.762553388656,
+    "Team": "Nevada-Las Vegas",
+    "Rating": 1560.4951976529412,
     "Rank": 92
   },
   {
@@ -832,8 +832,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Nevada-Las Vegas",
-    "Rating": 1560.6444290203592,
+    "Team": "Troy",
+    "Rating": 1559.8813485356077,
     "Rank": 93
   },
   {
@@ -841,8 +841,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Troy",
-    "Rating": 1559.8666830761008,
+    "Team": "Richmond",
+    "Rating": 1558.5417121190867,
     "Rank": 94
   },
   {
@@ -851,7 +851,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Green Bay",
-    "Rating": 1558.4572374837587,
+    "Rating": 1558.1720209997031,
     "Rank": 95
   },
   {
@@ -860,7 +860,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "South Alabama",
-    "Rating": 1557.7686437725886,
+    "Rating": 1557.7788777955243,
     "Rank": 96
   },
   {
@@ -868,8 +868,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Richmond",
-    "Rating": 1557.7644808795114,
+    "Team": "Seton Hall",
+    "Rating": 1556.9441399875502,
     "Rank": 97
   },
   {
@@ -878,7 +878,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Kentucky",
-    "Rating": 1556.789787836938,
+    "Rating": 1556.9237467477835,
     "Rank": 98
   },
   {
@@ -887,7 +887,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Stanford",
-    "Rating": 1555.185039757299,
+    "Rating": 1555.6434038794278,
     "Rank": 99
   },
   {
@@ -896,7 +896,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Weber State",
-    "Rating": 1554.0482960098366,
+    "Rating": 1554.1239793994898,
     "Rank": 100
   },
   {
@@ -904,8 +904,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "NC State",
-    "Rating": 1552.0512136280774,
+    "Team": "Oakland",
+    "Rating": 1553.519015837625,
     "Rank": 101
   },
   {
@@ -913,8 +913,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Nebraska",
-    "Rating": 1551.5419491444738,
+    "Team": "NC State",
+    "Rating": 1552.071142480987,
     "Rank": 102
   },
   {
@@ -922,8 +922,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Portland State",
-    "Rating": 1549.8961862489955,
+    "Team": "Nebraska",
+    "Rating": 1551.477896444459,
     "Rank": 103
   },
   {
@@ -931,8 +931,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Wichita State",
-    "Rating": 1549.4423714705372,
+    "Team": "Portland State",
+    "Rating": 1550.037168129652,
     "Rank": 104
   },
   {
@@ -940,8 +940,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Wyoming",
-    "Rating": 1548.1090047586974,
+    "Team": "Wichita State",
+    "Rating": 1548.205283225844,
     "Rank": 105
   },
   {
@@ -949,8 +949,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Morgan State",
-    "Rating": 1547.563146060156,
+    "Team": "Wyoming",
+    "Rating": 1548.1213391095291,
     "Rank": 106
   },
   {
@@ -959,7 +959,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "La Salle",
-    "Rating": 1546.893076060577,
+    "Rating": 1547.899114096843,
     "Rank": 107
   },
   {
@@ -967,8 +967,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Rider",
-    "Rating": 1546.742006636405,
+    "Team": "Morgan State",
+    "Rating": 1547.571868525702,
     "Rank": 108
   },
   {
@@ -976,8 +976,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Cal State Northridge",
-    "Rating": 1545.4278012317857,
+    "Team": "Rider",
+    "Rating": 1546.6615126335216,
     "Rank": 109
   },
   {
@@ -985,8 +985,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Georgetown",
-    "Rating": 1542.9576122216115,
+    "Team": "Cal State Northridge",
+    "Rating": 1545.4374127239057,
     "Rank": 110
   },
   {
@@ -995,7 +995,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "North Texas",
-    "Rating": 1542.223176929382,
+    "Rating": 1542.2338342397318,
     "Rank": 111
   },
   {
@@ -1003,8 +1003,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Bradley",
-    "Rating": 1542.1755572979607,
+    "Team": "Georgetown",
+    "Rating": 1542.1068259287345,
     "Rank": 112
   },
   {
@@ -1013,7 +1013,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Cornell",
-    "Rating": 1540.828584665087,
+    "Rating": 1541.1126457624537,
     "Rank": 113
   },
   {
@@ -1021,8 +1021,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "The Citadel",
-    "Rating": 1539.187634980214,
+    "Team": "Bradley",
+    "Rating": 1540.9604069407756,
     "Rank": 114
   },
   {
@@ -1030,8 +1030,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Oakland",
-    "Rating": 1538.6022688077703,
+    "Team": "The Citadel",
+    "Rating": 1539.169716731773,
     "Rank": 115
   },
   {
@@ -1040,7 +1040,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Hofstra",
-    "Rating": 1536.5425986039168,
+    "Rating": 1536.8946023640815,
     "Rank": 116
   },
   {
@@ -1049,7 +1049,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Saint Louis",
-    "Rating": 1535.3746996291577,
+    "Rating": 1536.257020717671,
     "Rank": 117
   },
   {
@@ -1058,7 +1058,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Buffalo",
-    "Rating": 1532.5669226970936,
+    "Rating": 1531.8663476636636,
     "Rank": 118
   },
   {
@@ -1066,8 +1066,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "St. John's (NY)",
-    "Rating": 1532.22043742316,
+    "Team": "Tennessee-Martin",
+    "Rating": 1531.3599661381947,
     "Rank": 119
   },
   {
@@ -1075,8 +1075,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Tennessee-Martin",
-    "Rating": 1531.6814240581969,
+    "Team": "St. John's (NY)",
+    "Rating": 1531.116135311071,
     "Rank": 120
   },
   {
@@ -1085,7 +1085,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Mississippi",
-    "Rating": 1530.8684592873235,
+    "Rating": 1530.9336448474646,
     "Rank": 121
   },
   {
@@ -1094,7 +1094,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Murray State",
-    "Rating": 1530.8439997090177,
+    "Rating": 1530.5595086816488,
     "Rank": 122
   },
   {
@@ -1103,7 +1103,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Kent State",
-    "Rating": 1530.7434898764764,
+    "Rating": 1530.0213790674975,
     "Rank": 123
   },
   {
@@ -1112,7 +1112,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "VMI",
-    "Rating": 1528.8363803006382,
+    "Rating": 1528.8054110430935,
     "Rank": 124
   },
   {
@@ -1121,7 +1121,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "New Mexico State",
-    "Rating": 1528.4458032231244,
+    "Rating": 1528.4305376570044,
     "Rank": 125
   },
   {
@@ -1130,7 +1130,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Morehead State",
-    "Rating": 1527.9677378133924,
+    "Rating": 1527.61571004363,
     "Rank": 126
   },
   {
@@ -1139,7 +1139,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Holy Cross",
-    "Rating": 1527.3135730196436,
+    "Rating": 1527.27888180808,
     "Rank": 127
   },
   {
@@ -1148,7 +1148,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Illinois-Chicago",
-    "Rating": 1526.5585250369115,
+    "Rating": 1526.284057266608,
     "Rank": 128
   },
   {
@@ -1157,7 +1157,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Tulane",
-    "Rating": 1526.1187061718483,
+    "Rating": 1526.2056782424909,
     "Rank": 129
   },
   {
@@ -1166,7 +1166,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Alabama State",
-    "Rating": 1525.8007843000037,
+    "Rating": 1525.7280300613163,
     "Rank": 130
   },
   {
@@ -1174,8 +1174,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Bowling Green State",
-    "Rating": 1523.4187167785278,
+    "Team": "Texas Tech",
+    "Rating": 1522.900959326552,
     "Rank": 131
   },
   {
@@ -1183,8 +1183,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Texas Tech",
-    "Rating": 1522.906720699783,
+    "Team": "Virginia",
+    "Rating": 1522.6667035310502,
     "Rank": 132
   },
   {
@@ -1192,8 +1192,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Virginia",
-    "Rating": 1522.6481694989625,
+    "Team": "Bowling Green State",
+    "Rating": 1522.649897677152,
     "Rank": 133
   },
   {
@@ -1202,7 +1202,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Georgia Tech",
-    "Rating": 1521.5594198289762,
+    "Rating": 1521.5783704033586,
     "Rank": 134
   },
   {
@@ -1210,8 +1210,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Indiana State",
-    "Rating": 1519.9850520181951,
+    "Team": "Saint Joseph's",
+    "Rating": 1520.2995009954743,
     "Rank": 135
   },
   {
@@ -1219,8 +1219,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Cincinnati",
-    "Rating": 1519.9753293856888,
+    "Team": "Idaho",
+    "Rating": 1519.4973002596053,
     "Rank": 136
   },
   {
@@ -1228,8 +1228,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Idaho",
-    "Rating": 1519.4966903555253,
+    "Team": "Mount St. Mary's",
+    "Rating": 1519.4282411408765,
     "Rank": 137
   },
   {
@@ -1237,8 +1237,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Mount St. Mary's",
-    "Rating": 1519.4646981087994,
+    "Team": "Cincinnati",
+    "Rating": 1519.1082542681888,
     "Rank": 138
   },
   {
@@ -1246,8 +1246,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Saint Joseph's",
-    "Rating": 1519.227456845996,
+    "Team": "Chattanooga",
+    "Rating": 1519.0995298482194,
     "Rank": 139
   },
   {
@@ -1255,8 +1255,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Chattanooga",
-    "Rating": 1519.112726979249,
+    "Team": "Iowa",
+    "Rating": 1518.9016373605857,
     "Rank": 140
   },
   {
@@ -1265,7 +1265,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Nicholls State",
-    "Rating": 1518.7869501439518,
+    "Rating": 1518.7780740227377,
     "Rank": 141
   },
   {
@@ -1274,7 +1274,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "East Tennessee State",
-    "Rating": 1518.2477625161027,
+    "Rating": 1518.2654529692045,
     "Rank": 142
   },
   {
@@ -1283,7 +1283,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Louisiana Tech",
-    "Rating": 1518.2227798580675,
+    "Rating": 1518.2041966122947,
     "Rank": 143
   },
   {
@@ -1291,8 +1291,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Iowa",
-    "Rating": 1518.1570943364484,
+    "Team": "Indiana State",
+    "Rating": 1517.228753925016,
     "Rank": 144
   },
   {
@@ -1301,7 +1301,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Pacific",
-    "Rating": 1516.53483872382,
+    "Rating": 1516.5518598277245,
     "Rank": 145
   },
   {
@@ -1310,7 +1310,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Evansville",
-    "Rating": 1515.1732886568036,
+    "Rating": 1513.9181839513228,
     "Rank": 146
   },
   {
@@ -1318,8 +1318,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Sam Houston",
-    "Rating": 1509.3381776186416,
+    "Team": "Massachusetts",
+    "Rating": 1512.484514973082,
     "Rank": 147
   },
   {
@@ -1327,8 +1327,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Massachusetts",
-    "Rating": 1509.1836959543516,
+    "Team": "Sam Houston",
+    "Rating": 1509.3262257444771,
     "Rank": 148
   },
   {
@@ -1336,8 +1336,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Austin Peay",
-    "Rating": 1507.8584940346682,
+    "Team": "Oregon State",
+    "Rating": 1508.0005228813206,
     "Rank": 149
   },
   {
@@ -1345,8 +1345,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Oregon State",
-    "Rating": 1507.5678861370222,
+    "Team": "Sacred Heart",
+    "Rating": 1507.3983089343503,
     "Rank": 150
   },
   {
@@ -1354,8 +1354,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Sacred Heart",
-    "Rating": 1507.3877886595435,
+    "Team": "Austin Peay",
+    "Rating": 1507.3938076914592,
     "Rank": 151
   },
   {
@@ -1364,7 +1364,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "UC Santa Barbara",
-    "Rating": 1506.9541969484585,
+    "Rating": 1506.9606339242769,
     "Rank": 152
   },
   {
@@ -1373,7 +1373,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Milwaukee",
-    "Rating": 1505.8790452029332,
+    "Rating": 1506.74303743316,
     "Rank": 153
   },
   {
@@ -1382,7 +1382,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Portland",
-    "Rating": 1505.0966153261645,
+    "Rating": 1505.169708800844,
     "Rank": 154
   },
   {
@@ -1391,7 +1391,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Northeastern",
-    "Rating": 1502.8984713567302,
+    "Rating": 1504.5257336453735,
     "Rank": 155
   },
   {
@@ -1400,7 +1400,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Santa Clara",
-    "Rating": 1501.0030002652147,
+    "Rating": 1501.072088219234,
     "Rank": 156
   },
   {
@@ -1408,8 +1408,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Southern Illinois",
-    "Rating": 1500.779525471353,
+    "Team": "Texas A&M-Corpus Christi",
+    "Rating": 1500.6506850205535,
     "Rank": 157
   },
   {
@@ -1417,8 +1417,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Texas A&M-Corpus Christi",
-    "Rating": 1500.6374819902785,
+    "Team": "Iowa State",
+    "Rating": 1500.446495056592,
     "Rank": 158
   },
   {
@@ -1426,8 +1426,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Iowa State",
-    "Rating": 1500.479593574056,
+    "Team": "Oral Roberts",
+    "Rating": 1500.086553030451,
     "Rank": 159
   },
   {
@@ -1435,8 +1435,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "IU Indy",
-    "Rating": 1500.0,
+    "Team": "Boise State",
+    "Rating": 1499.916653945895,
     "Rank": 160
   },
   {
@@ -1444,8 +1444,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Boise State",
-    "Rating": 1499.9460714618642,
+    "Team": "Boston University",
+    "Rating": 1499.752161511884,
     "Rank": 161
   },
   {
@@ -1453,8 +1453,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Boston University",
-    "Rating": 1499.5975459147476,
+    "Team": "Southern Illinois",
+    "Rating": 1499.4453061756965,
     "Rank": 162
   },
   {
@@ -1463,7 +1463,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Morris Brown",
-    "Rating": 1499.2042302954833,
+    "Rating": 1499.203584233289,
     "Rank": 163
   },
   {
@@ -1472,7 +1472,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Birmingham-Southern",
-    "Rating": 1499.1741758908508,
+    "Rating": 1499.2024034921271,
     "Rank": 164
   },
   {
@@ -1481,7 +1481,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Liberty",
-    "Rating": 1498.8972822105552,
+    "Rating": 1498.893894144053,
     "Rank": 165
   },
   {
@@ -1490,7 +1490,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Wofford",
-    "Rating": 1498.1485342681046,
+    "Rating": 1498.1359241958344,
     "Rank": 166
   },
   {
@@ -1499,7 +1499,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "New Hampshire",
-    "Rating": 1494.2513174611952,
+    "Rating": 1494.3375249659434,
     "Rank": 167
   },
   {
@@ -1507,8 +1507,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Miami (OH)",
-    "Rating": 1493.3447856629562,
+    "Team": "Denver",
+    "Rating": 1492.6296379854205,
     "Rank": 168
   },
   {
@@ -1516,8 +1516,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Denver",
-    "Rating": 1492.6129075236413,
+    "Team": "Miami (OH)",
+    "Rating": 1492.5985932969843,
     "Rank": 169
   },
   {
@@ -1526,7 +1526,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Lipscomb",
-    "Rating": 1492.208557354092,
+    "Rating": 1492.3518341127403,
     "Rank": 170
   },
   {
@@ -1535,7 +1535,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Jacksonville",
-    "Rating": 1491.5969421373609,
+    "Rating": 1491.6307163852232,
     "Rank": 171
   },
   {
@@ -1544,7 +1544,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Jackson State",
-    "Rating": 1490.0564018488187,
+    "Rating": 1489.9922541597807,
     "Rank": 172
   },
   {
@@ -1553,7 +1553,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "James Madison",
-    "Rating": 1489.0585995898518,
+    "Rating": 1489.1177394485226,
     "Rank": 173
   },
   {
@@ -1562,7 +1562,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Fairfield",
-    "Rating": 1488.8669204690475,
+    "Rating": 1488.829502284492,
     "Rank": 174
   },
   {
@@ -1571,7 +1571,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Maryland-Baltimore County",
-    "Rating": 1487.2729720829896,
+    "Rating": 1487.3485376630736,
     "Rank": 175
   },
   {
@@ -1580,7 +1580,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Marshall",
-    "Rating": 1485.936909816863,
+    "Rating": 1485.9941754490617,
     "Rank": 176
   },
   {
@@ -1588,8 +1588,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "UTSA",
-    "Rating": 1483.3682171511796,
+    "Team": "St. Bonaventure",
+    "Rating": 1483.5856785642184,
     "Rank": 177
   },
   {
@@ -1597,8 +1597,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "St. Bonaventure",
-    "Rating": 1482.810327026635,
+    "Team": "UTSA",
+    "Rating": 1483.339376723633,
     "Rank": 178
   },
   {
@@ -1606,8 +1606,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Oral Roberts",
-    "Rating": 1482.5213421602762,
+    "Team": "Chicago State",
+    "Rating": 1480.9527601392635,
     "Rank": 179
   },
   {
@@ -1615,8 +1615,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Chicago State",
-    "Rating": 1481.6601995177612,
+    "Team": "Eastern Kentucky",
+    "Rating": 1480.3739817958333,
     "Rank": 180
   },
   {
@@ -1624,8 +1624,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Eastern Kentucky",
-    "Rating": 1480.7471783014958,
+    "Team": "Middle Tennessee",
+    "Rating": 1480.159151453987,
     "Rank": 181
   },
   {
@@ -1633,8 +1633,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Middle Tennessee",
-    "Rating": 1480.1466333532856,
+    "Team": "Montana",
+    "Rating": 1479.8363661328283,
     "Rank": 182
   },
   {
@@ -1642,8 +1642,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Montana",
-    "Rating": 1479.7109006950338,
+    "Team": "Quinnipiac",
+    "Rating": 1478.9608063558942,
     "Rank": 183
   },
   {
@@ -1651,8 +1651,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Drake",
-    "Rating": 1479.4063785703806,
+    "Team": "Idaho State",
+    "Rating": 1478.5469328474005,
     "Rank": 184
   },
   {
@@ -1660,8 +1660,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Quinnipiac",
-    "Rating": 1478.9941068601568,
+    "Team": "Arkansas",
+    "Rating": 1478.3130649770471,
     "Rank": 185
   },
   {
@@ -1669,8 +1669,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Idaho State",
-    "Rating": 1478.3841239757894,
+    "Team": "Georgia",
+    "Rating": 1478.1103606290526,
     "Rank": 186
   },
   {
@@ -1678,8 +1678,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Arkansas",
-    "Rating": 1478.2648419828329,
+    "Team": "Drake",
+    "Rating": 1478.0308688450768,
     "Rank": 187
   },
   {
@@ -1687,8 +1687,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Georgia",
-    "Rating": 1478.021871548934,
+    "Team": "Georgia State",
+    "Rating": 1477.9630134514,
     "Rank": 188
   },
   {
@@ -1696,8 +1696,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Georgia State",
-    "Rating": 1477.6567168486547,
+    "Team": "UNC Asheville",
+    "Rating": 1476.0908444533395,
     "Rank": 189
   },
   {
@@ -1705,8 +1705,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "UNC Asheville",
-    "Rating": 1476.1225359533512,
+    "Team": "Saint Peter's",
+    "Rating": 1474.562908059851,
     "Rank": 190
   },
   {
@@ -1714,8 +1714,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Saint Peter's",
-    "Rating": 1474.6475902483678,
+    "Team": "Stony Brook",
+    "Rating": 1472.9844485366089,
     "Rank": 191
   },
   {
@@ -1723,8 +1723,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Stony Brook",
-    "Rating": 1472.9043110672278,
+    "Team": "Manhattan",
+    "Rating": 1472.790954579837,
     "Rank": 192
   },
   {
@@ -1732,8 +1732,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Manhattan",
-    "Rating": 1472.8327270729717,
+    "Team": "San Diego",
+    "Rating": 1470.6775113822196,
     "Rank": 193
   },
   {
@@ -1741,8 +1741,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "San Diego",
-    "Rating": 1470.6254657524096,
+    "Team": "Central Florida",
+    "Rating": 1470.174097192029,
     "Rank": 194
   },
   {
@@ -1750,8 +1750,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Central Florida",
-    "Rating": 1470.1020102825082,
+    "Team": "Long Island University",
+    "Rating": 1468.8117499056937,
     "Rank": 195
   },
   {
@@ -1759,8 +1759,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Long Island University",
-    "Rating": 1468.8696238059372,
+    "Team": "Western Carolina",
+    "Rating": 1468.0266656128365,
     "Rank": 196
   },
   {
@@ -1768,8 +1768,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Western Carolina",
-    "Rating": 1468.0448468239872,
+    "Team": "Navy",
+    "Rating": 1467.229900417734,
     "Rank": 197
   },
   {
@@ -1777,8 +1777,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Navy",
-    "Rating": 1467.2264451657363,
+    "Team": "Oregon",
+    "Rating": 1467.1845482339313,
     "Rank": 198
   },
   {
@@ -1786,8 +1786,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Oregon",
-    "Rating": 1466.752469970783,
+    "Team": "Long Beach State",
+    "Rating": 1466.5233489984992,
     "Rank": 199
   },
   {
@@ -1796,7 +1796,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Samford",
-    "Rating": 1466.545661550883,
+    "Rating": 1466.5232262124975,
     "Rank": 200
   },
   {
@@ -1804,8 +1804,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Youngstown State",
-    "Rating": 1466.5296113010943,
+    "Team": "Southern Mississippi",
+    "Rating": 1466.507120469145,
     "Rank": 201
   },
   {
@@ -1813,8 +1813,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Long Beach State",
-    "Rating": 1466.5206771379544,
+    "Team": "Youngstown State",
+    "Rating": 1466.3544328177484,
     "Rank": 202
   },
   {
@@ -1822,8 +1822,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Southern Mississippi",
-    "Rating": 1466.419162169263,
+    "Team": "Wagner",
+    "Rating": 1466.1603708648552,
     "Rank": 203
   },
   {
@@ -1831,8 +1831,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Wagner",
-    "Rating": 1466.201948250496,
+    "Team": "TCU",
+    "Rating": 1465.9006546670032,
     "Rank": 204
   },
   {
@@ -1840,8 +1840,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "TCU",
-    "Rating": 1465.8112881435054,
+    "Team": "Yale",
+    "Rating": 1465.1463881611917,
     "Rank": 205
   },
   {
@@ -1849,8 +1849,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Yale",
-    "Rating": 1464.9577983001689,
+    "Team": "Drexel",
+    "Rating": 1463.237591590428,
     "Rank": 206
   },
   {
@@ -1858,8 +1858,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Purdue Fort Wayne",
-    "Rating": 1464.8038908168246,
+    "Team": "Canisius",
+    "Rating": 1463.091124485621,
     "Rank": 207
   },
   {
@@ -1867,8 +1867,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Canisius",
-    "Rating": 1463.238896583437,
+    "Team": "Tennessee State",
+    "Rating": 1462.3520091253731,
     "Rank": 208
   },
   {
@@ -1876,8 +1876,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Drexel",
-    "Rating": 1462.7587424420933,
+    "Team": "UC Irvine",
+    "Rating": 1462.2584220234385,
     "Rank": 209
   },
   {
@@ -1885,8 +1885,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Tennessee State",
-    "Rating": 1462.6802619816306,
+    "Team": "Florida International",
+    "Rating": 1461.6067599922053,
     "Rank": 210
   },
   {
@@ -1894,8 +1894,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "UC Irvine",
-    "Rating": 1462.2496492420255,
+    "Team": "South Carolina State",
+    "Rating": 1460.4171891545138,
     "Rank": 211
   },
   {
@@ -1903,8 +1903,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Florida International",
-    "Rating": 1461.5992784393875,
+    "Team": "UC Riverside",
+    "Rating": 1459.5789039812475,
     "Rank": 212
   },
   {
@@ -1912,8 +1912,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "South Carolina State",
-    "Rating": 1460.4221050360766,
+    "Team": "George Washington",
+    "Rating": 1459.533347336965,
     "Rank": 213
   },
   {
@@ -1921,8 +1921,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "UC Riverside",
-    "Rating": 1459.593086100972,
+    "Team": "IUPUI",
+    "Rating": 1458.7548591938996,
     "Rank": 214
   },
   {
@@ -1930,8 +1930,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "George Washington",
-    "Rating": 1458.7055592625206,
+    "Team": "Charlotte",
+    "Rating": 1458.3800357821056,
     "Rank": 215
   },
   {
@@ -1940,7 +1940,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "UT Arlington",
-    "Rating": 1458.04997700772,
+    "Rating": 1458.0518758784272,
     "Rank": 216
   },
   {
@@ -1949,7 +1949,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "South Florida",
-    "Rating": 1457.6437415694927,
+    "Rating": 1456.5397546555116,
     "Rank": 217
   },
   {
@@ -1957,8 +1957,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Charlotte",
-    "Rating": 1457.5926924433134,
+    "Team": "San Jose State",
+    "Rating": 1456.4847666110045,
     "Rank": 218
   },
   {
@@ -1966,8 +1966,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "San Jose State",
-    "Rating": 1456.4895681161297,
+    "Team": "Harvard",
+    "Rating": 1456.305529711408,
     "Rank": 219
   },
   {
@@ -1975,8 +1975,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Harvard",
-    "Rating": 1456.0084319859684,
+    "Team": "Valparaiso",
+    "Rating": 1455.0034541275277,
     "Rank": 220
   },
   {
@@ -1984,8 +1984,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Valparaiso",
-    "Rating": 1455.2387206059043,
+    "Team": "Army",
+    "Rating": 1454.992474425815,
     "Rank": 221
   },
   {
@@ -1993,8 +1993,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Army",
-    "Rating": 1454.9793992245793,
+    "Team": "Texas State",
+    "Rating": 1453.6444907814966,
     "Rank": 222
   },
   {
@@ -2002,8 +2002,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Rutgers",
-    "Rating": 1454.7946747076658,
+    "Team": "Belmont",
+    "Rating": 1453.5749458626833,
     "Rank": 223
   },
   {
@@ -2011,8 +2011,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Texas State",
-    "Rating": 1453.6398991251187,
+    "Team": "Rutgers",
+    "Rating": 1453.547629980104,
     "Rank": 224
   },
   {
@@ -2020,8 +2020,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Belmont",
-    "Rating": 1453.5854025029644,
+    "Team": "Purdue Fort Wayne",
+    "Rating": 1452.5775351907178,
     "Rank": 225
   },
   {
@@ -2030,7 +2030,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Norfolk State",
-    "Rating": 1448.9752130077045,
+    "Rating": 1448.983028190337,
     "Rank": 226
   },
   {
@@ -2039,7 +2039,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Delaware",
-    "Rating": 1448.00403387196,
+    "Rating": 1448.3902562513338,
     "Rank": 227
   },
   {
@@ -2048,7 +2048,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Princeton",
-    "Rating": 1447.9221848727625,
+    "Rating": 1448.080049566733,
     "Rank": 228
   },
   {
@@ -2057,7 +2057,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Towson",
-    "Rating": 1447.3009197230313,
+    "Rating": 1447.7284199594726,
     "Rank": 229
   },
   {
@@ -2066,7 +2066,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Fresno State",
-    "Rating": 1444.3871369833912,
+    "Rating": 1444.386516431969,
     "Rank": 230
   },
   {
@@ -2075,7 +2075,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Rice",
-    "Rating": 1443.5608909743332,
+    "Rating": 1443.6655529925729,
     "Rank": 231
   },
   {
@@ -2083,8 +2083,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "DePaul",
-    "Rating": 1443.484639989067,
+    "Team": "Cal State Fullerton",
+    "Rating": 1443.0943054525133,
     "Rank": 232
   },
   {
@@ -2092,8 +2092,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Central Michigan",
-    "Rating": 1443.1317944065509,
+    "Team": "DePaul",
+    "Rating": 1442.661917116422,
     "Rank": 233
   },
   {
@@ -2101,8 +2101,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Cal State Fullerton",
-    "Rating": 1443.085032813056,
+    "Team": "Central Michigan",
+    "Rating": 1442.1394318251607,
     "Rank": 234
   },
   {
@@ -2110,8 +2110,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Missouri State",
-    "Rating": 1440.7614671748447,
+    "Team": "Montana State",
+    "Rating": 1439.9579760950724,
     "Rank": 235
   },
   {
@@ -2119,8 +2119,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Montana State",
-    "Rating": 1439.8370260582285,
+    "Team": "Missouri State",
+    "Rating": 1439.5143512667764,
     "Rank": 236
   },
   {
@@ -2129,7 +2129,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Loyola (IL)",
-    "Rating": 1439.260005573289,
+    "Rating": 1439.0861828657123,
     "Rank": 237
   },
   {
@@ -2138,7 +2138,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Coppin State",
-    "Rating": 1438.5698206925042,
+    "Rating": 1438.5628593559068,
     "Rank": 238
   },
   {
@@ -2146,8 +2146,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Ohio",
-    "Rating": 1438.253746162723,
+    "Team": "Campbell",
+    "Rating": 1438.190472221753,
     "Rank": 239
   },
   {
@@ -2155,8 +2155,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Campbell",
-    "Rating": 1438.1916679065787,
+    "Team": "Ohio",
+    "Rating": 1437.3872734932838,
     "Rank": 240
   },
   {
@@ -2164,8 +2164,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Southern Methodist",
-    "Rating": 1434.76202993044,
+    "Team": "Southern Utah",
+    "Rating": 1434.8887226363704,
     "Rank": 241
   },
   {
@@ -2173,8 +2173,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Northern Colorado",
-    "Rating": 1434.6296073325768,
+    "Team": "Southern Methodist",
+    "Rating": 1434.87097486062,
     "Rank": 242
   },
   {
@@ -2182,8 +2182,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Colorado State",
-    "Rating": 1433.373826898006,
+    "Team": "Northern Colorado",
+    "Rating": 1434.749873001449,
     "Rank": 243
   },
   {
@@ -2191,8 +2191,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Albany (NY)",
-    "Rating": 1432.3781572649632,
+    "Team": "Colorado State",
+    "Rating": 1433.3977059563492,
     "Rank": 244
   },
   {
@@ -2201,7 +2201,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Indiana",
-    "Rating": 1431.690880612761,
+    "Rating": 1433.2741429104078,
     "Rank": 245
   },
   {
@@ -2209,8 +2209,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Appalachian State",
-    "Rating": 1431.2723741345935,
+    "Team": "Albany (NY)",
+    "Rating": 1432.4480348801342,
     "Rank": 246
   },
   {
@@ -2218,8 +2218,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Southeastern Louisiana",
-    "Rating": 1429.7324505680783,
+    "Team": "Appalachian State",
+    "Rating": 1431.263319014333,
     "Rank": 247
   },
   {
@@ -2228,7 +2228,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "William & Mary",
-    "Rating": 1429.3933156235544,
+    "Rating": 1429.741262382092,
     "Rank": 248
   },
   {
@@ -2236,8 +2236,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Lamar",
-    "Rating": 1429.3211785400956,
+    "Team": "Southeastern Louisiana",
+    "Rating": 1429.7206897823205,
     "Rank": 249
   },
   {
@@ -2245,8 +2245,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Prairie View",
-    "Rating": 1429.079981940394,
+    "Team": "Lamar",
+    "Rating": 1429.3334044328244,
     "Rank": 250
   },
   {
@@ -2254,8 +2254,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Winthrop",
-    "Rating": 1427.099976590534,
+    "Team": "Prairie View",
+    "Rating": 1429.0103467579686,
     "Rank": 251
   },
   {
@@ -2263,8 +2263,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Columbia",
-    "Rating": 1424.1302453391302,
+    "Team": "Winthrop",
+    "Rating": 1427.0941511361134,
     "Rank": 252
   },
   {
@@ -2272,8 +2272,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Ball State",
-    "Rating": 1424.024112103799,
+    "Team": "Columbia",
+    "Rating": 1424.2900917301215,
     "Rank": 253
   },
   {
@@ -2282,7 +2282,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "East Carolina",
-    "Rating": 1423.9040766243816,
+    "Rating": 1423.9802054837794,
     "Rank": 254
   },
   {
@@ -2291,7 +2291,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Hawaii",
-    "Rating": 1423.112854319132,
+    "Rating": 1423.088722833601,
     "Rank": 255
   },
   {
@@ -2299,8 +2299,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "UC Davis",
-    "Rating": 1421.5250741575992,
+    "Team": "Ball State",
+    "Rating": 1423.066266482119,
     "Rank": 256
   },
   {
@@ -2308,8 +2308,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Colorado",
-    "Rating": 1421.2677947335976,
+    "Team": "UC Davis",
+    "Rating": 1421.5428438867666,
     "Rank": 257
   },
   {
@@ -2317,8 +2317,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Longwood",
-    "Rating": 1420.6437446948437,
+    "Team": "Colorado",
+    "Rating": 1421.2390914899397,
     "Rank": 258
   },
   {
@@ -2327,7 +2327,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Hampton",
-    "Rating": 1420.5440828381998,
+    "Rating": 1420.533615752616,
     "Rank": 259
   },
   {
@@ -2335,8 +2335,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Air Force",
-    "Rating": 1420.1597555045544,
+    "Team": "Longwood",
+    "Rating": 1420.489088682358,
     "Rank": 260
   },
   {
@@ -2344,8 +2344,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Loyola (MD)",
-    "Rating": 1419.3146299602597,
+    "Team": "Air Force",
+    "Rating": 1420.176809428753,
     "Rank": 261
   },
   {
@@ -2353,8 +2353,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Stetson",
-    "Rating": 1417.4795673412286,
+    "Team": "Loyola (MD)",
+    "Rating": 1419.2568962980802,
     "Rank": 262
   },
   {
@@ -2362,8 +2362,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Southern Utah",
-    "Rating": 1416.6019746309894,
+    "Team": "Stetson",
+    "Rating": 1417.5051991289397,
     "Rank": 263
   },
   {
@@ -2372,7 +2372,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Savannah State",
-    "Rating": 1416.3508375782155,
+    "Rating": 1416.3993628669905,
     "Rank": 264
   },
   {
@@ -2381,7 +2381,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Louisiana",
-    "Rating": 1415.512584549154,
+    "Rating": 1415.5397051471805,
     "Rank": 265
   },
   {
@@ -2390,7 +2390,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Dartmouth",
-    "Rating": 1415.2010838341048,
+    "Rating": 1415.3692214728164,
     "Rank": 266
   },
   {
@@ -2399,7 +2399,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Louisiana-Monroe",
-    "Rating": 1414.9657784775145,
+    "Rating": 1414.9771614611502,
     "Rank": 267
   },
   {
@@ -2408,7 +2408,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Mercer",
-    "Rating": 1414.550222618485,
+    "Rating": 1414.529259049768,
     "Rank": 268
   },
   {
@@ -2417,7 +2417,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Elon",
-    "Rating": 1414.1348196473652,
+    "Rating": 1414.1372074626445,
     "Rank": 269
   },
   {
@@ -2426,7 +2426,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Pepperdine",
-    "Rating": 1413.1889273046156,
+    "Rating": 1413.243289853095,
     "Rank": 270
   },
   {
@@ -2434,8 +2434,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Eastern Michigan",
-    "Rating": 1412.5415194373466,
+    "Team": "Pennsylvania",
+    "Rating": 1412.4040305984431,
     "Rank": 271
   },
   {
@@ -2443,8 +2443,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Pennsylvania",
-    "Rating": 1412.2417852691528,
+    "Team": "Eastern Michigan",
+    "Rating": 1411.5934050463106,
     "Rank": 272
   },
   {
@@ -2453,7 +2453,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Marist",
-    "Rating": 1411.5945307728257,
+    "Rating": 1411.4998344914122,
     "Rank": 273
   },
   {
@@ -2462,7 +2462,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Arkansas-Pine Bluff",
-    "Rating": 1409.433906156033,
+    "Rating": 1409.3608294479102,
     "Rank": 274
   },
   {
@@ -2471,7 +2471,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "McNeese State",
-    "Rating": 1409.0399754441275,
+    "Rating": 1409.030008642971,
     "Rank": 275
   },
   {
@@ -2479,8 +2479,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Eastern Washington",
-    "Rating": 1408.2719108876506,
+    "Team": "South Dakota State",
+    "Rating": 1408.944857903249,
     "Rank": 276
   },
   {
@@ -2488,8 +2488,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Gardner-Webb",
-    "Rating": 1407.8352707468173,
+    "Team": "Eastern Washington",
+    "Rating": 1408.3508045776907,
     "Rank": 277
   },
   {
@@ -2497,8 +2497,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Bethune-Cookman",
-    "Rating": 1405.6391773231132,
+    "Team": "Gardner-Webb",
+    "Rating": 1407.8066555056623,
     "Rank": 278
   },
   {
@@ -2506,8 +2506,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Iona",
-    "Rating": 1405.5743810164745,
+    "Team": "Bethune-Cookman",
+    "Rating": 1405.6155480114253,
     "Rank": 279
   },
   {
@@ -2515,8 +2515,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Eastern Illinois",
-    "Rating": 1405.1431008559791,
+    "Team": "Iona",
+    "Rating": 1405.3883532417317,
     "Rank": 280
   },
   {
@@ -2525,7 +2525,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "North Carolina A&T",
-    "Rating": 1404.2569244343033,
+    "Rating": 1404.2452359416693,
     "Rank": 281
   },
   {
@@ -2533,8 +2533,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "South Dakota State",
-    "Rating": 1404.138148041258,
+    "Team": "Eastern Illinois",
+    "Rating": 1403.9712157303495,
     "Rank": 282
   },
   {
@@ -2543,7 +2543,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Colgate",
-    "Rating": 1403.51549904763,
+    "Rating": 1403.5125842634598,
     "Rank": 283
   },
   {
@@ -2552,7 +2552,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Lehigh",
-    "Rating": 1400.2249367480244,
+    "Rating": 1400.243580255949,
     "Rank": 284
   },
   {
@@ -2561,7 +2561,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Central Connecticut State",
-    "Rating": 1400.2051556550475,
+    "Rating": 1400.2290674829735,
     "Rank": 285
   },
   {
@@ -2570,7 +2570,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "New Orleans",
-    "Rating": 1397.508530360322,
+    "Rating": 1397.5278150277768,
     "Rank": 286
   },
   {
@@ -2579,7 +2579,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Northern Arizona",
-    "Rating": 1396.7880300415793,
+    "Rating": 1396.9190369505409,
     "Rank": 287
   },
   {
@@ -2588,7 +2588,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Monmouth",
-    "Rating": 1395.37241617878,
+    "Rating": 1395.3485377131285,
     "Rank": 288
   },
   {
@@ -2597,7 +2597,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "High Point",
-    "Rating": 1395.321432067156,
+    "Rating": 1395.2842251121272,
     "Rank": 289
   },
   {
@@ -2606,7 +2606,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "St. Francis (NY)",
-    "Rating": 1394.9071381228125,
+    "Rating": 1394.84078526635,
     "Rank": 290
   },
   {
@@ -2615,7 +2615,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "San Francisco",
-    "Rating": 1394.5961427279356,
+    "Rating": 1394.645476333512,
     "Rank": 291
   },
   {
@@ -2624,7 +2624,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Brown",
-    "Rating": 1393.9072166580138,
+    "Rating": 1394.0713665398173,
     "Rank": 292
   },
   {
@@ -2633,7 +2633,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Northern Illinois",
-    "Rating": 1390.053085280715,
+    "Rating": 1389.1155405994916,
     "Rank": 293
   },
   {
@@ -2642,7 +2642,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Tennessee Tech",
-    "Rating": 1387.893310466206,
+    "Rating": 1387.5575914906703,
     "Rank": 294
   },
   {
@@ -2651,7 +2651,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "UNC Wilmington",
-    "Rating": 1385.0701265950754,
+    "Rating": 1385.3312668929088,
     "Rank": 295
   },
   {
@@ -2660,7 +2660,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Cal Poly",
-    "Rating": 1384.9110310881183,
+    "Rating": 1384.9912863978657,
     "Rank": 296
   },
   {
@@ -2669,7 +2669,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Western Michigan",
-    "Rating": 1383.42861004383,
+    "Rating": 1381.0783858769855,
     "Rank": 297
   },
   {
@@ -2678,7 +2678,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Toledo",
-    "Rating": 1381.756570672011,
+    "Rating": 1380.6314816039098,
     "Rank": 298
   },
   {
@@ -2687,7 +2687,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Detroit Mercy",
-    "Rating": 1377.5310381311676,
+    "Rating": 1377.4314025136723,
     "Rank": 299
   },
   {
@@ -2696,7 +2696,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Lafayette",
-    "Rating": 1377.395189457453,
+    "Rating": 1377.3768004768192,
     "Rank": 300
   },
   {
@@ -2704,8 +2704,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Bucknell",
-    "Rating": 1376.5086228269638,
+    "Team": "Centenary (LA)",
+    "Rating": 1376.6177867538738,
     "Rank": 301
   },
   {
@@ -2713,8 +2713,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Western Illinois",
-    "Rating": 1376.3612729242366,
+    "Team": "Bucknell",
+    "Rating": 1376.550633025938,
     "Rank": 302
   },
   {
@@ -2722,8 +2722,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Centenary (LA)",
-    "Rating": 1373.0059863057004,
+    "Team": "Coastal Carolina",
+    "Rating": 1372.8533960578732,
     "Rank": 303
   },
   {
@@ -2731,8 +2731,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Coastal Carolina",
-    "Rating": 1372.9109772542624,
+    "Team": "Western Illinois",
+    "Rating": 1372.5884630248945,
     "Rank": 304
   },
   {
@@ -2741,7 +2741,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Furman",
-    "Rating": 1369.1258471120975,
+    "Rating": 1369.1211671805495,
     "Rank": 305
   },
   {
@@ -2750,7 +2750,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Arkansas State",
-    "Rating": 1367.4238428420742,
+    "Rating": 1367.4784229411605,
     "Rank": 306
   },
   {
@@ -2759,7 +2759,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Texas Southern",
-    "Rating": 1366.4278554778205,
+    "Rating": 1366.3622891486016,
     "Rank": 307
   },
   {
@@ -2768,7 +2768,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "UNC Greensboro",
-    "Rating": 1365.4620526714332,
+    "Rating": 1365.447303958553,
     "Rank": 308
   },
   {
@@ -2777,7 +2777,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Florida A&M",
-    "Rating": 1364.0345838746337,
+    "Rating": 1364.0190315817244,
     "Rank": 309
   },
   {
@@ -2786,7 +2786,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Texas-Rio Grande Valley",
-    "Rating": 1363.2925494392985,
+    "Rating": 1362.996230977075,
     "Rank": 310
   },
   {
@@ -2795,7 +2795,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Jacksonville State",
-    "Rating": 1359.8989412379465,
+    "Rating": 1359.6594019577235,
     "Rank": 311
   },
   {
@@ -2804,7 +2804,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Fordham",
-    "Rating": 1356.312562706252,
+    "Rating": 1357.1061336690004,
     "Rank": 312
   },
   {
@@ -2813,7 +2813,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Florida Atlantic",
-    "Rating": 1354.7210744045583,
+    "Rating": 1354.7098379555034,
     "Rank": 313
   },
   {
@@ -2822,7 +2822,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Loyola Marymount",
-    "Rating": 1352.4524381219942,
+    "Rating": 1352.4985778055548,
     "Rank": 314
   },
   {
@@ -2831,7 +2831,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Maine",
-    "Rating": 1352.0532838058698,
+    "Rating": 1352.1423220728282,
     "Rank": 315
   },
   {
@@ -2840,7 +2840,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Hartford",
-    "Rating": 1350.1485826758478,
+    "Rating": 1350.2180908738671,
     "Rank": 316
   },
   {
@@ -2848,8 +2848,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Kansas City",
-    "Rating": 1349.072220324293,
+    "Team": "Georgia Southern",
+    "Rating": 1346.3942986847446,
     "Rank": 317
   },
   {
@@ -2857,8 +2857,8 @@
     "Method": "elo",
     "Weight": "constant",
     "Conference": "",
-    "Team": "Georgia Southern",
-    "Rating": 1346.425176715737,
+    "Team": "Kansas City",
+    "Rating": 1346.3746955857291,
     "Rank": 318
   },
   {
@@ -2867,7 +2867,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Fairleigh Dickinson",
-    "Rating": 1346.330521601238,
+    "Rating": 1346.012544817691,
     "Rank": 319
   },
   {
@@ -2876,7 +2876,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Charleston Southern",
-    "Rating": 1345.7730639627162,
+    "Rating": 1345.736874770658,
     "Rank": 320
   },
   {
@@ -2885,7 +2885,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Southern",
-    "Rating": 1342.6642872288503,
+    "Rating": 1342.5724994491443,
     "Rank": 321
   },
   {
@@ -2894,7 +2894,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Howard",
-    "Rating": 1342.2999041799008,
+    "Rating": 1342.29733655904,
     "Rank": 322
   },
   {
@@ -2903,7 +2903,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Mississippi Valley State",
-    "Rating": 1341.734888145237,
+    "Rating": 1341.6675263011523,
     "Rank": 323
   },
   {
@@ -2912,7 +2912,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Delaware State",
-    "Rating": 1341.0500679947688,
+    "Rating": 1341.0552384572952,
     "Rank": 324
   },
   {
@@ -2921,7 +2921,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Saint Francis (PA)",
-    "Rating": 1340.7283506588683,
+    "Rating": 1340.6715980800184,
     "Rank": 325
   },
   {
@@ -2930,7 +2930,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Northwestern State",
-    "Rating": 1340.2233796338946,
+    "Rating": 1340.2184552691422,
     "Rank": 326
   },
   {
@@ -2939,7 +2939,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Houston Christian",
-    "Rating": 1322.518552289822,
+    "Rating": 1322.3648880453272,
     "Rank": 327
   },
   {
@@ -2948,7 +2948,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Alabama A&M",
-    "Rating": 1316.7387397690852,
+    "Rating": 1316.652033519399,
     "Rank": 328
   },
   {
@@ -2957,7 +2957,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Sacramento State",
-    "Rating": 1295.0554239147198,
+    "Rating": 1295.1305818793835,
     "Rank": 329
   },
   {
@@ -2966,7 +2966,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Southeast Missouri State",
-    "Rating": 1290.4893843221405,
+    "Rating": 1290.8244291926485,
     "Rank": 330
   },
   {
@@ -2975,7 +2975,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Alcorn State",
-    "Rating": 1286.7776735661937,
+    "Rating": 1286.6965929832222,
     "Rank": 331
   },
   {
@@ -2984,7 +2984,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Maryland-Eastern Shore",
-    "Rating": 1275.1181603373882,
+    "Rating": 1275.103063751077,
     "Rank": 332
   },
   {
@@ -2993,7 +2993,7 @@
     "Weight": "constant",
     "Conference": "",
     "Team": "Grambling",
-    "Rating": 1257.1909596651496,
+    "Rating": 1257.1210086551466,
     "Rank": 333
   }
 ]
