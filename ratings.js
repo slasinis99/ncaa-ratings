@@ -100,7 +100,7 @@ function onRetrieve() {
   const method = document.getElementById("method").value;
   const weight = document.getElementById("weight").value;
   const conferenceInput = document.getElementById("conference").value.trim();
-  const statusMsg = document.getElementById("status-msg");
+  // const statusMsg = document.getElementById("status-msg");
 
   // if (statusMsg) statusMsg.textContent = "";
 
@@ -154,8 +154,8 @@ function loadSelections() {
 }
 
 // Run when the script loads
-loadRatingsJson("json/2025_elo_constant_all.json")
-loadBracket("2025", 'elo', 'constant')
+loadRatingsJson("json/2026_elo_constant_all.json")
+loadBracket("2026", 'elo', 'constant')
 
 function onMethodChange() {
   const method = document.getElementById("method").value;
@@ -207,6 +207,9 @@ function downloadCSV() {
 }
 
 function loadBracket(year, method, weight) {
+  if (year < 2024) {
+    return
+  }
   const svgPath = `output/${year}-${method}-${weight}.svg`;
   const container = document.getElementById('bracket-container');
 
