@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Vermont",
+    "Rating": 9.500000000000002,
+    "Rank": 1
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Massachusetts-Lowell",
+    "Rating": 6.0,
+    "Rank": 2
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "NJIT",
+    "Rating": 4.0,
+    "Rank": 3
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Bryant",
+    "Rating": 2.5,
+    "Rank": 4
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Maryland-Baltimore County",
+    "Rating": -2.2974790660706067e-15,
+    "Rank": 5
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Maine",
+    "Rating": -2.5000000000000004,
+    "Rank": 6
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Binghamton",
+    "Rating": -3.999999999999999,
+    "Rank": 7
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "Albany (NY)",
+    "Rating": -6.000000000000002,
+    "Rank": 8
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "AEC",
+    "Team": "New Hampshire",
+    "Rating": -9.500000000000004,
+    "Rank": 9
+  }
+]

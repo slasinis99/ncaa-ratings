@@ -1,0 +1,65 @@
+[
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Utah Tech",
+    "Rating": 16.24749748922855,
+    "Rank": 1
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Abilene Christian",
+    "Rating": 7.311389272641815,
+    "Rank": 2
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "UT Arlington",
+    "Rating": -1.0242855626699523,
+    "Rank": 3
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Tarleton State",
+    "Rating": -3.7329007500263502,
+    "Rank": 4
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Utah Valley",
+    "Rating": -3.8154471031347006,
+    "Rank": 5
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "Southern Utah",
+    "Rating": -4.151121938446471,
+    "Rank": 6
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "WAC",
+    "Team": "California Baptist",
+    "Rating": -10.835131407592897,
+    "Rank": 7
+  }
+]

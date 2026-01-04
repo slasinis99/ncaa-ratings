@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "High Point",
+    "Rating": 16.939151430858125,
+    "Rank": 1
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Longwood",
+    "Rating": 5.727515235808559,
+    "Rank": 2
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Presbyterian",
+    "Rating": 3.6666666666666656,
+    "Rank": 3
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Radford",
+    "Rating": 1.6666666666666607,
+    "Rank": 4
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Charleston Southern",
+    "Rating": -1.7275152358085482,
+    "Rank": 5
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "UNC Asheville",
+    "Rating": -2.9391514308581144,
+    "Rank": 6
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Winthrop",
+    "Rating": -4.394181902475257,
+    "Rank": 7
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "South Carolina Upstate",
+    "Rating": -5.333333333333334,
+    "Rank": 8
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Big South",
+    "Team": "Gardner-Webb",
+    "Rating": -13.605818097524764,
+    "Rank": 9
+  }
+]

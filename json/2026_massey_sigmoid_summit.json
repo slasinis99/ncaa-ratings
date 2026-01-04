@@ -1,0 +1,83 @@
+[
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Summit",
+    "Team": "Denver",
+    "Rating": 12.25000000000005,
+    "Rank": 1
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Summit",
+    "Team": "North Dakota",
+    "Rating": 10.249999999999991,
+    "Rank": 2
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Summit",
+    "Team": "South Dakota State",
+    "Rating": 7.250000000000009,
+    "Rank": 3
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Summit",
+    "Team": "North Dakota State",
+    "Rating": 1.2499999999999432,
+    "Rank": 4
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Summit",
+    "Team": "St. Thomas",
+    "Rating": -2.7035775401200695e-15,
+    "Rank": 5
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Summit",
+    "Team": "Kansas City",
+    "Rating": -0.749999999999968,
+    "Rank": 6
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Summit",
+    "Team": "Oral Roberts",
+    "Rating": -0.750000000000024,
+    "Rank": 7
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Summit",
+    "Team": "Omaha",
+    "Rating": -7.74999999999997,
+    "Rank": 8
+  },
+  {
+    "Year": 2026,
+    "Method": "massey",
+    "Weight": "sigmoid",
+    "Conference": "Summit",
+    "Team": "South Dakota",
+    "Rating": -21.750000000000025,
+    "Rank": 9
+  }
+]
